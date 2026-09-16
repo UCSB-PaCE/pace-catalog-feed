@@ -25,8 +25,10 @@
   .cell{position:relative;cursor:default}
   .badge{display:inline-block;font-size:11px;padding:1px 6px;border-radius:9px;margin-left:5px;vertical-align:middle;background:#e5e7eb;color:#374151}
   .b-open{background:#dcfce7;color:#166534}.b-waitlist{background:#fef3c7;color:#92400e}.b-full,.b-enrollment_closed{background:#fee2e2;color:#991b1b}.b-not_yet_open{background:#dbeafe;color:#1e40af}
-  .cell:hover .tip{display:block}
-  .tip{display:none;position:absolute;z-index:5;left:0;top:100%;background:#1d2530;color:#fff;font-size:12px;padding:8px 10px;border-radius:5px;min-width:260px;white-space:nowrap;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+  /* Tooltips are positioned with fixed coordinates by script so the block's rounded-corner
+     overflow and the table's horizontal scroll container cannot clip them (last rows). */
+  .tip{display:none;position:fixed;z-index:50;background:#1d2530;color:#fff;font-size:12px;padding:8px 10px;border-radius:5px;min-width:260px;max-width:min(420px,90vw);white-space:normal;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+  .tip.show{display:block}
   .tip div{padding:1px 0}
   .legend{font-size:12px;color:#4b5563;margin:0 0 12px}
   .legend span{margin-right:10px}
@@ -78,6 +80,21 @@
     if(t.sections&&t.sections.length){s+='<span class="tip">'+t.sections.map(x=>'<div><b>'+esc(t.term||'')+' §'+esc(x.code)+'</b> '+esc(x.instruction_method||x.modality)+' · '+esc(x.state.replace(/_/g,' '))+'</div><div>'+esc(x.start||'?')+' → '+esc(x.end||'?')+(x.enroll_end?' · enroll until '+esc(String(x.enroll_end).slice(0,10)):'')+(x.seats_left!=null?' · '+x.seats_left+' seats left':'')+'</div>').join('')+'</span>';}
     return s;
   }
+  document.addEventListener('mouseover', e => {
+    const cell = e.target.closest && e.target.closest('td.cell'); if (!cell) return;
+    const tip = cell.querySelector('.tip'); if (!tip) return;
+    tip.classList.add('show');
+    const r = cell.getBoundingClientRect(); const th = tip.offsetHeight; const tw = tip.offsetWidth;
+    const below = window.innerHeight - r.bottom;
+    tip.style.top = (below >= th + 8 ? r.bottom + 4 : Math.max(4, r.top - th - 4)) + 'px';
+    tip.style.left = Math.max(4, Math.min(r.left, window.innerWidth - tw - 8)) + 'px';
+  });
+  document.addEventListener('mouseout', e => {
+    const cell = e.target.closest && e.target.closest('td.cell'); if (!cell) return;
+    if (e.relatedTarget && cell.contains(e.relatedTarget)) return;
+    const tip = cell.querySelector('.tip'); if (tip) tip.classList.remove('show');
+  });
+  document.addEventListener('scroll', () => document.querySelectorAll('.tip.show').forEach(t => t.classList.remove('show')), true);
   function esc(v){return String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
 })();
 </script>
