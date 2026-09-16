@@ -2,7 +2,7 @@
  "page": "certificate-paralegal-studies",
  "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
  "page_title": "Paralegal Studies",
- "generated_at": "2026-09-16T18:13:18+00:00",
+ "generated_at": "2026-09-16T21:20:08+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -318,13 +318,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 4,
+         "enrolled": 5,
          "crm_availability": "Available",
-         "seats_left": 26,
+         "seats_left": 25,
          "units": 4,
          "destiny_section_id": "43434409",
          "crm_id": "5049549000069455006",
-         "last_sync": "2026-09-16T00:02:55-07:00"
+         "last_sync": "2026-09-16T06:16:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -421,7 +421,7 @@
          "units": 3,
          "destiny_section_id": "44174494",
          "crm_id": "5049549000081968001",
-         "last_sync": "2026-09-16T02:02:48-07:00"
+         "last_sync": "2026-09-16T06:03:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -660,7 +660,7 @@
          "units": 1,
          "destiny_section_id": "43390113",
          "crm_id": "5049549000068390197",
-         "last_sync": "2026-09-16T00:02:55-07:00"
+         "last_sync": "2026-09-16T06:02:31-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -803,7 +803,7 @@
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-09-16T00:02:57-07:00"
+         "last_sync": "2026-09-16T06:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -870,11 +870,32 @@
      ],
      "terms": {
       "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 1,
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "058",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-28",
+         "end": "2026-12-04",
+         "enroll_start": null,
+         "enroll_end": "2026-10-05T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44480689",
+         "crm_id": "5049549000089339025",
+         "last_sync": "2026-09-16T05:19:03-07:00"
+        }
+       ],
+       "hidden_sections": 0,
        "term": "Fall 2026"
       },
       "Winter": {
@@ -908,7 +929,7 @@
          "units": 3,
          "destiny_section_id": "44232013",
          "crm_id": "5049549000083655021",
-         "last_sync": "2026-09-16T02:03:37-07:00"
+         "last_sync": "2026-09-16T05:05:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -937,7 +958,7 @@
          "units": 3,
          "destiny_section_id": "44310883",
          "crm_id": "5049549000085727006",
-         "last_sync": "2026-09-16T02:03:37-07:00"
+         "last_sync": "2026-09-16T05:05:24-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1057,7 +1078,7 @@
          "units": 3,
          "destiny_section_id": "44163451",
          "crm_id": "5049549000081552006",
-         "last_sync": "2026-09-16T02:02:44-07:00"
+         "last_sync": "2026-09-16T06:03:17-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1247,13 +1268,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 6,
+         "enrolled": 7,
          "crm_availability": "Available",
-         "seats_left": 34,
+         "seats_left": 33,
          "units": 3,
          "destiny_section_id": "43390525",
          "crm_id": "5049549000068298132",
-         "last_sync": "2026-09-16T00:02:52-07:00"
+         "last_sync": "2026-09-16T06:16:25-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1329,7 +1350,7 @@
          "units": 3,
          "destiny_section_id": "44170115",
          "crm_id": "5049549000081784011",
-         "last_sync": "2026-09-16T02:02:45-07:00"
+         "last_sync": "2026-09-16T06:03:18-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1451,13 +1472,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 11,
+         "enrolled": 12,
          "crm_availability": "Available",
-         "seats_left": 19,
+         "seats_left": 18,
          "units": 3,
          "destiny_section_id": "43435377",
          "crm_id": "5049549000069522012",
-         "last_sync": "2026-09-16T00:02:56-07:00"
+         "last_sync": "2026-09-16T06:16:23-07:00"
         }
        ],
        "hidden_sections": 0,

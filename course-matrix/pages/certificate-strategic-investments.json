@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-09-16T18:13:18+00:00",
+ "generated_at": "2026-09-16T21:20:08+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -51,13 +51,13 @@
          "enroll_start": null,
          "enroll_end": "2026-10-06T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 11,
+         "enrolled": 12,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 38,
          "units": 2,
          "destiny_section_id": "44333546",
          "crm_id": "5049549000086195061",
-         "last_sync": "2026-09-16T00:03:26-07:00"
+         "last_sync": "2026-09-16T05:10:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -125,7 +125,7 @@
          "units": 2,
          "destiny_section_id": "44333760",
          "crm_id": "5049549000086189048",
-         "last_sync": "2026-09-16T00:03:25-07:00"
+         "last_sync": "2026-09-16T06:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -200,7 +200,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-16T00:03:25-07:00"
+         "last_sync": "2026-09-16T06:03:00-07:00"
         }
        ],
        "hidden_sections": 0,

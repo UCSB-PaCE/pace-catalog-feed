@@ -2,7 +2,7 @@
  "page": "certificate-human-resource-management",
  "page_url": "https://professional.ucsb.edu/certificate-human-resource-management",
  "page_title": "Human Resource Management",
- "generated_at": "2026-09-16T18:13:18+00:00",
+ "generated_at": "2026-09-16T21:20:08+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -54,13 +54,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 2,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 38,
+         "seats_left": 37,
          "units": 4,
          "destiny_section_id": "43358961",
          "crm_id": "5049549000067873304",
-         "last_sync": "2026-09-16T03:38:08-07:00"
+         "last_sync": "2026-09-16T04:20:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -97,7 +97,7 @@
          "units": 4,
          "destiny_section_id": "44227379",
          "crm_id": "5049549000083611007",
-         "last_sync": "2026-09-16T00:03:20-07:00"
+         "last_sync": "2026-09-16T06:02:54-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -158,7 +158,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-16T00:02:57-07:00"
+         "last_sync": "2026-09-16T06:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -187,7 +187,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-09-16T00:03:15-07:00"
+         "last_sync": "2026-09-16T06:02:51-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -363,7 +363,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-09-16T00:03:13-07:00"
+         "last_sync": "2026-09-16T06:02:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -392,7 +392,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-09-16T00:03:22-07:00"
+         "last_sync": "2026-09-16T06:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -473,7 +473,7 @@
          "units": 4,
          "destiny_section_id": "43372943",
          "crm_id": "5049549000068028123",
-         "last_sync": "2026-09-16T00:02:49-07:00"
+         "last_sync": "2026-09-16T06:02:23-07:00"
         }
        ],
        "hidden_sections": 0,
