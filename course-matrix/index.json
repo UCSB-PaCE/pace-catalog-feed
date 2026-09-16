@@ -1,0 +1,223 @@
+{
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "pages": [
+  {
+   "page": "certificate-business-leadership",
+   "url": "https://professional.ucsb.edu/certificate-business-leadership",
+   "title": "Business Leadership",
+   "blocks": 2,
+   "courses": 6
+  },
+  {
+   "page": "emergency-medical-technician",
+   "url": "https://professional.ucsb.edu/emergency-medical-technician",
+   "title": "Emergency Medical Technician",
+   "blocks": 1,
+   "courses": 2
+  },
+  {
+   "page": "certificate-child-life",
+   "url": "https://professional.ucsb.edu/certificate-child-life",
+   "title": "Child Life",
+   "blocks": 1,
+   "courses": 13
+  },
+  {
+   "page": "certificate-human-resource-management",
+   "url": "https://professional.ucsb.edu/certificate-human-resource-management",
+   "title": "Human Resource Management",
+   "blocks": 2,
+   "courses": 5
+  },
+  {
+   "page": "certificate-practical-project-management",
+   "url": "https://professional.ucsb.edu/certificate-practical-project-management",
+   "title": "Project Management",
+   "blocks": 2,
+   "courses": 6
+  },
+  {
+   "page": "certificate-strategic-investments",
+   "url": "https://professional.ucsb.edu/certificate-strategic-investments",
+   "title": "Strategic Investments",
+   "blocks": 4,
+   "courses": 16
+  },
+  {
+   "page": "certificate-board-certified-behavior-analyst",
+   "url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
+   "title": "Board Certified Behavior Analyst - BCBA",
+   "blocks": 2,
+   "courses": 12
+  },
+  {
+   "page": "certificate-board-certified-assistant-behavior-analyst",
+   "url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
+   "title": "Board Certified assistant Behavior Analyst - BCaBA",
+   "blocks": 1,
+   "courses": 7
+  },
+  {
+   "page": "certificate-qualified-autism-service-practitioner-supervisor",
+   "url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
+   "title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
+   "blocks": 1,
+   "courses": 6
+  },
+  {
+   "page": "certificate-qualified-behavior-analyst",
+   "url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
+   "title": "Qualified Behavior Analyst - QBA",
+   "blocks": 1,
+   "courses": 10
+  },
+  {
+   "page": "certificate-paralegal-studies",
+   "url": "https://professional.ucsb.edu/certificate-paralegal-studies",
+   "title": "Paralegal Studies",
+   "blocks": 2,
+   "courses": 21
+  },
+  {
+   "page": "certificate-business-administration",
+   "url": "https://professional.ucsb.edu/certificate-business-administration",
+   "title": "Business Administration and Management",
+   "blocks": 8,
+   "courses": 22
+  },
+  {
+   "page": "strategy-decision-making",
+   "url": "https://professional.ucsb.edu/strategy-decision-making",
+   "title": "Strategy and Decision Making",
+   "blocks": 2,
+   "courses": 7
+  },
+  {
+   "page": "agile-project-management",
+   "url": "https://professional.ucsb.edu/agile-project-management",
+   "title": "Agile Project Management",
+   "blocks": 2,
+   "courses": 5
+  },
+  {
+   "page": "global-marketing",
+   "url": "https://professional.ucsb.edu/global-marketing",
+   "title": "Global Marketing",
+   "blocks": 2,
+   "courses": 6
+  },
+  {
+   "page": "leadership",
+   "url": "https://professional.ucsb.edu/leadership",
+   "title": "Leadership",
+   "blocks": 2,
+   "courses": 5
+  },
+  {
+   "page": "international-business-development",
+   "url": "https://professional.ucsb.edu/international-business-development",
+   "title": "International Business Development",
+   "blocks": 1,
+   "courses": 3
+  },
+  {
+   "page": "general-and-advanced-business-studies",
+   "url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
+   "title": "General and Advanced Business Studies",
+   "blocks": 4,
+   "courses": 30
+  },
+  {
+   "page": "applied-ai-and-innovation-international",
+   "url": "https://professional.ucsb.edu/applied-ai-and-innovation-international",
+   "title": "Applied AI and Innovation, International",
+   "blocks": 1,
+   "courses": 3
+  },
+  {
+   "page": "certificate-applied-ai-and-innovation",
+   "url": "https://professional.ucsb.edu/certificate-applied-ai-and-innovation",
+   "title": "Applied AI and Innovation, Professional",
+   "blocks": 1,
+   "courses": 3
+  },
+  {
+   "page": "applied-ai-and-innovation",
+   "url": "https://professional.ucsb.edu/degree-plus/applied-ai-and-innovation",
+   "title": "Applied AI and Innovation, Degree+",
+   "blocks": 1,
+   "courses": 3
+  },
+  {
+   "page": "applied-business-essentials",
+   "url": "https://professional.ucsb.edu/degree-plus/applied-business-essentials",
+   "title": "Applied Business Essentials",
+   "blocks": 2,
+   "courses": 8
+  },
+  {
+   "page": "foundations-agile-project-management",
+   "url": "https://professional.ucsb.edu/degree-plus/foundations-agile-project-management",
+   "title": "Foundations of Agile Project Management",
+   "blocks": 2,
+   "courses": 7
+  },
+  {
+   "page": "entrepreneurship",
+   "url": "https://professional.ucsb.edu/entrepreneurship",
+   "title": "Entrepreneurship",
+   "blocks": 3,
+   "courses": 7
+  },
+  {
+   "page": "certificate-sports-management",
+   "url": "https://professional.ucsb.edu/certificate-sports-management",
+   "title": "Sports Management",
+   "blocks": 4,
+   "courses": 8
+  },
+  {
+   "page": "sports-management-studies",
+   "url": "https://professional.ucsb.edu/sports-management-studies",
+   "title": "Sports Management Studies",
+   "blocks": 6,
+   "courses": 12
+  },
+  {
+   "page": "behavior-supports-systems",
+   "url": "https://professional.ucsb.edu/behavior-supports-systems",
+   "title": "Behavior Supports and Systems",
+   "blocks": 2,
+   "courses": 6
+  },
+  {
+   "page": "foundations-digital-marketing",
+   "url": "https://professional.ucsb.edu/degree-plus/foundations-digital-marketing",
+   "title": "Foundations of Digital Marketing",
+   "blocks": 1,
+   "courses": 3
+  }
+ ],
+ "files": {
+  "csv": "all.csv",
+  "pages": "pages/<page>.json",
+  "catalog": [
+   "catalog/courses.json",
+   "catalog/sections.json",
+   "catalog/programs.json",
+   "catalog/terms.json"
+  ]
+ }
+}

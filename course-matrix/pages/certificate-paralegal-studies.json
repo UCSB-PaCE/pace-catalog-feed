@@ -1,0 +1,1668 @@
+{
+ "page": "certificate-paralegal-studies",
+ "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
+ "page_title": "Paralegal Studies",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "Paralegal#main",
+   "title": "Required Courses (21 Units)",
+   "courses": [
+    {
+     "code": "LAW X402.2",
+     "title": "LAW X402.2 - Ethics for Paralegals",
+     "crm_name": "Ethics for the Paralegal",
+     "units": 1,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574562",
+     "destiny_course_id": "16574562",
+     "crm_id": "5049549000067051019",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "035",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "enrollment_closed",
+         "start": "2026-09-22",
+         "end": "2026-10-06",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-22T05:00:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 1,
+         "destiny_section_id": "43432981",
+         "crm_id": "5049549000069483007",
+         "last_sync": "2026-07-31T08:01:09-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "036",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-04-13",
+         "enroll_start": null,
+         "enroll_end": "2027-03-30T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 1,
+         "destiny_section_id": "44231793",
+         "crm_id": "5049549000083624013",
+         "last_sync": "2026-07-31T08:17:43-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X403",
+     "title": "LAW X403 - Case Management",
+     "crm_name": "Case Management",
+     "units": 2,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574563",
+     "destiny_course_id": "16574563",
+     "crm_id": "5049549000069593007",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "064",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-01-05",
+         "end": "2027-02-09",
+         "enroll_start": null,
+         "enroll_end": "2027-01-04T15:59:00-08:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 2,
+         "destiny_section_id": "44158627",
+         "crm_id": "5049549000081327007",
+         "last_sync": "2026-08-14T04:40:01-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "065",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-22",
+         "end": "2027-07-27",
+         "enroll_start": null,
+         "enroll_end": "2027-06-21T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 2,
+         "destiny_section_id": "44310703",
+         "crm_id": "5049549000085808008",
+         "last_sync": "2026-08-14T04:52:10-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X417.3",
+     "title": "LAW X417.3 - Legal Research, Writing & Analysis I",
+     "crm_name": "Legal Research, Writing, & Analysis I",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28767570",
+     "destiny_course_id": "28767570",
+     "crm_id": "5049549000069593012",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "021",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-15",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44169944",
+         "crm_id": "5049549000081793007",
+         "last_sync": "2026-08-14T06:09:31-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "022",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-08-30",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 4,
+         "destiny_section_id": "44311545",
+         "crm_id": "5049549000085803006",
+         "last_sync": "2026-08-14T06:23:16-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X417.4",
+     "title": "LAW X417.4 - Legal Research, Writing & Analysis II",
+     "crm_name": "Legal Research, Writing, & Analysis II",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28768298",
+     "destiny_course_id": "28768298",
+     "crm_id": "5049549000067061042",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "021",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "enrollment_closed",
+         "start": "2026-09-21",
+         "end": "2026-12-07",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 4,
+         "destiny_section_id": "43434409",
+         "crm_id": "5049549000069455006",
+         "last_sync": "2026-07-31T09:03:06-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "022",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 4,
+         "destiny_section_id": "44232382",
+         "crm_id": "5049549000083611029",
+         "last_sync": "2026-07-31T09:11:53-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X421",
+     "title": "LAW X421 - Civil Litigation",
+     "crm_name": "Civil Litigation",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574579",
+     "destiny_course_id": "16574579",
+     "crm_id": "5049549000069593015",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (blended)",
+       "modalities": [
+        "Online (blended)"
+       ],
+       "sections": [
+        {
+         "code": "058",
+         "modality": "Online (blended)",
+         "instruction_method": "Online Blended",
+         "state": "open",
+         "start": "2027-01-07",
+         "end": "2027-03-11",
+         "enroll_start": null,
+         "enroll_end": "2027-01-11T15:59:00-08:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44174494",
+         "crm_id": "5049549000081968001",
+         "last_sync": "2026-07-16T07:26:47-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X424",
+     "title": "LAW X424 - E-Discovery & Legal Technologies",
+     "crm_name": "E-Discovery and Legal Technologies",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29745522",
+     "destiny_course_id": "29745522",
+     "crm_id": "5049549000069593017",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "016",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 3,
+         "destiny_section_id": "44170437",
+         "crm_id": "5049549000081793009",
+         "last_sync": "2026-08-14T09:41:53-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "017",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 3,
+         "destiny_section_id": "44312322",
+         "crm_id": "5049549000085758008",
+         "last_sync": "2026-08-14T09:49:54-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X455.6",
+     "title": "LAW X455.6 - Fundamentals of Paralegal Studies",
+     "crm_name": "Fundamentals of Paralegal Studies",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574587",
+     "destiny_course_id": "16574587",
+     "crm_id": "5049549000067072026",
+     "tokens": [
+      "Paralegal#main",
+      "HR#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (blended)",
+       "modalities": [
+        "Online (blended)"
+       ],
+       "sections": [
+        {
+         "code": "083",
+         "modality": "Online (blended)",
+         "instruction_method": "Online Blended",
+         "state": "open",
+         "start": "2026-09-24",
+         "end": "2026-12-10",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 1,
+         "seats_left": 39,
+         "units": 3,
+         "destiny_section_id": "43389731",
+         "crm_id": "5049549000068306123",
+         "last_sync": "2026-07-31T10:01:42-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (blended)",
+       "modalities": [
+        "Online (blended)"
+       ],
+       "sections": [
+        {
+         "code": "084",
+         "modality": "Online (blended)",
+         "instruction_method": "Online Blended",
+         "state": "open",
+         "start": "2027-04-01",
+         "end": "2027-06-10",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 3,
+         "destiny_section_id": "44233185",
+         "crm_id": "5049549000083690021",
+         "last_sync": "2026-07-31T10:12:33-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X455.9",
+     "title": "LAW X455.9 - Paralegal Studies Capstone Course",
+     "crm_name": "Paralegal Capstone Course",
+     "units": 1,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31081699",
+     "destiny_course_id": "31081699",
+     "crm_id": "5049549000067048047",
+     "tokens": [
+      "Paralegal#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "030",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "enrollment_closed",
+         "start": "2026-09-21",
+         "end": "2026-12-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-27T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 1,
+         "destiny_section_id": "43390113",
+         "crm_id": "5049549000068390197",
+         "last_sync": "2026-07-16T07:32:19-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "031",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 1,
+         "destiny_section_id": "44174781",
+         "crm_id": "5049549000081974002",
+         "last_sync": "2026-07-31T10:15:46-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "032",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 1,
+         "destiny_section_id": "44233330",
+         "crm_id": "5049549000083586026",
+         "last_sync": "2026-08-17T08:58:46-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "033",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 1,
+         "destiny_section_id": "44324178",
+         "crm_id": "5049549000085997001",
+         "last_sync": "2026-08-17T09:10:49-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "sub",
+   "token": "Paralegal#sub",
+   "title": "Electives (15 Units)*",
+   "courses": [
+    {
+     "code": "BUSAD X408L",
+     "title": "BUSAD X408L - Business Law",
+     "crm_name": "Business Law",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31249800",
+     "destiny_course_id": "31249800",
+     "crm_id": "5049549000066611001",
+     "tokens": [
+      "General-Advanced-Business#leadership",
+      "Paralegal#sub",
+      "HR#main",
+      "strategyDecisionMaking#sub",
+      "businessAdministration#main",
+      "busAdminManagement#main3"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "018",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-24",
+         "end": "2026-12-11",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 1,
+         "seats_left": 39,
+         "units": 4,
+         "destiny_section_id": "43476511",
+         "crm_id": "5049549000071850012",
+         "last_sync": "2026-07-30T06:41:39-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "019",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-09",
+         "enroll_start": null,
+         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44226038",
+         "crm_id": "5049549000083622006",
+         "last_sync": "2026-07-31T03:56:03-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X406",
+     "title": "LAW X406 - Paralegal Internship",
+     "crm_name": "Paralegal Internship",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574566",
+     "destiny_course_id": "16574566",
+     "crm_id": "5049549000069593008",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "056",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 3,
+         "destiny_section_id": "44232013",
+         "crm_id": "5049549000083655021",
+         "last_sync": "2026-08-14T04:59:36-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "057",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-11",
+         "enroll_start": null,
+         "enroll_end": "2027-06-20T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44310883",
+         "crm_id": "5049549000085727006",
+         "last_sync": "2026-08-14T05:10:45-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X408",
+     "title": "LAW X408 - Intellectual Property",
+     "crm_name": "Intellectual Property",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574570",
+     "destiny_course_id": "16574570",
+     "crm_id": "5049549000069593009",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "015",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-11",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 4,
+         "destiny_section_id": "44311066",
+         "crm_id": "5049549000085845003",
+         "last_sync": "2026-08-14T05:47:45-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X409",
+     "title": "LAW X409 - Juvenile Law",
+     "crm_name": "Juvenile Law for Paralegals",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26721372",
+     "destiny_course_id": "26721372",
+     "crm_id": "5049549000069593010",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "013",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44163451",
+         "crm_id": "5049549000081552006",
+         "last_sync": "2026-07-14T08:30:48-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X410",
+     "title": "LAW X410 - Environmental Law",
+     "crm_name": "Environmental Law",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36101401",
+     "destiny_course_id": "36101401",
+     "crm_id": "5049549000066984058",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44232315",
+         "crm_id": "5049549000083594012",
+         "last_sync": "2026-07-31T09:29:19-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X412",
+     "title": "LAW X412 - Corporate Law",
+     "crm_name": "Corporate Law",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574571",
+     "destiny_course_id": "16574571",
+     "crm_id": "5049549000069593011",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "017",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44311286",
+         "crm_id": "5049549000085728002",
+         "last_sync": "2026-08-14T06:03:58-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X419",
+     "title": "LAW X419 - Criminal Law",
+     "crm_name": "Criminal Law",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574577",
+     "destiny_course_id": "16574577",
+     "crm_id": "5049549000069593013",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "040",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "enrollment_closed",
+         "start": "2026-09-21",
+         "end": "2026-12-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-27T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 3,
+         "destiny_section_id": "43390525",
+         "crm_id": "5049549000068298132",
+         "last_sync": "2026-04-11T01:32:49-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X420",
+     "title": "LAW X420 - Wills & Trusts I",
+     "crm_name": "Wills and Trusts I",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574578",
+     "destiny_course_id": "16574578",
+     "crm_id": "5049549000069593014",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "046",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44170115",
+         "crm_id": "5049549000081784011",
+         "last_sync": "2026-07-15T08:54:16-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X423",
+     "title": "LAW X423 - Employment Law",
+     "crm_name": "Employment Law for Paralegals",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28513702",
+     "destiny_course_id": "28513702",
+     "crm_id": "5049549000067046037",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "011",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44232807",
+         "crm_id": "5049549000083581020",
+         "last_sync": "2026-07-31T09:44:37-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X440",
+     "title": "LAW X440 - Family Law",
+     "crm_name": "Family Law",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574581",
+     "destiny_course_id": "16574581",
+     "crm_id": "5049549000069462013",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "040",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "enrollment_closed",
+         "start": "2026-09-21",
+         "end": "2026-12-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "43435377",
+         "crm_id": "5049549000069522012",
+         "last_sync": "2026-04-11T01:33:57-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X455.3",
+     "title": "LAW X455.3 - Real Estate Law",
+     "crm_name": "Real Estate Law",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574584",
+     "destiny_course_id": "16574584",
+     "crm_id": "5049549000069593018",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "044",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44312583",
+         "crm_id": "5049549000085838003",
+         "last_sync": "2026-08-14T10:03:24-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X455.4",
+     "title": "LAW X455.4 - Wills & Trusts II",
+     "crm_name": "Wills and Trusts II",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574585",
+     "destiny_course_id": "16574585",
+     "crm_id": "5049549000067007058",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "027",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 3,
+         "destiny_section_id": "44233035",
+         "crm_id": "5049549000083588010",
+         "last_sync": "2026-07-31T09:56:36-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "LAW X455.7",
+     "title": "LAW X455.7 - Contract Law",
+     "crm_name": "Contract Law",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=23161736",
+     "destiny_course_id": "23161736",
+     "crm_id": "5049549000069593019",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "018",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 3,
+         "destiny_section_id": "44312746",
+         "crm_id": "5049549000085748008",
+         "last_sync": "2026-08-14T10:18:16-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PaCE course matrices: feed preview</title>
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f6f7f9;color:#1d2530}
+  header{background:#003660;color:#fff;padding:14px 22px;display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+  header h1{font-size:18px;margin:0 18px 0 0;font-weight:600}
+  header select{font-size:15px;padding:6px 8px}
+  header small{opacity:.85}
+  main{max-width:1100px;margin:22px auto;padding:0 16px}
+  .meta{font-size:13px;color:#4b5563;margin-bottom:14px}
+  .meta a{color:#2a68a3}
+  .block{background:#fff;border:1px solid #d9dee5;border-radius:6px;margin-bottom:22px;overflow:hidden}
+  .block h2{margin:0;padding:10px 14px;background:#003660;color:#febc11;font-size:16px;font-weight:600}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{padding:9px 12px;text-align:left;border-top:1px solid #e5e8ec;vertical-align:top}
+  thead th{background:#e9f0f7;color:#003660;font-weight:600}
+  tbody tr:nth-child(even){background:#f4f7fb}
+  td a{color:#2a68a3;text-decoration:none}
+  td a:hover{text-decoration:underline}
+  .na{color:#9aa3ad}
+  .cell{position:relative;cursor:default}
+  .badge{display:inline-block;font-size:11px;padding:1px 6px;border-radius:9px;margin-left:5px;vertical-align:middle;background:#e5e7eb;color:#374151}
+  .b-open{background:#dcfce7;color:#166534}.b-waitlist{background:#fef3c7;color:#92400e}.b-full,.b-enrollment_closed{background:#fee2e2;color:#991b1b}.b-not_yet_open{background:#dbeafe;color:#1e40af}
+  .cell:hover .tip{display:block}
+  .tip{display:none;position:absolute;z-index:5;left:0;top:100%;background:#1d2530;color:#fff;font-size:12px;padding:8px 10px;border-radius:5px;min-width:260px;white-space:nowrap;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+  .tip div{padding:1px 0}
+  .legend{font-size:12px;color:#4b5563;margin:0 0 12px}
+  .legend span{margin-right:10px}
+  .manual{font-size:11px;color:#6b7280}
+  footer{font-size:12px;color:#6b7280;margin:30px 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>PaCE course matrices: feed preview</h1>
+  <label>Page <select id="page"></select></label>
+  <small id="stamp"></small>
+</header>
+<main>
+  <div class="meta" id="meta"></div>
+  <p class="legend"><span><b>Cell</b> = modality offered that term (all distinct modalities listed); hover a cell for section detail.</span>
+  <span class="badge b-open">open</span><span class="badge b-not_yet_open">not yet open</span><span class="badge b-waitlist">waitlist</span><span class="badge b-full">full</span><span class="badge b-enrollment_closed">enrollment closed</span></p>
+  <div id="blocks"></div>
+  <footer>Generated from Zoho CRM (Sections, Courses, Certificates). Files: <a href="all.csv">all.csv</a> (Drupal Feeds drop-in), <a href="index.json">index.json</a>, <code>pages/&lt;slug&gt;.json</code>, <a href="catalog/sections.json">catalog/</a>, <a href="reports/stream-drift.md">stream-drift report</a>.</footer>
+</main>
+<script>
+(async function(){
+  const idx = await (await fetch('index.json',{cache:'no-store'})).json();
+  const sel = document.getElementById('page');
+  idx.pages.sort((a,b)=>a.title.localeCompare(b.title)).forEach(p=>{const o=document.createElement('option');o.value=p.page;o.textContent=p.title+' ('+p.courses+')';sel.appendChild(o);});
+  document.getElementById('stamp').textContent = 'generated '+idx.generated_at+' · window '+Object.values(idx.window).join(' / ');
+  const want = location.hash.slice(1); if (want && idx.pages.some(p=>p.page===want)) sel.value = want;
+  sel.addEventListener('change',()=>{location.hash=sel.value;render(sel.value);});
+  render(sel.value);
+  async function render(slug){
+    const pg = await (await fetch('pages/'+slug+'.json',{cache:'no-store'})).json();
+    document.getElementById('meta').innerHTML = 'Live page: <a href="'+pg.page_url+'" target="_blank" rel="noopener">'+pg.page_url+'</a> · JSON: <a href="pages/'+slug+'.json">pages/'+slug+'.json</a>';
+    const cols = pg.columns, host = document.getElementById('blocks'); host.innerHTML='';
+    pg.blocks.forEach(b=>{
+      const div=document.createElement('div');div.className='block';
+      let h='<h2>'+esc(b.title||b.key)+' <span class="manual">('+esc(b.token||'')+')</span></h2><table><thead><tr><th>Course</th><th>Units</th>'+cols.map(c=>'<th>'+c+'</th>').join('')+'</tr></thead><tbody>';
+      b.courses.forEach(c=>{
+        h+='<tr><td><a href="'+esc(c.url)+'" target="_blank" rel="noopener">'+esc(c.title)+'</a>'+(c.manual?' <span class="manual">(manual row)</span>':'')+'</td><td>'+esc(c.units??'')+'</td>';
+        cols.forEach(q=>{const t=c.terms[q]||{};h+='<td class="cell">'+cell(t)+'</td>';});
+        h+='</tr>';
+      });
+      div.innerHTML=h+'</tbody></table>';host.appendChild(div);
+    });
+  }
+  function cell(t){
+    if(!t.label||t.label==='N/A'||t.state==='not_scheduled') return '<span class="na">N/A</span>'+(t.hidden_sections?'<span class="tip"><div>'+t.hidden_sections+' section(s) exist in the CRM but are not public / not final-approved</div></span>':'');
+    if(t.state==='manual') return esc(t.label);
+    let s='<span>'+esc(t.label)+'</span><span class="badge b-'+esc(t.state)+'">'+esc(t.state.replace(/_/g,' '))+'</span>';
+    if(t.sections&&t.sections.length){s+='<span class="tip">'+t.sections.map(x=>'<div><b>'+esc(t.term||'')+' §'+esc(x.code)+'</b> '+esc(x.instruction_method||x.modality)+' · '+esc(x.state.replace(/_/g,' '))+'</div><div>'+esc(x.start||'?')+' → '+esc(x.end||'?')+(x.enroll_end?' · enroll until '+esc(String(x.enroll_end).slice(0,10)):'')+(x.seats_left!=null?' · '+x.seats_left+' seats left':'')+'</div>').join('')+'</span>';}
+    return s;
+  }
+  function esc(v){return String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+})();
+</script>
+</body>
+</html>

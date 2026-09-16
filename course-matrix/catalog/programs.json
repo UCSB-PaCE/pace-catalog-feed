@@ -1,0 +1,2713 @@
+{
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "programs": [
+  {
+   "code": "CE0079",
+   "name": "Professional Accounting",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-professional-accounting",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Cost and Analytics Track",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X422A",
+      "ECON X429",
+      "ECON X433",
+      "ECON X437"
+     ]
+    },
+    {
+     "name": "Financial Accounting Track",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X422A",
+      "ECON X422B",
+      "ECON X433",
+      "ECON X437"
+     ]
+    },
+    {
+     "name": "Taxation and Compliance Track",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X427A",
+      "ECON X427B",
+      "ECON X429",
+      "ECON X433",
+      "ECON X437"
+     ]
+    },
+    {
+     "name": "Required CORE Courses",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X400",
+      "ECON X418",
+      "ECON X432",
+      "ECON X440"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BA00",
+   "name": "Business Accounting",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Courses (6 Courses)",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X408L",
+      "ECON X400",
+      "ECON X418",
+      "ECON X422A",
+      "ECON X422B",
+      "ECON X432"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0049",
+   "name": "Business Communication Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X432",
+      "BUSAD X437",
+      "MGMNT X482"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0075",
+   "name": "Agile Project Management",
+   "landing_url": "https://www.professional.ucsb.edu/program/project-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (Choose Three - 12 Units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X450.33",
+      "MGMNT X450"
+     ]
+    },
+    {
+     "name": "Required Courses (3 Courses)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "TMP X450",
+      "TMP X451",
+      "TMP X454"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0016",
+   "name": "Web Development",
+   "landing_url": null,
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Course 2",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X425.1WD",
+      "CMPSC X465.00"
+     ]
+    },
+    {
+     "name": "Elective Courses",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X425.3WD",
+      "CMPSC X425.5WD",
+      "CMPSC X425.6WD",
+      "CMPSC X425.7WD",
+      "CMPSC X465.02",
+      "CMPSC X465.04",
+      "CMPSC X465.05",
+      "CMPSC X465.06",
+      "CMPSC X465.07"
+     ]
+    },
+    {
+     "name": "Required Course 1",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X425.WD",
+      "CMPSC X465"
+     ]
+    },
+    {
+     "name": "Required Course 4",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X425.4WD",
+      "CMPSC X465.03"
+     ]
+    },
+    {
+     "name": "Required Course 3",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X425.2WD",
+      "CMPSC X465.01"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0043",
+   "name": "Leadership & Strategy Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.33",
+      "MGMNT X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0054",
+   "name": "Project Leadership Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/project-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.33",
+      "TMP X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0068",
+   "name": "Development and Needs of Children with Autism",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X310E"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0067",
+   "name": "Global Marketing",
+   "landing_url": "https://www.professional.ucsb.edu/program/marketing-sales",
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Courses (2 Courses)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X409.11",
+      "MGMNT X479"
+     ]
+    },
+    {
+     "name": "Elective (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X410",
+      "MGMNT X477",
+      "MGMNT X477.1",
+      "MGMNT X482"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0036",
+   "name": "Human Resource Management Essentials",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-human-resource-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X435",
+      "ECON X455.2",
+      "MGMNT X450"
+     ]
+    },
+    {
+     "name": "Required 3 Courses (12 Units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.1",
+      "BUSAD X450.33",
+      "BUSAD X450.40"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0059",
+   "name": "Emergency Medical Technician",
+   "landing_url": "https://www.professional.ucsb.edu/emergency-medical-technician",
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required (1 course)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 815.EMT",
+      "XLRN 821.EMT"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0070",
+   "name": "Introduction to Naturalistic Developmental Behavioral Intervention (NDBI)",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X310D"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0073",
+   "name": "Leadership",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-business-leadership",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Required Courses (2 Courses)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X435",
+      "ECON X455.1"
+     ]
+    },
+    {
+     "name": "Elective Courses (Choose One - 4 Units)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X432",
+      "BUSAD X450.33",
+      "TMP X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0060",
+   "name": "Adolescent and Adult Support Badge",
+   "landing_url": null,
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X310A"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0063",
+   "name": "Electric Vehicle (EV) Technician Program",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required (1 course)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 827.01",
+      "XLRN 827EV"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0023",
+   "name": "Digital Marketing",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-digital-marketing",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "1-2 Elective Courses (Need 4 Units)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X401.3",
+      "BUSAD X409.11",
+      "BUSAD X409.66",
+      "MGMNT X410",
+      "MGMNT X479",
+      "MGMNT X481",
+      "MGMNT X482"
+     ]
+    },
+    {
+     "name": "3 Required Courses (12 Units)",
+     "required": 12,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.65",
+      "MGMNT X477",
+      "MGMNT X477.1"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0042",
+   "name": "Python Programming",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-python-programming",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Course 2",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X402.CODE",
+      "XLRN 802.CODE"
+     ]
+    },
+    {
+     "name": "Required Course 3",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X403.CODE",
+      "XLRN 803.CODE"
+     ]
+    },
+    {
+     "name": "Required Course 1",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X401.CODE",
+      "XLRN 801.CODE"
+     ]
+    },
+    {
+     "name": "Elective Courses",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X404.CODE",
+      "CMPSC X405.CODE",
+      "CMPSC X406.CODE",
+      "CMPSC X407.CODE",
+      "CMPSC X425.5WD",
+      "CMPSC X465.04",
+      "XLRN 804.CODE",
+      "XLRN 805.CODE",
+      "XLRN 806.CODE"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0051",
+   "name": "Leadership Essentials Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X435",
+      "BUSAD X450.33",
+      "MGMNT X479"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0058",
+   "name": "Modern Infrared Detectors and Systems Applications Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/infrared-programs",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECE X449",
+      "ECE X449.OL"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0021",
+   "name": "Technology Management",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-technology-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Elective Courses (Complete 3 Courses - 12 units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP XSB120",
+      "TMP XSB122",
+      "TMP XSB124",
+      "TMP XSB125",
+      "TMP XSB127",
+      "TMP XSB144",
+      "TMP XSB149"
+     ]
+    },
+    {
+     "name": "TMP Core Subjects (Complete 4 units)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP XSB120",
+      "TMP XSB122"
+     ]
+    },
+    {
+     "name": "Required Extension Course (1 Course)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP X101",
+      "TMP X111",
+      "TMP X130F"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0029",
+   "name": "Applied Behavior Analysis",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Applied Behavior Analysis 5th Edition",
+     "required": 7,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X301D.5",
+      "ED X309A.5",
+      "ED X309B.5",
+      "ED X309D.5",
+      "ED X312.1.5",
+      "ED X365.5",
+      "ED X391.5"
+     ]
+    },
+    {
+     "name": "Required (choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X309C.5",
+      "ED X310A.5"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0056",
+   "name": "International Applied Behavior Analysis",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 7,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X301D.5",
+      "ED X309A.5",
+      "ED X309B.5",
+      "ED X309C.5",
+      "ED X309D.5",
+      "ED X312.1.5",
+      "ED X365.5",
+      "ED X391.5"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0064",
+   "name": "Opioid Readiness Badge",
+   "landing_url": null,
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 830.05"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0057",
+   "name": "International Qualified Autism Specialist",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Additional Required Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X319Q"
+     ]
+    },
+    {
+     "name": "Required Courses",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X315",
+      "ED X316",
+      "ED X317",
+      "ED X318"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0066",
+   "name": "International Business Development",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Courses (3 Courses)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X409.11",
+      "ECON X455.1"
+     ]
+    },
+    {
+     "name": "Required Course (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X411.1",
+      "BUSAD X428"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0072",
+   "name": "Applied AI and Innovation",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-applied-ai-and-innovation",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Courses (3 Courses)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X440",
+      "MGMNT X441",
+      "MGMNT X442"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0050",
+   "name": "Business Foundations Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.65",
+      "ECON X435",
+      "MGMNT X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0071",
+   "name": "Assessment of Children with Autism",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 30,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X310F"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0006",
+   "name": "Child Life",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-child-life",
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required 5 Courses",
+     "required": 5,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X370.10",
+      "ED X370.11",
+      "ED X370.12",
+      "ED X370.13",
+      "ED X370.14",
+      "ED X370.15",
+      "ED X370.17",
+      "ED X370.18",
+      "ED X370.19",
+      "ED X370.2",
+      "ED X370.20",
+      "ED X370.21",
+      "ED X370.22",
+      "ED X370.3",
+      "ED X370.4",
+      "ED X370.5",
+      "ED X370.8"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0034",
+   "name": "Intersectional Justice Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Intersectional Justice",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "INT X415",
+      "INT X416"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0046",
+   "name": "Inclusive Workplace Culture Badge",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-human-resource-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.33",
+      "BUSAD X450.38"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0061",
+   "name": "Management Training for Public Administrators",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X485"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0044",
+   "name": "Talent Acquisition & Development Badge",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-human-resource-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X432",
+      "BUSAD X450.41",
+      "BUSAD X482.201"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0047",
+   "name": "People Analytics Badge",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-human-resource-management",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.1",
+      "BUSAD X450.37",
+      "BUSAD X450.50"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0069",
+   "name": "Basics of ABA and Clinical Intervention Strategies",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X310C"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0013",
+   "name": "Introduction to Global Business",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Required 3 Courses (12 Units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.11",
+      "BUSAD X411.1",
+      "ECON X455.1"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0010",
+   "name": "CPA Licensure Preparation Summer Program",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Bundle",
+   "streams": [
+    {
+     "name": "Required 4 Courses",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X426A",
+      "ECON X426B",
+      "ECON X426C",
+      "ECON X426D"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0062",
+   "name": "Medical Assistant Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0009",
+   "name": "Applied Behavior Analysis 4th Edition",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Course (24 units)",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X301D",
+      "ED X309A",
+      "ED X309B",
+      "ED X312.1",
+      "ED X365",
+      "ED X391"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0007",
+   "name": "Business Leadership",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-business-leadership",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X432",
+      "MGMNT X476",
+      "MGMNT X482",
+      "TMP X450"
+     ]
+    },
+    {
+     "name": "Required 3 Courses (12 Units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X435",
+      "BUSAD X450.33",
+      "MGMNT X479"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0037",
+   "name": "Assistant Behavior Analyst",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X315",
+      "ED X316",
+      "ED X317",
+      "ED X318",
+      "ED X319",
+      "ED X320S"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0045",
+   "name": "Employee and Labor Relations Badge",
+   "landing_url": null,
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X437",
+      "BUSAD X450.40"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0035",
+   "name": "Project Management",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-practical-project-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X455.2",
+      "MGMNT X450",
+      "TMP X454"
+     ]
+    },
+    {
+     "name": "Required 4 Courses (16 Units)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X435",
+      "TMP X450",
+      "TMP X451",
+      "TMP X452"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0055",
+   "name": "Business Administration and Management",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Leadership and Strategy Specialization: 2 Courses\u00a0(8 units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X450.33",
+      "MGMNT X479",
+      "TMP X450"
+     ]
+    },
+    {
+     "name": "Marketing and Strategy: 2 Courses Required (8 units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.65",
+      "MGMNT X450"
+     ]
+    },
+    {
+     "name": "Global Business Specialization: 2 Courses (8 Units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.11",
+      "BUSAD X411.1",
+      "ECON X455.1"
+     ]
+    },
+    {
+     "name": "Accounting and Finance Requirement: 1 Course Required (4 units)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X400",
+      "ECON X435"
+     ]
+    },
+    {
+     "name": "Marketing Specialization: 2-3 Courses (8 units)",
+     "required": 8,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.66",
+      "MGMNT X479",
+      "MGMNT X481",
+      "MGMNT X482"
+     ]
+    },
+    {
+     "name": "Business Accounting Specialization: 2 Courses (8 units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X418",
+      "ECON X432"
+     ]
+    },
+    {
+     "name": "Business Law and Ethics: 1 Course Required (2 units)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X408L",
+      "MGMNT X172",
+      "MGMNT X173"
+     ]
+    },
+    {
+     "name": "Human Resource Management Specialization: 2 Courses (8 units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.1",
+      "BUSAD X450.33",
+      "BUSAD X450.40",
+      "BUSAD X450.41"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0065",
+   "name": "Naturalistic Developmental Behavioral Interventions",
+   "landing_url": "https://www.professional.ucsb.edu/program/applied-behavior-analysis",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X310C",
+      "ED X310D",
+      "ED X310E",
+      "ED X310F"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0052",
+   "name": "Marketing & Branding Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/marketing-sales",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.65",
+      "MGMNT X479"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0053",
+   "name": "Sales & Marketing Badge",
+   "landing_url": "https://www.professional.ucsb.edu/program/marketing-sales",
+   "category": "Digital Badge",
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.65",
+      "MGMNT X481"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0030",
+   "name": "Strategic Investments",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-strategic-investments",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X499.10",
+      "ECON X499.11",
+      "ECON X499.12",
+      "ECON X499.13",
+      "ECON X499.14",
+      "ECON X499.15",
+      "ECON X499.16",
+      "ECON X499.17",
+      "ECON X499.18",
+      "ECON X499.19",
+      "ECON X499.20",
+      "ECON X499.21",
+      "ECON X499.23",
+      "ECON X499.5"
+     ]
+    },
+    {
+     "name": "Required Courses",
+     "required": 7,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X499.1",
+      "ECON X499.2",
+      "ECON X499.3",
+      "ECON X499.4",
+      "ECON XSB1"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0048",
+   "name": "Total Rewards Badge",
+   "landing_url": null,
+   "category": null,
+   "streams": [
+    {
+     "name": "Digital Badge",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.41",
+      "BUSAD X450.51"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0074",
+   "name": "Strategy and Decision Making",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X408L",
+      "BUSAD X409.65",
+      "ECON X400",
+      "ECON X435",
+      "MGMNT X410",
+      "MGMNT X482"
+     ]
+    },
+    {
+     "name": "Required Courses (2 Courses)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X432",
+      "MGMNT X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0076",
+   "name": "General Business Studies",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Required Courses (3 Courses)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X408L",
+      "BUSAD X409.11",
+      "BUSAD X409.65",
+      "BUSAD X411.1",
+      "BUSAD X428",
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X450.1",
+      "BUSAD X450.33",
+      "BUSAD X450.40",
+      "ECON X400",
+      "ECON X418",
+      "ECON X422A",
+      "ECON X422B",
+      "ECON X427A",
+      "ECON X427B",
+      "ECON X429",
+      "ECON X432",
+      "ECON X433",
+      "ECON X435",
+      "ECON X437",
+      "ECON X440",
+      "ECON X455.1",
+      "MGMNT X410",
+      "MGMNT X440",
+      "MGMNT X441",
+      "MGMNT X450",
+      "MGMNT X477",
+      "MGMNT X477.1",
+      "MGMNT X479",
+      "MGMNT X482",
+      "TMP X450",
+      "TMP X451",
+      "TMP X452",
+      "TMP X454"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CP00",
+   "name": "Professional Accounting",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-professional-accounting",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Advanced Accounting and Finance (Choose 1)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X431",
+      "ECON X435"
+     ]
+    },
+    {
+     "name": "Required Courses (8 Courses)",
+     "required": 8,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X400",
+      "ECON X418",
+      "ECON X422A",
+      "ECON X422B",
+      "ECON X427A",
+      "ECON X427B",
+      "ECON X432",
+      "ECON X433"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0022",
+   "name": "Business Administration",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X408L",
+      "BUSAD X432",
+      "TMP X450"
+     ]
+    },
+    {
+     "name": "Additional Elective (Choose 1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.11",
+      "MGMNT X479"
+     ]
+    },
+    {
+     "name": "Required Courses (12 Units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.33",
+      "ECON X435",
+      "ECON X455.2"
+     ]
+    },
+    {
+     "name": "Required 3 Courses (12 Units)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.33",
+      "ECON X435",
+      "MGMNT X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0082",
+   "name": "Entrepreneurship",
+   "landing_url": null,
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "ICP Business Essentials Electives (Q1 \u2014 Choose 1)",
+     "required": 1,
+     "elective": true,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X435",
+      "ECON X435",
+      "TMP X454"
+     ]
+    },
+    {
+     "name": "ICP Marketing and Growth Electives (Q1 \u2014 Choose 1)",
+     "required": 1,
+     "elective": true,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X432",
+      "MGMNT X410",
+      "MGMNT X477"
+     ]
+    },
+    {
+     "name": "ICP Required Courses (Q1)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X428"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0080",
+   "name": "Foundations of Agile Project Management",
+   "landing_url": "https://www.professional.ucsb.edu/program/project-management",
+   "category": "Professional Certificate",
+   "streams": []
+  },
+  {
+   "code": "AV00",
+   "name": "Advertising Design Professional Sequence Award",
+   "landing_url": null,
+   "category": "Professional Sequence Award",
+   "streams": []
+  },
+  {
+   "code": "CA02",
+   "name": "CPA Accounting Professional Certificate Program",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AE02",
+   "name": "Certificate in Engineering Management",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AQ00",
+   "name": "Certificate in Air Quality Management",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "BN00",
+   "name": "Business and Entrepreneurship Certificate Program",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AE01",
+   "name": "Certificate in Engineering Management",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0008",
+   "name": "Preliminary Administrative Services Credential (PASC)",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "LA00",
+   "name": "Paralegal Studies",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-paralegal-studies",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Elective Courses",
+     "required": 15,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X108",
+      "BUSAD X408L",
+      "LAW X405",
+      "LAW X406",
+      "LAW X408",
+      "LAW X409",
+      "LAW X410",
+      "LAW X412",
+      "LAW X417.6",
+      "LAW X417.7",
+      "LAW X419",
+      "LAW X420",
+      "LAW X422",
+      "LAW X423",
+      "LAW X440",
+      "LAW X455.3",
+      "LAW X455.4",
+      "LAW X455.7",
+      "LAW X459"
+     ]
+    },
+    {
+     "name": "Required Courses",
+     "required": 8,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "LAW X402.2",
+      "LAW X403",
+      "LAW X417.3",
+      "LAW X417.4",
+      "LAW X421",
+      "LAW X424",
+      "LAW X455.6",
+      "LAW X455.9"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AC06",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "AS08",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AC09",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "AP03",
+   "name": "Computer Applications Specialist Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AA00",
+   "name": "Accounting Certificate Program",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AE00",
+   "name": "Certificate in Engineering Management",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AD01",
+   "name": "Alcohol & Other Drug Counseling Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CD01",
+   "name": "Certificate in Commercial Design.",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "BD01",
+   "name": "UCSB Extension Certificate in Business Data Processing",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "BM00",
+   "name": "Professional Designation in Business",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Sequence Award",
+   "streams": []
+  },
+  {
+   "code": "AC07",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "AQ01",
+   "name": "Certificate in Air Quality Management",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AA01",
+   "name": "Certificate in Accounting",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "BD00",
+   "name": "UCSB Extension Certificate in Business Data Processing",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AA02",
+   "name": "Accounting Certificate Program",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "BD02",
+   "name": "UCSB Extension Certificate in Business Data Processing",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AS09",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CA00",
+   "name": "CPA Accounting",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 9,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X118",
+      "ECON X120A",
+      "ECON X120B",
+      "ECON X120C",
+      "ECON X121",
+      "ECON X122",
+      "ECON X123",
+      "ECON X127A",
+      "ECON X127B"
+     ]
+    },
+    {
+     "name": "Elective Business-Related Courses (36 units required)",
+     "required": 324,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "APPSY X441.1",
+      "ARTST X421.36",
+      "BUSAD X108",
+      "BUSAD X110",
+      "BUSAD X130",
+      "BUSAD X131",
+      "BUSAD X400",
+      "BUSAD X401.1",
+      "BUSAD X401.2",
+      "BUSAD X401.3",
+      "BUSAD X402.11",
+      "BUSAD X403",
+      "BUSAD X404",
+      "BUSAD X405",
+      "BUSAD X408",
+      "BUSAD X409.2",
+      "BUSAD X409.26",
+      "BUSAD X409.27",
+      "BUSAD X409.29",
+      "BUSAD X409.36",
+      "BUSAD X409.37",
+      "BUSAD X409.39",
+      "BUSAD X409.41",
+      "BUSAD X409.48",
+      "BUSAD X409.60",
+      "BUSAD X409.61",
+      "BUSAD X409.63",
+      "BUSAD X420.9B",
+      "BUSAD X450.04",
+      "BUSAD X450.39",
+      "BUSAD X450.42",
+      "BUSAD X450.43",
+      "BUSAD X450.45",
+      "BUSAD X460.17",
+      "BUSAD X460.92",
+      "BUSAD X470.1",
+      "BUSAD X470.2",
+      "BUSAD X470.3",
+      "BUSAD X477.0",
+      "BUSAD X481",
+      "BUSAD X490.1",
+      "BUSAD X490.2",
+      "BUSAD X490.3",
+      "BUSAD X490.4",
+      "BUSAD X490.64",
+      "COMM X410",
+      "ECON X100",
+      "ECON X101",
+      "ECON X413",
+      "ECON X420",
+      "ECON X423",
+      "ECON X424",
+      "ECON X425",
+      "ECON X425.1",
+      "ECON X425.2",
+      "ECON X425.3",
+      "ECON X425.4",
+      "ECON X425.5",
+      "ECON X425.6A",
+      "ECON X425.6B",
+      "ECON X425.7",
+      "ECON X425.8",
+      "ECON X455",
+      "ENGR X450.38",
+      "ENGR X450.39",
+      "ENGR X450.40",
+      "ENGR X450.41",
+      "ENGR X450.42",
+      "ENGR X450.43",
+      "ENGR X450.44",
+      "ENGR X450.45",
+      "ENGR X450.46",
+      "ENGR X450.48",
+      "ENGR X452.01",
+      "ENGR X452.02",
+      "ENGR X452.03",
+      "ENGR X452.04",
+      "ENGR X452.05",
+      "ENGR X452.06",
+      "LAWSO X416",
+      "LAWSO X418",
+      "LAWSO X418.2",
+      "LAWSO X419",
+      "LAWSO X421",
+      "LAWSO X422",
+      "LAWSO X423",
+      "LAWSO X424",
+      "LAWSO X425",
+      "LAWSO X426",
+      "LAWSO X427",
+      "LAWSO X431",
+      "LAWSO X432",
+      "LAWSO X433",
+      "LAWSO X434",
+      "LAWSO X435",
+      "MGMNT X430.38",
+      "MGMNT X460.902",
+      "MICRO X401A",
+      "MICRO X447.14",
+      "SOC X406.7"
+     ]
+    },
+    {
+     "name": "Recommended Prerequisites",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X40A",
+      "ECON X40B"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0011",
+   "name": "Business Communication and Law",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Required PaCE Course (2 Units)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X171",
+      "MGMNT X172",
+      "MGMNT X173"
+     ]
+    },
+    {
+     "name": "Required (3 courses)",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "COMM W XSB146",
+      "COMM XSB122",
+      "COMM XSB127",
+      "COMM XSB136",
+      "COMM XSB142",
+      "COMM XSB148",
+      "COMM XSB177"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AP04",
+   "name": "Computer Applications Specialist Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "BB00",
+   "name": "Business Professional Certificate Program",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AC08",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "AC05",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "AS07",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0003",
+   "name": "Strategic Business",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Core Courses",
+     "required": 144,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X430.01",
+      "ECON X430.02",
+      "ECON X430.10",
+      "ECON X430.11",
+      "ECON X430.12",
+      "ECON X430.13",
+      "ECON X430.14",
+      "ECON X430.20",
+      "ECON X430.21",
+      "ECON X430.30",
+      "ECON X430.31",
+      "ECON X430.32",
+      "ECON X430.33",
+      "ECON X430.34",
+      "ECON X430.40",
+      "ECON X430.41",
+      "ECON X430.42",
+      "ECON X430.43",
+      "ECON X430.50",
+      "ECON X430.50A",
+      "ECON X430.51",
+      "ECON X430.52",
+      "ECON X430.53",
+      "ECON X430.55",
+      "ECON X430.60",
+      "ECON X430.61",
+      "ECON X430.62",
+      "ECON X430.63",
+      "ECON X430.64",
+      "ECON X430.65",
+      "ECON X430.66",
+      "ECON X430.67",
+      "ECON X430.70",
+      "ECON X430.71",
+      "ECON X430.81",
+      "ECON X430.82",
+      "ECON X430.83",
+      "ECON X430.98",
+      "ECON X430.99"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AC04",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CD02",
+   "name": "Certificate in Commercial Design.",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AS00",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CD00",
+   "name": "Certificate in Commercial Design.",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AC00",
+   "name": "A & D Counseling Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AP01",
+   "name": "Computer Applications Specialist",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CA01",
+   "name": "CPA Accounting",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CC00",
+   "name": "C# Programming Professional Sequence Award",
+   "landing_url": null,
+   "category": "Professional Sequence Award",
+   "streams": []
+  },
+  {
+   "code": "AS10",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0004",
+   "name": "Strategic Business: Business Strategy Emphasis",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Elective Courses",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X430.10",
+      "ECON X430.11",
+      "ECON X430.12",
+      "ECON X430.13",
+      "ECON X430.14",
+      "ECON X430.20",
+      "ECON X430.21",
+      "ECON X430.30",
+      "ECON X430.31",
+      "ECON X430.32",
+      "ECON X430.33",
+      "ECON X430.34",
+      "ECON X430.42",
+      "ECON X430.43",
+      "ECON X430.70",
+      "ECON X430.71",
+      "ECON X430.81",
+      "ECON X430.98"
+     ]
+    },
+    {
+     "name": "Core Courses",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X430.01",
+      "ECON X430.02",
+      "ECON X430.40",
+      "ECON X430.41",
+      "ECON X430.50",
+      "ECON X430.51",
+      "ECON X430.52",
+      "ECON X430.53",
+      "ECON X430.55",
+      "ECON X430.60",
+      "ECON X430.61",
+      "ECON X430.62",
+      "ECON X430.63",
+      "ECON X430.64",
+      "ECON X430.65",
+      "ECON X430.66",
+      "ECON X430.67",
+      "ECON X430.82",
+      "ECON X430.83",
+      "ECON X430.99"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AA03",
+   "name": "Accounting Certificate Program",
+   "landing_url": "https://www.professional.ucsb.edu/accounting-finance",
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AP00",
+   "name": "Computer Applications Specialist Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0001",
+   "name": "Technology Management",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-technology-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required TMP Course (1 unit)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP XSB111"
+     ]
+    },
+    {
+     "name": "Required TMP Course (4 units)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP XSB120"
+     ]
+    },
+    {
+     "name": "Choose any 2 TMP courses (6-8 units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP XSB122",
+      "TMP XSB134",
+      "TMP XSB144",
+      "TMP XSB149",
+      "TMP XSB152"
+     ]
+    },
+    {
+     "name": "Choose any 2 Extension courses (4 units)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X173",
+      "TMP X130A",
+      "TMP X130B",
+      "TMP X130C"
+     ]
+    },
+    {
+     "name": "Required TMP Course (1 unit)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP XSB111"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WB00",
+   "name": "WebMaster Designer & Web Site Manager Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 10,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ARTST X419.48",
+      "ARTST X419.72",
+      "ARTST X420.46",
+      "ARTST X420.49",
+      "ARTST X420.54",
+      "ARTST X420.59",
+      "ARTST X420.64",
+      "ARTST X420.76",
+      "ARTST X420.85",
+      "ARTST X420.87"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AD00",
+   "name": "Alcohol & Other Drug Counseling Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AS06",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "AS05",
+   "name": "A & D Studies Certificate",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0002",
+   "name": "Strategic Business",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Business Strategy Emphasis",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X430.40",
+      "ECON X430.41",
+      "ECON X430.50",
+      "ECON X430.51",
+      "ECON X430.52",
+      "ECON X430.53",
+      "ECON X430.55",
+      "ECON X430.60",
+      "ECON X430.61",
+      "ECON X430.62",
+      "ECON X430.63",
+      "ECON X430.64",
+      "ECON X430.65",
+      "ECON X430.66",
+      "ECON X430.82",
+      "ECON X430.83",
+      "ECON X430.99"
+     ]
+    },
+    {
+     "name": "Business and Accounting Emphasis",
+     "required": 0,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ECON X430.01",
+      "ECON X430.10",
+      "ECON X430.11",
+      "ECON X430.12",
+      "ECON X430.13",
+      "ECON X430.14",
+      "ECON X430.20",
+      "ECON X430.21",
+      "ECON X430.30",
+      "ECON X430.31",
+      "ECON X430.32",
+      "ECON X430.33",
+      "ECON X430.40",
+      "ECON X430.41",
+      "ECON X430.42",
+      "ECON X430.43",
+      "ECON X430.50",
+      "ECON X430.51",
+      "ECON X430.52",
+      "ECON X430.70",
+      "ECON X430.80",
+      "ECON X430.81",
+      "ECON X430.98"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0005",
+   "name": "Business and Education Instructional Technology (Online)",
+   "landing_url": "https://www.professional.ucsb.edu/program/technology",
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 16,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X323.1",
+      "ED X323.2",
+      "ED X323.3",
+      "ED X323.4",
+      "ED X323.5",
+      "ED X323.6"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0077",
+   "name": "Advanced Business Studies",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Required Courses (6 Courses)",
+     "required": 6,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "BUSAD X408L",
+      "BUSAD X409.11",
+      "BUSAD X409.65",
+      "BUSAD X411.1",
+      "BUSAD X428",
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X450.1",
+      "BUSAD X450.33",
+      "BUSAD X450.40",
+      "ECON X400",
+      "ECON X418",
+      "ECON X422A",
+      "ECON X422B",
+      "ECON X427A",
+      "ECON X427B",
+      "ECON X429",
+      "ECON X432",
+      "ECON X433",
+      "ECON X435",
+      "ECON X437",
+      "ECON X440",
+      "ECON X455.1",
+      "MGMNT X410",
+      "MGMNT X440",
+      "MGMNT X441",
+      "MGMNT X477",
+      "MGMNT X477.1",
+      "MGMNT X479",
+      "MGMNT X482",
+      "TMP X450",
+      "TMP X451",
+      "TMP X452",
+      "TMP X454"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0088",
+   "name": "Sports Management Studies: Essentials",
+   "landing_url": null,
+   "category": null,
+   "streams": [
+    {
+     "name": "Governance and Financial Principles",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X411.1",
+      "MGMNT X411.2"
+     ]
+    },
+    {
+     "name": "Applied Sport Operations and Systems",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X411.3",
+      "MGMNT X411.4",
+      "MGMNT X411.5"
+     ]
+    },
+    {
+     "name": "Core Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X411"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0024",
+   "name": "Practical Project Management",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-practical-project-management",
+   "category": null,
+   "streams": [
+    {
+     "name": "Required (4 courses)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP X450",
+      "TMP X451",
+      "TMP X452",
+      "TMP X453"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0081",
+   "name": "Applied Business Essentials",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (Choose One)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.11",
+      "BUSAD X409.65",
+      "MGMNT X477",
+      "MGMNT X477.1",
+      "MGMNT X479",
+      "MGMNT X482"
+     ]
+    },
+    {
+     "name": "Required Courses",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X410",
+      "MGMNT X450"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TS00",
+   "name": "Teaching English as a Second Language Professional Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0078",
+   "name": "Cleanroom Technician",
+   "landing_url": "https://www.professional.ucsb.edu/semiconductor-manufacturing",
+   "category": "Certificate of Participation",
+   "streams": [
+    {
+     "name": "Required Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 802.CR"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HR00",
+   "name": "Human Resource Management",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-human-resource-management",
+   "category": "Professional Certificate",
+   "streams": [
+    {
+     "name": "Elective Courses (6 units total)",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X437",
+      "BUSAD X450.38",
+      "BUSAD X450.39",
+      "BUSAD X482.201"
+     ]
+    },
+    {
+     "name": "Required Courses (20 units)",
+     "required": 5,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X450.1",
+      "BUSAD X450.33",
+      "BUSAD X450.40",
+      "BUSAD X450.41",
+      "BUSAD X450.48"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DR01",
+   "name": "Negotiation and Mediation Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 9,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "APPSY X441.1",
+      "LAWSO X400",
+      "LAWSO X401",
+      "LAWSO X402",
+      "LAWSO X403",
+      "LAWSO X404",
+      "LAWSO X405",
+      "SOC X406.7",
+      "SOC X408.6"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GP00",
+   "name": "Green Building and Sustainable Design",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Elective Courses",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ENV S X489.12",
+      "ESM X489.16",
+      "ESM X489.18",
+      "ESM X489.19",
+      "ESM X489.7"
+     ]
+    },
+    {
+     "name": "Required Courses",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ESM X489.2",
+      "ESM X489.5"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TS02",
+   "name": "Teaching English as a Second Language Certificate Program",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": []
+  },
+  {
+   "code": "CE0027",
+   "name": "Medical Humanities",
+   "landing_url": null,
+   "category": "Professional Certificate Program",
+   "streams": [
+    {
+     "name": "Medical Humanities",
+     "required": 16,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "INT X410",
+      "INT X411"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0033",
+   "name": "Environmental and Climate Advocacy, Leadership and Activism",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": null,
+   "streams": [
+    {
+     "name": "ECALA",
+     "required": 18,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "SOC X400",
+      "SOC X401"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0089",
+   "name": "Sports Management Studies: Advanced",
+   "landing_url": null,
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 3,
+     "elective": false,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X411",
+      "MGMNT X411.1",
+      "MGMNT X411.2"
+     ]
+    },
+    {
+     "name": "Elective (Complete 3)",
+     "required": 3,
+     "elective": true,
+     "ip_stream": true,
+     "courses": [
+      "MGMNT X411.3",
+      "MGMNT X411.4",
+      "MGMNT X411.5"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0090",
+   "name": "Sports Management",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0091",
+   "name": "Agentic AI for Leaders: Systems, Design and Impact",
+   "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0092",
+   "name": "Full Stack Development Program with Generative AI",
+   "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0093",
+   "name": "Applied Generative AI Specialization",
+   "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0094",
+   "name": "Generative AI Applications for Leaders",
+   "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0095",
+   "name": "Professional Certificate in AI and Machine Learning",
+   "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0096",
+   "name": "Professional Certificate in Data Analytics & GenAI",
+   "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0097",
+   "name": "Foundations of Digital Marketing",
+   "landing_url": "https://www.professional.ucsb.edu/certificate-digital-marketing",
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "GB00",
+   "name": "Global Business Management",
+   "landing_url": "https://www.professional.ucsb.edu/program/business-management",
+   "category": "Professional Certificate Program",
+   "streams": []
+  }
+ ]
+}

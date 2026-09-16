@@ -1,0 +1,418 @@
+{
+ "page": "applied-ai-and-innovation",
+ "page_url": "https://professional.ucsb.edu/degree-plus/applied-ai-and-innovation",
+ "page_title": "Applied AI and Innovation, Degree+",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "appliedAiandInnovationDegree#main",
+   "title": "Required Courses (12 units)",
+   "courses": [
+    {
+     "code": "MGMNT X440",
+     "title": "MGMNT X440 - AI Essentials for Innovation",
+     "crm_name": "AI Essentials for Innovation",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41907568",
+     "destiny_course_id": "41907568",
+     "crm_id": "5049549000066771704",
+     "tokens": [
+      "SportsManagement",
+      "appliedAiandInnovationProfessional#main",
+      "appliedAiandInnovationDegree#main",
+      "appliedAiandInnovationInternational#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-09-30",
+         "end": "2026-12-09",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-06T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "43371488",
+         "crm_id": "5049549000068040093",
+         "last_sync": "2026-07-13T02:26:22-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-05",
+         "end": "2027-03-16",
+         "enroll_start": null,
+         "enroll_end": "2027-01-11T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44156917",
+         "crm_id": "5049549000081335001",
+         "last_sync": "2026-08-06T09:13:57-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "006",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-05T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44264263",
+         "crm_id": "5049549000084763006",
+         "last_sync": "2026-08-17T09:36:11-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "007",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-08",
+         "enroll_start": null,
+         "enroll_end": "2027-06-29T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44324835",
+         "crm_id": "5049549000085938018",
+         "last_sync": "2026-08-17T09:54:52-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X441",
+     "title": "MGMNT X441 - AI Applications for Business Impact",
+     "crm_name": "AI Applications for Business Impact",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41908559",
+     "destiny_course_id": "41908559",
+     "crm_id": "5049549000066778758",
+     "tokens": [
+      "SportsManagement",
+      "appliedAiandInnovationProfessional#main",
+      "appliedAiandInnovationDegree#main",
+      "appliedAiandInnovationInternational#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-09-29",
+         "end": "2026-12-08",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-05T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "43371809",
+         "crm_id": "5049549000068029268",
+         "last_sync": "2026-07-13T02:48:21-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-17",
+         "enroll_start": null,
+         "enroll_end": "2027-01-12T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44157172",
+         "crm_id": "5049549000081340001",
+         "last_sync": "2026-08-06T09:45:19-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "006",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-09",
+         "enroll_start": null,
+         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44265297",
+         "crm_id": "5049549000084650012",
+         "last_sync": "2026-08-18T02:30:43-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "007",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-22",
+         "end": "2027-09-07",
+         "enroll_start": null,
+         "enroll_end": "2027-06-28T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44328026",
+         "crm_id": "5049549000086195001",
+         "last_sync": "2026-08-18T02:57:25-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X442",
+     "title": "MGMNT X442 - Leading AI-Driven Change",
+     "crm_name": "Leading AI-Driven Change",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41908674",
+     "destiny_course_id": "41908674",
+     "crm_id": "5049549000066766757",
+     "tokens": [
+      "SportsManagement",
+      "appliedAiandInnovationProfessional#main",
+      "appliedAiandInnovationDegree#main",
+      "appliedAiandInnovationInternational#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-10-01",
+         "end": "2026-12-10",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "43372277",
+         "crm_id": "5049549000068045164",
+         "last_sync": "2026-07-17T07:19:04-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-07",
+         "end": "2027-03-18",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44178537",
+         "crm_id": "5049549000082214002",
+         "last_sync": "2026-08-06T10:04:13-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-04-01",
+         "end": "2027-06-10",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44265972",
+         "crm_id": "5049549000084763011",
+         "last_sync": "2026-08-18T03:32:16-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "006",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-24",
+         "end": "2027-09-09",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44328417",
+         "crm_id": "5049549000086151003",
+         "last_sync": "2026-08-18T03:44:38-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

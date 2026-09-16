@@ -1,0 +1,1211 @@
+{
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "courses": [
+  {
+   "code": "ECON X422A",
+   "name": "Intermediate Accounting",
+   "destiny_course_id": "35508271",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35508271",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X422B",
+   "name": "Intermediate Accounting II",
+   "destiny_course_id": "35510163",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35510163",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X418",
+   "name": "Financial Statement Analysis",
+   "destiny_course_id": "27961817",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27961817",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X432",
+   "name": "Managerial Accounting",
+   "destiny_course_id": "27927654",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27927654",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X400",
+   "name": "Principles of Financial Accounting",
+   "destiny_course_id": "16571310",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571310",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X408L",
+   "name": "Business Law",
+   "destiny_course_id": "31249800",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31249800",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X319",
+   "name": "Ethics and Supervision",
+   "destiny_course_id": "33449573",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33449573",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 821.EMT",
+   "name": "Emergency Medical Technician - Basic",
+   "destiny_course_id": "40479255",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40479255",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X409.65",
+   "name": "Marketing Principles & Practices",
+   "destiny_course_id": "16569939",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16569939",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X477",
+   "name": "Developing a Digital Marketing Strategy",
+   "destiny_course_id": "31113414",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31113414",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X432",
+   "name": "Negotiation and Influence Strategies",
+   "destiny_course_id": "27420581",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27420581",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X499.2",
+   "name": "Financial Economics II",
+   "destiny_course_id": "32464686",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32464686",
+   "min_units": 2,
+   "max_units": 2,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X404.CODE",
+   "name": "Data Analytics Using Python",
+   "destiny_course_id": "41362597",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362597",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "MGMNT X477.1",
+   "name": "Web Analytics for Marketing",
+   "destiny_course_id": "33120735",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33120735",
+   "min_units": 2,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X405.CODE",
+   "name": "Python for Informatics",
+   "destiny_course_id": "41362615",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362615",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "ED X310D",
+   "name": "Introduction to Naturalistic Developmental Behavioral Intervention (NDBI)",
+   "destiny_course_id": "39154984",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=39154984",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X479",
+   "name": "Business and Personal Branding",
+   "destiny_course_id": "31148575",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31148575",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X450",
+   "name": "Business Strategy and Decision Making",
+   "destiny_course_id": "34648348",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34648348",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X442",
+   "name": "Leading AI-Driven Change",
+   "destiny_course_id": "41908674",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41908674",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X409.11",
+   "name": "International Marketing",
+   "destiny_course_id": "24148677",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=24148677",
+   "min_units": 3,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X410",
+   "name": "Business Development and Sales",
+   "destiny_course_id": "36145630",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36145630",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "TMP X454",
+   "name": "Agile Approaches to Project Management",
+   "destiny_course_id": "33293213",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33293213",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X317",
+   "name": "Behavior Assessment and Intervention",
+   "destiny_course_id": "33449384",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33449384",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ECON X435",
+   "name": "Finance for Business Management",
+   "destiny_course_id": "31111538",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31111538",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.2",
+   "name": "Child Life: Introduction to Theory and Practice",
+   "destiny_course_id": "24996820",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=24996820",
+   "min_units": 3,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X403.CODE",
+   "name": "Intermediate Python",
+   "destiny_course_id": "41362556",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362556",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "MGMNT X482",
+   "name": "Public Relations",
+   "destiny_course_id": "34288803",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34288803",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X309C.5",
+   "name": "Procedures, Interventions, and Supervision",
+   "destiny_course_id": "32356189",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356189",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X402.CODE",
+   "name": "Python Programming Fundamentals",
+   "destiny_course_id": "41362336",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362336",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "MGMNT X440",
+   "name": "AI Essentials for Innovation",
+   "destiny_course_id": "41907568",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41907568",
+   "min_units": 4,
+   "max_units": 4.4,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X450.40",
+   "name": "Legal Aspects of Employment Practice",
+   "destiny_course_id": "16570034",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570034",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X315",
+   "name": "Philosophical Underpinnings, Concepts, and Principles",
+   "destiny_course_id": "33441837",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33441837",
+   "min_units": 0.5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X425.7WD",
+   "name": "Principles of User Experience",
+   "destiny_course_id": "41363081",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41363081",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECON X427A",
+   "name": "Income Taxes (Individual)",
+   "destiny_course_id": "27961934",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27961934",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "ECON X455.1",
+   "name": "Global Economics",
+   "destiny_course_id": "23165102",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=23165102",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X425.4WD",
+   "name": "Advanced HTML & CSS",
+   "destiny_course_id": "41362983",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362983",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ECON X499.3",
+   "name": "Risk and Ethics",
+   "destiny_course_id": "32485927",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32485927",
+   "min_units": 1,
+   "max_units": 1,
+   "on_site": true
+  },
+  {
+   "code": "ED X319Q",
+   "name": "Professional and Ethical Issues in Behavior Analysis",
+   "destiny_course_id": "35503089",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35503089",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.19",
+   "name": "Early Child Development: Birth to Eight",
+   "destiny_course_id": "30777371",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=30777371",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X316",
+   "name": "Single Case Design and Behavior Intervention",
+   "destiny_course_id": "33442010",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33442010",
+   "min_units": 0.5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X310A",
+   "name": "What\u2019s Next: Navigating Life after School",
+   "destiny_course_id": "36102812",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36102812",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.5",
+   "name": "Assessment, Preparation and Medical Terminology",
+   "destiny_course_id": "26120334",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120334",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X441",
+   "name": "AI Applications for Business Impact",
+   "destiny_course_id": "41908559",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41908559",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X427B",
+   "name": "Corporate Taxation",
+   "destiny_course_id": "27962322",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27962322",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.4",
+   "name": "Death, Dying and Grief in Pediatric Care",
+   "destiny_course_id": "26120331",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120331",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X450.1",
+   "name": "Foundations of Human Resource Management",
+   "destiny_course_id": "16570022",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570022",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X310C",
+   "name": "Basics of ABA and Clinical Intervention Strategies",
+   "destiny_course_id": "39154767",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=39154767",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "ED X310A.5",
+   "name": "Organizational Behavior Management in Applied Settings",
+   "destiny_course_id": "42197013",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42197013",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X450.33",
+   "name": "Building and Leading High Performance Teams",
+   "destiny_course_id": "25561802",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25561802",
+   "min_units": 2,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X499.1",
+   "name": "Introduction to Financial Economics",
+   "destiny_course_id": "32464658",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32464658",
+   "min_units": 2,
+   "max_units": 2,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.14",
+   "name": "Research Methodologies in Child Life",
+   "destiny_course_id": "28459553",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28459553",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X435",
+   "name": "Foundations of Business Leadership",
+   "destiny_course_id": "27403327",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27403327",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X309A.5",
+   "name": "Philosophical Underpinnings, Concepts, and Principles Part I",
+   "destiny_course_id": "32267252",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32267252",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "TMP X451",
+   "name": "Project Planning & Procurement",
+   "destiny_course_id": "31148761",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31148761",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.21",
+   "name": "Adolescent Development (ages 9-18)",
+   "destiny_course_id": "32098816",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32098816",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "TMP X452",
+   "name": "Project Execution and Risk Management",
+   "destiny_course_id": "31148763",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31148763",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.12",
+   "name": "Family Systems: Child, Family and Community",
+   "destiny_course_id": "28010698",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28010698",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.15",
+   "name": "Child Life and Trauma",
+   "destiny_course_id": "28876718",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28876718",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X309B.5",
+   "name": "Philosophical Underpinnings, Concepts, and Principles Part II",
+   "destiny_course_id": "32267279",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32267279",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.3",
+   "name": "Therapeutic Role of Play in Pediatric Care",
+   "destiny_course_id": "26120019",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120019",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X391.5",
+   "name": "Professional Issues in Developmental Disabilities",
+   "destiny_course_id": "32356435",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356435",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X401.CODE",
+   "name": "Introduction to Programming",
+   "destiny_course_id": "41362218",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362218",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "ED X370.11",
+   "name": "Pediatric Palliative Care & Hospice",
+   "destiny_course_id": "27406321",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27406321",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "TMP X450",
+   "name": "Introduction to Project Management",
+   "destiny_course_id": "31148667",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31148667",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X312.1.5",
+   "name": "Cognitive Development in Autism & Other Severe Disabilities",
+   "destiny_course_id": "32356936",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356936",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X365.5",
+   "name": "Behavior Assessment & Intervention for Children & Adolescents",
+   "destiny_course_id": "32356738",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356738",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X370.13",
+   "name": "Children with Disabilities in the Healthcare System",
+   "destiny_course_id": "28459414",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28459414",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X309D.5",
+   "name": "Applied Behavior Analysis Competency Course",
+   "destiny_course_id": "35871937",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35871937",
+   "min_units": 1,
+   "max_units": 1,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X425.1WD",
+   "name": "Introduction to HTML & CSS",
+   "destiny_course_id": "41362911",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362911",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "TMP X101",
+   "name": "Introduction to Technology Management",
+   "destiny_course_id": "40884108",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40884108",
+   "min_units": 0.5,
+   "max_units": 2,
+   "on_site": true
+  },
+  {
+   "code": "BUSAD X428",
+   "name": "Entrepreneurial Strategies and Planning",
+   "destiny_course_id": "42160025",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42160025",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X310E",
+   "name": "Development and Needs of Children with Autism",
+   "destiny_course_id": "40349090",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40349090",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "ECON X437",
+   "name": "Cost Accounting & Budgeting",
+   "destiny_course_id": "41094551",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41094551",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X310F",
+   "name": "Assessment of Children with Autism",
+   "destiny_course_id": "40349284",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40349284",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "CMPSC X425.6WD",
+   "name": "User Interface Design",
+   "destiny_course_id": "41363032",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41363032",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "ED X301D.5",
+   "name": "Single Case Experimental Design",
+   "destiny_course_id": "32267092",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32267092",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X318",
+   "name": "Behavior-Change Procedures",
+   "destiny_course_id": "33449554",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33449554",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ECON X433",
+   "name": "Auditing",
+   "destiny_course_id": "27932712",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27932712",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X440",
+   "name": "Accounting Information Systems and Automation",
+   "destiny_course_id": "41094310",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41094310",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ECON X429",
+   "name": "Financial Data Analytics and Visualization",
+   "destiny_course_id": "41260829",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41260829",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "LAW X410",
+   "name": "Environmental Law",
+   "destiny_course_id": "36101401",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36101401",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 832.01",
+   "name": "Univ. Immersion Program - 1 Quarter",
+   "destiny_course_id": "16577430",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16577430",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "LAW X455.4",
+   "name": "Wills and Trusts II",
+   "destiny_course_id": "16574585",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574585",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X423",
+   "name": "Employment Law for Paralegals",
+   "destiny_course_id": "28513702",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28513702",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X455.9",
+   "name": "Paralegal Capstone Course",
+   "destiny_course_id": "31081699",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31081699",
+   "min_units": 1,
+   "max_units": 1,
+   "on_site": true
+  },
+  {
+   "code": "LAW X402.2",
+   "name": "Ethics for the Paralegal",
+   "destiny_course_id": "16574562",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574562",
+   "min_units": 1,
+   "max_units": 1,
+   "on_site": true
+  },
+  {
+   "code": "LAW X417.4",
+   "name": "Legal Research, Writing, & Analysis II",
+   "destiny_course_id": "28768298",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28768298",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "LAW X455.6",
+   "name": "Fundamentals of Paralegal Studies",
+   "destiny_course_id": "16574587",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574587",
+   "min_units": 3,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X499",
+   "name": "Independent Research Project",
+   "destiny_course_id": "42044956",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42044956",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MGMNT X411.1",
+   "name": "Sports Law and Ethics",
+   "destiny_course_id": "42695373",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42695373",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 805.OU",
+   "name": "Open University",
+   "destiny_course_id": "33364019",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33364019",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "MGMNT X411.3",
+   "name": "Sports Marketing",
+   "destiny_course_id": "42692359",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42692359",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X411",
+   "name": "Sports Management Foundations",
+   "destiny_course_id": "42692099",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42692099",
+   "min_units": 0.5,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 831.02",
+   "name": "UCSB Connect Program",
+   "destiny_course_id": "41297997",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41297997",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 870A",
+   "name": "Child Life Prep Program",
+   "destiny_course_id": "34924438",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34924438",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 838.01",
+   "name": "Graduate Academic Preparation Program (GAPP)",
+   "destiny_course_id": "33534735",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33534735",
+   "min_units": 0,
+   "max_units": 0,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 809B",
+   "name": "ABA Prep Program",
+   "destiny_course_id": "34919015",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34919015",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 833.01",
+   "name": "International Certificate Program",
+   "destiny_course_id": "31606072",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31606072",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 833.02",
+   "name": "Professional Postgraduate Program",
+   "destiny_course_id": "38582970",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=38582970",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "LAW X440",
+   "name": "Family Law",
+   "destiny_course_id": "16574581",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574581",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 831.01",
+   "name": "Step UPP",
+   "destiny_course_id": "32841284",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32841284",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 870B",
+   "name": "Child Life Supervision Internship",
+   "destiny_course_id": "36950020",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36950020",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "ED X310B",
+   "name": "Registered Behavior Technician (RBT) Training",
+   "destiny_course_id": "37187206",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=37187206",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X411.2",
+   "name": "Financial Management in Sport Business",
+   "destiny_course_id": "42693962",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42693962",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X411.4",
+   "name": "Game Day Operations",
+   "destiny_course_id": "42700323",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42700323",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X411.5",
+   "name": "Comparative Global Sport Systems",
+   "destiny_course_id": "42699790",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42699790",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "MGMNT X411.6",
+   "name": "Sports Management Capstone",
+   "destiny_course_id": "42699811",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42699811",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 809A",
+   "name": "Supervision Hours for ABA Program 6th Edition",
+   "destiny_course_id": "28945939",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28945939",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "ECE X448",
+   "name": "Introduction to Infrared Imaging Technology",
+   "destiny_course_id": "35433653",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35433653",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "LAW X403",
+   "name": "Case Management",
+   "destiny_course_id": "16574563",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574563",
+   "min_units": 2,
+   "max_units": 2.6,
+   "on_site": true
+  },
+  {
+   "code": "LAW X406",
+   "name": "Paralegal Internship",
+   "destiny_course_id": "16574566",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574566",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X408",
+   "name": "Intellectual Property",
+   "destiny_course_id": "16574570",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574570",
+   "min_units": 3,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "LAW X409",
+   "name": "Juvenile Law for Paralegals",
+   "destiny_course_id": "26721372",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26721372",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "LAW X412",
+   "name": "Corporate Law",
+   "destiny_course_id": "16574571",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574571",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X417.3",
+   "name": "Legal Research, Writing, & Analysis I",
+   "destiny_course_id": "28767570",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28767570",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": true
+  },
+  {
+   "code": "LAW X419",
+   "name": "Criminal Law",
+   "destiny_course_id": "16574577",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574577",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X420",
+   "name": "Wills and Trusts I",
+   "destiny_course_id": "16574578",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574578",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "LAW X421",
+   "name": "Civil Litigation",
+   "destiny_course_id": "16574579",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574579",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X424",
+   "name": "E-Discovery and Legal Technologies",
+   "destiny_course_id": "29745522",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29745522",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X455.3",
+   "name": "Real Estate Law",
+   "destiny_course_id": "16574584",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574584",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LAW X455.7",
+   "name": "Contract Law",
+   "destiny_course_id": "23161736",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=23161736",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": true
+  },
+  {
+   "code": "LING X464.2A",
+   "name": "Pronunciation for Clear Speaking",
+   "destiny_course_id": "41357593",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41357593",
+   "min_units": 0.5,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "LING X466.1",
+   "name": "Intensive English",
+   "destiny_course_id": "27294106",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27294106",
+   "min_units": 12,
+   "max_units": 14,
+   "on_site": false
+  },
+  {
+   "code": "LING X482.2A",
+   "name": "Academic Reading & Writing",
+   "destiny_course_id": "41357666",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41357666",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "LING X482.2B",
+   "name": "Academic Reading and Writing II",
+   "destiny_course_id": "41502186",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41502186",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "LING X482B",
+   "name": "Communication and Culture II",
+   "destiny_course_id": "41501499",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41501499",
+   "min_units": 0.5,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 801.CR",
+   "name": "Introduction to the Semiconductor Ecosystem",
+   "destiny_course_id": "35433569",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35433569",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 850.COU",
+   "name": "Coursera Content Development",
+   "destiny_course_id": "41954902",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41954902",
+   "min_units": 0,
+   "max_units": 0,
+   "on_site": false
+  },
+  {
+   "code": "ED X365.5B",
+   "name": "Behavior Assessment and Intervention Part II",
+   "destiny_course_id": "43652324",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43652324",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X317B",
+   "name": "Behavior Assessment and Intervention Part II",
+   "destiny_course_id": "43681292",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43681292",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": true
+  },
+  {
+   "code": "ED X325A",
+   "name": "Program Evaluation Fundamentals",
+   "destiny_course_id": "42774831",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42774831",
+   "min_units": 2,
+   "max_units": 2,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 831.03",
+   "name": "UCSB Modified Connect Program (AELP)",
+   "destiny_course_id": "43952935",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43952935",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ANTH X401",
+   "name": "Introduction to CRM: Policy, Law, and Ethics",
+   "destiny_course_id": "44142497",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44142497",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "LING X466.3",
+   "name": "AELP - Intensive English",
+   "destiny_course_id": "44392969",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44392969",
+   "min_units": 12,
+   "max_units": 14,
+   "on_site": false
+  }
+ ]
+}

@@ -1,0 +1,1023 @@
+{
+ "page": "sports-management-studies",
+ "page_url": "https://professional.ucsb.edu/sports-management-studies",
+ "page_title": "Sports Management Studies",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "core1#main",
+   "title": "Core Course (Required)",
+   "courses": [
+    {
+     "code": "MGMNT X411",
+     "title": "MGMNT X411 - Sports Management Foundations",
+     "crm_name": "Sports Management Foundations",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42692099",
+     "destiny_course_id": "42692099",
+     "crm_id": "5049549000067824054",
+     "tokens": [
+      "SportsManagement#main",
+      "core1#main",
+      "core2#main",
+      "sportsManagement#prereq"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-09-29",
+         "end": "2026-12-08",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-05T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "43368913",
+         "crm_id": "5049549000068038103",
+         "last_sync": "2026-07-10T09:03:22-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44151473",
+         "crm_id": "5049549000081123013",
+         "last_sync": "2026-08-06T02:34:03-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-05T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44260610",
+         "crm_id": "5049549000084789001",
+         "last_sync": "2026-08-06T02:45:05-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "gov",
+   "token": "core1#gov",
+   "title": "Governance and Financial Principles (Choose One)",
+   "courses": [
+    {
+     "code": "MGMNT X411.1",
+     "title": "MGMNT X411.1 - Sports Law and Ethics",
+     "crm_name": "Sports Law and Ethics",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42695373",
+     "destiny_course_id": "42695373",
+     "crm_id": "5049549000067432005",
+     "tokens": [
+      "SportsManagement#sub1",
+      "core1#gov",
+      "core2#gov",
+      "sportsManagement#core1"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-24",
+         "end": "2026-12-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 5,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "43385660",
+         "crm_id": "5049549000068367016",
+         "last_sync": "2026-09-14T05:00:42-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 4,
+         "destiny_section_id": "44260989",
+         "crm_id": "5049549000084694007",
+         "last_sync": "2026-08-06T03:03:59-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X411.2",
+     "title": "MGMNT X411.2 - Financial Management in Sport Business",
+     "crm_name": "Financial Management in Sport Business",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42693962",
+     "destiny_course_id": "42693962",
+     "crm_id": "5049549000069558426",
+     "tokens": [
+      "SportsManagement#sub1",
+      "core1#gov",
+      "core2#gov",
+      "sportsManagement#core1"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-17",
+         "enroll_start": null,
+         "enroll_end": "2027-01-12T15:59:00-08:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44161586",
+         "crm_id": "5049549000081512004",
+         "last_sync": "2026-07-20T05:29:23-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "applied",
+   "token": "core1#applied",
+   "title": "Applied Sport Operations and Systems (Choose One)",
+   "courses": [
+    {
+     "code": "MGMNT X411.3",
+     "title": "MGMNT X411.3 - Sports Marketing",
+     "crm_name": "Sports Marketing",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42692359",
+     "destiny_course_id": "42692359",
+     "crm_id": "5049549000067801047",
+     "tokens": [
+      "SportsManagement#sub2",
+      "core1#applied",
+      "core2#applied",
+      "sportsManagement#core2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2027-01-07",
+         "end": "2027-03-18",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44151809",
+         "crm_id": "5049549000081204006",
+         "last_sync": "2026-07-10T09:30:27-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X411.4",
+     "title": "MGMNT X411.4 - Game Day Operations",
+     "crm_name": "Game Day Operations",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42700323",
+     "destiny_course_id": "42700323",
+     "crm_id": "5049549000069558427",
+     "tokens": [
+      "SportsManagement#sub2",
+      "core1#applied",
+      "core2#applied",
+      "sportsManagement#core2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2026-09-28",
+         "end": "2026-12-07",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 1,
+         "seats_left": 27,
+         "units": 4,
+         "destiny_section_id": "43370537",
+         "crm_id": "5049549000068037149",
+         "last_sync": "2026-08-05T09:09:13-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X411.5",
+     "title": "MGMNT X411.5 - Comparative Global Sport Systems",
+     "crm_name": "Comparative Global Sport Systems",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42699790",
+     "destiny_course_id": "42699790",
+     "crm_id": "5049549000069558428",
+     "tokens": [
+      "SportsManagement#sub2",
+      "core1#applied",
+      "core2#applied",
+      "sportsManagement#core2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44261419",
+         "crm_id": "5049549000084651008",
+         "last_sync": "2026-08-06T03:32:23-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "main",
+   "token": "core2#main",
+   "title": "Core Course (Required)",
+   "courses": [
+    {
+     "code": "MGMNT X411",
+     "title": "MGMNT X411 - Sports Management Foundations",
+     "crm_name": "Sports Management Foundations",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42692099",
+     "destiny_course_id": "42692099",
+     "crm_id": "5049549000067824054",
+     "tokens": [
+      "SportsManagement#main",
+      "core1#main",
+      "core2#main",
+      "sportsManagement#prereq"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-09-29",
+         "end": "2026-12-08",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-05T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "43368913",
+         "crm_id": "5049549000068038103",
+         "last_sync": "2026-07-10T09:03:22-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44151473",
+         "crm_id": "5049549000081123013",
+         "last_sync": "2026-08-06T02:34:03-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-05T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44260610",
+         "crm_id": "5049549000084789001",
+         "last_sync": "2026-08-06T02:45:05-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "gov",
+   "token": "core2#gov",
+   "title": "Governance and Financial Principles",
+   "courses": [
+    {
+     "code": "MGMNT X411.1",
+     "title": "MGMNT X411.1 - Sports Law and Ethics",
+     "crm_name": "Sports Law and Ethics",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42695373",
+     "destiny_course_id": "42695373",
+     "crm_id": "5049549000067432005",
+     "tokens": [
+      "SportsManagement#sub1",
+      "core1#gov",
+      "core2#gov",
+      "sportsManagement#core1"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-24",
+         "end": "2026-12-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 5,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "43385660",
+         "crm_id": "5049549000068367016",
+         "last_sync": "2026-09-14T05:00:42-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 30,
+         "enrolled": 0,
+         "seats_left": 30,
+         "units": 4,
+         "destiny_section_id": "44260989",
+         "crm_id": "5049549000084694007",
+         "last_sync": "2026-08-06T03:03:59-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X411.2",
+     "title": "MGMNT X411.2 - Financial Management in Sport Business",
+     "crm_name": "Financial Management in Sport Business",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42693962",
+     "destiny_course_id": "42693962",
+     "crm_id": "5049549000069558426",
+     "tokens": [
+      "SportsManagement#sub1",
+      "core1#gov",
+      "core2#gov",
+      "sportsManagement#core1"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-17",
+         "enroll_start": null,
+         "enroll_end": "2027-01-12T15:59:00-08:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44161586",
+         "crm_id": "5049549000081512004",
+         "last_sync": "2026-07-20T05:29:23-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "applied",
+   "token": "core2#applied",
+   "title": "Applied Sport Operations and Systems",
+   "courses": [
+    {
+     "code": "MGMNT X411.3",
+     "title": "MGMNT X411.3 - Sports Marketing",
+     "crm_name": "Sports Marketing",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42692359",
+     "destiny_course_id": "42692359",
+     "crm_id": "5049549000067801047",
+     "tokens": [
+      "SportsManagement#sub2",
+      "core1#applied",
+      "core2#applied",
+      "sportsManagement#core2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2027-01-07",
+         "end": "2027-03-18",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44151809",
+         "crm_id": "5049549000081204006",
+         "last_sync": "2026-07-10T09:30:27-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X411.4",
+     "title": "MGMNT X411.4 - Game Day Operations",
+     "crm_name": "Game Day Operations",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42700323",
+     "destiny_course_id": "42700323",
+     "crm_id": "5049549000069558427",
+     "tokens": [
+      "SportsManagement#sub2",
+      "core1#applied",
+      "core2#applied",
+      "sportsManagement#core2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2026-09-28",
+         "end": "2026-12-07",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 1,
+         "seats_left": 27,
+         "units": 4,
+         "destiny_section_id": "43370537",
+         "crm_id": "5049549000068037149",
+         "last_sync": "2026-08-05T09:09:13-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X411.5",
+     "title": "MGMNT X411.5 - Comparative Global Sport Systems",
+     "crm_name": "Comparative Global Sport Systems",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42699790",
+     "destiny_course_id": "42699790",
+     "crm_id": "5049549000069558428",
+     "tokens": [
+      "SportsManagement#sub2",
+      "core1#applied",
+      "core2#applied",
+      "sportsManagement#core2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44261419",
+         "crm_id": "5049549000084651008",
+         "last_sync": "2026-08-06T03:32:23-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "page": "emergency-medical-technician",
+ "page_url": "https://professional.ucsb.edu/emergency-medical-technician",
+ "page_title": "Emergency Medical Technician",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "EMT#main",
+   "title": "",
+   "courses": [
+    {
+     "code": "XLRN 821.EMT",
+     "title": "XLRN 821.EMT - Emergency Medical Technician-Basic",
+     "crm_name": "Emergency Medical Technician - Basic",
+     "units": 18,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40479255",
+     "destiny_course_id": "40479255",
+     "crm_id": "5049549000066763664",
+     "tokens": [
+      "EMT#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "full",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "007",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "full",
+         "start": "2026-09-24",
+         "end": "2027-03-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-23T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 40,
+         "seats_left": 0,
+         "units": 18,
+         "destiny_section_id": "43331818",
+         "crm_id": "5049549000067458155",
+         "last_sync": "2026-09-11T04:26:23-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "008",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-01-05",
+         "end": "2027-06-01",
+         "enroll_start": null,
+         "enroll_end": "2027-01-04T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 18,
+         "seats_left": 22,
+         "units": null,
+         "destiny_section_id": "44178719",
+         "crm_id": "5049549000082218004",
+         "last_sync": "2026-09-10T06:59:26-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "009",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-06-19",
+         "end": "2027-09-11",
+         "enroll_start": null,
+         "enroll_end": "2027-06-18T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": null,
+         "destiny_section_id": "44341289",
+         "crm_id": "5049549000086329028",
+         "last_sync": "2026-09-10T07:00:23-07:00"
+        },
+        {
+         "code": "010",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-06-20",
+         "end": "2027-09-12",
+         "enroll_start": null,
+         "enroll_end": "2027-06-19T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": null,
+         "destiny_section_id": "44342284",
+         "crm_id": "5049549000086349016",
+         "last_sync": "2026-09-10T07:01:50-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "XLRN 822.EMT",
+     "title": "XLRN 822.EMT - Intensive EMT Refresher Course",
+     "crm_name": "Intensive EMT Refresher Course",
+     "units": "2.5",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41116860",
+     "destiny_course_id": "41116860",
+     "crm_id": "5049549000069590240",
+     "tokens": [
+      "EMT#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

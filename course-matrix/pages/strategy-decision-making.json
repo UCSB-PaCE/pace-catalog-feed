@@ -1,0 +1,746 @@
+{
+ "page": "strategy-decision-making",
+ "page_url": "https://professional.ucsb.edu/strategy-decision-making",
+ "page_title": "Strategy and Decision Making",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "strategyDecisionMaking#main",
+   "title": "Required",
+   "courses": [
+    {
+     "code": "BUSAD X432",
+     "title": "BUSAD X432 - Negotiation and Influence Strategies",
+     "crm_name": "Negotiation and Influence Strategies",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27420581",
+     "destiny_course_id": "27420581",
+     "crm_id": "5049549000066764011",
+     "tokens": [
+      "General-Advanced-Business#leadership",
+      "agileProjectManagementInt#sub",
+      "foudationsAgileProjectManagement#sub",
+      "leadershipCertifcate#sub",
+      "strategyDecisionMaking#main",
+      "businessAdministration#sub3",
+      "entrepreneurship#sub1",
+      "businessLeadership#sub",
+      "busAdminManagement#leadership"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "033",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-09-28",
+         "end": "2026-12-07",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-04T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "43357949",
+         "crm_id": "5049549000067807726",
+         "last_sync": "2026-07-10T07:16:07-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "034",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2027-01-04",
+         "end": "2027-03-15",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44150014",
+         "crm_id": "5049549000081198003",
+         "last_sync": "2026-07-30T08:38:15-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "035",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44226970",
+         "crm_id": "5049549000083666005",
+         "last_sync": "2026-08-13T09:04:07-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "036",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-08-30",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44306432",
+         "crm_id": "5049549000085665002",
+         "last_sync": "2026-08-13T09:17:40-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X450",
+     "title": "MGMNT X450 - Business Strategy and Decision Making",
+     "crm_name": "Business Strategy and Decision Making",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34648348",
+     "destiny_course_id": "34648348",
+     "crm_id": "5049549000066766403",
+     "tokens": [
+      "General-Advanced-Business#marketing",
+      "agileProjectManagementInt#sub",
+      "humanResourceManagement#sub",
+      "foudationsAgileProjectManagement#sub",
+      "projectManagementCertificate#sub",
+      "strategyDecisionMaking#main",
+      "businessAdministration#main",
+      "appliedBusinessEssentials#main",
+      "busAdminManagement#main1"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "HyFlex",
+       "modalities": [
+        "HyFlex"
+       ],
+       "sections": [
+        {
+         "code": "012",
+         "modality": "HyFlex",
+         "instruction_method": "HyFlex",
+         "state": "enrollment_closed",
+         "start": "2026-09-30",
+         "end": "2026-12-09",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-06T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "43372943",
+         "crm_id": "5049549000068028123",
+         "last_sync": "2026-07-14T05:18:22-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "013",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 28,
+         "enrolled": 1,
+         "seats_left": 27,
+         "units": 4,
+         "destiny_section_id": "44161890",
+         "crm_id": "5049549000081532005",
+         "last_sync": "2026-09-15T04:49:47-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "014",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-09",
+         "enroll_start": null,
+         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44268182",
+         "crm_id": "5049549000084874001",
+         "last_sync": "2026-09-15T04:47:26-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "sub",
+   "token": "strategyDecisionMaking#sub",
+   "title": "Electives (Choose 1)",
+   "courses": [
+    {
+     "code": "BUSAD X408L",
+     "title": "BUSAD X408L - Business Law",
+     "crm_name": "Business Law",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31249800",
+     "destiny_course_id": "31249800",
+     "crm_id": "5049549000066611001",
+     "tokens": [
+      "General-Advanced-Business#leadership",
+      "Paralegal#sub",
+      "HR#main",
+      "strategyDecisionMaking#sub",
+      "businessAdministration#main",
+      "busAdminManagement#main3"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "018",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-24",
+         "end": "2026-12-11",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 1,
+         "seats_left": 39,
+         "units": 4,
+         "destiny_section_id": "43476511",
+         "crm_id": "5049549000071850012",
+         "last_sync": "2026-07-30T06:41:39-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "019",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-09",
+         "enroll_start": null,
+         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44226038",
+         "crm_id": "5049549000083622006",
+         "last_sync": "2026-07-31T03:56:03-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "BUSAD X409.65",
+     "title": "BUSAD X409.65 - Marketing Principles & Practices",
+     "crm_name": "Marketing Principles & Practices",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16569939",
+     "destiny_course_id": "16569939",
+     "crm_id": "5049549000066764001",
+     "tokens": [
+      "General-Advanced-Business#marketing",
+      "strategyDecisionMaking#sub",
+      "businessAdministration#main",
+      "appliedBusinessEssentials#sub",
+      "foundationsDigitalMarketing#main",
+      "busAdminManagement#main1"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "038",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2026-09-30",
+         "end": "2026-12-09",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-06T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 3,
+         "seats_left": 21,
+         "units": 4,
+         "destiny_section_id": "43356717",
+         "crm_id": "5049549000067780443",
+         "last_sync": "2026-07-22T10:28:54-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "039",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-04",
+         "end": "2027-03-19",
+         "enroll_start": null,
+         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44148728",
+         "crm_id": "5049549000081136009",
+         "last_sync": "2026-07-30T07:21:14-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "040",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-04-01",
+         "end": "2027-06-10",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44226537",
+         "crm_id": "5049549000083608005",
+         "last_sync": "2026-07-30T07:36:24-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ECON X435",
+     "title": "ECON X435 - Finance for Business Management",
+     "crm_name": "Finance for Business Management",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31111538",
+     "destiny_course_id": "31111538",
+     "crm_id": "5049549000066768628",
+     "tokens": [
+      "General-Advanced-Business#finance",
+      "strategyDecisionMaking#sub",
+      "businessAdministration#main",
+      "entrepreneurship#sub2",
+      "busAdminManagement#main2"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (blended)",
+       "modalities": [
+        "Online (blended)"
+       ],
+       "sections": [
+        {
+         "code": "017",
+         "modality": "Online (blended)",
+         "instruction_method": "Online Blended",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-05T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44228058",
+         "crm_id": "5049549000083626008",
+         "last_sync": "2026-07-30T10:08:46-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X410",
+     "title": "MGMNT X410 - Business Development and Sales",
+     "crm_name": "Business Development and Sales",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36145630",
+     "destiny_course_id": "36145630",
+     "crm_id": "5049549000066767006",
+     "tokens": [
+      "General-Advanced-Business#marketing",
+      "strategyDecisionMaking#sub",
+      "businessAdministration#sub2",
+      "entrepreneurship#sub1",
+      "appliedBusinessEssentials#main",
+      "globalMarketing#sub",
+      "busAdminManagement#marketing"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "009",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-09-30",
+         "end": "2026-12-09",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-06T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "43372582",
+         "crm_id": "5049549000068074261",
+         "last_sync": "2026-08-06T02:10:59-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "010",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44260257",
+         "crm_id": "5049549000084757003",
+         "last_sync": "2026-09-15T05:15:06-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "MGMNT X482",
+     "title": "MGMNT X482 - Public Relations",
+     "crm_name": "Public Relations",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34288803",
+     "destiny_course_id": "34288803",
+     "crm_id": "5049549000066771001",
+     "tokens": [
+      "General-Advanced-Business#marketing",
+      "strategyDecisionMaking#sub",
+      "businessAdministration#sub2",
+      "appliedBusinessEssentials#sub",
+      "globalMarketing#sub",
+      "businessLeadership#sub",
+      "busAdminManagement#marketing"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "011",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2026-09-28",
+         "end": "2026-12-07",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-04T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 6,
+         "seats_left": 18,
+         "units": 4,
+         "destiny_section_id": "43409270",
+         "crm_id": "5049549000068749032",
+         "last_sync": "2026-08-12T08:50:02-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "012",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-07",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44269318",
+         "crm_id": "5049549000084874005",
+         "last_sync": "2026-08-07T04:59:43-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

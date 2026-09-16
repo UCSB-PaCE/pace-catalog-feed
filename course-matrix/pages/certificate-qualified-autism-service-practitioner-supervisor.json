@@ -1,0 +1,414 @@
+{
+ "page": "certificate-qualified-autism-service-practitioner-supervisor",
+ "page_url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
+ "page_title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "QASPS#main",
+   "title": "Required PaCE Courses (Total of 225 Hours)",
+   "courses": [
+    {
+     "code": "ED X315",
+     "title": "ED X315 - Philosophical Underpinnings, Concepts, and Principles",
+     "crm_name": "Philosophical Underpinnings, Concepts, and Principles",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33441837",
+     "destiny_course_id": "33441837",
+     "crm_id": "5049549000066772438",
+     "tokens": [
+      "QASPS#main",
+      "BCaBA#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "011",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 5,
+         "destiny_section_id": "44164675",
+         "crm_id": "5049549000081581004",
+         "last_sync": "2026-07-17T04:18:45-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X316",
+     "title": "ED X316 - Single Case Design and Behavior Intervention",
+     "crm_name": "Single Case Design and Behavior Intervention",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33442010",
+     "destiny_course_id": "33442010",
+     "crm_id": "5049549000066777416",
+     "tokens": [
+      "BCaBA#main",
+      "QASPS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "010",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 5,
+         "destiny_section_id": "43566738",
+         "crm_id": "5049549000073580014",
+         "last_sync": "2026-05-15T09:40:17-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X317",
+     "title": "ED X317 - Behavior Assessment and Intervention",
+     "crm_name": "Behavior Assessment and Intervention",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33449384",
+     "destiny_course_id": "33449384",
+     "crm_id": "5049549000066767498",
+     "tokens": [
+      "BCaBA#main",
+      "QASPS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "010",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 5,
+         "destiny_section_id": "43579505",
+         "crm_id": "5049549000073830013",
+         "last_sync": "2026-05-15T10:12:22-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X318",
+     "title": "ED X318 - Behavior-Change Procedures",
+     "crm_name": "Behavior-Change Procedures",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33449554",
+     "destiny_course_id": "33449554",
+     "crm_id": "5049549000066801412",
+     "tokens": [
+      "BCaBA#main",
+      "QASPS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "010",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 5,
+         "destiny_section_id": "44000031",
+         "crm_id": "5049549000079374005",
+         "last_sync": "2026-06-22T09:51:06-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X319Q",
+     "title": "ED X319Q - Ethics and Supervision",
+     "crm_name": "Professional and Ethical Issues in Behavior Analysis",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35503089",
+     "destiny_course_id": "35503089",
+     "crm_id": "5049549000066775687",
+     "tokens": [
+      "QASPS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2025-10-06T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 5,
+         "destiny_section_id": "41892809",
+         "crm_id": "5049549000066784683",
+         "last_sync": "2026-04-11T01:30:11-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X320S",
+     "title": "ED X320S - Personnel, Supervision, and Management",
+     "crm_name": "ED X 320S: Personnel, Supervision, and Management",
+     "units": "2",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35199557",
+     "destiny_course_id": "35199557",
+     "crm_id": "5049549000066770513",
+     "tokens": [
+      "QASPS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

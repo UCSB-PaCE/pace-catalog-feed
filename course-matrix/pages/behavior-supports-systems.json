@@ -1,0 +1,437 @@
+{
+ "page": "behavior-supports-systems",
+ "page_url": "https://professional.ucsb.edu/behavior-supports-systems",
+ "page_title": "Behavior Supports and Systems",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "BSS#main",
+   "title": "Individual Behavior Supports and Systems Courses",
+   "courses": [
+    {
+     "code": "ED X310A",
+     "title": "ED X310A - What's Next: Navigating Life after School",
+     "crm_name": "What\u2019s Next: Navigating Life after School",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36102812",
+     "destiny_course_id": "36102812",
+     "crm_id": "5049549000066777751",
+     "tokens": [
+      "BSS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2027-01-01",
+         "end": "2027-12-31",
+         "enroll_start": null,
+         "enroll_end": "2027-12-31T15:59:00-08:00",
+         "capacity": 100,
+         "enrolled": 0,
+         "seats_left": 100,
+         "units": 4,
+         "destiny_section_id": "43567455",
+         "crm_id": "5049549000073515026",
+         "last_sync": "2026-05-08T03:41:41-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X310B",
+     "title": "ED X310B - Registered Behavior Technician Training",
+     "crm_name": "Registered Behavior Technician (RBT) Training",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=37187206",
+     "destiny_course_id": "37187206",
+     "crm_id": "5049549000069550510",
+     "tokens": [
+      "BSS#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online",
+         "instruction_method": null,
+         "state": "enrollment_closed",
+         "start": "2027-01-01",
+         "end": "2027-12-31",
+         "enroll_start": null,
+         "enroll_end": "2027-12-31T15:59:00-08:00",
+         "capacity": 100,
+         "enrolled": 0,
+         "seats_left": 100,
+         "units": 4,
+         "destiny_section_id": "43567581",
+         "crm_id": "5049549000073568016",
+         "last_sync": "2026-05-08T04:49:21-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  },
+  {
+   "key": "sub",
+   "token": "BSS#sub",
+   "title": "Naturalistic Developmental Behavioral Intervention (NDBI)",
+   "courses": [
+    {
+     "code": "ED X310C",
+     "title": "ED X310C - Basics of ABA and Clinical Intervention Strategies",
+     "crm_name": "Basics of ABA and Clinical Intervention Strategies",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=39154767",
+     "destiny_course_id": "39154767",
+     "crm_id": "5049549000066779867",
+     "tokens": [
+      "BSS#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2027-01-01",
+         "end": "2027-12-31",
+         "enroll_start": null,
+         "enroll_end": "2027-12-31T15:59:00-08:00",
+         "capacity": 100,
+         "enrolled": 0,
+         "seats_left": 100,
+         "units": 3,
+         "destiny_section_id": "43567649",
+         "crm_id": "5049549000073626027",
+         "last_sync": "2026-05-08T04:51:33-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X310D",
+     "title": "ED X310D - Introduction to Naturalistic Developmental Behavioral Intervention (NDBI)",
+     "crm_name": "Introduction to Naturalistic Developmental Behavioral Intervention (NDBI)",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=39154984",
+     "destiny_course_id": "39154984",
+     "crm_id": "5049549000066765874",
+     "tokens": [
+      "BSS#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-01",
+         "end": "2027-12-31",
+         "enroll_start": null,
+         "enroll_end": "2027-12-31T15:59:00-08:00",
+         "capacity": 100,
+         "enrolled": 0,
+         "seats_left": 100,
+         "units": 3,
+         "destiny_section_id": "43567867",
+         "crm_id": "5049549000073544023",
+         "last_sync": "2026-05-08T04:55:36-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X310E",
+     "title": "ED X310E - Development and Needs of Children with Autism",
+     "crm_name": "Development and Needs of Children with Autism",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40349090",
+     "destiny_course_id": "40349090",
+     "crm_id": "5049549000066799772",
+     "tokens": [
+      "BSS#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2027-03-31",
+         "end": "2027-12-31",
+         "enroll_start": null,
+         "enroll_end": "2027-12-31T15:59:00-08:00",
+         "capacity": 100,
+         "enrolled": 0,
+         "seats_left": 100,
+         "units": 3,
+         "destiny_section_id": "43579302",
+         "crm_id": "5049549000073917015",
+         "last_sync": "2026-05-08T06:56:25-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X310F",
+     "title": "ED X310F - Assessment of Children with Autism",
+     "crm_name": "Assessment of Children with Autism",
+     "units": 3,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40349284",
+     "destiny_course_id": "40349284",
+     "crm_id": "5049549000066800804",
+     "tokens": [
+      "BSS#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-12-31",
+         "enroll_start": null,
+         "enroll_end": "2027-03-31T16:59:00-07:00",
+         "capacity": 100,
+         "enrolled": 0,
+         "seats_left": 100,
+         "units": 3,
+         "destiny_section_id": "43579424",
+         "crm_id": "5049549000073925010",
+         "last_sync": "2026-05-08T07:00:43-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1213 @@
+{
+ "page": "certificate-child-life",
+ "page_url": "https://professional.ucsb.edu/certificate-child-life",
+ "page_title": "Child Life",
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "columns": [
+  "Fall",
+  "Winter",
+  "Spring",
+  "Summer"
+ ],
+ "na_label": "N/A",
+ "blocks": [
+  {
+   "key": "main",
+   "token": "CL#main",
+   "title": "PaCE Child Life Courses",
+   "courses": [
+    {
+     "code": "ED X370.11",
+     "title": "ED X370.11 - Pediatric Palliative Care & Hospice",
+     "crm_name": "Pediatric Palliative Care & Hospice",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27406321",
+     "destiny_course_id": "27406321",
+     "crm_id": "5049549000066796001",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "015",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "full",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2026-01-25T16:00:00-08:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 32,
+         "enrolled": 32,
+         "seats_left": 0,
+         "units": 4,
+         "destiny_section_id": "42714708",
+         "crm_id": "5049549000066784036",
+         "last_sync": "2026-08-31T03:25:44-07:00"
+        },
+        {
+         "code": "016",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44183913",
+         "crm_id": "5049549000082335002",
+         "last_sync": "2026-07-20T08:26:12-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.12",
+     "title": "ED X370.12 - Family Systems",
+     "crm_name": "Family Systems: Child, Family and Community",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28010698",
+     "destiny_course_id": "28010698",
+     "crm_id": "5049549000066787210",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "027",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2026-01-25T16:00:00-08:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 4,
+         "seats_left": 36,
+         "units": 4,
+         "destiny_section_id": "42716351",
+         "crm_id": "5049549000066789042",
+         "last_sync": "2026-04-11T01:30:20-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "028",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43579797",
+         "crm_id": "5049549000073828007",
+         "last_sync": "2026-05-08T07:06:00-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.13",
+     "title": "ED X370.13 - Children with Disabilities in the Healthcare Systems",
+     "crm_name": "Children with Disabilities in the Healthcare System",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28459414",
+     "destiny_course_id": "28459414",
+     "crm_id": "5049549000066797001",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "016",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43566107",
+         "crm_id": "5049549000073572023",
+         "last_sync": "2026-05-15T09:49:29-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.14",
+     "title": "ED X370.14 - Research Methodologies in Child Life",
+     "crm_name": "Research Methodologies in Child Life",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28459553",
+     "destiny_course_id": "28459553",
+     "crm_id": "5049549000066784006",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "019",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2026-01-25T16:00:00-08:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "42716512",
+         "crm_id": "5049549000066766035",
+         "last_sync": "2026-04-11T01:29:00-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "020",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43579904",
+         "crm_id": "5049549000073857033",
+         "last_sync": "2026-05-08T07:38:10-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.15",
+     "title": "ED X370.15 - Child Life & Trauma",
+     "crm_name": "Child Life and Trauma",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28876718",
+     "destiny_course_id": "28876718",
+     "crm_id": "5049549000066789020",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "017",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43566253",
+         "crm_id": "5049549000073637013",
+         "last_sync": "2026-05-15T10:00:43-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.19",
+     "title": "ED X370.19 - Early Child Development: Birth to 8",
+     "crm_name": "Early Child Development: Birth to Eight",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=30777371",
+     "destiny_course_id": "30777371",
+     "crm_id": "5049549000066776011",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "021",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2026-01-25T16:00:00-08:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 2,
+         "seats_left": 48,
+         "units": 4,
+         "destiny_section_id": "42716715",
+         "crm_id": "5049549000066779030",
+         "last_sync": "2026-04-11T01:29:53-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "022",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43580011",
+         "crm_id": "5049549000073941009",
+         "last_sync": "2026-05-08T07:40:51-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.2",
+     "title": "ED X370.2 - Child Life: Introduction to Theory and Practice",
+     "crm_name": "Child Life: Introduction to Theory and Practice",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=24996820",
+     "destiny_course_id": "24996820",
+     "crm_id": "5049549000066769037",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "104",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43565815",
+         "crm_id": "5049549000073516015",
+         "last_sync": "2026-05-08T05:08:47-07:00"
+        },
+        {
+         "code": "105",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43565985",
+         "crm_id": "5049549000073552015",
+         "last_sync": "2026-05-08T05:12:29-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "106",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "44164806",
+         "crm_id": "5049549000081559009",
+         "last_sync": "2026-07-17T04:37:14-07:00"
+        },
+        {
+         "code": "107",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "44164925",
+         "crm_id": "5049549000081611007",
+         "last_sync": "2026-07-17T04:42:47-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.21",
+     "title": "ED X370.21 - Adolescent Development (ages 9-18)",
+     "crm_name": "Adolescent Development (ages 9-18)",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32098816",
+     "destiny_course_id": "32098816",
+     "crm_id": "5049549000066786210",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "015",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "43566361",
+         "crm_id": "5049549000074170007",
+         "last_sync": "2026-05-08T05:21:41-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "016",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "44165632",
+         "crm_id": "5049549000081586009",
+         "last_sync": "2026-07-17T04:55:37-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.3",
+     "title": "ED X370.3 - Therapeutic Role of Play in Pediatric Care",
+     "crm_name": "Therapeutic Role of Play in Pediatric Care",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120019",
+     "destiny_course_id": "26120019",
+     "crm_id": "5049549000066795001",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "050",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "43566587",
+         "crm_id": "5049549000073575017",
+         "last_sync": "2026-05-08T05:29:20-07:00"
+        },
+        {
+         "code": "049",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "43566467",
+         "crm_id": "5049549000074179007",
+         "last_sync": "2026-05-08T05:26:52-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "051",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "44165032",
+         "crm_id": "5049549000081560005",
+         "last_sync": "2026-07-17T04:59:05-07:00"
+        },
+        {
+         "code": "052",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "44165202",
+         "crm_id": "5049549000081572010",
+         "last_sync": "2026-07-17T05:05:19-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.4",
+     "title": "ED X370.4 - Death, Dying, & Grief in Pediatric Care",
+     "crm_name": "Death, Dying and Grief in Pediatric Care",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120331",
+     "destiny_course_id": "26120331",
+     "crm_id": "5049549000066779013",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online, Online (self-paced)",
+       "modalities": [
+        "Online",
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "057",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2026-01-25T16:00:00-08:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 25,
+         "enrolled": 0,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "42716128",
+         "crm_id": "5049549000066774021",
+         "last_sync": "2026-08-10T07:27:14-07:00"
+        },
+        {
+         "code": "063",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 25,
+         "enrolled": 0,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "44281694",
+         "crm_id": "5049549000084891030",
+         "last_sync": "2026-08-31T00:20:51-07:00"
+        },
+        {
+         "code": "064",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 25,
+         "enrolled": 0,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "44390028",
+         "crm_id": "5049549000088121001",
+         "last_sync": "2026-08-31T01:56:33-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "060",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 25,
+         "enrolled": 0,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "43580132",
+         "crm_id": "5049549000073870019",
+         "last_sync": "2026-05-08T07:45:45-07:00"
+        },
+        {
+         "code": "061",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 25,
+         "enrolled": 0,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "43580279",
+         "crm_id": "5049549000073927012",
+         "last_sync": "2026-05-08T07:52:36-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "062",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 25,
+         "enrolled": 0,
+         "seats_left": 25,
+         "units": 4,
+         "destiny_section_id": "44165399",
+         "crm_id": "5049549000081586007",
+         "last_sync": "2026-07-17T05:11:47-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "ED X370.5",
+     "title": "ED X370.5 - Assessment, Preparation and Medical Terminology",
+     "crm_name": "Assessment, Preparation and Medical Terminology",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120334",
+     "destiny_course_id": "26120334",
+     "crm_id": "5049549000066778018",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "030",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": "2026-01-25T16:00:00-08:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
+         "seats_left": 50,
+         "units": 4,
+         "destiny_section_id": "42715807",
+         "crm_id": "5049549000066789054",
+         "last_sync": "2026-04-11T01:30:21-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "032",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 45,
+         "enrolled": 0,
+         "seats_left": 45,
+         "units": 4,
+         "destiny_section_id": "43581404",
+         "crm_id": "5049549000073925013",
+         "last_sync": "2026-05-08T07:57:31-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "XLRN 870A",
+     "title": "XLRN 870A - Child Life Prep Program",
+     "crm_name": "Child Life Prep Program",
+     "units": "4",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34924438",
+     "destiny_course_id": "34924438",
+     "crm_id": "5049549000068086057",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    },
+    {
+     "code": "XLRN 870B",
+     "title": "XLRN 870B - Child Life Supervision Internship",
+     "crm_name": "Child Life Supervision Internship",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36950020",
+     "destiny_course_id": "36950020",
+     "crm_id": "5049549000069547438",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "017",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2026-08-31",
+         "end": "2026-12-18",
+         "enroll_start": null,
+         "enroll_end": "2026-09-15T16:59:00-07:00",
+         "capacity": 5,
+         "enrolled": 0,
+         "seats_left": 5,
+         "units": 4,
+         "destiny_section_id": "44091511",
+         "crm_id": "5049549000080008002",
+         "last_sync": "2026-06-29T02:16:55-07:00"
+        },
+        {
+         "code": "016",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2026-08-31",
+         "end": "2026-12-18",
+         "enroll_start": null,
+         "enroll_end": "2026-09-15T16:59:00-07:00",
+         "capacity": 5,
+         "enrolled": 0,
+         "seats_left": 5,
+         "units": 4,
+         "destiny_section_id": "44091392",
+         "crm_id": "5049549000080014001",
+         "last_sync": "2026-06-29T02:11:30-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false
+    }
+   ]
+  }
+ ]
+}

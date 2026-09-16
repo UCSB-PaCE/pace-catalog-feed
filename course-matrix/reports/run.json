@@ -1,0 +1,19 @@
+{
+ "generated_at": "2026-09-16T01:03:51+00:00",
+ "today": "2026-09-16",
+ "window": {
+  "Fall": "Fall 2026",
+  "Winter": "Winter 2027",
+  "Spring": "Spring 2027",
+  "Summer": "Summer 2027"
+ },
+ "rows": 133,
+ "pages": 28,
+ "cells_changed": 0,
+ "cells_total": 0,
+ "diff_gate_tripped": false,
+ "snapshot": null,
+ "notes": [
+  "linked by course code (sheet had no URL): ED X317B Behavior Assessment and Intervention Part II -> ED X317B"
+ ]
+}
