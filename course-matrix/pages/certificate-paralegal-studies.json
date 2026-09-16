@@ -2,7 +2,7 @@
  "page": "certificate-paralegal-studies",
  "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
  "page_title": "Paralegal Studies",
- "generated_at": "2026-09-16T01:10:13+00:00",
+ "generated_at": "2026-09-16T01:26:55+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -51,13 +51,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-22T05:00:00-07:00",
          "capacity": 30,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 30,
+         "enrolled": 6,
+         "crm_availability": "Available",
+         "seats_left": 24,
          "units": 1,
          "destiny_section_id": "43432981",
          "crm_id": "5049549000069483007",
-         "last_sync": "2026-07-31T08:01:09-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -318,13 +318,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 30,
+         "enrolled": 4,
+         "crm_availability": "Available",
+         "seats_left": 26,
          "units": 4,
          "destiny_section_id": "43434409",
          "crm_id": "5049549000069455006",
-         "last_sync": "2026-07-31T09:03:06-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -565,13 +565,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 1,
+         "enrolled": 8,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 32,
          "units": 3,
          "destiny_section_id": "43389731",
          "crm_id": "5049549000068306123",
-         "last_sync": "2026-07-31T10:01:42-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -654,13 +654,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 40,
+         "enrolled": 1,
+         "crm_availability": "Available",
+         "seats_left": 39,
          "units": 1,
          "destiny_section_id": "43390113",
          "crm_id": "5049549000068390197",
-         "last_sync": "2026-07-16T07:32:19-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -797,13 +797,13 @@
          "enroll_start": null,
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 1,
+         "enrolled": 10,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 30,
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-07-30T06:41:39-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1247,13 +1247,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 40,
+         "enrolled": 6,
+         "crm_availability": "Available",
+         "seats_left": 34,
          "units": 3,
          "destiny_section_id": "43390525",
          "crm_id": "5049549000068298132",
-         "last_sync": "2026-04-11T01:32:49-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1451,13 +1451,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 30,
+         "enrolled": 11,
+         "crm_availability": "Available",
+         "seats_left": 19,
          "units": 3,
          "destiny_section_id": "43435377",
          "crm_id": "5049549000069522012",
-         "last_sync": "2026-04-11T01:33:57-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,

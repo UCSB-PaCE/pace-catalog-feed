@@ -2,7 +2,7 @@
  "page": "international-business-development",
  "page_url": "https://professional.ucsb.edu/international-business-development",
  "page_title": "International Business Development",
- "generated_at": "2026-09-16T01:10:13+00:00",
+ "generated_at": "2026-09-16T01:26:55+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -56,13 +56,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-07T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 24,
+         "enrolled": 5,
+         "crm_availability": "Available",
+         "seats_left": 19,
          "units": 4,
          "destiny_section_id": "43350217",
          "crm_id": "5049549000067789326",
-         "last_sync": "2026-07-10T04:05:14-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -114,13 +114,13 @@
          "enroll_start": null,
          "enroll_end": "2027-03-31T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 24,
+         "seats_left": 23,
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-07-30T07:15:03-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -168,13 +168,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-07T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 0,
-         "crm_availability": "No Longer Available",
-         "seats_left": 24,
+         "enrolled": 7,
+         "crm_availability": "Available",
+         "seats_left": 17,
          "units": 4,
          "destiny_section_id": "43357192",
          "crm_id": "5049549000067873292",
-         "last_sync": "2026-07-10T04:29:21-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -282,13 +282,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 1,
+         "enrolled": 20,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 20,
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-08-02T11:48:50-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -311,13 +311,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T15:59:00-08:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-07-31T07:38:50-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,

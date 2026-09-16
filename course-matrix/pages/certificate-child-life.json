@@ -2,7 +2,7 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-09-16T01:10:13+00:00",
+ "generated_at": "2026-09-16T01:26:55+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -45,19 +45,19 @@
          "code": "015",
          "modality": "Online (self-paced)",
          "instruction_method": "Online Asynchronous",
-         "state": "full",
+         "state": "waitlist",
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 32,
          "enrolled": 32,
-         "crm_availability": "Available",
+         "crm_availability": "Waitlist",
          "seats_left": 0,
          "units": 4,
          "destiny_section_id": "42714708",
          "crm_id": "5049549000066784036",
-         "last_sync": "2026-08-31T03:25:44-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         },
         {
          "code": "016",
@@ -69,13 +69,13 @@
          "enroll_start": null,
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 19,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 21,
          "units": 4,
          "destiny_section_id": "44183913",
          "crm_id": "5049549000082335002",
-         "last_sync": "2026-07-20T08:26:12-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -121,7 +121,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "waitlist",
        "label": "Online",
        "modalities": [
         "Online"
@@ -131,19 +131,19 @@
          "code": "027",
          "modality": "Online",
          "instruction_method": "Online",
-         "state": "open",
+         "state": "waitlist",
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 4,
-         "crm_availability": "Available",
-         "seats_left": 36,
+         "enrolled": 40,
+         "crm_availability": "Waitlist",
+         "seats_left": 0,
          "units": 4,
          "destiny_section_id": "42716351",
          "crm_id": "5049549000066789042",
-         "last_sync": "2026-04-11T01:30:20-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -174,13 +174,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 46,
          "units": 4,
          "destiny_section_id": "43579797",
          "crm_id": "5049549000073828007",
-         "last_sync": "2026-05-08T07:06:00-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -234,13 +234,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 48,
          "units": 4,
          "destiny_section_id": "43566107",
          "crm_id": "5049549000073572023",
-         "last_sync": "2026-05-15T09:49:29-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -294,13 +294,13 @@
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 25,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 15,
          "units": 4,
          "destiny_section_id": "42716512",
          "crm_id": "5049549000066766035",
-         "last_sync": "2026-04-11T01:29:00-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -331,13 +331,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 48,
          "units": 4,
          "destiny_section_id": "43579904",
          "crm_id": "5049549000073857033",
-         "last_sync": "2026-05-08T07:38:10-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -391,13 +391,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 46,
          "units": 4,
          "destiny_section_id": "43566253",
          "crm_id": "5049549000073637013",
-         "last_sync": "2026-05-15T10:00:43-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -435,7 +435,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "full",
        "label": "Online",
        "modalities": [
         "Online"
@@ -445,19 +445,19 @@
          "code": "021",
          "modality": "Online",
          "instruction_method": "Online",
-         "state": "open",
+         "state": "full",
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 2,
-         "crm_availability": "Available",
-         "seats_left": 48,
+         "enrolled": 50,
+         "crm_availability": "Closed",
+         "seats_left": 0,
          "units": 4,
          "destiny_section_id": "42716715",
          "crm_id": "5049549000066779030",
-         "last_sync": "2026-04-11T01:29:53-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -488,13 +488,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 47,
          "units": 4,
          "destiny_section_id": "43580011",
          "crm_id": "5049549000073941009",
-         "last_sync": "2026-05-08T07:40:51-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -548,13 +548,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 41,
          "units": 4,
          "destiny_section_id": "43565815",
          "crm_id": "5049549000073516015",
-         "last_sync": "2026-05-08T05:08:47-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         },
         {
          "code": "105",
@@ -566,13 +566,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 46,
          "units": 4,
          "destiny_section_id": "43565985",
          "crm_id": "5049549000073552015",
-         "last_sync": "2026-05-08T05:12:29-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -673,13 +673,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 7,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 43,
          "units": 4,
          "destiny_section_id": "43566361",
          "crm_id": "5049549000074170007",
-         "last_sync": "2026-05-08T05:21:41-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -780,13 +780,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 8,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 32,
          "units": 4,
          "destiny_section_id": "43566467",
          "crm_id": "5049549000074179007",
-         "last_sync": "2026-05-08T05:26:52-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -863,7 +863,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "waitlist",
        "label": "Online, Online (self-paced)",
        "modalities": [
         "Online",
@@ -874,55 +874,55 @@
          "code": "057",
          "modality": "Online",
          "instruction_method": "Online",
-         "state": "open",
+         "state": "full",
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 25,
+         "enrolled": 25,
+         "crm_availability": "Closed",
+         "seats_left": 0,
          "units": 4,
          "destiny_section_id": "42716128",
          "crm_id": "5049549000066774021",
-         "last_sync": "2026-08-10T07:27:14-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         },
         {
          "code": "063",
          "modality": "Online (self-paced)",
          "instruction_method": "Online Asynchronous",
-         "state": "open",
+         "state": "waitlist",
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": null,
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 25,
+         "enrolled": 25,
+         "crm_availability": "Waitlist",
+         "seats_left": 0,
          "units": 4,
          "destiny_section_id": "44281694",
          "crm_id": "5049549000084891030",
-         "last_sync": "2026-08-31T00:20:51-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         },
         {
          "code": "064",
          "modality": "Online (self-paced)",
          "instruction_method": "Online Asynchronous",
-         "state": "open",
+         "state": "waitlist",
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": null,
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 25,
+         "enrolled": 25,
+         "crm_availability": "Waitlist",
+         "seats_left": 0,
          "units": 4,
          "destiny_section_id": "44390028",
          "crm_id": "5049549000088121001",
-         "last_sync": "2026-08-31T01:56:33-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -953,13 +953,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 0,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 25,
+         "seats_left": 21,
          "units": 4,
          "destiny_section_id": "43580132",
          "crm_id": "5049549000073870019",
-         "last_sync": "2026-05-08T07:45:45-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         },
         {
          "code": "061",
@@ -971,13 +971,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 25,
+         "seats_left": 24,
          "units": 4,
          "destiny_section_id": "43580279",
          "crm_id": "5049549000073927012",
-         "last_sync": "2026-05-08T07:52:36-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1044,13 +1044,13 @@
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 0,
+         "enrolled": 37,
          "crm_availability": "Available",
-         "seats_left": 50,
+         "seats_left": 13,
          "units": 4,
          "destiny_section_id": "42715807",
          "crm_id": "5049549000066789054",
-         "last_sync": "2026-04-11T01:30:21-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,

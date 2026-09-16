@@ -2,7 +2,7 @@
  "page": "certificate-qualified-autism-service-practitioner-supervisor",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
  "page_title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
- "generated_at": "2026-09-16T01:10:13+00:00",
+ "generated_at": "2026-09-16T01:26:55+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -129,13 +129,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 37,
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-05-15T09:40:17-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -259,13 +259,13 @@
          "enroll_start": null,
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 8,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 32,
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-06-22T09:51:06-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,

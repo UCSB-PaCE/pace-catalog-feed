@@ -2,7 +2,7 @@
  "page": "emergency-medical-technician",
  "page_url": "https://professional.ucsb.edu/emergency-medical-technician",
  "page_title": "Emergency Medical Technician",
- "generated_at": "2026-09-16T01:10:13+00:00",
+ "generated_at": "2026-09-16T01:26:55+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -35,7 +35,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "full",
+       "state": "waitlist",
        "label": "Hybrid",
        "modalities": [
         "Hybrid"
@@ -45,19 +45,19 @@
          "code": "007",
          "modality": "Hybrid",
          "instruction_method": "Hybrid",
-         "state": "full",
+         "state": "waitlist",
          "start": "2026-09-24",
          "end": "2027-03-11",
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-23T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 40,
-         "crm_availability": "Available",
+         "crm_availability": "Waitlist",
          "seats_left": 0,
          "units": 18,
          "destiny_section_id": "43331818",
          "crm_id": "5049549000067458155",
-         "last_sync": "2026-09-11T04:26:23-07:00"
+         "last_sync": "2026-09-15T18:20:36-07:00"
         }
        ],
        "hidden_sections": 0,
