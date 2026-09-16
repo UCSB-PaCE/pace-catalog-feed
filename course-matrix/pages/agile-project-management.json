@@ -2,7 +2,7 @@
  "page": "agile-project-management",
  "page_url": "https://professional.ucsb.edu/agile-project-management",
  "page_title": "Agile Project Management",
- "generated_at": "2026-09-16T01:03:51+00:00",
+ "generated_at": "2026-09-16T01:10:13+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -64,6 +64,7 @@
          "enroll_end": "2027-01-11T15:59:00-08:00",
          "capacity": 24,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 24,
          "units": 4,
          "destiny_section_id": "44157893",
@@ -100,6 +101,7 @@
          "enroll_end": "2027-06-28T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44329106",
@@ -141,7 +143,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -151,13 +153,14 @@
          "code": "033",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2026-09-28",
          "end": "2026-12-07",
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "43357949",
@@ -169,7 +172,7 @@
        "term": "Fall 2026"
       },
       "Winter": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -179,13 +182,14 @@
          "code": "034",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2027-01-04",
          "end": "2027-03-15",
          "enroll_start": null,
          "enroll_end": "2027-01-10T15:59:00-08:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44150014",
@@ -214,6 +218,7 @@
          "enroll_end": "2027-04-04T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44226970",
@@ -242,6 +247,7 @@
          "enroll_end": "2027-06-27T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44306432",
@@ -277,7 +283,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -287,13 +293,14 @@
          "code": "031",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2026-09-28",
          "end": "2026-12-07",
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 24,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 24,
          "units": 4,
          "destiny_section_id": "43358418",
@@ -305,7 +312,7 @@
        "term": "Fall 2026"
       },
       "Winter": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -315,13 +322,14 @@
          "code": "032",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2027-01-04",
          "end": "2027-03-15",
          "enroll_start": null,
          "enroll_end": "2027-01-10T15:59:00-08:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44150178",
@@ -350,6 +358,7 @@
          "enroll_end": "2027-04-06T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44227133",
@@ -378,6 +387,7 @@
          "enroll_end": "2027-06-29T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44306644",
@@ -413,7 +423,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "Online (blended)",
        "modalities": [
         "Online (blended)"
@@ -423,13 +433,14 @@
          "code": "027",
          "modality": "Online (blended)",
          "instruction_method": "Online Blended",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2026-09-28",
          "end": "2026-12-07",
          "enroll_start": null,
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 30,
          "units": 4,
          "destiny_section_id": "43448220",
@@ -441,7 +452,7 @@
        "term": "Fall 2026"
       },
       "Winter": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "Online (blended)",
        "modalities": [
         "Online (blended)"
@@ -451,13 +462,14 @@
          "code": "028",
          "modality": "Online (blended)",
          "instruction_method": "Online Blended",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2027-01-06",
          "end": "2027-03-17",
          "enroll_start": null,
          "enroll_end": "2027-01-12T15:59:00-08:00",
          "capacity": 30,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 30,
          "units": 4,
          "destiny_section_id": "44150598",
@@ -508,7 +520,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "enrollment_closed",
+       "state": "open",
        "label": "HyFlex",
        "modalities": [
         "HyFlex"
@@ -518,13 +530,14 @@
          "code": "012",
          "modality": "HyFlex",
          "instruction_method": "HyFlex",
-         "state": "enrollment_closed",
+         "state": "open",
          "start": "2026-09-30",
          "end": "2026-12-09",
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-06T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "No Longer Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "43372943",
@@ -553,6 +566,7 @@
          "enroll_end": "2027-01-10T15:59:00-08:00",
          "capacity": 28,
          "enrolled": 1,
+         "crm_availability": "Available",
          "seats_left": 27,
          "units": 4,
          "destiny_section_id": "44161890",
@@ -581,6 +595,7 @@
          "enroll_end": "2027-04-06T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
+         "crm_availability": "Available",
          "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44268182",
