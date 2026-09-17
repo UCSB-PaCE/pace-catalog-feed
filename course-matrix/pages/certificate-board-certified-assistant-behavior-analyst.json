@@ -2,11 +2,11 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-09-17T18:50:18+00:00",
+ "generated_at": "2026-09-17T20:20:35+00:00",
  "certificate": {
   "code": "CE0037",
   "name": "Assistant Behavior Analyst",
-  "synced": "2026-03-27T14:49:57-07:00",
+  "synced": "2026-09-17T06:02:36-07:00",
   "all": [
    "CE0037"
   ]
@@ -112,7 +112,7 @@
          "units": 5,
          "destiny_section_id": "44164675",
          "crm_id": "5049549000081581004",
-         "last_sync": "2026-09-17T00:02:58-07:00"
+         "last_sync": "2026-09-17T06:02:22-07:00"
         }
        ],
        "hidden_sections": 0,

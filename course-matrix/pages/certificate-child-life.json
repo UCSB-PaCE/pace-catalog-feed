@@ -2,11 +2,11 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-09-17T18:50:18+00:00",
+ "generated_at": "2026-09-17T20:20:35+00:00",
  "certificate": {
   "code": "CE0006",
   "name": "Child Life",
-  "synced": "2026-03-27T14:21:58-07:00",
+  "synced": "2026-09-17T06:02:19-07:00",
   "all": [
    "CE0006"
   ]
@@ -258,7 +258,7 @@
          "units": 4,
          "destiny_section_id": "42716351",
          "crm_id": "5049549000066789042",
-         "last_sync": "2026-09-17T00:03:17-07:00"
+         "last_sync": "2026-09-17T06:02:37-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -825,7 +825,7 @@
          "units": 4,
          "destiny_section_id": "44164806",
          "crm_id": "5049549000081559009",
-         "last_sync": "2026-09-17T00:02:54-07:00"
+         "last_sync": "2026-09-17T06:02:19-07:00"
         },
         {
          "code": "107",
@@ -843,7 +843,7 @@
          "units": 4,
          "destiny_section_id": "44164925",
          "crm_id": "5049549000081611007",
-         "last_sync": "2026-09-17T00:03:04-07:00"
+         "last_sync": "2026-09-17T06:02:27-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -981,7 +981,7 @@
          "units": 4,
          "destiny_section_id": "44165632",
          "crm_id": "5049549000081586009",
-         "last_sync": "2026-09-17T00:03:03-07:00"
+         "last_sync": "2026-09-17T06:02:26-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1137,7 +1137,7 @@
          "units": 4,
          "destiny_section_id": "44165032",
          "crm_id": "5049549000081560005",
-         "last_sync": "2026-09-17T00:02:56-07:00"
+         "last_sync": "2026-09-17T06:02:20-07:00"
         },
         {
          "code": "052",
@@ -1155,7 +1155,7 @@
          "units": 4,
          "destiny_section_id": "44165202",
          "crm_id": "5049549000081572010",
-         "last_sync": "2026-09-17T00:02:57-07:00"
+         "last_sync": "2026-09-17T06:02:21-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1219,7 +1219,7 @@
          "units": 4,
          "destiny_section_id": "44281694",
          "crm_id": "5049549000084891030",
-         "last_sync": "2026-09-17T01:23:12-07:00"
+         "last_sync": "2026-09-17T05:47:31-07:00"
         },
         {
          "code": "064",
@@ -1237,7 +1237,7 @@
          "units": 4,
          "destiny_section_id": "44390028",
          "crm_id": "5049549000088121001",
-         "last_sync": "2026-09-17T01:23:15-07:00"
+         "last_sync": "2026-09-17T06:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1321,7 +1321,7 @@
          "units": 4,
          "destiny_section_id": "44165399",
          "crm_id": "5049549000081586007",
-         "last_sync": "2026-09-17T00:03:00-07:00"
+         "last_sync": "2026-09-17T06:02:23-07:00"
         }
        ],
        "hidden_sections": 0,
