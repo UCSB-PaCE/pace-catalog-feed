@@ -2,9 +2,23 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-09-17T18:28:27+00:00",
- "certificate": null,
- "issues": [],
+ "generated_at": "2026-09-17T18:50:18+00:00",
+ "certificate": {
+  "code": "CE0029",
+  "name": "Applied Behavior Analysis",
+  "synced": "2026-09-17T11:41:57-07:00",
+  "all": [
+   "CE0029"
+  ]
+ },
+ "issues": [
+  {
+   "kind": "unmatched_stream",
+   "stream": "Required (choose 1)",
+   "courses": "ED X309C.5, ED X310A.5",
+   "cert": "CE0029"
+  }
+ ],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -23,10 +37,37 @@
    "key": "main",
    "token": "BCBA#main",
    "title": "Required Courses",
-   "stream": null,
+   "stream": {
+    "id": "5049549000066767304",
+    "name": "Applied Behavior Analysis 6th Edition",
+    "required": 7,
+    "ip_stream": false,
+    "cert": "CE0029"
+   },
    "issues": [
     {
-     "kind": "no_certificate"
+     "kind": "missing_tag",
+     "course": "ED X312.1.5",
+     "token": "BCBA#main",
+     "stream": "Applied Behavior Analysis 6th Edition"
+    },
+    {
+     "kind": "extra_tag",
+     "course": "ED X309C.5",
+     "token": "BCBA#main",
+     "stream": "Applied Behavior Analysis 6th Edition"
+    },
+    {
+     "kind": "extra_tag",
+     "course": "ED X310A.5",
+     "token": "BCBA#main",
+     "stream": "Applied Behavior Analysis 6th Edition"
+    },
+    {
+     "kind": "extra_tag",
+     "course": "ED X365.5B",
+     "token": "BCBA#main",
+     "stream": "Applied Behavior Analysis 6th Edition"
     }
    ],
    "courses": [
@@ -331,76 +372,6 @@
      "tag_issue": null
     },
     {
-     "code": "ED X309C.5",
-     "title": "ED X309C.5 - Procedures, Interventions, and Supervision",
-     "crm_name": "Procedures, Interventions, and Supervision",
-     "units": 5,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356189",
-     "destiny_course_id": "32356189",
-     "crm_id": "5049549000066771226",
-     "tokens": [
-      "QBA#main",
-      "BCBA#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "open",
-       "label": "Online (self-paced)",
-       "modalities": [
-        "Online (self-paced)"
-       ],
-       "sections": [
-        {
-         "code": "017",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "open",
-         "start": "2027-03-31",
-         "end": "2027-06-04",
-         "enroll_start": null,
-         "enroll_end": "2027-04-07T16:59:00-07:00",
-         "capacity": 40,
-         "enrolled": 1,
-         "crm_availability": "Available",
-         "seats_left": 39,
-         "units": 5,
-         "destiny_section_id": "43577572",
-         "crm_id": "5049549000073873016",
-         "last_sync": "2026-09-17T04:03:17-07:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false,
-     "tag_issue": null
-    },
-    {
      "code": "ED X309D.5",
      "title": "ED X309D.5 - ABA Competency Course*",
      "crm_name": "Applied Behavior Analysis Competency Course",
@@ -570,14 +541,16 @@
      "tag_issue": null
     },
     {
-     "code": "ED X310A.5",
-     "title": "ED X310A.5 - Organizational Behavior Management in Applied Settings",
-     "crm_name": "Organizational Behavior Management in Applied Settings",
+     "code": "ED X312.1.5",
+     "title": "ED X312.1.5 - Cognitive Development in Autism & Other Severe Disabilities",
+     "crm_name": "Cognitive Development in Autism & Other Severe Disabilities",
      "units": 5,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42197013",
-     "destiny_course_id": "42197013",
-     "crm_id": "5049549000066782170",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356936",
+     "destiny_course_id": "32356936",
+     "crm_id": "5049549000066796236",
      "tokens": [
+      "QBA#main",
+      "BCBA#sub",
       "BCBA#main"
      ],
      "terms": {
@@ -598,6 +571,14 @@
        "term": "Winter 2027"
       },
       "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
        "state": "open",
        "label": "Online (self-paced)",
        "modalities": [
@@ -605,38 +586,30 @@
        ],
        "sections": [
         {
-         "code": "003",
+         "code": "016",
          "modality": "Online (self-paced)",
          "instruction_method": "Online Asynchronous",
          "state": "open",
-         "start": "2027-03-31",
-         "end": "2027-06-04",
+         "start": "2027-06-23",
+         "end": "2027-09-10",
          "enroll_start": null,
-         "enroll_end": "2027-04-07T16:59:00-07:00",
-         "capacity": 40,
-         "enrolled": 4,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 50,
+         "enrolled": 0,
          "crm_availability": "Available",
-         "seats_left": 36,
+         "seats_left": 50,
          "units": 5,
-         "destiny_section_id": "43579121",
-         "crm_id": "5049549000073873018",
-         "last_sync": "2026-09-17T04:02:55-07:00"
+         "destiny_section_id": "44164105",
+         "crm_id": "5049549000081555006",
+         "last_sync": "2026-09-17T00:02:54-07:00"
         }
        ],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
        "hidden_sections": 0,
        "term": "Summer 2027"
       }
      },
      "manual": false,
-     "tag_issue": null
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ED X365.5",
@@ -722,93 +695,6 @@
        "label": "N/A",
        "modalities": [],
        "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false,
-     "tag_issue": null
-    },
-    {
-     "code": "ED X365.5B",
-     "title": "ED X365.5B Behavior Assessment & Intervention for Children & Adolescents Part II",
-     "crm_name": "Behavior Assessment and Intervention Part II",
-     "units": 5,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43652324",
-     "destiny_course_id": "43652324",
-     "crm_id": "5049549000075390009",
-     "tokens": [
-      "BCBA#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "open",
-       "label": "Online (self-paced)",
-       "modalities": [
-        "Online (self-paced)"
-       ],
-       "sections": [
-        {
-         "code": "002",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "open",
-         "start": "2027-01-06",
-         "end": "2027-03-12",
-         "enroll_start": null,
-         "enroll_end": "2027-01-13T15:59:00-08:00",
-         "capacity": 40,
-         "enrolled": 2,
-         "crm_availability": "Available",
-         "seats_left": 38,
-         "units": 5,
-         "destiny_section_id": "43653512",
-         "crm_id": "5049549000075472009",
-         "last_sync": "2026-09-17T04:02:58-07:00"
-        },
-        {
-         "code": "001",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "open",
-         "start": "2027-01-06",
-         "end": "2027-03-12",
-         "enroll_start": null,
-         "enroll_end": "2027-01-13T15:59:00-08:00",
-         "capacity": 40,
-         "enrolled": 8,
-         "crm_availability": "Available",
-         "seats_left": 32,
-         "units": 5,
-         "destiny_section_id": "43653299",
-         "crm_id": "5049549000075478013",
-         "last_sync": "2026-09-17T04:02:59-07:00"
-        }
-       ],
        "hidden_sections": 0,
        "term": "Winter 2027"
       },
@@ -947,7 +833,9 @@
    "stream": null,
    "issues": [
     {
-     "kind": "no_certificate"
+     "kind": "no_stream",
+     "tagged": "ED X312.1.5, XLRN 809A, XLRN 809B",
+     "streams": "Applied Behavior Analysis 6th Edition [ED X301D.5, ED X309A.5, ED X309B.5, ED X309D.5, ED X312.1.5, ED X365.5, ED X391.5]; Required (choose 1) [ED X309C.5, ED X310A.5]"
     }
    ],
    "courses": [
@@ -961,7 +849,8 @@
      "crm_id": "5049549000066796236",
      "tokens": [
       "QBA#main",
-      "BCBA#sub"
+      "BCBA#sub",
+      "BCBA#main"
      ],
      "terms": {
       "Fall": {

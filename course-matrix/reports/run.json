@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T18:28:27+00:00",
+ "generated_at": "2026-09-17T18:50:18+00:00",
  "today": "2026-09-17",
  "window": {
   "Fall": "Fall 2026",
@@ -9,7 +9,7 @@
  },
  "rows": 151,
  "pages": 28,
- "cells_changed": 72,
+ "cells_changed": 0,
  "cells_total": 604,
  "diff_gate_tripped": false,
  "snapshot": null,
@@ -37,5 +37,5 @@
   "added from CRM stream (not in sheet): LAW X422 - Elder Law (Formerly, Aging and the Law) -> Paralegal#sub",
   "added from CRM stream (not in sheet): LAW X459 - LAW X459 -> Paralegal#sub"
  ],
- "tag_issues": 43
+ "tag_issues": 53
 }

@@ -2,8 +2,15 @@
  "page": "behavior-supports-systems",
  "page_url": "https://professional.ucsb.edu/behavior-supports-systems",
  "page_title": "Behavior Supports and Systems",
- "generated_at": "2026-09-17T18:28:27+00:00",
- "certificate": null,
+ "generated_at": "2026-09-17T18:50:18+00:00",
+ "certificate": {
+  "code": "CE0065",
+  "name": "Naturalistic Developmental Behavioral Interventions",
+  "synced": "2026-03-27T15:21:40-07:00",
+  "all": [
+   "CE0065"
+  ]
+ },
  "issues": [],
  "window": {
   "Fall": "Fall 2026",
@@ -26,7 +33,9 @@
    "stream": null,
    "issues": [
     {
-     "kind": "no_certificate"
+     "kind": "no_stream",
+     "tagged": "ED X310A, ED X310B",
+     "streams": "Required Courses [ED X310C, ED X310D, ED X310E, ED X310F]"
     }
    ],
    "courses": [
@@ -174,12 +183,14 @@
    "key": "sub",
    "token": "BSS#sub",
    "title": "Naturalistic Developmental Behavioral Intervention (NDBI)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000066789931",
+    "name": "Required Courses",
+    "required": 4,
+    "ip_stream": false,
+    "cert": "CE0065"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "ED X310C",

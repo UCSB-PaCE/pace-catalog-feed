@@ -2,9 +2,23 @@
  "page": "certificate-qualified-autism-service-practitioner-supervisor",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
  "page_title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
- "generated_at": "2026-09-17T18:28:27+00:00",
- "certificate": null,
- "issues": [],
+ "generated_at": "2026-09-17T18:50:18+00:00",
+ "certificate": {
+  "code": "CE0057",
+  "name": "International Qualified Autism Specialist",
+  "synced": "2026-09-17T11:42:06-07:00",
+  "all": [
+   "CE0057"
+  ]
+ },
+ "issues": [
+  {
+   "kind": "unmatched_stream",
+   "stream": "Additional Required Course",
+   "courses": "ED X319, ED X319Q",
+   "cert": "CE0057"
+  }
+ ],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -23,10 +37,19 @@
    "key": "main",
    "token": "QASPS#main",
    "title": "Required PaCE Courses (Total of 225 Hours)",
-   "stream": null,
+   "stream": {
+    "id": "5049549000066772693",
+    "name": "Required Courses",
+    "required": 4,
+    "ip_stream": false,
+    "cert": "CE0057"
+   },
    "issues": [
     {
-     "kind": "no_certificate"
+     "kind": "extra_tag",
+     "course": "ED X319Q",
+     "token": "QASPS#main",
+     "stream": "Required Courses"
     }
    ],
    "courses": [
@@ -277,75 +300,6 @@
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
          "last_sync": "2026-09-17T04:03:00-07:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false,
-     "tag_issue": null
-    },
-    {
-     "code": "ED X319Q",
-     "title": "ED X319Q - Ethics and Supervision",
-     "crm_name": "Professional and Ethical Issues in Behavior Analysis",
-     "units": 5,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35503089",
-     "destiny_course_id": "35503089",
-     "crm_id": "5049549000066775687",
-     "tokens": [
-      "QASPS#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "open",
-       "label": "Online",
-       "modalities": [
-        "Online"
-       ],
-       "sections": [
-        {
-         "code": "005",
-         "modality": "Online",
-         "instruction_method": "Online",
-         "state": "open",
-         "start": "2026-09-23",
-         "end": "2026-12-04",
-         "enroll_start": "2025-10-06T17:00:00-07:00",
-         "enroll_end": "2026-09-30T16:59:00-07:00",
-         "capacity": 40,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 40,
-         "units": 5,
-         "destiny_section_id": "41892809",
-         "crm_id": "5049549000066784683",
-         "last_sync": "2026-09-17T02:03:25-07:00"
         }
        ],
        "hidden_sections": 0,

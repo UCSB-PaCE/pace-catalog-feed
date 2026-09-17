@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T18:28:27+00:00",
+ "generated_at": "2026-09-17T18:50:18+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -584,7 +584,7 @@
    "category": "Certificate of Completion",
    "streams": [
     {
-     "name": "Applied Behavior Analysis 5th Edition",
+     "name": "Applied Behavior Analysis 6th Edition",
      "required": 7,
      "elective": false,
      "ip_stream": false,
@@ -663,6 +663,7 @@
      "elective": false,
      "ip_stream": false,
      "courses": [
+      "ED X319",
       "ED X319Q"
      ]
     },
@@ -675,7 +676,8 @@
       "ED X315",
       "ED X316",
       "ED X317",
-      "ED X318"
+      "ED X318",
+      "ED X320S"
      ]
     }
    ]
@@ -1500,7 +1502,31 @@
    "name": "Foundations of Agile Project Management",
    "landing_url": "https://www.professional.ucsb.edu/program/project-management",
    "category": "Professional Certificate",
-   "streams": []
+   "streams": [
+    {
+     "name": "Required Elective Courses",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X450.33",
+      "MGMNT X450",
+      "TMP X451"
+     ]
+    },
+    {
+     "name": "Required Courses",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "TMP X450",
+      "TMP X454"
+     ]
+    }
+   ]
   },
   {
    "code": "AV00",
@@ -1887,12 +1913,17 @@
      "elective": false,
      "ip_stream": false,
      "courses": [
-      "COMM W XSB146",
+      "COMM XSB108",
       "COMM XSB122",
+      "COMM XSB126",
       "COMM XSB127",
       "COMM XSB136",
       "COMM XSB142",
+      "COMM XSB146",
       "COMM XSB148",
+      "COMM XSB170",
+      "COMM XSB174",
+      "COMM XSB176",
       "COMM XSB177"
      ]
     }
@@ -2555,6 +2586,9 @@
      "ip_stream": false,
      "courses": [
       "ENV S X489.12",
+      "ENV S X489.17",
+      "ENV S X489.6",
+      "ESM X489.15",
       "ESM X489.16",
       "ESM X489.18",
       "ESM X489.19",
@@ -2567,7 +2601,11 @@
      "elective": false,
      "ip_stream": false,
      "courses": [
+      "ESM X489",
+      "ESM X489.1",
       "ESM X489.2",
+      "ESM X489.3",
+      "ESM X489.4",
       "ESM X489.5"
      ]
     }
@@ -2651,63 +2689,186 @@
    "name": "Sports Management",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Core Requirements (Complete 2 Courses)",
+     "required": 2,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X411.1",
+      "MGMNT X411.2"
+     ]
+    },
+    {
+     "name": "Core Elective (Select One)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X411.3",
+      "MGMNT X411.4",
+      "MGMNT X411.5"
+     ]
+    },
+    {
+     "name": "Final Practicum (Select One)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X411.6",
+      "MGMNT X411.7"
+     ]
+    },
+    {
+     "name": "Prerequisite",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X411"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0091",
    "name": "Agentic AI for Leaders: Systems, Design and Impact",
    "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 869.01"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0092",
    "name": "Full Stack Development Program with Generative AI",
    "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 869.02"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0093",
    "name": "Applied Generative AI Specialization",
    "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 869.03"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0094",
    "name": "Generative AI Applications for Leaders",
    "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 869.04"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0095",
    "name": "Professional Certificate in AI and Machine Learning",
    "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 869.05"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0096",
    "name": "Professional Certificate in Data Analytics & GenAI",
    "landing_url": "https://www.professional.ucsb.edu/program/ai-data-science",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 869.06"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0097",
    "name": "Foundations of Digital Marketing",
    "landing_url": "https://www.professional.ucsb.edu/certificate-digital-marketing",
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.65",
+      "MGMNT X477",
+      "MGMNT X477.1"
+     ]
+    }
+   ]
   },
   {
    "code": "GB00",
    "name": "Global Business Management",
    "landing_url": "https://www.professional.ucsb.edu/program/business-management",
    "category": "Professional Certificate Program",
-   "streams": []
+   "streams": [
+    {
+     "name": "Required Course (14 Units)",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X420.5"
+     ]
+    }
+   ]
   }
  ]
 }

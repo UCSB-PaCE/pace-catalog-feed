@@ -2,11 +2,11 @@
  "page": "certificate-sports-management",
  "page_url": "https://professional.ucsb.edu/certificate-sports-management",
  "page_title": "Sports Management",
- "generated_at": "2026-09-17T18:28:27+00:00",
+ "generated_at": "2026-09-17T18:50:18+00:00",
  "certificate": {
   "code": "CE0090",
   "name": "Sports Management",
-  "synced": null,
+  "synced": "2026-09-17T11:44:45-07:00",
   "all": [
    "CE0090"
   ]
@@ -30,14 +30,14 @@
    "key": "prereq",
    "token": "sportsManagement#prereq",
    "title": "Prerequisite (Required)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "MGMNT X411",
-     "streams": "none"
-    }
-   ],
+   "stream": {
+    "id": "5049549000089805002",
+    "name": "Prerequisite",
+    "required": 1,
+    "ip_stream": false,
+    "cert": "CE0090"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411",
@@ -159,14 +159,14 @@
    "key": "core1",
    "token": "sportsManagement#core1",
    "title": "Core Requirements (Complete 2 Courses)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "MGMNT X411.1, MGMNT X411.2",
-     "streams": "none"
-    }
-   ],
+   "stream": {
+    "id": "5049549000089776004",
+    "name": "Core Requirements (Complete 2 Courses)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0090"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.1",
@@ -339,14 +339,14 @@
    "key": "core2",
    "token": "sportsManagement#core2",
    "title": "Core Elective (Select One)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "MGMNT X411.3, MGMNT X411.4, MGMNT X411.5",
-     "streams": "none"
-    }
-   ],
+   "stream": {
+    "id": "5049549000089781005",
+    "name": "Core Elective (Select One)",
+    "required": 4,
+    "ip_stream": false,
+    "cert": "CE0090"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.3",
@@ -570,14 +570,14 @@
    "key": "final",
    "token": "sportsManagement#final",
    "title": "Final Practicum (Select One)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "MGMNT X411.6, MGMNT X411.7",
-     "streams": "none"
-    }
-   ],
+   "stream": {
+    "id": "5049549000089782006",
+    "name": "Final Practicum (Select One)",
+    "required": 4,
+    "ip_stream": false,
+    "cert": "CE0090"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.6",

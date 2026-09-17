@@ -2,9 +2,30 @@
  "page": "sports-management-studies",
  "page_url": "https://professional.ucsb.edu/sports-management-studies",
  "page_title": "Sports Management Studies",
- "generated_at": "2026-09-17T18:28:27+00:00",
- "certificate": null,
- "issues": [],
+ "generated_at": "2026-09-17T18:50:18+00:00",
+ "certificate": {
+  "code": "CE0088",
+  "name": "Sports Management Studies: Essentials",
+  "synced": "2026-04-12T23:13:53-07:00",
+  "all": [
+   "CE0088",
+   "CE0089"
+  ]
+ },
+ "issues": [
+  {
+   "kind": "unmatched_stream",
+   "stream": "Required Courses",
+   "courses": "MGMNT X411, MGMNT X411.1, MGMNT X411.2",
+   "cert": "CE0089"
+  },
+  {
+   "kind": "unmatched_stream",
+   "stream": "Elective (Complete 3)",
+   "courses": "MGMNT X411.3, MGMNT X411.4, MGMNT X411.5",
+   "cert": "CE0089"
+  }
+ ],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -23,12 +44,14 @@
    "key": "main",
    "token": "core1#main",
    "title": "Core Course (Required)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000070544207",
+    "name": "Core Course",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0088"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411",
@@ -150,12 +173,14 @@
    "key": "gov",
    "token": "core1#gov",
    "title": "Governance and Financial Principles (Choose One)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000070527545",
+    "name": "Governance and Financial Principles",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0088"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.1",
@@ -328,12 +353,14 @@
    "key": "applied",
    "token": "core1#applied",
    "title": "Applied Sport Operations and Systems (Choose One)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000070528670",
+    "name": "Applied Sport Operations and Systems",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0088"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.3",
@@ -557,12 +584,14 @@
    "key": "main",
    "token": "core2#main",
    "title": "Core Course (Required)",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000070544207",
+    "name": "Core Course",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0088"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411",
@@ -684,12 +713,14 @@
    "key": "gov",
    "token": "core2#gov",
    "title": "Governance and Financial Principles",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000070527545",
+    "name": "Governance and Financial Principles",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0088"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.1",
@@ -862,12 +893,14 @@
    "key": "applied",
    "token": "core2#applied",
    "title": "Applied Sport Operations and Systems",
-   "stream": null,
-   "issues": [
-    {
-     "kind": "no_certificate"
-    }
-   ],
+   "stream": {
+    "id": "5049549000070528670",
+    "name": "Applied Sport Operations and Systems",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0088"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X411.3",

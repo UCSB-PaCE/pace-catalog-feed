@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T18:28:27+00:00",
+ "generated_at": "2026-09-17T18:50:18+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -72,9 +72,9 @@
    "url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
    "title": "Board Certified Behavior Analyst - BCBA",
    "blocks": 2,
-   "courses": 12,
-   "certificate": null,
-   "tag_issues": 2
+   "courses": 10,
+   "certificate": "CE0029",
+   "tag_issues": 6
   },
   {
    "page": "certificate-board-certified-assistant-behavior-analyst",
@@ -90,9 +90,9 @@
    "url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
    "title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
    "blocks": 1,
-   "courses": 6,
-   "certificate": null,
-   "tag_issues": 1
+   "courses": 5,
+   "certificate": "CE0057",
+   "tag_issues": 2
   },
   {
    "page": "certificate-qualified-behavior-analyst",
@@ -172,8 +172,8 @@
    "title": "General and Advanced Business Studies",
    "blocks": 4,
    "courses": 30,
-   "certificate": null,
-   "tag_issues": 4
+   "certificate": "CE0076",
+   "tag_issues": 6
   },
   {
    "page": "applied-ai-and-innovation-international",
@@ -218,7 +218,7 @@
    "blocks": 2,
    "courses": 7,
    "certificate": "CE0080",
-   "tag_issues": 2
+   "tag_issues": 0
   },
   {
    "page": "entrepreneurship",
@@ -236,7 +236,7 @@
    "blocks": 4,
    "courses": 8,
    "certificate": "CE0090",
-   "tag_issues": 4
+   "tag_issues": 0
   },
   {
    "page": "sports-management-studies",
@@ -244,8 +244,8 @@
    "title": "Sports Management Studies",
    "blocks": 6,
    "courses": 12,
-   "certificate": null,
-   "tag_issues": 6
+   "certificate": "CE0088",
+   "tag_issues": 2
   },
   {
    "page": "behavior-supports-systems",
@@ -253,8 +253,8 @@
    "title": "Behavior Supports and Systems",
    "blocks": 2,
    "courses": 6,
-   "certificate": null,
-   "tag_issues": 2
+   "certificate": "CE0065",
+   "tag_issues": 1
   },
   {
    "page": "foundations-digital-marketing",
@@ -263,7 +263,7 @@
    "blocks": 1,
    "courses": 3,
    "certificate": "CE0097",
-   "tag_issues": 1
+   "tag_issues": 0
   }
  ],
  "files": {
