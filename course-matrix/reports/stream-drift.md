@@ -194,7 +194,7 @@ Only in CRM streams: none
 | CRM stream | Required | Courses |
 |---|---|---|
 
-Only on site: BUSAD X432, BUSAD X435, BUSAD X450.33, MGMNT X450, TMP X451
+Only on site: BUSAD X432, BUSAD X435, BUSAD X450.33, MGMNT X450, TMP X450, TMP X451, TMP X454
 Only in CRM streams: none
 
 ## Global Marketing  <https://professional.ucsb.edu/global-marketing>
