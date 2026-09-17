@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T20:20:35+00:00",
+ "generated_at": "2026-09-17T22:36:20+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -2866,6 +2866,110 @@
      "ip_stream": false,
      "courses": [
       "BUSAD X420.5"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0085",
+   "name": "Certified SOC Analyst",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 849.03"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0087",
+   "name": "Certified Web Penetration Tester",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 849.05"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0084",
+   "name": "Certified Cybersecurity Analyst",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 849.02"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0098",
+   "name": "Cultural Resource Management",
+   "landing_url": null,
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ANTH X401",
+      "ANTH X402",
+      "ANTH X403"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0083",
+   "name": "Certified Cybersecurity Associate",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 849.01"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0086",
+   "name": "Certified Cybersecurity TI Analyst",
+   "landing_url": null,
+   "category": "Certificate of Completion",
+   "streams": [
+    {
+     "name": "Required",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 849.04"
      ]
     }
    ]

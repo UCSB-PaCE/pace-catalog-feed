@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T20:20:35+00:00",
+ "generated_at": "2026-09-17T22:36:20+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -117,9 +117,9 @@
    "url": "https://professional.ucsb.edu/certificate-business-administration",
    "title": "Business Administration and Management",
    "blocks": 8,
-   "courses": 22,
+   "courses": 25,
    "certificate": "CE0055",
-   "tag_issues": 5
+   "tag_issues": 7
   },
   {
    "page": "strategy-decision-making",
@@ -171,9 +171,9 @@
    "url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
    "title": "General and Advanced Business Studies",
    "blocks": 4,
-   "courses": 30,
+   "courses": 34,
    "certificate": "CE0076",
-   "tag_issues": 6
+   "tag_issues": 4
   },
   {
    "page": "applied-ai-and-innovation-international",
@@ -245,7 +245,7 @@
    "blocks": 6,
    "courses": 12,
    "certificate": "CE0088",
-   "tag_issues": 2
+   "tag_issues": 5
   },
   {
    "page": "behavior-supports-systems",
@@ -264,6 +264,24 @@
    "courses": 3,
    "certificate": "CE0097",
    "tag_issues": 0
+  },
+  {
+   "page": "certificate-digital-marketing",
+   "url": "https://professional.ucsb.edu/certificate-digital-marketing",
+   "title": "Digital Marketing",
+   "blocks": 2,
+   "courses": 10,
+   "certificate": "CE0023",
+   "tag_issues": 2
+  },
+  {
+   "page": "certificate-professional-accounting",
+   "url": "https://professional.ucsb.edu/certificate-professional-accounting",
+   "title": "Professional Accounting",
+   "blocks": 7,
+   "courses": 17,
+   "certificate": "CE0079",
+   "tag_issues": 3
   }
  ],
  "files": {

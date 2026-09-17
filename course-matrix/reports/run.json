@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T20:20:35+00:00",
+ "generated_at": "2026-09-17T22:36:20+00:00",
  "today": "2026-09-17",
  "window": {
   "Fall": "Fall 2026",
@@ -7,14 +7,13 @@
   "Spring": "Spring 2027",
   "Summer": "Summer 2027"
  },
- "rows": 151,
- "pages": 28,
- "cells_changed": 0,
- "cells_total": 604,
+ "rows": 156,
+ "pages": 30,
+ "cells_changed": 20,
+ "cells_total": 624,
  "diff_gate_tripped": false,
  "snapshot": null,
  "notes": [
-  "linked by course code (sheet had no URL): ED X317B Behavior Assessment and Intervention Part II -> ED X317B",
   "certificate-business-leadership: 2 certificates share the page (CE0073, CE0007); using CE0007",
   "added from CRM stream (not in sheet): MGMNT X476 - Communication Skills for Professionals -> businessLeadership#sub",
   "added from CRM stream (not in sheet): XLRN 815.EMT - Emergency Medical Technician \u2013 Basic -> EMT#main",
@@ -35,7 +34,14 @@
   "added from CRM stream (not in sheet): LAW X417.6 - LAW X417.6 -> Paralegal#sub",
   "added from CRM stream (not in sheet): LAW X417.7 - LAW X417.7 -> Paralegal#sub",
   "added from CRM stream (not in sheet): LAW X422 - Elder Law (Formerly, Aging and the Law) -> Paralegal#sub",
-  "added from CRM stream (not in sheet): LAW X459 - LAW X459 -> Paralegal#sub"
+  "added from CRM stream (not in sheet): LAW X459 - LAW X459 -> Paralegal#sub",
+  "added from CRM stream (not in sheet): MGMNT X172 - Ethical and Regulatory Environments -> busAdminManagement#main3",
+  "added from CRM stream (not in sheet): MGMNT X173 - Business Law and Social Responsibility -> busAdminManagement#main3",
+  "added from CRM stream (not in sheet): BUSAD X450.41 - Managing the Talent Lifecycle -> busAdminManagement#hr",
+  "added from CRM stream (not in sheet): MGMNT X481 - Selling for Non-Sales Professionals -> busAdminManagement#marketing",
+  "certificate-digital-marketing: 2 certificates share the page (CE0023, CE0097); using CE0023",
+  "added from CRM stream (not in sheet): BUSAD X401.3 - Public Relations and Advertising -> foundationsDigitalMarketing#sub",
+  "certificate-professional-accounting: 2 certificates share the page (CE0079, CP00); using CE0079"
  ],
- "tag_issues": 53
+ "tag_issues": 54
 }

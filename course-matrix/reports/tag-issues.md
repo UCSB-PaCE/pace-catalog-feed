@@ -2,7 +2,7 @@
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
-Total issues: 53
+Total issues: 54
 
 ## Business Leadership  <https://professional.ucsb.edu/certificate-business-leadership>
 
@@ -100,11 +100,13 @@ Certificate: LA00 Paralegal Studies
 
 Certificate: CE0055 Business Administration and Management
 
-- [page] STREAM WITHOUT A BLOCK: "Leadership and Strategy Specialization: 2 Courses (8 units)" (BUSAD X432, BUSAD X435, BUSAD X450.33, MGMNT X479, TMP X450)
-- [page] STREAM WITHOUT A BLOCK: "Marketing Specialization: 2-3 Courses (8 units)" (BUSAD X409.66, MGMNT X479, MGMNT X481, MGMNT X482)
-- [page] STREAM WITHOUT A BLOCK: "Business Accounting Specialization: 2 Courses (8 units)" (ECON X418, ECON X432)
-- [page] STREAM WITHOUT A BLOCK: "Business Law and Ethics: 1 Course Required (2 units)" (BUSAD X408L, MGMNT X172, MGMNT X173)
-- [page] STREAM WITHOUT A BLOCK: "Human Resource Management Specialization: 2 Courses (8 units)" (BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, BUSAD X450.41)
+- [Business Law Requirement: Complete 1 Course (4 units)] MISSING TAG: MGMNT X172 is in stream "Business Law and Ethics: 1 Course Required (2 units)" but not tagged `busAdminManagement#main3` (added to the block)
+- [Business Law Requirement: Complete 1 Course (4 units)] MISSING TAG: MGMNT X173 is in stream "Business Law and Ethics: 1 Course Required (2 units)" but not tagged `busAdminManagement#main3` (added to the block)
+- [Human Resources Management Specialization: 2 Courses (8 units)] MISSING TAG: BUSAD X450.41 is in stream "Human Resource Management Specialization: 2 Courses (8 units)" but not tagged `busAdminManagement#hr` (added to the block)
+- [Marketing Specialization: 2 Courses (8 units)] MISSING TAG: MGMNT X481 is in stream "Marketing Specialization: 2-3 Courses (8 units)" but not tagged `busAdminManagement#marketing` (added to the block)
+- [Marketing Specialization: 2 Courses (8 units)] EXTRA TAG: MGMNT X410 is tagged `busAdminManagement#marketing` but not in stream "Marketing Specialization: 2-3 Courses (8 units)" (removed from the block)
+- [Global Business Specialization: 2 Courses (8 units)] MISSING TAG: BUSAD X411.1 is in stream "Global Business Specialization: 2 Courses (8 Units)" but not tagged `busAdminManagement#globalBusiness` (added to the block)
+- [Global Business Specialization: 2 Courses (8 units)] EXTRA TAG: BUSAD X428 is tagged `busAdminManagement#globalBusiness` but not in stream "Global Business Specialization: 2 Courses (8 Units)" (removed from the block)
 
 ## Strategy and Decision Making  <https://professional.ucsb.edu/strategy-decision-making>
 
@@ -141,12 +143,10 @@ Certificate: CE0066 International Business Development
 
 Certificate: CE0076 General Business Studies
 
-- [Marketing, Communications, & Business Development] NO MATCHING STREAM for this block (tagged: BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, MGMNT X410, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482); streams: Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]
-- [Leadership, Human Resources, & Organizational Management] NO MATCHING STREAM for this block (tagged: BUSAD X408L, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40); streams: Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]
-- [Finance, Accounting, & Economics] NO MATCHING STREAM for this block (tagged: ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X432, ECON X433, ECON X435, ECON X455.1); streams: Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]
-- [Project Management] NO MATCHING STREAM for this block (tagged: TMP X450, TMP X451, TMP X452, TMP X454); streams: Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]
-- [page] STREAM WITHOUT A BLOCK: "Required Courses (3 Courses)" (BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454)
-- [page] STREAM WITHOUT A BLOCK: "Required Courses (6 Courses)" (BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454)
+- [page] POOL PAGE: the blocks here are the website's thematic slices of one shared course pool, not CRM streams, so membership is left as the site has it and the pool is checked as a whole against: Required Courses (3 Courses); Required Courses (6 Courses)
+- [page] MISSING FROM THE PAGE: BUSAD X411.1 is in this certificate's streams but on no block
+- [page] MISSING FROM THE PAGE: ECON X429 is in this certificate's streams but on no block
+- [page] NOT IN ANY STREAM: MGMNT X442 is on this page but in none of the certificate's streams
 
 ## Applied AI and Innovation, International  <https://professional.ucsb.edu/applied-ai-and-innovation-international>
 
@@ -194,6 +194,9 @@ Certificate: CE0090 Sports Management
 
 Certificate: CE0088 Sports Management Studies: Essentials
 
+- [Core Course (Required)] SPLIT STREAM: "Core Course" is rendered across several blocks (Core Course (Required), Core Course (Required)); membership is left as the site has it and checked as a group
+- [Governance and Financial Principles (Choose One)] SPLIT STREAM: "Governance and Financial Principles" is rendered across several blocks (Governance and Financial Principles (Choose One), Governance and Financial Principles); membership is left as the site has it and checked as a group
+- [Applied Sport Operations and Systems (Choose One)] SPLIT STREAM: "Applied Sport Operations and Systems" is rendered across several blocks (Applied Sport Operations and Systems (Choose One), Applied Sport Operations and Systems); membership is left as the site has it and checked as a group
 - [page] STREAM WITHOUT A BLOCK: "Required Courses" (MGMNT X411, MGMNT X411.1, MGMNT X411.2)
 - [page] STREAM WITHOUT A BLOCK: "Elective (Complete 3)" (MGMNT X411.3, MGMNT X411.4, MGMNT X411.5)
 
@@ -208,4 +211,19 @@ Certificate: CE0065 Naturalistic Developmental Behavioral Interventions
 Certificate: CE0097 Foundations of Digital Marketing
 
 - no issues
+
+## Digital Marketing  <https://professional.ucsb.edu/certificate-digital-marketing>
+
+Certificate: CE0023 Digital Marketing
+
+- [Elective Courses: At least 1 course (4 units)] MISSING TAG: BUSAD X401.3 is in stream "1-2 Elective Courses (Need 4 Units)" but not tagged `foundationsDigitalMarketing#sub` (added to the block)
+- [Elective Courses: At least 1 course (4 units)] MISSING TAG: MGMNT X481 is in stream "1-2 Elective Courses (Need 4 Units)" but not tagged `foundationsDigitalMarketing#sub` (added to the block)
+
+## Professional Accounting  <https://professional.ucsb.edu/certificate-professional-accounting>
+
+Certificate: CE0079 Professional Accounting
+
+- [Required] SPLIT STREAM: "Financial Accounting Track" is rendered across several blocks (Required, Elective (Choose 1)); membership is left as the site has it and checked as a group
+- [Required] SPLIT STREAM: "Cost and Analytics Track" is rendered across several blocks (Required, Elective (Choose 1)); membership is left as the site has it and checked as a group
+- [Required] SPLIT STREAM: "Taxation and Compliance Track" is rendered across several blocks (Required, Elective (Choose 1)); membership is left as the site has it and checked as a group
 

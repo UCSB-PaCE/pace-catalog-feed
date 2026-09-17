@@ -2,7 +2,7 @@
  "page": "sports-management-studies",
  "page_url": "https://professional.ucsb.edu/sports-management-studies",
  "page_title": "Sports Management Studies",
- "generated_at": "2026-09-17T20:20:35+00:00",
+ "generated_at": "2026-09-17T22:36:20+00:00",
  "certificate": {
   "code": "CE0088",
   "name": "Sports Management Studies: Essentials",
@@ -49,9 +49,17 @@
     "name": "Core Course",
     "required": 1,
     "ip_stream": true,
-    "cert": "CE0088"
+    "cert": "CE0088",
+    "split_across": 2
    },
-   "issues": [],
+   "issues": [
+    {
+     "kind": "split_stream",
+     "stream": "Core Course",
+     "split_blocks": "Core Course (Required), Core Course (Required)",
+     "token": "core1#main"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411",
@@ -91,7 +99,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-17T04:02:41-07:00"
+         "last_sync": "2026-09-17T08:03:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -178,9 +186,17 @@
     "name": "Governance and Financial Principles",
     "required": 1,
     "ip_stream": true,
-    "cert": "CE0088"
+    "cert": "CE0088",
+    "split_across": 2
    },
-   "issues": [],
+   "issues": [
+    {
+     "kind": "split_stream",
+     "stream": "Governance and Financial Principles",
+     "split_blocks": "Governance and Financial Principles (Choose One), Governance and Financial Principles",
+     "token": "core1#gov"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411.1",
@@ -220,7 +236,7 @@
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-17T02:03:19-07:00"
+         "last_sync": "2026-09-17T08:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -358,9 +374,17 @@
     "name": "Applied Sport Operations and Systems",
     "required": 1,
     "ip_stream": true,
-    "cert": "CE0088"
+    "cert": "CE0088",
+    "split_across": 2
    },
-   "issues": [],
+   "issues": [
+    {
+     "kind": "split_stream",
+     "stream": "Applied Sport Operations and Systems",
+     "split_blocks": "Applied Sport Operations and Systems (Choose One), Applied Sport Operations and Systems",
+     "token": "core1#applied"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411.3",
@@ -472,7 +496,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-17T04:02:41-07:00"
+         "last_sync": "2026-09-17T08:03:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -589,7 +613,8 @@
     "name": "Core Course",
     "required": 1,
     "ip_stream": true,
-    "cert": "CE0088"
+    "cert": "CE0088",
+    "split_across": 2
    },
    "issues": [],
    "courses": [
@@ -631,7 +656,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-17T04:02:41-07:00"
+         "last_sync": "2026-09-17T08:03:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -718,7 +743,8 @@
     "name": "Governance and Financial Principles",
     "required": 1,
     "ip_stream": true,
-    "cert": "CE0088"
+    "cert": "CE0088",
+    "split_across": 2
    },
    "issues": [],
    "courses": [
@@ -760,7 +786,7 @@
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-17T02:03:19-07:00"
+         "last_sync": "2026-09-17T08:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -898,7 +924,8 @@
     "name": "Applied Sport Operations and Systems",
     "required": 1,
     "ip_stream": true,
-    "cert": "CE0088"
+    "cert": "CE0088",
+    "split_across": 2
    },
    "issues": [],
    "courses": [
@@ -1012,7 +1039,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-17T04:02:41-07:00"
+         "last_sync": "2026-09-17T08:03:20-07:00"
         }
        ],
        "hidden_sections": 0,

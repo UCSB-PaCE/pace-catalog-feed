@@ -2,7 +2,7 @@
  "page": "general-and-advanced-business-studies",
  "page_url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
  "page_title": "General and Advanced Business Studies",
- "generated_at": "2026-09-17T20:20:35+00:00",
+ "generated_at": "2026-09-17T22:36:20+00:00",
  "certificate": {
   "code": "CE0076",
   "name": "General Business Studies",
@@ -14,16 +14,20 @@
  },
  "issues": [
   {
-   "kind": "unmatched_stream",
-   "stream": "Required Courses (3 Courses)",
-   "courses": "BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454",
-   "cert": "CE0076"
+   "kind": "pool_page",
+   "streams": "Required Courses (3 Courses); Required Courses (6 Courses)"
   },
   {
-   "kind": "unmatched_stream",
-   "stream": "Required Courses (6 Courses)",
-   "courses": "BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454",
-   "cert": "CE0077"
+   "kind": "missing_pool",
+   "course": "BUSAD X411.1"
+  },
+  {
+   "kind": "missing_pool",
+   "course": "ECON X429"
+  },
+  {
+   "kind": "extra_pool",
+   "course": "MGMNT X442"
   }
  ],
  "window": {
@@ -45,13 +49,7 @@
    "token": "General-Advanced-Business#marketing",
    "title": "Marketing, Communications, & Business Development",
    "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, MGMNT X410, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482",
-     "streams": "Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]"
-    }
-   ],
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -67,7 +65,8 @@
       "businessAdministration#sub5",
       "appliedBusinessEssentials#sub",
       "globalMarketing#main",
-      "busAdminManagement#globalBusiness"
+      "busAdminManagement#globalBusiness",
+      "foundationsDigitalMarketing#sub"
      ],
      "terms": {
       "Fall": {
@@ -209,7 +208,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-09-17T04:02:32-07:00"
+         "last_sync": "2026-09-17T08:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -286,56 +285,6 @@
      "tag_issue": null
     },
     {
-     "code": "BUSAD X411.1",
-     "title": "BUSAD X411.1 - Strategic Business Development for the Global Marketplace",
-     "crm_name": "Strategic Business Development for the Global Marketplace",
-     "units": "4",
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25087707",
-     "destiny_course_id": "25087707",
-     "crm_id": "5049549000066786215",
-     "tokens": [
-      "General-Advanced-Business#marketing",
-      "businessAdministration#sub5",
-      "busAdminManagement#globalBusiness"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false,
-     "tag_issue": null
-    },
-    {
      "code": "BUSAD X428",
      "title": "BUSAD X428 - Entrepreneurial Strategies and Planning",
      "crm_name": "Entrepreneurial Strategies and Planning",
@@ -371,7 +320,7 @@
          "units": 4,
          "destiny_section_id": "43357192",
          "crm_id": "5049549000067873292",
-         "last_sync": "2026-09-17T02:03:02-07:00"
+         "last_sync": "2026-09-17T08:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -462,7 +411,7 @@
       "entrepreneurship#sub1",
       "appliedBusinessEssentials#main",
       "globalMarketing#sub",
-      "busAdminManagement#marketing"
+      "foundationsDigitalMarketing#sub"
      ],
      "terms": {
       "Fall": {
@@ -525,7 +474,7 @@
          "units": 4,
          "destiny_section_id": "44260257",
          "crm_id": "5049549000084757003",
-         "last_sync": "2026-09-17T02:03:28-07:00"
+         "last_sync": "2026-09-17T08:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -536,6 +485,414 @@
        "label": "N/A",
        "modalities": [],
        "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "MGMNT X440",
+     "title": "MGMNT X440 - AI Essentials for Innovation",
+     "crm_name": "AI Essentials for Innovation",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41907568",
+     "destiny_course_id": "41907568",
+     "crm_id": "5049549000066771704",
+     "tokens": [
+      "SportsManagement",
+      "appliedAiandInnovationProfessional#main",
+      "appliedAiandInnovationDegree#main",
+      "appliedAiandInnovationInternational#main",
+      "General-Advanced-Business#marketing"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "waitlist",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "waitlist",
+         "start": "2026-09-30",
+         "end": "2026-12-09",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-06T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 24,
+         "crm_availability": "Waitlist",
+         "seats_left": 0,
+         "units": 4,
+         "destiny_section_id": "43371488",
+         "crm_id": "5049549000068040093",
+         "last_sync": "2026-09-17T04:03:16-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-05",
+         "end": "2027-03-16",
+         "enroll_start": null,
+         "enroll_end": "2027-01-11T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44156917",
+         "crm_id": "5049549000081335001",
+         "last_sync": "2026-09-17T06:02:43-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "006",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-05T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44264263",
+         "crm_id": "5049549000084763006",
+         "last_sync": "2026-09-17T06:03:09-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "007",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-23",
+         "end": "2027-09-08",
+         "enroll_start": null,
+         "enroll_end": "2027-06-29T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44324835",
+         "crm_id": "5049549000085938018",
+         "last_sync": "2026-09-17T08:02:25-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "MGMNT X441",
+     "title": "MGMNT X441 - AI Applications for Business Impact",
+     "crm_name": "AI Applications for Business Impact",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41908559",
+     "destiny_course_id": "41908559",
+     "crm_id": "5049549000066778758",
+     "tokens": [
+      "SportsManagement",
+      "appliedAiandInnovationProfessional#main",
+      "appliedAiandInnovationDegree#main",
+      "appliedAiandInnovationInternational#main",
+      "General-Advanced-Business#marketing"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2026-09-29",
+         "end": "2026-12-08",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-05T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 21,
+         "crm_availability": "Available",
+         "seats_left": 19,
+         "units": 4,
+         "destiny_section_id": "43371809",
+         "crm_id": "5049549000068029268",
+         "last_sync": "2026-09-17T08:03:19-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-17",
+         "enroll_start": null,
+         "enroll_end": "2027-01-12T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 1,
+         "crm_availability": "Available",
+         "seats_left": 39,
+         "units": 4,
+         "destiny_section_id": "44157172",
+         "crm_id": "5049549000081340001",
+         "last_sync": "2026-09-17T04:03:05-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "006",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-09",
+         "enroll_start": null,
+         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44265297",
+         "crm_id": "5049549000084650012",
+         "last_sync": "2026-09-17T06:03:10-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "007",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-22",
+         "end": "2027-09-07",
+         "enroll_start": null,
+         "enroll_end": "2027-06-28T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44328026",
+         "crm_id": "5049549000086195001",
+         "last_sync": "2026-09-17T08:02:28-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "MGMNT X442",
+     "title": "MGMNT X442 - Leading AI-Driven Change",
+     "crm_name": "Leading AI-Driven Change",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41908674",
+     "destiny_course_id": "41908674",
+     "crm_id": "5049549000066766757",
+     "tokens": [
+      "SportsManagement",
+      "appliedAiandInnovationProfessional#main",
+      "appliedAiandInnovationDegree#main",
+      "appliedAiandInnovationInternational#main",
+      "General-Advanced-Business#marketing"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2026-10-01",
+         "end": "2026-12-10",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 29,
+         "crm_availability": "Available",
+         "seats_left": 11,
+         "units": 4,
+         "destiny_section_id": "43372277",
+         "crm_id": "5049549000068045164",
+         "last_sync": "2026-09-17T06:27:21-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2027-01-07",
+         "end": "2027-03-18",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44178537",
+         "crm_id": "5049549000082214002",
+         "last_sync": "2026-09-17T06:02:45-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-04-01",
+         "end": "2027-06-10",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44265972",
+         "crm_id": "5049549000084763011",
+         "last_sync": "2026-09-17T06:03:10-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "open",
+       "label": "Online (live)",
+       "modalities": [
+        "Online (live)"
+       ],
+       "sections": [
+        {
+         "code": "006",
+         "modality": "Online (live)",
+         "instruction_method": "Online Live",
+         "state": "open",
+         "start": "2027-06-24",
+         "end": "2027-09-09",
+         "enroll_start": null,
+         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "capacity": 28,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 28,
+         "units": 4,
+         "destiny_section_id": "44328417",
+         "crm_id": "5049549000086151003",
+         "last_sync": "2026-09-17T08:02:28-07:00"
+        }
+       ],
        "hidden_sections": 0,
        "term": "Summer 2027"
       }
@@ -580,13 +937,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-06T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 20,
+         "enrolled": 19,
          "crm_availability": "Available",
-         "seats_left": 8,
+         "seats_left": 9,
          "units": 4,
          "destiny_section_id": "43372943",
          "crm_id": "5049549000068028123",
-         "last_sync": "2026-09-17T02:03:06-07:00"
+         "last_sync": "2026-09-17T06:38:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -615,7 +972,7 @@
          "units": 4,
          "destiny_section_id": "44161890",
          "crm_id": "5049549000081532005",
-         "last_sync": "2026-09-17T02:03:27-07:00"
+         "last_sync": "2026-09-17T08:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -644,7 +1001,7 @@
          "units": 4,
          "destiny_section_id": "44268182",
          "crm_id": "5049549000084874001",
-         "last_sync": "2026-09-17T02:03:26-07:00"
+         "last_sync": "2026-09-17T08:02:58-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -701,7 +1058,7 @@
          "units": 4,
          "destiny_section_id": "43477856",
          "crm_id": "5049549000071893015",
-         "last_sync": "2026-09-17T02:03:03-07:00"
+         "last_sync": "2026-09-17T08:02:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -759,7 +1116,7 @@
          "units": 4,
          "destiny_section_id": "44268528",
          "crm_id": "5049549000084874003",
-         "last_sync": "2026-09-17T02:02:56-07:00"
+         "last_sync": "2026-09-17T08:02:27-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -788,7 +1145,7 @@
          "units": 4,
          "destiny_section_id": "44328688",
          "crm_id": "5049549000086207005",
-         "last_sync": "2026-09-17T02:03:00-07:00"
+         "last_sync": "2026-09-17T08:02:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -907,7 +1264,8 @@
       "globalMarketing#main",
       "businessLeadership#main",
       "busAdminManagement#marketing",
-      "busAdminManagement#leadership"
+      "busAdminManagement#leadership",
+      "foundationsDigitalMarketing#sub"
      ],
      "terms": {
       "Fall": {
@@ -1024,7 +1382,8 @@
       "appliedBusinessEssentials#sub",
       "globalMarketing#sub",
       "businessLeadership#sub",
-      "busAdminManagement#marketing"
+      "busAdminManagement#marketing",
+      "foundationsDigitalMarketing#sub"
      ],
      "terms": {
       "Fall": {
@@ -1112,13 +1471,7 @@
    "token": "General-Advanced-Business#leadership",
    "title": "Leadership, Human Resources, & Organizational Management",
    "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "BUSAD X408L, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40",
-     "streams": "Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]"
-    }
-   ],
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X408L",
@@ -1160,7 +1513,7 @@
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-09-17T04:02:47-07:00"
+         "last_sync": "2026-09-17T08:03:24-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1252,13 +1605,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 8,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 20,
+         "seats_left": 19,
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-09-17T04:02:32-07:00"
+         "last_sync": "2026-09-17T06:27:19-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1399,7 +1752,7 @@
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-09-17T03:24:52-07:00"
+         "last_sync": "2026-09-17T08:03:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1534,7 +1887,7 @@
          "units": 4,
          "destiny_section_id": "43358961",
          "crm_id": "5049549000067873304",
-         "last_sync": "2026-09-17T04:02:34-07:00"
+         "last_sync": "2026-09-17T08:03:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1633,7 +1986,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-17T04:02:46-07:00"
+         "last_sync": "2026-09-17T08:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1767,13 +2120,7 @@
    "token": "General-Advanced-Business#finance",
    "title": "Finance, Accounting, & Economics",
    "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X432, ECON X433, ECON X435, ECON X455.1",
-     "streams": "Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]"
-    }
-   ],
+   "issues": [],
    "courses": [
     {
      "code": "ECON X400",
@@ -1787,6 +2134,7 @@
       "General-Advanced-Business#finance",
       "businessAdministration#main",
       "busAdminManagement#main2",
+      "professionalAccounting#main",
       "strategyDecisionMaking#sub"
      ],
      "terms": {
@@ -1807,13 +2155,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 5,
+         "enrolled": 6,
          "crm_availability": "Available",
-         "seats_left": 35,
+         "seats_left": 34,
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-09-17T04:02:40-07:00"
+         "last_sync": "2026-09-17T06:27:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1879,7 +2227,8 @@
      "tokens": [
       "General-Advanced-Business#finance",
       "businessAdministration#sub4",
-      "busAdminManagement#businessAccounting"
+      "busAdminManagement#businessAccounting",
+      "professionalAccounting#main"
      ],
      "terms": {
       "Fall": {
@@ -1905,7 +2254,7 @@
          "units": 4,
          "destiny_section_id": "43360032",
          "crm_id": "5049549000067815408",
-         "last_sync": "2026-09-17T04:02:33-07:00"
+         "last_sync": "2026-09-17T08:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1948,7 +2297,9 @@
      "destiny_course_id": "35508271",
      "crm_id": "5049549000066569040",
      "tokens": [
-      "General-Advanced-Business#finance"
+      "General-Advanced-Business#finance",
+      "professionalAccounting#sub1",
+      "professionalAccounting#sub4"
      ],
      "terms": {
       "Fall": {
@@ -2017,7 +2368,8 @@
      "destiny_course_id": "35510163",
      "crm_id": "5049549000066570037",
      "tokens": [
-      "General-Advanced-Business#finance"
+      "General-Advanced-Business#finance",
+      "professionalAccounting#sub1"
      ],
      "terms": {
       "Fall": {
@@ -2086,7 +2438,8 @@
      "destiny_course_id": "27961934",
      "crm_id": "5049549000066774994",
      "tokens": [
-      "General-Advanced-Business#finance"
+      "General-Advanced-Business#finance",
+      "professionalAccounting#sub5"
      ],
      "terms": {
       "Fall": {
@@ -2155,7 +2508,8 @@
      "destiny_course_id": "27962322",
      "crm_id": "5049549000066778877",
      "tokens": [
-      "General-Advanced-Business#finance"
+      "General-Advanced-Business#finance",
+      "professionalAccounting#sub5"
      ],
      "terms": {
       "Fall": {
@@ -2226,7 +2580,8 @@
      "tokens": [
       "General-Advanced-Business#finance",
       "businessAdministration#sub4",
-      "busAdminManagement#businessAccounting"
+      "busAdminManagement#businessAccounting",
+      "professionalAccounting#main"
      ],
      "terms": {
       "Fall": {
@@ -2252,7 +2607,7 @@
          "units": 4,
          "destiny_section_id": "43367197",
          "crm_id": "5049549000068040078",
-         "last_sync": "2026-09-17T04:02:42-07:00"
+         "last_sync": "2026-09-17T08:03:21-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2295,7 +2650,10 @@
      "destiny_course_id": "27932712",
      "crm_id": "5049549000066812140",
      "tokens": [
-      "General-Advanced-Business#finance"
+      "General-Advanced-Business#finance",
+      "professionalAccounting#sub2",
+      "professionalAccounting#sub4",
+      "professionalAccounting#sub6"
      ],
      "terms": {
       "Fall": {
@@ -2429,6 +2787,148 @@
      "tag_issue": null
     },
     {
+     "code": "ECON X437",
+     "title": "ECON X437 - Cost Accounting & Budgeting",
+     "crm_name": "Cost Accounting & Budgeting",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41094551",
+     "destiny_course_id": "41094551",
+     "crm_id": "5049549000066799898",
+     "tokens": [
+      "General-Advanced-Business#finance",
+      "professionalAccounting#sub2",
+      "professionalAccounting#sub3",
+      "professionalAccounting#sub6"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-30",
+         "end": "2027-06-08",
+         "enroll_start": null,
+         "enroll_end": "2027-04-05T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44230448",
+         "crm_id": "5049549000083579009",
+         "last_sync": "2026-09-17T06:02:36-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ECON X440",
+     "title": "ECON X440 - Accounting Information Systems and Automation",
+     "crm_name": "Accounting Information Systems and Automation",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41094310",
+     "destiny_course_id": "41094310",
+     "crm_id": "5049549000066814133",
+     "tokens": [
+      "General-Advanced-Business#finance",
+      "professionalAccounting#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44230776",
+         "crm_id": "5049549000083577013",
+         "last_sync": "2026-09-17T06:02:35-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
      "code": "ECON X455.1",
      "title": "ECON X455.1 - Global Economics",
      "crm_name": "Global Economics",
@@ -2467,7 +2967,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-17T04:02:43-07:00"
+         "last_sync": "2026-09-17T08:03:22-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2550,13 +3050,7 @@
    "token": "General-Advanced-Business#project",
    "title": "Project Management",
    "stream": null,
-   "issues": [
-    {
-     "kind": "no_stream",
-     "tagged": "TMP X450, TMP X451, TMP X452, TMP X454",
-     "streams": "Required Courses (3 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X450, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]; Required Courses (6 Courses) [BUSAD X408L, BUSAD X409.11, BUSAD X409.65, BUSAD X411.1, BUSAD X428, BUSAD X432, BUSAD X435, BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, ECON X400, ECON X418, ECON X422A, ECON X422B, ECON X427A, ECON X427B, ECON X429, ECON X432, ECON X433, ECON X435, ECON X437, ECON X440, ECON X455.1, MGMNT X410, MGMNT X440, MGMNT X441, MGMNT X477, MGMNT X477.1, MGMNT X479, MGMNT X482, TMP X450, TMP X451, TMP X452, TMP X454]"
-    }
-   ],
+   "issues": [],
    "courses": [
     {
      "code": "TMP X450",
@@ -2601,7 +3095,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-09-17T04:02:45-07:00"
+         "last_sync": "2026-09-17T08:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2659,7 +3153,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-09-17T02:02:58-07:00"
+         "last_sync": "2026-09-17T08:02:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2688,7 +3182,7 @@
          "units": 4,
          "destiny_section_id": "44328868",
          "crm_id": "5049549000086146003",
-         "last_sync": "2026-09-17T02:03:02-07:00"
+         "last_sync": "2026-09-17T08:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2745,7 +3239,7 @@
          "units": 4,
          "destiny_section_id": "44157893",
          "crm_id": "5049549000081355003",
-         "last_sync": "2026-09-17T02:02:55-07:00"
+         "last_sync": "2026-09-17T08:02:25-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2782,7 +3276,7 @@
          "units": 4,
          "destiny_section_id": "44329106",
          "crm_id": "5049549000086081004",
-         "last_sync": "2026-09-17T02:02:59-07:00"
+         "last_sync": "2026-09-17T08:02:31-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2828,7 +3322,7 @@
          "units": 4,
          "destiny_section_id": "43388857",
          "crm_id": "5049549000068386046",
-         "last_sync": "2026-09-17T02:03:01-07:00"
+         "last_sync": "2026-09-17T08:02:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2923,7 +3417,7 @@
          "units": 4,
          "destiny_section_id": "43389103",
          "crm_id": "5049549000068333288",
-         "last_sync": "2026-09-17T03:24:47-07:00"
+         "last_sync": "2026-09-17T08:03:10-07:00"
         }
        ],
        "hidden_sections": 0,

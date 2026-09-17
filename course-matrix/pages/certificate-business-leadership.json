@@ -2,7 +2,7 @@
  "page": "certificate-business-leadership",
  "page_url": "https://professional.ucsb.edu/certificate-business-leadership",
  "page_title": "Business Leadership",
- "generated_at": "2026-09-17T20:20:35+00:00",
+ "generated_at": "2026-09-17T22:36:20+00:00",
  "certificate": {
   "code": "CE0007",
   "name": "Business Leadership",
@@ -83,7 +83,7 @@
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-09-17T03:24:52-07:00"
+         "last_sync": "2026-09-17T08:03:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -224,7 +224,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-17T04:02:46-07:00"
+         "last_sync": "2026-09-17T08:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -295,7 +295,8 @@
       "globalMarketing#main",
       "businessLeadership#main",
       "busAdminManagement#marketing",
-      "busAdminManagement#leadership"
+      "busAdminManagement#leadership",
+      "foundationsDigitalMarketing#sub"
      ],
      "terms": {
       "Fall": {
@@ -456,13 +457,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 8,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 20,
+         "seats_left": 19,
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-09-17T04:02:32-07:00"
+         "last_sync": "2026-09-17T06:27:19-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -622,7 +623,8 @@
       "appliedBusinessEssentials#sub",
       "globalMarketing#sub",
       "businessLeadership#sub",
-      "busAdminManagement#marketing"
+      "busAdminManagement#marketing",
+      "foundationsDigitalMarketing#sub"
      ],
      "terms": {
       "Fall": {
@@ -746,7 +748,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-09-17T04:02:45-07:00"
+         "last_sync": "2026-09-17T08:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -804,7 +806,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-09-17T02:02:58-07:00"
+         "last_sync": "2026-09-17T08:02:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -833,7 +835,7 @@
          "units": 4,
          "destiny_section_id": "44328868",
          "crm_id": "5049549000086146003",
-         "last_sync": "2026-09-17T02:03:02-07:00"
+         "last_sync": "2026-09-17T08:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
