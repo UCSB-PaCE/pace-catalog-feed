@@ -2,7 +2,7 @@
  "page": "general-and-advanced-business-studies",
  "page_url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
  "page_title": "General and Advanced Business Studies",
- "generated_at": "2026-09-17T22:36:20+00:00",
+ "generated_at": "2026-09-17T23:34:03+00:00",
  "certificate": {
   "code": "CE0076",
   "name": "General Business Studies",
@@ -260,13 +260,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 4,
          "destiny_section_id": "44226537",
          "crm_id": "5049549000083608005",
-         "last_sync": "2026-09-17T06:02:34-07:00"
+         "last_sync": "2026-09-17T08:41:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -554,13 +554,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-11T15:59:00-08:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 4,
          "destiny_section_id": "44156917",
          "crm_id": "5049549000081335001",
-         "last_sync": "2026-09-17T06:02:43-07:00"
+         "last_sync": "2026-09-17T08:41:12-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -690,13 +690,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-12T15:59:00-08:00",
          "capacity": 40,
-         "enrolled": 1,
+         "enrolled": 7,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 33,
          "units": 4,
          "destiny_section_id": "44157172",
          "crm_id": "5049549000081340001",
-         "last_sync": "2026-09-17T04:03:05-07:00"
+         "last_sync": "2026-09-17T08:51:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -826,13 +826,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T15:59:00-08:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 5,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 35,
          "units": 4,
          "destiny_section_id": "44178537",
          "crm_id": "5049549000082214002",
-         "last_sync": "2026-09-17T06:02:45-07:00"
+         "last_sync": "2026-09-17T08:51:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -855,13 +855,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 38,
          "units": 4,
          "destiny_section_id": "44265972",
          "crm_id": "5049549000084763011",
-         "last_sync": "2026-09-17T06:03:10-07:00"
+         "last_sync": "2026-09-17T08:43:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1634,13 +1634,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T15:59:00-08:00",
          "capacity": 28,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 28,
+         "seats_left": 27,
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-09-17T04:03:04-07:00"
+         "last_sync": "2026-09-17T08:41:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1663,13 +1663,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-04T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 1,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 27,
+         "seats_left": 24,
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-09-17T04:03:08-07:00"
+         "last_sync": "2026-09-17T08:39:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1775,13 +1775,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T15:59:00-08:00",
          "capacity": 28,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 28,
+         "seats_left": 27,
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-09-17T04:03:02-07:00"
+         "last_sync": "2026-09-17T08:41:13-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1789,28 +1789,28 @@
       },
       "Spring": {
        "state": "open",
-       "label": "UCSB",
+       "label": "Hybrid",
        "modalities": [
-        "UCSB"
+        "Hybrid"
        ],
        "sections": [
         {
          "code": "033",
-         "modality": "UCSB",
-         "instruction_method": "In Class",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
          "state": "open",
          "start": "2027-03-31",
          "end": "2027-06-09",
          "enroll_start": null,
          "enroll_end": "2027-04-06T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 27,
+         "seats_left": 26,
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-09-17T04:03:09-07:00"
+         "last_sync": "2026-09-17T08:41:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -3469,13 +3469,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 0,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 28,
+         "seats_left": 26,
          "units": 4,
          "destiny_section_id": "44271321",
          "crm_id": "5049549000084891009",
-         "last_sync": "2026-09-17T06:02:49-07:00"
+         "last_sync": "2026-09-17T08:43:30-07:00"
         }
        ],
        "hidden_sections": 0,
