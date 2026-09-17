@@ -2,7 +2,47 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0055",
+  "name": "Business Administration and Management",
+  "synced": "2026-03-27T15:10:58-07:00",
+  "all": [
+   "CE0055"
+  ]
+ },
+ "issues": [
+  {
+   "kind": "unmatched_stream",
+   "stream": "Leadership and Strategy Specialization: 2 Courses\u00a0(8 units)",
+   "courses": "BUSAD X432, BUSAD X435, BUSAD X450.33, MGMNT X479, TMP X450",
+   "cert": "CE0055"
+  },
+  {
+   "kind": "unmatched_stream",
+   "stream": "Marketing Specialization: 2-3 Courses (8 units)",
+   "courses": "BUSAD X409.66, MGMNT X479, MGMNT X481, MGMNT X482",
+   "cert": "CE0055"
+  },
+  {
+   "kind": "unmatched_stream",
+   "stream": "Business Accounting Specialization: 2 Courses (8 units)",
+   "courses": "ECON X418, ECON X432",
+   "cert": "CE0055"
+  },
+  {
+   "kind": "unmatched_stream",
+   "stream": "Business Law and Ethics: 1 Course Required (2 units)",
+   "courses": "BUSAD X408L, MGMNT X172, MGMNT X173",
+   "cert": "CE0055"
+  },
+  {
+   "kind": "unmatched_stream",
+   "stream": "Human Resource Management Specialization: 2 Courses (8 units)",
+   "courses": "BUSAD X450.1, BUSAD X450.33, BUSAD X450.40, BUSAD X450.41",
+   "cert": "CE0055"
+  }
+ ],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +61,14 @@
    "key": "main1",
    "token": "busAdminManagement#main1",
    "title": "Marketing and Business Strategy: Complete 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000066772683",
+    "name": "Marketing and Strategy: 2 Courses Required (8 units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.65",
@@ -62,7 +110,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-09-16T22:03:24-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -135,7 +183,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X450",
@@ -253,7 +302,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -261,6 +311,14 @@
    "key": "main2",
    "token": "busAdminManagement#main2",
    "title": "Accounting and Finance: Complete 1 Course (4 units)",
+   "stream": {
+    "id": "5049549000066775697",
+    "name": "Accounting and Finance Requirement: 1 Course Required (4 units)",
+    "required": 1,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "ECON X400",
@@ -273,7 +331,8 @@
      "tokens": [
       "General-Advanced-Business#finance",
       "businessAdministration#main",
-      "busAdminManagement#main2"
+      "busAdminManagement#main2",
+      "strategyDecisionMaking#sub"
      ],
      "terms": {
       "Fall": {
@@ -299,7 +358,7 @@
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-09-16T22:03:32-07:00"
+         "last_sync": "2026-09-17T04:02:40-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -351,7 +410,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X435",
@@ -423,7 +483,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -431,6 +492,14 @@
    "key": "globalBusiness",
    "token": "busAdminManagement#globalBusiness",
    "title": "Business Law Requirement: Complete 1 Course (4 units)",
+   "stream": {
+    "id": "5049549000066773768",
+    "name": "Global Business Specialization: 2 Courses (8 Units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -530,7 +599,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -545,7 +614,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -594,7 +664,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -635,7 +706,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -664,7 +735,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -708,7 +779,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -716,6 +788,14 @@
    "key": "globalBusiness",
    "token": "busAdminManagement#globalBusiness",
    "title": "Human Resources Management Specialization: 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000066773768",
+    "name": "Global Business Specialization: 2 Courses (8 Units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -815,7 +895,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -830,7 +910,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -879,7 +960,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -920,7 +1002,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -949,7 +1031,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -993,7 +1075,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -1001,6 +1084,14 @@
    "key": "globalBusiness",
    "token": "busAdminManagement#globalBusiness",
    "title": "Marketing Specialization: 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000066773768",
+    "name": "Global Business Specialization: 2 Courses (8 Units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -1100,7 +1191,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1115,7 +1206,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -1164,7 +1256,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -1205,7 +1298,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1234,7 +1327,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1278,7 +1371,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -1286,6 +1380,14 @@
    "key": "globalBusiness",
    "token": "busAdminManagement#globalBusiness",
    "title": "Business Accounting Specialization: 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000066773768",
+    "name": "Global Business Specialization: 2 Courses (8 Units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -1385,7 +1487,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1400,7 +1502,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -1449,7 +1552,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -1490,7 +1594,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1519,7 +1623,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1563,7 +1667,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -1571,6 +1676,14 @@
    "key": "globalBusiness",
    "token": "busAdminManagement#globalBusiness",
    "title": "Leadership and Strategy Specialization: 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000066773768",
+    "name": "Global Business Specialization: 2 Courses (8 Units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -1670,7 +1783,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1685,7 +1798,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -1734,7 +1848,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -1775,7 +1890,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1804,7 +1919,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1848,7 +1963,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -1856,6 +1972,14 @@
    "key": "globalBusiness",
    "token": "busAdminManagement#globalBusiness",
    "title": "Global Business Specialization: 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000066773768",
+    "name": "Global Business Specialization: 2 Courses (8 Units)",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0055"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -1955,7 +2079,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1970,7 +2094,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -2019,7 +2144,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -2060,7 +2186,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2089,7 +2215,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2133,7 +2259,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

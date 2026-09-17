@@ -2,7 +2,16 @@
  "page": "applied-business-essentials",
  "page_url": "https://professional.ucsb.edu/degree-plus/applied-business-essentials",
  "page_title": "Applied Business Essentials",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0081",
+  "name": "Applied Business Essentials",
+  "synced": "2026-04-13T01:51:11-07:00",
+  "all": [
+   "CE0081"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "appliedBusinessEssentials#main",
    "title": "Required 2 Courses (8 units)",
+   "stream": {
+    "id": "5049549000070599003",
+    "name": "Required Courses",
+    "required": 2,
+    "ip_stream": false,
+    "cert": "CE0081"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X410",
@@ -115,7 +132,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X450",
@@ -233,7 +251,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -241,6 +260,14 @@
    "key": "sub",
    "token": "appliedBusinessEssentials#sub",
    "title": "Elective Courses: At least 1 course (4 units)",
+   "stream": {
+    "id": "5049549000070581504",
+    "name": "Elective Courses (Choose One)",
+    "required": 1,
+    "ip_stream": false,
+    "cert": "CE0081"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -340,7 +367,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -355,7 +382,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X409.65",
@@ -397,7 +425,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-09-16T22:03:24-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -470,7 +498,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X477",
@@ -605,7 +634,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X477.1",
@@ -697,7 +727,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X479",
@@ -770,7 +801,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-09-16T22:03:55-07:00"
+         "last_sync": "2026-09-17T04:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -814,7 +845,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X482",
@@ -909,7 +941,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

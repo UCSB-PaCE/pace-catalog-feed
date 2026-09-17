@@ -2,7 +2,16 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0006",
+  "name": "Child Life",
+  "synced": "2026-03-27T14:21:58-07:00",
+  "all": [
+   "CE0006"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,7 +30,112 @@
    "key": "main",
    "token": "CL#main",
    "title": "PaCE Child Life Courses",
+   "stream": {
+    "id": "5049549000066767085",
+    "name": "Required 5 Courses",
+    "required": 5,
+    "ip_stream": false,
+    "cert": "CE0006"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "ED X370.10",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ED X370.17",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ED X370.18",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ED X370.20",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ED X370.22",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ED X370.8",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "extra_tag",
+     "course": "XLRN 870A",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    },
+    {
+     "kind": "extra_tag",
+     "course": "XLRN 870B",
+     "token": "CL#main",
+     "stream": "Required 5 Courses"
+    }
+   ],
    "courses": [
+    {
+     "code": "ED X370.10",
+     "title": "ED X370.10 - Child Development: Birth to 18 Years",
+     "crm_name": "Child Development: Birth to 18 Years",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27404713",
+     "destiny_course_id": "27404713",
+     "crm_id": "5049549000066773006",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
+    },
     {
      "code": "ED X370.11",
      "title": "ED X370.11 - Pediatric Palliative Care & Hospice",
@@ -57,7 +171,7 @@
          "units": 4,
          "destiny_section_id": "42714708",
          "crm_id": "5049549000066784036",
-         "last_sync": "2026-09-16T22:03:26-07:00"
+         "last_sync": "2026-09-17T04:02:33-07:00"
         },
         {
          "code": "016",
@@ -106,7 +220,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.12",
@@ -180,7 +295,7 @@
          "units": 4,
          "destiny_section_id": "43579797",
          "crm_id": "5049549000073828007",
-         "last_sync": "2026-09-16T22:03:42-07:00"
+         "last_sync": "2026-09-17T04:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -195,7 +310,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.13",
@@ -240,7 +356,7 @@
          "units": 4,
          "destiny_section_id": "43566107",
          "crm_id": "5049549000073572023",
-         "last_sync": "2026-09-16T22:03:27-07:00"
+         "last_sync": "2026-09-17T04:02:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -263,7 +379,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.14",
@@ -300,7 +417,7 @@
          "units": 4,
          "destiny_section_id": "42716512",
          "crm_id": "5049549000066766035",
-         "last_sync": "2026-09-16T22:03:29-07:00"
+         "last_sync": "2026-09-17T04:02:37-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -337,7 +454,7 @@
          "units": 4,
          "destiny_section_id": "43579904",
          "crm_id": "5049549000073857033",
-         "last_sync": "2026-09-16T22:03:42-07:00"
+         "last_sync": "2026-09-17T04:02:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -352,7 +469,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.15",
@@ -397,7 +515,7 @@
          "units": 4,
          "destiny_section_id": "43566253",
          "crm_id": "5049549000073637013",
-         "last_sync": "2026-09-16T22:03:28-07:00"
+         "last_sync": "2026-09-17T04:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -420,7 +538,104 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ED X370.17",
+     "title": "ED X370.17 - Child Development: Challenges in Global Maternal and Child Health",
+     "crm_name": "Child Development: Challenges in Global Maternal and Child Health",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29671372",
+     "destiny_course_id": "29671372",
+     "crm_id": "5049549000066785006",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
+    },
+    {
+     "code": "ED X370.18",
+     "title": "ED X370.18 - Child Life in Non-Traditional Settings: Beyond the Hospital",
+     "crm_name": "Child Life in Non-Traditional Settings: Beyond the Hospital",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29671547",
+     "destiny_course_id": "29671547",
+     "crm_id": "5049549000066798001",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ED X370.19",
@@ -457,7 +672,7 @@
          "units": 4,
          "destiny_section_id": "42716715",
          "crm_id": "5049549000066779030",
-         "last_sync": "2026-09-16T22:03:21-07:00"
+         "last_sync": "2026-09-17T04:02:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -494,7 +709,7 @@
          "units": 4,
          "destiny_section_id": "43580011",
          "crm_id": "5049549000073941009",
-         "last_sync": "2026-09-16T22:03:46-07:00"
+         "last_sync": "2026-09-17T04:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -509,7 +724,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.2",
@@ -572,7 +788,7 @@
          "units": 4,
          "destiny_section_id": "43565985",
          "crm_id": "5049549000073552015",
-         "last_sync": "2026-09-16T22:03:38-07:00"
+         "last_sync": "2026-09-17T04:02:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -634,7 +850,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ED X370.20",
+     "title": "ED X370.20 - Health Care Ethics",
+     "crm_name": "Health Care Ethics",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31536008",
+     "destiny_course_id": "31536008",
+     "crm_id": "5049549000066782013",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ED X370.21",
@@ -679,7 +944,7 @@
          "units": 4,
          "destiny_section_id": "43566361",
          "crm_id": "5049549000074170007",
-         "last_sync": "2026-09-16T22:03:28-07:00"
+         "last_sync": "2026-09-17T04:02:37-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -723,7 +988,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ED X370.22",
+     "title": "ED X370.22 - Child Life: Administration, Leadership and Advocacy",
+     "crm_name": "Child Life: Administration, Leadership and Advocacy",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34593835",
+     "destiny_course_id": "34593835",
+     "crm_id": "5049549000066778023",
+     "tokens": [
+      "CL#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ED X370.3",
@@ -786,7 +1100,7 @@
          "units": 4,
          "destiny_section_id": "43566467",
          "crm_id": "5049549000074179007",
-         "last_sync": "2026-09-16T22:03:46-07:00"
+         "last_sync": "2026-09-17T04:02:57-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -848,7 +1162,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.4",
@@ -886,7 +1201,7 @@
          "units": 4,
          "destiny_section_id": "42716128",
          "crm_id": "5049549000066774021",
-         "last_sync": "2026-09-16T22:03:20-07:00"
+         "last_sync": "2026-09-17T04:02:29-07:00"
         },
         {
          "code": "063",
@@ -959,7 +1274,7 @@
          "units": 4,
          "destiny_section_id": "43580132",
          "crm_id": "5049549000073870019",
-         "last_sync": "2026-09-16T22:03:43-07:00"
+         "last_sync": "2026-09-17T04:02:54-07:00"
         },
         {
          "code": "061",
@@ -977,7 +1292,7 @@
          "units": 4,
          "destiny_section_id": "43580279",
          "crm_id": "5049549000073927012",
-         "last_sync": "2026-09-16T22:03:45-07:00"
+         "last_sync": "2026-09-17T04:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1013,7 +1328,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X370.5",
@@ -1050,7 +1366,7 @@
          "units": 4,
          "destiny_section_id": "42715807",
          "crm_id": "5049549000066789054",
-         "last_sync": "2026-09-16T22:03:27-07:00"
+         "last_sync": "2026-09-17T04:02:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1102,16 +1418,17 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
-     "code": "XLRN 870A",
-     "title": "XLRN 870A - Child Life Prep Program",
-     "crm_name": "Child Life Prep Program",
-     "units": "4",
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34924438",
-     "destiny_course_id": "34924438",
-     "crm_id": "5049549000068086057",
+     "code": "ED X370.8",
+     "title": "ED X370.8 - Outreach and Technology",
+     "crm_name": "Outreach and Technology",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26120343",
+     "destiny_course_id": "26120343",
+     "crm_id": "5049549000066774011",
      "tokens": [
       "CL#main"
      ],
@@ -1121,92 +1438,6 @@
        "label": "N/A",
        "modalities": [],
        "sections": [],
-       "hidden_sections": 1,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false
-    },
-    {
-     "code": "XLRN 870B",
-     "title": "XLRN 870B - Child Life Supervision Internship",
-     "crm_name": "Child Life Supervision Internship",
-     "units": 4,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36950020",
-     "destiny_course_id": "36950020",
-     "crm_id": "5049549000069547438",
-     "tokens": [
-      "CL#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "enrollment_closed",
-       "label": "Online (self-paced)",
-       "modalities": [
-        "Online (self-paced)"
-       ],
-       "sections": [
-        {
-         "code": "017",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "enrollment_closed",
-         "start": "2026-08-31",
-         "end": "2026-12-18",
-         "enroll_start": null,
-         "enroll_end": "2026-09-15T16:59:00-07:00",
-         "capacity": 5,
-         "enrolled": 2,
-         "crm_availability": "No Longer Available",
-         "seats_left": 3,
-         "units": 4,
-         "destiny_section_id": "44091511",
-         "crm_id": "5049549000080008002",
-         "last_sync": "2026-09-17T00:02:39-07:00"
-        },
-        {
-         "code": "016",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "enrollment_closed",
-         "start": "2026-08-31",
-         "end": "2026-12-18",
-         "enroll_start": null,
-         "enroll_end": "2026-09-15T16:59:00-07:00",
-         "capacity": 5,
-         "enrolled": 2,
-         "crm_availability": "No Longer Available",
-         "seats_left": 3,
-         "units": 4,
-         "destiny_section_id": "44091392",
-         "crm_id": "5049549000080014001",
-         "last_sync": "2026-09-17T00:02:40-07:00"
-        }
-       ],
        "hidden_sections": 0,
        "term": "Fall 2026"
       },
@@ -1235,7 +1466,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": "missing_tag"
     }
    ]
   }

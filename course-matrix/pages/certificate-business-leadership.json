@@ -2,7 +2,16 @@
  "page": "certificate-business-leadership",
  "page_url": "https://professional.ucsb.edu/certificate-business-leadership",
  "page_title": "Business Leadership",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0007",
+  "name": "Business Leadership",
+  "synced": "2026-03-27T14:22:16-07:00",
+  "all": [
+   "CE0007"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "businessLeadership#main",
    "title": "Required Courses (12 units)",
+   "stream": {
+    "id": "5049549000066785016",
+    "name": "Required 3 Courses (12 Units)",
+    "required": 3,
+    "ip_stream": false,
+    "cert": "CE0007"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X435",
@@ -95,7 +112,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-09-16T22:03:50-07:00"
+         "last_sync": "2026-09-17T04:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -124,7 +141,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -160,7 +177,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X450.33",
@@ -206,7 +224,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-16T22:03:36-07:00"
+         "last_sync": "2026-09-17T04:02:46-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -235,7 +253,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-09-16T22:03:51-07:00"
+         "last_sync": "2026-09-17T04:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -258,7 +276,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X479",
@@ -331,7 +350,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-09-16T22:03:55-07:00"
+         "last_sync": "2026-09-17T04:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -375,7 +394,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -383,6 +403,21 @@
    "key": "sub",
    "token": "businessLeadership#sub",
    "title": "Required Electives (Choose One - 4 units)",
+   "stream": {
+    "id": "5049549000066771026",
+    "name": "Elective Courses (Choose 1)",
+    "required": 1,
+    "ip_stream": false,
+    "cert": "CE0007"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "MGMNT X476",
+     "token": "businessLeadership#sub",
+     "stream": "Elective Courses (Choose 1)"
+    }
+   ],
    "courses": [
     {
      "code": "BUSAD X432",
@@ -427,7 +462,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-09-16T22:03:25-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -456,7 +491,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-09-16T22:03:52-07:00"
+         "last_sync": "2026-09-17T04:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -485,7 +520,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -521,7 +556,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "MGMNT X476",
+     "title": "MGMNT X476 - Communication Skills for Professionals",
+     "crm_name": "Communication Skills for Professionals",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31128139",
+     "destiny_course_id": "31128139",
+     "crm_id": "5049549000066780169",
+     "tokens": [
+      "businessLeadership#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "MGMNT X482",
@@ -616,7 +700,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "TMP X450",
@@ -661,7 +746,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-09-16T22:03:35-07:00"
+         "last_sync": "2026-09-17T04:02:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -755,7 +840,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

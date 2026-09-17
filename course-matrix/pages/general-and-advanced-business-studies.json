@@ -2,7 +2,9 @@
  "page": "general-and-advanced-business-studies",
  "page_url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
  "page_title": "General and Advanced Business Studies",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": null,
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +23,12 @@
    "key": "marketing",
    "token": "General-Advanced-Business#marketing",
    "title": "Marketing, Communications, & Business Development",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -120,7 +128,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -135,7 +143,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X409.65",
@@ -177,7 +186,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-09-16T22:03:24-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -250,7 +259,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X411.1",
@@ -299,7 +309,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X428",
@@ -311,7 +322,6 @@
      "crm_id": "5049549000066798866",
      "tokens": [
       "General-Advanced-Business#marketing",
-      "internationalBusinessDevelopment#main",
       "entrepreneurship#main"
      ],
      "terms": {
@@ -411,7 +421,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X410",
@@ -506,7 +517,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X450",
@@ -624,7 +636,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X477",
@@ -759,7 +772,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X477.1",
@@ -851,7 +865,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X479",
@@ -924,7 +939,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-09-16T22:03:55-07:00"
+         "last_sync": "2026-09-17T04:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -968,7 +983,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X482",
@@ -1063,7 +1079,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -1071,6 +1088,12 @@
    "key": "leadership",
    "token": "General-Advanced-Business#leadership",
    "title": "Leadership, Human Resources, & Organizational Management",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "BUSAD X408L",
@@ -1112,7 +1135,7 @@
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-09-16T22:03:36-07:00"
+         "last_sync": "2026-09-17T04:02:47-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1164,7 +1187,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X432",
@@ -1209,7 +1233,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-09-16T22:03:25-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1238,7 +1262,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-09-16T22:03:52-07:00"
+         "last_sync": "2026-09-17T04:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1267,7 +1291,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1303,7 +1327,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X435",
@@ -1378,7 +1403,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-09-16T22:03:50-07:00"
+         "last_sync": "2026-09-17T04:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1407,7 +1432,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1443,7 +1468,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X450.1",
@@ -1483,7 +1509,7 @@
          "units": 4,
          "destiny_section_id": "43358961",
          "crm_id": "5049549000067873304",
-         "last_sync": "2026-09-16T22:03:26-07:00"
+         "last_sync": "2026-09-17T04:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1520,7 +1546,7 @@
          "units": 4,
          "destiny_section_id": "44227379",
          "crm_id": "5049549000083611007",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1535,7 +1561,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X450.33",
@@ -1581,7 +1608,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-16T22:03:36-07:00"
+         "last_sync": "2026-09-17T04:02:46-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1610,7 +1637,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-09-16T22:03:51-07:00"
+         "last_sync": "2026-09-17T04:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1633,7 +1660,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X450.40",
@@ -1704,7 +1732,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -1712,6 +1741,12 @@
    "key": "finance",
    "token": "General-Advanced-Business#finance",
    "title": "Finance, Accounting, & Economics",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "ECON X400",
@@ -1724,7 +1759,8 @@
      "tokens": [
       "General-Advanced-Business#finance",
       "businessAdministration#main",
-      "busAdminManagement#main2"
+      "busAdminManagement#main2",
+      "strategyDecisionMaking#sub"
      ],
      "terms": {
       "Fall": {
@@ -1750,7 +1786,7 @@
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-09-16T22:03:32-07:00"
+         "last_sync": "2026-09-17T04:02:40-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1802,7 +1838,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X418",
@@ -1841,7 +1878,7 @@
          "units": 4,
          "destiny_section_id": "43360032",
          "crm_id": "5049549000067815408",
-         "last_sync": "2026-09-16T22:03:25-07:00"
+         "last_sync": "2026-09-17T04:02:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1872,7 +1909,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X422A",
@@ -1909,7 +1947,7 @@
          "units": 4,
          "destiny_section_id": "43477427",
          "crm_id": "5049549000071850017",
-         "last_sync": "2026-09-16T22:03:37-07:00"
+         "last_sync": "2026-09-17T04:02:47-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1940,7 +1978,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X422B",
@@ -2008,7 +2047,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X427A",
@@ -2076,7 +2116,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X427B",
@@ -2121,7 +2162,7 @@
          "units": 4,
          "destiny_section_id": "44186919",
          "crm_id": "5049549000082453004",
-         "last_sync": "2026-09-16T22:03:55-07:00"
+         "last_sync": "2026-09-17T04:03:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2144,7 +2185,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X432",
@@ -2183,7 +2225,7 @@
          "units": 4,
          "destiny_section_id": "43367197",
          "crm_id": "5049549000068040078",
-         "last_sync": "2026-09-16T22:03:33-07:00"
+         "last_sync": "2026-09-17T04:02:42-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2214,7 +2256,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X433",
@@ -2282,7 +2325,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X435",
@@ -2354,7 +2398,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -2395,7 +2440,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2424,7 +2469,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2468,7 +2513,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -2476,6 +2522,12 @@
    "key": "project",
    "token": "General-Advanced-Business#project",
    "title": "Project Management",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "TMP X450",
@@ -2520,7 +2572,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-09-16T22:03:35-07:00"
+         "last_sync": "2026-09-17T04:02:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2614,7 +2666,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "TMP X451",
@@ -2707,7 +2760,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "TMP X452",
@@ -2797,7 +2851,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "TMP X454",
@@ -2912,7 +2967,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

@@ -2,7 +2,9 @@
  "page": "certificate-qualified-autism-service-practitioner-supervisor",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
  "page_title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": null,
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +23,12 @@
    "key": "main",
    "token": "QASPS#main",
    "title": "Required PaCE Courses (Total of 225 Hours)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "ED X315",
@@ -89,7 +97,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X316",
@@ -135,7 +144,7 @@
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-09-16T22:03:40-07:00"
+         "last_sync": "2026-09-17T04:02:51-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -158,7 +167,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X317",
@@ -212,7 +222,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-09-16T22:04:04-07:00"
+         "last_sync": "2026-09-17T04:03:12-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -227,7 +237,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X318",
@@ -265,7 +276,7 @@
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-09-16T22:03:48-07:00"
+         "last_sync": "2026-09-17T04:03:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -296,7 +307,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X319Q",
@@ -364,7 +376,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X320S",
@@ -375,7 +388,8 @@
      "destiny_course_id": "35199557",
      "crm_id": "5049549000066770513",
      "tokens": [
-      "QASPS#main"
+      "QASPS#main",
+      "BCaBA#main"
      ],
      "terms": {
       "Fall": {
@@ -411,7 +425,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

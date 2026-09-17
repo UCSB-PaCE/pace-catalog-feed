@@ -2,7 +2,9 @@
  "page": "sports-management-studies",
  "page_url": "https://professional.ucsb.edu/sports-management-studies",
  "page_title": "Sports Management Studies",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": null,
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +23,12 @@
    "key": "main",
    "token": "core1#main",
    "title": "Core Course (Required)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411",
@@ -60,7 +68,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-16T22:03:33-07:00"
+         "last_sync": "2026-09-17T04:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -89,7 +97,7 @@
          "units": 4,
          "destiny_section_id": "44151473",
          "crm_id": "5049549000081123013",
-         "last_sync": "2026-09-16T22:03:51-07:00"
+         "last_sync": "2026-09-17T04:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -133,7 +141,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -141,6 +150,12 @@
    "key": "gov",
    "token": "core1#gov",
    "title": "Governance and Financial Principles (Choose One)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411.1",
@@ -232,7 +247,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X411.2",
@@ -303,7 +319,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -311,6 +328,12 @@
    "key": "applied",
    "token": "core1#applied",
    "title": "Applied Sport Operations and Systems (Choose One)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411.3",
@@ -358,7 +381,7 @@
          "units": 4,
          "destiny_section_id": "44151809",
          "crm_id": "5049549000081204006",
-         "last_sync": "2026-09-16T22:03:53-07:00"
+         "last_sync": "2026-09-17T04:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -381,7 +404,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X411.4",
@@ -421,7 +445,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-16T22:03:32-07:00"
+         "last_sync": "2026-09-17T04:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -452,7 +476,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X411.5",
@@ -523,7 +548,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -531,6 +557,12 @@
    "key": "main",
    "token": "core2#main",
    "title": "Core Course (Required)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411",
@@ -570,7 +602,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-16T22:03:33-07:00"
+         "last_sync": "2026-09-17T04:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -599,7 +631,7 @@
          "units": 4,
          "destiny_section_id": "44151473",
          "crm_id": "5049549000081123013",
-         "last_sync": "2026-09-16T22:03:51-07:00"
+         "last_sync": "2026-09-17T04:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -643,7 +675,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -651,6 +684,12 @@
    "key": "gov",
    "token": "core2#gov",
    "title": "Governance and Financial Principles",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411.1",
@@ -742,7 +781,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X411.2",
@@ -813,7 +853,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -821,6 +862,12 @@
    "key": "applied",
    "token": "core2#applied",
    "title": "Applied Sport Operations and Systems",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "MGMNT X411.3",
@@ -868,7 +915,7 @@
          "units": 4,
          "destiny_section_id": "44151809",
          "crm_id": "5049549000081204006",
-         "last_sync": "2026-09-16T22:03:53-07:00"
+         "last_sync": "2026-09-17T04:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -891,7 +938,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X411.4",
@@ -931,7 +979,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-16T22:03:32-07:00"
+         "last_sync": "2026-09-17T04:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -962,7 +1010,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X411.5",
@@ -1033,7 +1082,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

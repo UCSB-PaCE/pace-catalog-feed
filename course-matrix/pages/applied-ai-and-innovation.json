@@ -2,7 +2,16 @@
  "page": "applied-ai-and-innovation",
  "page_url": "https://professional.ucsb.edu/degree-plus/applied-ai-and-innovation",
  "page_title": "Applied AI and Innovation, Degree+",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0072",
+  "name": "Applied AI and Innovation",
+  "synced": "2026-03-27T15:25:32-07:00",
+  "all": [
+   "CE0072"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "appliedAiandInnovationDegree#main",
    "title": "Required Courses (12 units)",
+   "stream": {
+    "id": "5049549000066767845",
+    "name": "Required Courses (3 Courses)",
+    "required": 3,
+    "ip_stream": true,
+    "cert": "CE0072"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X440",
@@ -60,7 +77,7 @@
          "units": 4,
          "destiny_section_id": "43371488",
          "crm_id": "5049549000068040093",
-         "last_sync": "2026-09-16T22:46:07-07:00"
+         "last_sync": "2026-09-17T04:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -154,7 +171,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X441",
@@ -194,7 +212,7 @@
          "units": 4,
          "destiny_section_id": "43371809",
          "crm_id": "5049549000068029268",
-         "last_sync": "2026-09-16T22:03:32-07:00"
+         "last_sync": "2026-09-17T04:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -223,7 +241,7 @@
          "units": 4,
          "destiny_section_id": "44157172",
          "crm_id": "5049549000081340001",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -288,7 +306,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X442",
@@ -328,7 +347,7 @@
          "units": 4,
          "destiny_section_id": "43372277",
          "crm_id": "5049549000068045164",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -422,7 +441,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

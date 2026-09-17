@@ -2,7 +2,16 @@
  "page": "certificate-paralegal-studies",
  "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
  "page_title": "Paralegal Studies",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "LA00",
+  "name": "Paralegal Studies",
+  "synced": "2026-04-11T16:33:49-07:00",
+  "all": [
+   "LA00"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "Paralegal#main",
    "title": "Required Courses (21 Units)",
+   "stream": {
+    "id": "5049549000069832229",
+    "name": "Required Courses",
+    "required": 8,
+    "ip_stream": false,
+    "cert": "LA00"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "LAW X402.2",
@@ -109,7 +126,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X403",
@@ -198,7 +216,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X417.3",
@@ -287,7 +306,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X417.4",
@@ -376,7 +396,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X421",
@@ -444,7 +465,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X424",
@@ -533,7 +555,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X455.6",
@@ -623,7 +646,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X455.9",
@@ -660,7 +684,7 @@
          "units": 1,
          "destiny_section_id": "43390113",
          "crm_id": "5049549000068390197",
-         "last_sync": "2026-09-16T22:03:35-07:00"
+         "last_sync": "2026-09-17T04:02:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -754,7 +778,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -762,7 +787,100 @@
    "key": "sub",
    "token": "Paralegal#sub",
    "title": "Electives (15 Units)*",
+   "stream": {
+    "id": "5049549000069717395",
+    "name": "Elective Courses",
+    "required": 15,
+    "ip_stream": false,
+    "cert": "LA00"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "BUSAD X108",
+     "token": "Paralegal#sub",
+     "stream": "Elective Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "LAW X405",
+     "token": "Paralegal#sub",
+     "stream": "Elective Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "LAW X417.6",
+     "token": "Paralegal#sub",
+     "stream": "Elective Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "LAW X417.7",
+     "token": "Paralegal#sub",
+     "stream": "Elective Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "LAW X422",
+     "token": "Paralegal#sub",
+     "stream": "Elective Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "LAW X459",
+     "token": "Paralegal#sub",
+     "stream": "Elective Courses"
+    }
+   ],
    "courses": [
+    {
+     "code": "BUSAD X108",
+     "title": "BUSAD X108 - Business Law",
+     "crm_name": "Business Law",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16569857",
+     "destiny_course_id": "16569857",
+     "crm_id": "5049549000069809458",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
+    },
     {
      "code": "BUSAD X408L",
      "title": "BUSAD X408L - Business Law",
@@ -803,7 +921,7 @@
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-09-16T22:03:36-07:00"
+         "last_sync": "2026-09-17T04:02:47-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -855,7 +973,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "LAW X405",
+     "title": "LAW X405 - LAW X405",
+     "crm_name": "LAW X405",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574565",
+     "destiny_course_id": "16574565",
+     "crm_id": "5049549000069796232",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "LAW X406",
@@ -892,7 +1059,7 @@
          "units": 3,
          "destiny_section_id": "44480689",
          "crm_id": "5049549000089339025",
-         "last_sync": "2026-09-16T22:03:31-07:00"
+         "last_sync": "2026-09-17T04:02:40-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -929,7 +1096,7 @@
          "units": 3,
          "destiny_section_id": "44232013",
          "crm_id": "5049549000083655021",
-         "last_sync": "2026-09-16T22:03:29-07:00"
+         "last_sync": "2026-09-17T04:02:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -958,14 +1125,15 @@
          "units": 3,
          "destiny_section_id": "44310883",
          "crm_id": "5049549000085727006",
-         "last_sync": "2026-09-16T22:03:31-07:00"
+         "last_sync": "2026-09-17T04:02:38-07:00"
         }
        ],
        "hidden_sections": 0,
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X408",
@@ -1033,7 +1201,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X409",
@@ -1078,7 +1247,7 @@
          "units": 3,
          "destiny_section_id": "44163451",
          "crm_id": "5049549000081552006",
-         "last_sync": "2026-09-17T00:02:51-07:00"
+         "last_sync": "2026-09-17T04:03:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1101,7 +1270,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X410",
@@ -1169,7 +1339,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X412",
@@ -1237,7 +1408,104 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "LAW X417.6",
+     "title": "LAW X417.6 - LAW X417.6",
+     "crm_name": "LAW X417.6",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574574",
+     "destiny_course_id": "16574574",
+     "crm_id": "5049549000069832239",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
+    },
+    {
+     "code": "LAW X417.7",
+     "title": "LAW X417.7 - LAW X417.7",
+     "crm_name": "LAW X417.7",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574575",
+     "destiny_course_id": "16574575",
+     "crm_id": "5049549000069840081",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "LAW X419",
@@ -1305,7 +1573,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X420",
@@ -1373,7 +1642,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "LAW X422",
+     "title": "LAW X422 - Elder Law (Formerly, Aging and the Law)",
+     "crm_name": "Elder Law (Formerly, Aging and the Law)",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28513663",
+     "destiny_course_id": "28513663",
+     "crm_id": "5049549000069593016",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "LAW X423",
@@ -1441,7 +1759,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X440",
@@ -1509,7 +1828,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X455.3",
@@ -1577,7 +1897,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X455.4",
@@ -1645,7 +1966,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "LAW X455.7",
@@ -1713,7 +2035,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "LAW X459",
+     "title": "LAW X459 - LAW X459",
+     "crm_name": "LAW X459",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574594",
+     "destiny_course_id": "16574594",
+     "crm_id": "5049549000069791343",
+     "tokens": [
+      "Paralegal#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     }
    ]
   }

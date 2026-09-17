@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -18,196 +18,252 @@
    "url": "https://professional.ucsb.edu/certificate-business-leadership",
    "title": "Business Leadership",
    "blocks": 2,
-   "courses": 6
+   "courses": 7,
+   "certificate": "CE0007",
+   "tag_issues": 1
   },
   {
    "page": "emergency-medical-technician",
    "url": "https://professional.ucsb.edu/emergency-medical-technician",
    "title": "Emergency Medical Technician",
    "blocks": 1,
-   "courses": 2
+   "courses": 2,
+   "certificate": "CE0059",
+   "tag_issues": 2
   },
   {
    "page": "certificate-child-life",
    "url": "https://professional.ucsb.edu/certificate-child-life",
    "title": "Child Life",
    "blocks": 1,
-   "courses": 13
+   "courses": 17,
+   "certificate": "CE0006",
+   "tag_issues": 8
   },
   {
    "page": "certificate-human-resource-management",
    "url": "https://professional.ucsb.edu/certificate-human-resource-management",
    "title": "Human Resource Management",
    "blocks": 2,
-   "courses": 5
+   "courses": 6,
+   "certificate": "CE0036",
+   "tag_issues": 1
   },
   {
    "page": "certificate-practical-project-management",
    "url": "https://professional.ucsb.edu/certificate-practical-project-management",
    "title": "Project Management",
    "blocks": 2,
-   "courses": 6
+   "courses": 7,
+   "certificate": "CE0035",
+   "tag_issues": 1
   },
   {
    "page": "certificate-strategic-investments",
    "url": "https://professional.ucsb.edu/certificate-strategic-investments",
    "title": "Strategic Investments",
    "blocks": 4,
-   "courses": 16
+   "courses": 21,
+   "certificate": "CE0030",
+   "tag_issues": 7
   },
   {
    "page": "certificate-board-certified-behavior-analyst",
    "url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
    "title": "Board Certified Behavior Analyst - BCBA",
    "blocks": 2,
-   "courses": 12
+   "courses": 12,
+   "certificate": null,
+   "tag_issues": 2
   },
   {
    "page": "certificate-board-certified-assistant-behavior-analyst",
    "url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
    "title": "Board Certified assistant Behavior Analyst - BCaBA",
    "blocks": 1,
-   "courses": 7
+   "courses": 7,
+   "certificate": "CE0037",
+   "tag_issues": 2
   },
   {
    "page": "certificate-qualified-autism-service-practitioner-supervisor",
    "url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
    "title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
    "blocks": 1,
-   "courses": 6
+   "courses": 6,
+   "certificate": null,
+   "tag_issues": 1
   },
   {
    "page": "certificate-qualified-behavior-analyst",
    "url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
    "title": "Qualified Behavior Analyst - QBA",
    "blocks": 1,
-   "courses": 10
+   "courses": 10,
+   "certificate": null,
+   "tag_issues": 1
   },
   {
    "page": "certificate-paralegal-studies",
    "url": "https://professional.ucsb.edu/certificate-paralegal-studies",
    "title": "Paralegal Studies",
    "blocks": 2,
-   "courses": 21
+   "courses": 27,
+   "certificate": "LA00",
+   "tag_issues": 6
   },
   {
    "page": "certificate-business-administration",
    "url": "https://professional.ucsb.edu/certificate-business-administration",
    "title": "Business Administration and Management",
    "blocks": 8,
-   "courses": 22
+   "courses": 22,
+   "certificate": "CE0055",
+   "tag_issues": 5
   },
   {
    "page": "strategy-decision-making",
    "url": "https://professional.ucsb.edu/strategy-decision-making",
    "title": "Strategy and Decision Making",
    "blocks": 2,
-   "courses": 7
+   "courses": 8,
+   "certificate": "CE0074",
+   "tag_issues": 1
   },
   {
    "page": "agile-project-management",
    "url": "https://professional.ucsb.edu/agile-project-management",
    "title": "Agile Project Management",
    "blocks": 2,
-   "courses": 7
+   "courses": 7,
+   "certificate": "CE0075",
+   "tag_issues": 0
   },
   {
    "page": "global-marketing",
    "url": "https://professional.ucsb.edu/global-marketing",
    "title": "Global Marketing",
    "blocks": 2,
-   "courses": 6
+   "courses": 6,
+   "certificate": "CE0067",
+   "tag_issues": 0
   },
   {
    "page": "leadership",
    "url": "https://professional.ucsb.edu/leadership",
    "title": "Leadership",
    "blocks": 2,
-   "courses": 5
+   "courses": 5,
+   "certificate": "CE0073",
+   "tag_issues": 0
   },
   {
    "page": "international-business-development",
    "url": "https://professional.ucsb.edu/international-business-development",
    "title": "International Business Development",
    "blocks": 1,
-   "courses": 3
+   "courses": 2,
+   "certificate": "CE0066",
+   "tag_issues": 2
   },
   {
    "page": "general-and-advanced-business-studies",
    "url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
    "title": "General and Advanced Business Studies",
    "blocks": 4,
-   "courses": 30
+   "courses": 30,
+   "certificate": null,
+   "tag_issues": 4
   },
   {
    "page": "applied-ai-and-innovation-international",
    "url": "https://professional.ucsb.edu/applied-ai-and-innovation-international",
    "title": "Applied AI and Innovation, International",
    "blocks": 1,
-   "courses": 3
+   "courses": 3,
+   "certificate": "CE0072",
+   "tag_issues": 0
   },
   {
    "page": "certificate-applied-ai-and-innovation",
    "url": "https://professional.ucsb.edu/certificate-applied-ai-and-innovation",
    "title": "Applied AI and Innovation, Professional",
    "blocks": 1,
-   "courses": 3
+   "courses": 3,
+   "certificate": "CE0072",
+   "tag_issues": 0
   },
   {
    "page": "applied-ai-and-innovation",
    "url": "https://professional.ucsb.edu/degree-plus/applied-ai-and-innovation",
    "title": "Applied AI and Innovation, Degree+",
    "blocks": 1,
-   "courses": 3
+   "courses": 3,
+   "certificate": "CE0072",
+   "tag_issues": 0
   },
   {
    "page": "applied-business-essentials",
    "url": "https://professional.ucsb.edu/degree-plus/applied-business-essentials",
    "title": "Applied Business Essentials",
    "blocks": 2,
-   "courses": 8
+   "courses": 8,
+   "certificate": "CE0081",
+   "tag_issues": 0
   },
   {
    "page": "foundations-agile-project-management",
    "url": "https://professional.ucsb.edu/degree-plus/foundations-agile-project-management",
    "title": "Foundations of Agile Project Management",
    "blocks": 2,
-   "courses": 7
+   "courses": 7,
+   "certificate": "CE0080",
+   "tag_issues": 2
   },
   {
    "page": "entrepreneurship",
    "url": "https://professional.ucsb.edu/entrepreneurship",
    "title": "Entrepreneurship",
    "blocks": 3,
-   "courses": 7
+   "courses": 7,
+   "certificate": "CE0082",
+   "tag_issues": 0
   },
   {
    "page": "certificate-sports-management",
    "url": "https://professional.ucsb.edu/certificate-sports-management",
    "title": "Sports Management",
    "blocks": 4,
-   "courses": 8
+   "courses": 8,
+   "certificate": "CE0090",
+   "tag_issues": 4
   },
   {
    "page": "sports-management-studies",
    "url": "https://professional.ucsb.edu/sports-management-studies",
    "title": "Sports Management Studies",
    "blocks": 6,
-   "courses": 12
+   "courses": 12,
+   "certificate": null,
+   "tag_issues": 6
   },
   {
    "page": "behavior-supports-systems",
    "url": "https://professional.ucsb.edu/behavior-supports-systems",
    "title": "Behavior Supports and Systems",
    "blocks": 2,
-   "courses": 6
+   "courses": 6,
+   "certificate": null,
+   "tag_issues": 2
   },
   {
    "page": "foundations-digital-marketing",
    "url": "https://professional.ucsb.edu/degree-plus/foundations-digital-marketing",
    "title": "Foundations of Digital Marketing",
    "blocks": 1,
-   "courses": 3
+   "courses": 3,
+   "certificate": "CE0097",
+   "tag_issues": 1
   }
  ],
  "files": {

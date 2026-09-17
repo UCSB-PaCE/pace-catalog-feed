@@ -2,7 +2,16 @@
  "page": "foundations-agile-project-management",
  "page_url": "https://professional.ucsb.edu/degree-plus/foundations-agile-project-management",
  "page_title": "Foundations of Agile Project Management",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0080",
+  "name": "Foundations of Agile Project Management",
+  "synced": "2026-04-15T16:29:23-07:00",
+  "all": [
+   "CE0080"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "foudationsAgileProjectManagement#main",
    "title": "Required Courses (8 units)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_stream",
+     "tagged": "TMP X450, TMP X454",
+     "streams": "none"
+    }
+   ],
    "courses": [
     {
      "code": "TMP X450",
@@ -65,7 +82,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-09-16T22:03:35-07:00"
+         "last_sync": "2026-09-17T04:02:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -159,7 +176,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "TMP X454",
@@ -274,7 +292,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -282,6 +301,14 @@
    "key": "sub",
    "token": "foudationsAgileProjectManagement#sub",
    "title": "Required Electives (Choose One - 4 units)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_stream",
+     "tagged": "BUSAD X432, BUSAD X435, BUSAD X450.33, MGMNT X450, TMP X451",
+     "streams": "none"
+    }
+   ],
    "courses": [
     {
      "code": "BUSAD X432",
@@ -326,7 +353,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-09-16T22:03:25-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -355,7 +382,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-09-16T22:03:52-07:00"
+         "last_sync": "2026-09-17T04:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -384,7 +411,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -420,7 +447,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X435",
@@ -495,7 +523,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-09-16T22:03:50-07:00"
+         "last_sync": "2026-09-17T04:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -524,7 +552,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -560,7 +588,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X450.33",
@@ -606,7 +635,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-16T22:03:36-07:00"
+         "last_sync": "2026-09-17T04:02:46-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -635,7 +664,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-09-16T22:03:51-07:00"
+         "last_sync": "2026-09-17T04:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -658,7 +687,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X450",
@@ -776,7 +806,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "TMP X451",
@@ -869,7 +900,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

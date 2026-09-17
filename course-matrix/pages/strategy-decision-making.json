@@ -2,7 +2,16 @@
  "page": "strategy-decision-making",
  "page_url": "https://professional.ucsb.edu/strategy-decision-making",
  "page_title": "Strategy and Decision Making",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0074",
+  "name": "Strategy and Decision Making",
+  "synced": "2026-03-27T15:21:44-07:00",
+  "all": [
+   "CE0074"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "strategyDecisionMaking#main",
    "title": "Required",
+   "stream": {
+    "id": "5049549000066801889",
+    "name": "Required Courses (2 Courses)",
+    "required": 2,
+    "ip_stream": true,
+    "cert": "CE0074"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X432",
@@ -65,7 +82,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-09-16T22:03:25-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -94,7 +111,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-09-16T22:03:52-07:00"
+         "last_sync": "2026-09-17T04:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -123,7 +140,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-09-16T22:03:57-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -159,7 +176,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X450",
@@ -277,7 +295,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -285,6 +304,21 @@
    "key": "sub",
    "token": "strategyDecisionMaking#sub",
    "title": "Electives (Choose 1)",
+   "stream": {
+    "id": "5049549000066784907",
+    "name": "Elective (Choose 1)",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0074"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "ECON X400",
+     "token": "strategyDecisionMaking#sub",
+     "stream": "Elective (Choose 1)"
+    }
+   ],
    "courses": [
     {
      "code": "BUSAD X408L",
@@ -326,7 +360,7 @@
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-09-16T22:03:36-07:00"
+         "last_sync": "2026-09-17T04:02:47-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -378,7 +412,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "BUSAD X409.65",
@@ -420,7 +455,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-09-16T22:03:24-07:00"
+         "last_sync": "2026-09-17T04:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -493,7 +528,101 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ECON X400",
+     "title": "ECON X400 - Principles of Financial Accounting",
+     "crm_name": "Principles of Financial Accounting",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571310",
+     "destiny_course_id": "16571310",
+     "crm_id": "5049549000066610001",
+     "tokens": [
+      "General-Advanced-Business#finance",
+      "businessAdministration#main",
+      "busAdminManagement#main2",
+      "strategyDecisionMaking#sub"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "Online",
+       "modalities": [
+        "Online"
+       ],
+       "sections": [
+        {
+         "code": "020",
+         "modality": "Online",
+         "instruction_method": "Online",
+         "state": "open",
+         "start": "2026-09-24",
+         "end": "2026-12-11",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 5,
+         "crm_availability": "Available",
+         "seats_left": 35,
+         "units": 4,
+         "destiny_section_id": "43359634",
+         "crm_id": "5049549000067881524",
+         "last_sync": "2026-09-17T04:02:40-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "022",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-29",
+         "end": "2027-06-11",
+         "enroll_start": null,
+         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44227732",
+         "crm_id": "5049549000083611009",
+         "last_sync": "2026-09-17T00:03:12-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ECON X435",
@@ -565,7 +694,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X410",
@@ -660,7 +790,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X482",
@@ -755,7 +886,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

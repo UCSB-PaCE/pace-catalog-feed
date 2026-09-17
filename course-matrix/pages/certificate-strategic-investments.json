@@ -2,7 +2,16 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0030",
+  "name": "Strategic Investments",
+  "synced": "2026-03-27T14:40:02-07:00",
+  "all": [
+   "CE0030"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,33 @@
    "key": "main",
    "token": "strategicInvestments#main",
    "title": "Required Core Courses: (2 Courses)",
+   "stream": {
+    "id": "5049549000066796301",
+    "name": "Required Courses",
+    "required": 7,
+    "ip_stream": false,
+    "cert": "CE0030"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "ECON X499.3",
+     "token": "strategicInvestments#main",
+     "stream": "Required Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ECON X499.4",
+     "token": "strategicInvestments#main",
+     "stream": "Required Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ECON XSB1",
+     "token": "strategicInvestments#main",
+     "stream": "Required Courses"
+    }
+   ],
    "courses": [
     {
      "code": "ECON X499.1",
@@ -57,7 +93,7 @@
          "units": 2,
          "destiny_section_id": "44333546",
          "crm_id": "5049549000086195061",
-         "last_sync": "2026-09-16T22:03:31-07:00"
+         "last_sync": "2026-09-17T04:02:39-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -88,7 +124,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.2",
@@ -125,7 +162,7 @@
          "units": 2,
          "destiny_section_id": "44333760",
          "crm_id": "5049549000086189048",
-         "last_sync": "2026-09-16T22:03:44-07:00"
+         "last_sync": "2026-09-17T04:02:54-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -156,15 +193,9 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
-    }
-   ]
-  },
-  {
-   "key": "sub1",
-   "token": "strategicInvestments#sub1",
-   "title": "Required Ethics Course",
-   "courses": [
+     "manual": false,
+     "tag_issue": null
+    },
     {
      "code": "ECON X499.3",
      "title": "ECON X499.3 - Risk and Ethics",
@@ -174,7 +205,8 @@
      "destiny_course_id": "32485927",
      "crm_id": "5049549000066775286",
      "tokens": [
-      "strategicInvestments#sub1"
+      "strategicInvestments#sub1",
+      "strategicInvestments#main"
      ],
      "terms": {
       "Fall": {
@@ -200,7 +232,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-16T22:04:01-07:00"
+         "last_sync": "2026-09-17T04:03:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -231,15 +263,9 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
-    }
-   ]
-  },
-  {
-   "key": "sub2",
-   "token": "strategicInvestments#sub2",
-   "title": "Additional Required Course: Prerequisites: Econ X499.1 and X499.2",
-   "courses": [
+     "manual": false,
+     "tag_issue": "missing_tag"
+    },
     {
      "code": "ECON X499.4",
      "title": "ECON X499.4 - Portfolio Management",
@@ -249,7 +275,8 @@
      "destiny_course_id": "32501511",
      "crm_id": "5049549000066764251",
      "tokens": [
-      "strategicInvestments#sub2"
+      "strategicInvestments#sub2",
+      "strategicInvestments#main"
      ],
      "terms": {
       "Fall": {
@@ -285,7 +312,205 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": "missing_tag"
+    },
+    {
+     "code": "ECON XSB1",
+     "title": "ECON XSB1 - PRINCIPL ECON MICRO",
+     "crm_name": "PRINCIPL ECON MICRO",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571370",
+     "destiny_course_id": "16571370",
+     "crm_id": "5049549000066780409",
+     "tokens": [
+      "strategicInvestments#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
+    }
+   ]
+  },
+  {
+   "key": "sub1",
+   "token": "strategicInvestments#sub1",
+   "title": "Required Ethics Course",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_stream",
+     "tagged": "ECON X499.3",
+     "streams": "Elective Courses [ECON X499.10, ECON X499.11, ECON X499.12, ECON X499.13, ECON X499.14, ECON X499.15, ECON X499.16, ECON X499.17, ECON X499.18, ECON X499.19, ECON X499.20, ECON X499.21, ECON X499.23, ECON X499.5]; Required Courses [ECON X499.1, ECON X499.2, ECON X499.3, ECON X499.4, ECON XSB1]"
+    }
+   ],
+   "courses": [
+    {
+     "code": "ECON X499.3",
+     "title": "ECON X499.3 - Risk and Ethics",
+     "crm_name": "Risk and Ethics",
+     "units": 1,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32485927",
+     "destiny_course_id": "32485927",
+     "crm_id": "5049549000066775286",
+     "tokens": [
+      "strategicInvestments#sub1",
+      "strategicInvestments#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "open",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "019",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "open",
+         "start": "2026-10-13",
+         "end": "2026-11-17",
+         "enroll_start": null,
+         "enroll_end": "2026-10-13T16:59:00-07:00",
+         "capacity": 35,
+         "enrolled": 1,
+         "crm_availability": "Available",
+         "seats_left": 34,
+         "units": 1,
+         "destiny_section_id": "44334053",
+         "crm_id": "5049549000086177057",
+         "last_sync": "2026-09-17T04:03:11-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    }
+   ]
+  },
+  {
+   "key": "sub2",
+   "token": "strategicInvestments#sub2",
+   "title": "Additional Required Course: Prerequisites: Econ X499.1 and X499.2",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_stream",
+     "tagged": "ECON X499.4",
+     "streams": "Elective Courses [ECON X499.10, ECON X499.11, ECON X499.12, ECON X499.13, ECON X499.14, ECON X499.15, ECON X499.16, ECON X499.17, ECON X499.18, ECON X499.19, ECON X499.20, ECON X499.21, ECON X499.23, ECON X499.5]; Required Courses [ECON X499.1, ECON X499.2, ECON X499.3, ECON X499.4, ECON XSB1]"
+    }
+   ],
+   "courses": [
+    {
+     "code": "ECON X499.4",
+     "title": "ECON X499.4 - Portfolio Management",
+     "crm_name": "Portfolio Management",
+     "units": "2",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32501511",
+     "destiny_course_id": "32501511",
+     "crm_id": "5049549000066764251",
+     "tokens": [
+      "strategicInvestments#sub2",
+      "strategicInvestments#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -293,6 +518,27 @@
    "key": "sub3",
    "token": "strategicInvestments#sub3",
    "title": "Elective Courses (Minimum of 3 units Required) Prerequisite: ECON X499.4",
+   "stream": {
+    "id": "5049549000066789266",
+    "name": "Elective Courses",
+    "required": 3,
+    "ip_stream": false,
+    "cert": "CE0030"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "ECON X499.20",
+     "token": "strategicInvestments#sub3",
+     "stream": "Elective Courses"
+    },
+    {
+     "kind": "missing_tag",
+     "course": "ECON X499.5",
+     "token": "strategicInvestments#sub3",
+     "stream": "Elective Courses"
+    }
+   ],
    "courses": [
     {
      "code": "ECON X499.10",
@@ -339,7 +585,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.11",
@@ -386,7 +633,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.12",
@@ -433,7 +681,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.13",
@@ -480,7 +729,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.14",
@@ -527,7 +777,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.15",
@@ -574,7 +825,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.16",
@@ -621,7 +873,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.17",
@@ -668,7 +921,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.18",
@@ -715,7 +969,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.19",
@@ -762,7 +1017,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ECON X499.20",
+     "title": "ECON X499.20 - Strategic Investments Program: Independent Study",
+     "crm_name": "Strategic Investments Program: Independent Study",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35521247",
+     "destiny_course_id": "35521247",
+     "crm_id": "5049549000066766189",
+     "tokens": [
+      "strategicInvestments#sub3"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ECON X499.21",
@@ -809,7 +1113,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X499.23",
@@ -856,7 +1161,56 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ECON X499.5",
+     "title": "ECON X499.5 - Business Cycles and Investment Implications",
+     "crm_name": "Business Cycles and Investment Implications",
+     "units": "",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35490266",
+     "destiny_course_id": "35490266",
+     "crm_id": "5049549000066773251",
+     "tokens": [
+      "strategicInvestments#sub3"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     }
    ]
   }

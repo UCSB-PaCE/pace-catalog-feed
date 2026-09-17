@@ -2,7 +2,23 @@
  "page": "international-business-development",
  "page_url": "https://professional.ucsb.edu/international-business-development",
  "page_title": "International Business Development",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0066",
+  "name": "International Business Development",
+  "synced": "2026-04-11T02:21:11-07:00",
+  "all": [
+   "CE0066"
+  ]
+ },
+ "issues": [
+  {
+   "kind": "unmatched_stream",
+   "stream": "Required Course (Choose 1)",
+   "courses": "BUSAD X411.1, BUSAD X428",
+   "cert": "CE0066"
+  }
+ ],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +37,21 @@
    "key": "main",
    "token": "internationalBusinessDevelopment#main",
    "title": "Required Courses",
+   "stream": {
+    "id": "5049549000066776934",
+    "name": "Required Courses (3 Courses)",
+    "required": 2,
+    "ip_stream": true,
+    "cert": "CE0066"
+   },
+   "issues": [
+    {
+     "kind": "extra_tag",
+     "course": "BUSAD X428",
+     "token": "internationalBusinessDevelopment#main",
+     "stream": "Required Courses (3 Courses)"
+    }
+   ],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -120,7 +151,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -135,119 +166,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
-    },
-    {
-     "code": "BUSAD X428",
-     "title": "BUSAD X428 - Entrepreneurial Strategies and Planning",
-     "crm_name": "Entrepreneurial Strategies and Planning",
-     "units": 4,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42160025",
-     "destiny_course_id": "42160025",
-     "crm_id": "5049549000066798866",
-     "tokens": [
-      "General-Advanced-Business#marketing",
-      "internationalBusinessDevelopment#main",
-      "entrepreneurship#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "open",
-       "label": "UCSB",
-       "modalities": [
-        "UCSB"
-       ],
-       "sections": [
-        {
-         "code": "003",
-         "modality": "UCSB",
-         "instruction_method": "In Class",
-         "state": "open",
-         "start": "2026-10-01",
-         "end": "2026-12-10",
-         "enroll_start": "2026-04-19T17:00:00-07:00",
-         "enroll_end": "2026-10-07T16:59:00-07:00",
-         "capacity": 24,
-         "enrolled": 8,
-         "crm_availability": "Available",
-         "seats_left": 16,
-         "units": 4,
-         "destiny_section_id": "43357192",
-         "crm_id": "5049549000067873292",
-         "last_sync": "2026-09-17T02:03:02-07:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "open",
-       "label": "Hybrid",
-       "modalities": [
-        "Hybrid"
-       ],
-       "sections": [
-        {
-         "code": "004",
-         "modality": "Hybrid",
-         "instruction_method": "Hybrid",
-         "state": "open",
-         "start": "2027-01-07",
-         "end": "2027-03-18",
-         "enroll_start": null,
-         "enroll_end": "2027-01-13T15:59:00-08:00",
-         "capacity": 24,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 24,
-         "units": 4,
-         "destiny_section_id": "44148791",
-         "crm_id": "5049549000081103004",
-         "last_sync": "2026-09-17T00:03:10-07:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "open",
-       "label": "Hybrid",
-       "modalities": [
-        "Hybrid"
-       ],
-       "sections": [
-        {
-         "code": "005",
-         "modality": "Hybrid",
-         "instruction_method": "Hybrid",
-         "state": "open",
-         "start": "2027-04-01",
-         "end": "2027-06-10",
-         "enroll_start": null,
-         "enroll_end": "2027-04-07T16:59:00-07:00",
-         "capacity": 24,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 24,
-         "units": 4,
-         "destiny_section_id": "44226723",
-         "crm_id": "5049549000083562005",
-         "last_sync": "2026-09-17T00:03:31-07:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ECON X455.1",
@@ -288,7 +208,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-16T22:03:34-07:00"
+         "last_sync": "2026-09-17T04:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -317,7 +237,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-16T22:03:54-07:00"
+         "last_sync": "2026-09-17T04:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -361,7 +281,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

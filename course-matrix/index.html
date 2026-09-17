@@ -33,6 +33,16 @@
   .legend{font-size:12px;color:#4b5563;margin:0 0 12px}
   .legend span{margin-right:10px}
   .manual{font-size:11px;color:#6b7280}
+  .issues{margin:0;padding:8px 14px;background:#fef2f2;border-top:1px solid #fecaca;border-bottom:1px solid #fecaca;color:#991b1b;font-size:12px}
+  .issues b{font-weight:600}
+  .issues ul{margin:4px 0 0 18px;padding:0}
+  .issues li{margin:2px 0}
+  .chip-red{display:inline-block;font-size:11px;font-weight:600;padding:1px 8px;border-radius:9px;background:#dc2626;color:#fff;margin-left:8px;vertical-align:middle}
+  .chip-ok{display:inline-block;font-size:11px;padding:1px 8px;border-radius:9px;background:#dcfce7;color:#166534;margin-left:8px;vertical-align:middle;font-weight:500}
+  .stream{font-size:11px;color:#c9d6e2;font-weight:400;margin-left:8px}
+  .tagflag{display:inline-block;font-size:11px;font-weight:600;color:#991b1b;background:#fee2e2;border:1px solid #fca5a5;padding:0 6px;border-radius:9px;margin-left:6px;vertical-align:middle}
+  .pageissues{margin:0 0 14px;padding:10px 14px;background:#fef2f2;border:1px solid #fecaca;border-radius:6px;color:#991b1b;font-size:13px}
+  .certline{font-size:13px;color:#4b5563;margin:0 0 10px}
   footer{font-size:12px;color:#6b7280;margin:30px 0}
 </style>
 </head>
@@ -62,16 +72,35 @@
     const pg = await (await fetch('pages/'+slug+'.json',{cache:'no-store'})).json();
     document.getElementById('meta').innerHTML = 'Live page: <a href="'+pg.page_url+'" target="_blank" rel="noopener">'+pg.page_url+'</a> · JSON: <a href="pages/'+slug+'.json">pages/'+slug+'.json</a>';
     const cols = pg.columns, host = document.getElementById('blocks'); host.innerHTML='';
+    const cert = pg.certificate; const pIssues = pg.issues || [];
+    const nBlockIssues = pg.blocks.reduce((n,b)=>n+((b.issues||[]).filter(i=>i.kind!=='ok').length),0);
+    let head = '<p class="certline">Source of truth: ' + (cert ? 'CRM certificate <b>'+esc(cert.code)+' '+esc(cert.name)+'</b> (streams synced '+esc((cert.synced||'').slice(0,10))+')' : '<b>no CRM certificate mapped</b>, block membership comes from the Drupal tags only') + '.'
+      + (nBlockIssues + pIssues.length ? ' <span class="chip-red">' + (nBlockIssues + pIssues.length) + ' tag issue' + ((nBlockIssues + pIssues.length)===1?'':'s') + '</span>' : ' <span class="chip-ok">tags match CRM streams</span>') + '</p>';
+    if (pIssues.length) head += '<div class="pageissues"><b>Page-level tag issues</b><ul>' + pIssues.map(i=>'<li>'+esc(issueText(i))+'</li>').join('') + '</ul></div>';
+    host.insertAdjacentHTML('beforeend', head);
     pg.blocks.forEach(b=>{
       const div=document.createElement('div');div.className='block';
-      let h='<h2>'+esc(b.title||b.key)+' <span class="manual">('+esc(b.token||'')+')</span></h2><table><thead><tr><th>Course</th><th>Units</th>'+cols.map(c=>'<th>'+c+'</th>').join('')+'</tr></thead><tbody>';
+      const bIss=(b.issues||[]).filter(i=>i.kind!=='ok');
+      let h='<h2>'+esc(b.title||b.key)+' <span class="manual">('+esc(b.token||'')+')</span>'+(b.stream?'<span class="stream">CRM stream: '+esc(b.stream.name)+(b.stream.required?' · required '+esc(b.stream.required):'')+'</span>':'')+(bIss.length?'<span class="chip-red">'+bIss.length+' tag issue'+(bIss.length===1?'':'s')+'</span>':(b.stream?'<span class="chip-ok">matches stream</span>':''))+'</h2>'
+        +(bIss.length?'<div class="issues"><b>Tag issues</b> (CRM stream is the source of truth; the table below shows the stream membership)<ul>'+bIss.map(i=>'<li>'+esc(issueText(i))+'</li>').join('')+'</ul></div>':'')
+        +'<table><thead><tr><th>Course</th><th>Units</th>'+cols.map(c=>'<th>'+c+'</th>').join('')+'</tr></thead><tbody>';
       b.courses.forEach(c=>{
-        h+='<tr><td><a href="'+esc(c.url)+'" target="_blank" rel="noopener">'+esc(c.title)+'</a>'+(c.manual?' <span class="manual">(manual row)</span>':'')+'</td><td>'+esc(c.units??'')+'</td>';
+        h+='<tr><td><a href="'+esc(c.url)+'" target="_blank" rel="noopener">'+esc(c.title)+'</a>'+(c.manual?' <span class="manual">(manual row)</span>':'')+(c.tag_issue==='missing_tag'?' <span class="tagflag" title="In the CRM stream but the Drupal tag '+esc(b.token||'')+' is missing on this course">missing tag</span>':'')+'</td><td>'+esc(c.units??'')+'</td>';
         cols.forEach(q=>{const t=c.terms[q]||{};h+='<td class="cell">'+cell(t)+'</td>';});
         h+='</tr>';
       });
       div.innerHTML=h+'</tbody></table>';host.appendChild(div);
     });
+  }
+  function issueText(i){
+    switch(i.kind){
+      case 'missing_tag': return i.course+' is in the CRM stream but not tagged '+(i.token||'')+' (added to this block; add the tag in Drupal / the sheet)';
+      case 'extra_tag': return i.course+' is tagged '+(i.token||'')+' but is NOT in the CRM stream "'+(i.stream||'')+'" (removed from this block; drop the tag or fix the stream in Destiny/CRM)';
+      case 'no_stream': return 'No CRM stream matches this block\'s tagged courses ('+(i.tagged||'')+'); membership left as tagged. Streams on this certificate: '+(i.streams||'none');
+      case 'no_certificate': return 'No CRM certificate maps to this page (by landing URL or name); membership left as tagged';
+      case 'unmatched_stream': return 'CRM stream "'+(i.stream||'')+'" ('+(i.courses||'')+') has no block on this page';
+      default: return JSON.stringify(i);
+    }
   }
   function cell(t){
     if(!t.label||t.label==='N/A'||t.state==='not_scheduled') return '<span class="na">N/A</span>'+(t.hidden_sections?'<span class="tip"><div>'+t.hidden_sections+' section(s) exist in the CRM but are not public / not final-approved</div></span>':'');

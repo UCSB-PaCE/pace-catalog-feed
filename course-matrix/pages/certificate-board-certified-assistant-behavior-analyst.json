@@ -2,7 +2,16 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0037",
+  "name": "Assistant Behavior Analyst",
+  "synced": "2026-03-27T14:49:57-07:00",
+  "all": [
+   "CE0037"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,27 @@
    "key": "main",
    "token": "BCaBA#main",
    "title": "Required Courses",
+   "stream": {
+    "id": "5049549000066765618",
+    "name": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST",
+    "required": 6,
+    "ip_stream": false,
+    "cert": "CE0037"
+   },
+   "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "ED X320S",
+     "token": "BCaBA#main",
+     "stream": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST"
+    },
+    {
+     "kind": "extra_tag",
+     "course": "ED X317B",
+     "token": "BCaBA#main",
+     "stream": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST"
+    }
+   ],
    "courses": [
     {
      "code": "ED X315",
@@ -89,7 +119,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X316",
@@ -135,7 +166,7 @@
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-09-16T22:03:40-07:00"
+         "last_sync": "2026-09-17T04:02:51-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -158,7 +189,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X317",
@@ -212,7 +244,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-09-16T22:04:04-07:00"
+         "last_sync": "2026-09-17T04:03:12-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -227,75 +259,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
-    },
-    {
-     "code": "ED X317B",
-     "title": "ED X317B Behavior Assessment and Intervention Part II",
-     "crm_name": "Behavior Assessment and Intervention Part II",
-     "units": 5,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43681292",
-     "destiny_course_id": "43681292",
-     "crm_id": "5049549000076344001",
-     "tokens": [
-      "BCaBA#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "open",
-       "label": "Online (self-paced)",
-       "modalities": [
-        "Online (self-paced)"
-       ],
-       "sections": [
-        {
-         "code": "001",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "open",
-         "start": "2027-06-23",
-         "end": "2027-09-10",
-         "enroll_start": null,
-         "enroll_end": "2027-06-30T16:59:00-07:00",
-         "capacity": 40,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 40,
-         "units": 5,
-         "destiny_section_id": "43681308",
-         "crm_id": "5049549000076333001",
-         "last_sync": "2026-09-17T00:02:53-07:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X318",
@@ -333,7 +298,7 @@
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-09-16T22:03:48-07:00"
+         "last_sync": "2026-09-17T04:03:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -364,7 +329,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X319",
@@ -417,7 +383,7 @@
          "units": 5,
          "destiny_section_id": "43579625",
          "crm_id": "5049549000073932016",
-         "last_sync": "2026-09-16T22:04:05-07:00"
+         "last_sync": "2026-09-17T04:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -432,7 +398,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "title": "ED X320BM - Introduction to Organizational Behavior Management",
@@ -457,6 +424,55 @@
        "state": "manual"
       }
      }
+    },
+    {
+     "code": "ED X320S",
+     "title": "ED X320S - Personnel, Supervision, and Management",
+     "crm_name": "ED X 320S: Personnel, Supervision, and Management",
+     "units": "2",
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35199557",
+     "destiny_course_id": "35199557",
+     "crm_id": "5049549000066770513",
+     "tokens": [
+      "QASPS#main",
+      "BCaBA#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": "missing_tag"
     }
    ]
   }

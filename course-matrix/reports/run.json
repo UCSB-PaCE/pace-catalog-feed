@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
  "today": "2026-09-17",
  "window": {
   "Fall": "Fall 2026",
@@ -7,13 +7,35 @@
   "Spring": "Spring 2027",
   "Summer": "Summer 2027"
  },
- "rows": 133,
+ "rows": 151,
  "pages": 28,
- "cells_changed": 0,
- "cells_total": 532,
+ "cells_changed": 72,
+ "cells_total": 604,
  "diff_gate_tripped": false,
  "snapshot": null,
  "notes": [
-  "linked by course code (sheet had no URL): ED X317B Behavior Assessment and Intervention Part II -> ED X317B"
- ]
+  "linked by course code (sheet had no URL): ED X317B Behavior Assessment and Intervention Part II -> ED X317B",
+  "certificate-business-leadership: 2 certificates share the page (CE0073, CE0007); using CE0007",
+  "added from CRM stream (not in sheet): MGMNT X476 - Communication Skills for Professionals -> businessLeadership#sub",
+  "added from CRM stream (not in sheet): XLRN 815.EMT - Emergency Medical Technician \u2013 Basic -> EMT#main",
+  "added from CRM stream (not in sheet): ED X370.10 - Child Development: Birth to 18 Years -> CL#main",
+  "added from CRM stream (not in sheet): ED X370.17 - Child Development: Challenges in Global Maternal and Child Health -> CL#main",
+  "added from CRM stream (not in sheet): ED X370.18 - Child Life in Non-Traditional Settings: Beyond the Hospital -> CL#main",
+  "added from CRM stream (not in sheet): ED X370.20 - Health Care Ethics -> CL#main",
+  "added from CRM stream (not in sheet): ED X370.22 - Child Life: Administration, Leadership and Advocacy -> CL#main",
+  "added from CRM stream (not in sheet): ED X370.8 - Outreach and Technology -> CL#main",
+  "certificate-human-resource-management: 5 certificates share the page (CE0036, CE0046, CE0044, CE0047, HR00); using CE0036",
+  "added from CRM stream (not in sheet): ECON X455.2 - Business Strategy -> humanResourceManagement#sub",
+  "certificate-practical-project-management: 2 certificates share the page (CE0035, CE0024); using CE0035",
+  "added from CRM stream (not in sheet): ECON XSB1 - PRINCIPL ECON MICRO -> strategicInvestments#main",
+  "added from CRM stream (not in sheet): ECON X499.20 - Strategic Investments Program: Independent Study -> strategicInvestments#sub3",
+  "added from CRM stream (not in sheet): ECON X499.5 - Business Cycles and Investment Implications -> strategicInvestments#sub3",
+  "added from CRM stream (not in sheet): BUSAD X108 - Business Law -> Paralegal#sub",
+  "added from CRM stream (not in sheet): LAW X405 - LAW X405 -> Paralegal#sub",
+  "added from CRM stream (not in sheet): LAW X417.6 - LAW X417.6 -> Paralegal#sub",
+  "added from CRM stream (not in sheet): LAW X417.7 - LAW X417.7 -> Paralegal#sub",
+  "added from CRM stream (not in sheet): LAW X422 - Elder Law (Formerly, Aging and the Law) -> Paralegal#sub",
+  "added from CRM stream (not in sheet): LAW X459 - LAW X459 -> Paralegal#sub"
+ ],
+ "tag_issues": 43
 }

@@ -2,7 +2,16 @@
  "page": "global-marketing",
  "page_url": "https://professional.ucsb.edu/global-marketing",
  "page_title": "Global Marketing",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": {
+  "code": "CE0067",
+  "name": "Global Marketing",
+  "synced": "2026-03-27T15:21:53-07:00",
+  "all": [
+   "CE0067"
+  ]
+ },
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +30,14 @@
    "key": "main",
    "token": "globalMarketing#main",
    "title": "Required",
+   "stream": {
+    "id": "5049549000066764701",
+    "name": "Required Courses (2 Courses)",
+    "required": 2,
+    "ip_stream": true,
+    "cert": "CE0067"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "BUSAD X409.11",
@@ -120,7 +137,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-16T22:03:56-07:00"
+         "last_sync": "2026-09-17T04:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -135,7 +152,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X479",
@@ -208,7 +226,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-09-16T22:03:55-07:00"
+         "last_sync": "2026-09-17T04:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -252,7 +270,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -260,6 +279,14 @@
    "key": "sub",
    "token": "globalMarketing#sub",
    "title": "Electives - Choose 1",
+   "stream": {
+    "id": "5049549000066782728",
+    "name": "Elective (Choose 1)",
+    "required": 1,
+    "ip_stream": true,
+    "cert": "CE0067"
+   },
+   "issues": [],
    "courses": [
     {
      "code": "MGMNT X410",
@@ -354,7 +381,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X477",
@@ -489,7 +517,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X477.1",
@@ -581,7 +610,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "MGMNT X482",
@@ -676,7 +706,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

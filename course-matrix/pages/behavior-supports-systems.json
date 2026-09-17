@@ -2,7 +2,9 @@
  "page": "behavior-supports-systems",
  "page_url": "https://professional.ucsb.edu/behavior-supports-systems",
  "page_title": "Behavior Supports and Systems",
- "generated_at": "2026-09-17T17:59:29+00:00",
+ "generated_at": "2026-09-17T18:28:27+00:00",
+ "certificate": null,
+ "issues": [],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -21,6 +23,12 @@
    "key": "main",
    "token": "BSS#main",
    "title": "Individual Behavior Supports and Systems Courses",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "ED X310A",
@@ -88,7 +96,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X310B",
@@ -133,7 +142,7 @@
          "units": 4,
          "destiny_section_id": "43567581",
          "crm_id": "5049549000073568016",
-         "last_sync": "2026-09-16T22:03:39-07:00"
+         "last_sync": "2026-09-17T04:02:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -156,7 +165,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   },
@@ -164,6 +174,12 @@
    "key": "sub",
    "token": "BSS#sub",
    "title": "Naturalistic Developmental Behavioral Intervention (NDBI)",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
    "courses": [
     {
      "code": "ED X310C",
@@ -208,7 +224,7 @@
          "units": 3,
          "destiny_section_id": "43567649",
          "crm_id": "5049549000073626027",
-         "last_sync": "2026-09-16T22:03:41-07:00"
+         "last_sync": "2026-09-17T04:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -231,7 +247,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X310D",
@@ -299,7 +316,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X310E",
@@ -352,7 +370,7 @@
          "units": 3,
          "destiny_section_id": "43579302",
          "crm_id": "5049549000073917015",
-         "last_sync": "2026-09-16T22:03:45-07:00"
+         "last_sync": "2026-09-17T04:02:55-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -367,7 +385,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     },
     {
      "code": "ED X310F",
@@ -435,7 +454,8 @@
        "term": "Summer 2027"
       }
      },
-     "manual": false
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }
