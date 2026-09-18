@@ -2,7 +2,7 @@
  "page": "sports-management-studies",
  "page_url": "https://professional.ucsb.edu/sports-management-studies",
  "page_title": "Sports Management Studies",
- "generated_at": "2026-09-18T18:30:19+00:00",
+ "generated_at": "2026-09-18T21:42:28+00:00",
  "certificate": {
   "code": "CE0088",
   "name": "Sports Management Studies: Essentials",
@@ -93,13 +93,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 6,
+         "enrolled": 7,
          "crm_availability": "Available",
-         "seats_left": 18,
+         "seats_left": 17,
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-18T02:02:51-07:00"
+         "last_sync": "2026-09-18T05:52:25-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -230,13 +230,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 5,
+         "enrolled": 6,
          "crm_availability": "Available",
-         "seats_left": 25,
+         "seats_left": 24,
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-18T00:03:25-07:00"
+         "last_sync": "2026-09-18T05:52:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -496,7 +496,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-18T02:02:50-07:00"
+         "last_sync": "2026-09-18T06:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -650,13 +650,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 6,
+         "enrolled": 7,
          "crm_availability": "Available",
-         "seats_left": 18,
+         "seats_left": 17,
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-18T02:02:51-07:00"
+         "last_sync": "2026-09-18T05:52:25-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -780,13 +780,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 5,
+         "enrolled": 6,
          "crm_availability": "Available",
-         "seats_left": 25,
+         "seats_left": 24,
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-18T00:03:25-07:00"
+         "last_sync": "2026-09-18T05:52:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1039,7 +1039,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-18T02:02:50-07:00"
+         "last_sync": "2026-09-18T06:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
