@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T09:47:08+00:00",
+ "generated_at": "2026-09-18T14:32:10+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -2871,6 +2871,55 @@
    ]
   },
   {
+   "code": "CE0015",
+   "name": "Global Business Leadership",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0017",
+   "name": "Leadership and Advocacy",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0020",
+   "name": "Healthcare Program",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0041",
+   "name": "CERP Bundle 1 of 5 Workshops",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0014",
+   "name": "Global Business Essentials",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0032",
+   "name": "Python Programming Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0025",
+   "name": "Digital Design and Visual Communication",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
    "code": "CE0085",
    "name": "Certified SOC Analyst",
    "landing_url": null,
@@ -2886,6 +2935,55 @@
      ]
     }
    ]
+  },
+  {
+   "code": "CE0040",
+   "name": "CERP Bundle 3 of 5 Workshops",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0028",
+   "name": "Education In-Service Programs",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0039",
+   "name": "CERP Bundle 5 of 5 Workshops",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0018",
+   "name": "Brooks at UCSB",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0019",
+   "name": "Journalism",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0012",
+   "name": "Informal Science Learning at MOXI",
+   "landing_url": null,
+   "category": null,
+   "streams": []
+  },
+  {
+   "code": "CE0026",
+   "name": "Translation and Interpreting Certificate",
+   "landing_url": null,
+   "category": null,
+   "streams": []
   },
   {
    "code": "CE0087",
