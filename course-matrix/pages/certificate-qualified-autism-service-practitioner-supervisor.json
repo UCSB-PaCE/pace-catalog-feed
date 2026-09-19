@@ -2,7 +2,7 @@
  "page": "certificate-qualified-autism-service-practitioner-supervisor",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
  "page_title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
- "generated_at": "2026-09-18T21:42:28+00:00",
+ "generated_at": "2026-09-19T00:22:11+00:00",
  "certificate": {
   "code": "CE0057",
   "name": "International Qualified Autism Specialist",
@@ -113,7 +113,7 @@
          "units": 5,
          "destiny_section_id": "44164675",
          "crm_id": "5049549000081581004",
-         "last_sync": "2026-09-18T04:02:38-07:00"
+         "last_sync": "2026-09-18T08:03:18-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -167,7 +167,7 @@
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-09-18T02:03:06-07:00"
+         "last_sync": "2026-09-18T08:02:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -245,7 +245,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-09-18T02:03:25-07:00"
+         "last_sync": "2026-09-18T08:02:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -293,13 +293,13 @@
          "enroll_start": null,
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 8,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 32,
+         "seats_left": 31,
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-09-18T02:03:14-07:00"
+         "last_sync": "2026-09-18T09:29:11-07:00"
         }
        ],
        "hidden_sections": 0,
