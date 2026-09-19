@@ -2,7 +2,7 @@
  "page": "international-business-development",
  "page_url": "https://professional.ucsb.edu/international-business-development",
  "page_title": "International Business Development",
- "generated_at": "2026-09-19T00:22:11+00:00",
+ "generated_at": "2026-09-19T05:54:40+00:00",
  "certificate": {
   "code": "CE0066",
   "name": "International Business Development",
@@ -94,7 +94,7 @@
          "units": 4,
          "destiny_section_id": "43350217",
          "crm_id": "5049549000067789326",
-         "last_sync": "2026-09-18T08:43:44-07:00"
+         "last_sync": "2026-09-18T14:03:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -123,7 +123,7 @@
          "units": 4,
          "destiny_section_id": "44148492",
          "crm_id": "5049549000081136007",
-         "last_sync": "2026-09-18T08:03:23-07:00"
+         "last_sync": "2026-09-18T14:03:13-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -152,7 +152,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-18T08:02:45-07:00"
+         "last_sync": "2026-09-18T14:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -203,13 +203,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 20,
+         "enrolled": 21,
          "crm_availability": "Available",
-         "seats_left": 20,
+         "seats_left": 19,
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-09-18T06:03:15-07:00"
+         "last_sync": "2026-09-18T11:02:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -238,7 +238,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-09-18T08:02:43-07:00"
+         "last_sync": "2026-09-18T12:03:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -267,7 +267,7 @@
          "units": 4,
          "destiny_section_id": "44231579",
          "crm_id": "5049549000083578015",
-         "last_sync": "2026-09-18T10:02:25-07:00"
+         "last_sync": "2026-09-18T14:03:18-07:00"
         }
        ],
        "hidden_sections": 0,
