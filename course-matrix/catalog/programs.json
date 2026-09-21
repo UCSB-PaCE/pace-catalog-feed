@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T01:07:19+00:00",
+ "generated_at": "2026-09-21T06:22:56+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -2949,28 +2949,109 @@
    "name": "CERP Bundle 1 of 5 Workshops",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "CERP Workshops",
+     "required": 1,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 840.CERP",
+      "XLRN 841.CERP",
+      "XLRN 842.CERP",
+      "XLRN 843.CERP",
+      "XLRN 844.CERP"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0014",
    "name": "Global Business Essentials",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X411.1"
+     ]
+    },
+    {
+     "name": "Elective Courses (20 units)",
+     "required": 20,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.11",
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X438",
+      "BUSAD X450.13",
+      "ECON X455.1",
+      "ENGR X452.09",
+      "MGMNT X171",
+      "MGMNT X172",
+      "MGMNT X173",
+      "MGMNT X474",
+      "MGMNT X475"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0032",
    "name": "Python Programming Certificate",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required",
+     "required": 3,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X420.P",
+      "CMPSC X421.P",
+      "CMPSC X422.P"
+     ]
+    },
+    {
+     "name": "Electives",
+     "required": 1,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "CMPSC X423.P",
+      "CMPSC X424.P",
+      "CMPSC X425.P"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0025",
    "name": "Digital Design and Visual Communication",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required classes (4 courses)",
+     "required": 4,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "ART X420",
+      "ART X421",
+      "ART X422",
+      "ART X423",
+      "ART X424"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0085",
@@ -2994,7 +3075,21 @@
    "name": "CERP Bundle 3 of 5 Workshops",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "CERP Workshops",
+     "required": 3,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 840.CERP",
+      "XLRN 841.CERP",
+      "XLRN 842.CERP",
+      "XLRN 843.CERP",
+      "XLRN 844.CERP"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0028",
@@ -3008,7 +3103,21 @@
    "name": "CERP Bundle 5 of 5 Workshops",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "CERP Workshops",
+     "required": 5,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 840.CERP",
+      "XLRN 841.CERP",
+      "XLRN 842.CERP",
+      "XLRN 843.CERP",
+      "XLRN 844.CERP"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0018",
@@ -3022,21 +3131,60 @@
    "name": "Journalism",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Extension Course Options",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "WRIT X410",
+      "WRIT X415"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0012",
    "name": "Informal Science Learning at MOXI",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Required Courses",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "ED X320A",
+      "ED X320B",
+      "ED X320C",
+      "ED X320D"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0026",
    "name": "Translation and Interpreting Certificate",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Basic TI Certificate",
+     "required": 6,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "C LIT X400",
+      "C LIT X401",
+      "C LIT X402",
+      "C LIT X403",
+      "C LIT X404",
+      "C LIT X405"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0087",
