@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T14:10:47+00:00",
+ "generated_at": "2026-09-21T19:28:56+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -420,6 +420,15 @@
    "name": "Basics of ABA and Clinical Intervention Strategies",
    "destiny_course_id": "39154767",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=39154767",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "ECON XSB1",
+   "name": "PRINCIPL ECON MICRO",
+   "destiny_course_id": "16571370",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571370",
    "min_units": null,
    "max_units": null,
    "on_site": true
