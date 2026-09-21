@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T22:27:15+00:00",
+ "generated_at": "2026-09-21T01:07:19+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -2875,14 +2875,67 @@
    "name": "Global Business Leadership",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Elective Courses (32 units)",
+     "required": 32,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X409.11",
+      "BUSAD X432",
+      "BUSAD X435",
+      "BUSAD X438",
+      "BUSAD X450.13",
+      "ECON X455.1",
+      "ENGR X452.09",
+      "MGMNT X171",
+      "MGMNT X172",
+      "MGMNT X173",
+      "MGMNT X474",
+      "MGMNT X475"
+     ]
+    },
+    {
+     "name": "Required Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X411.1"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0017",
    "name": "Leadership and Advocacy",
    "landing_url": null,
    "category": null,
-   "streams": []
+   "streams": [
+    {
+     "name": "Choose any 2 UCSB courses (8 units total)",
+     "required": 2,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "COMM XSB126",
+      "WRIT XSB105PD",
+      "WRIT XSB105PS"
+     ]
+    },
+    {
+     "name": "Choose any 2 professional courses",
+     "required": 2,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "BUSAD X402.2",
+      "INT X401",
+      "INT X402"
+     ]
+    }
+   ]
   },
   {
    "code": "CE0020",
