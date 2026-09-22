@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T18:55:59+00:00",
+ "generated_at": "2026-09-22T22:10:10+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -890,6 +890,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31606072",
    "min_units": null,
    "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ASTRO XSB1",
+   "name": "BASIC ASTRONOMY",
+   "destiny_course_id": "16569338",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16569338",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
