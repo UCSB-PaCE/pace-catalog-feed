@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T19:28:56+00:00",
+ "generated_at": "2026-09-22T04:58:11+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -182,7 +182,7 @@
    "blocks": 1,
    "courses": 3,
    "certificate": "CE0072",
-   "tag_issues": 0
+   "tag_issues": 1
   },
   {
    "page": "certificate-applied-ai-and-innovation",
@@ -191,7 +191,7 @@
    "blocks": 1,
    "courses": 3,
    "certificate": "CE0072",
-   "tag_issues": 0
+   "tag_issues": 1
   },
   {
    "page": "applied-ai-and-innovation",
@@ -200,7 +200,7 @@
    "blocks": 1,
    "courses": 3,
    "certificate": "CE0072",
-   "tag_issues": 0
+   "tag_issues": 1
   },
   {
    "page": "applied-business-essentials",

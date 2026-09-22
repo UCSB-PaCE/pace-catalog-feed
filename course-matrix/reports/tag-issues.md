@@ -1,8 +1,8 @@
-# Tag issues: Drupal placement tags vs CRM certificate streams (2026-09-21)
+# Tag issues: Drupal placement tags vs CRM certificate streams (2026-09-22)
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
-Total issues: 54
+Total issues: 57
 
 ## Business Leadership  <https://professional.ucsb.edu/certificate-business-leadership>
 
@@ -152,19 +152,19 @@ Certificate: CE0076 General Business Studies
 
 Certificate: CE0072 Applied AI and Innovation
 
-- no issues
+- [page] STREAM WITHOUT A BLOCK: "Required Courses (4 Courses)" (MGMNT X490A, MGMNT X490B, MGMNT X490C, MGMNT X490D)
 
 ## Applied AI and Innovation, Professional  <https://professional.ucsb.edu/certificate-applied-ai-and-innovation>
 
 Certificate: CE0072 Applied AI and Innovation
 
-- no issues
+- [page] STREAM WITHOUT A BLOCK: "Required Courses (4 Courses)" (MGMNT X490A, MGMNT X490B, MGMNT X490C, MGMNT X490D)
 
 ## Applied AI and Innovation, Degree+  <https://professional.ucsb.edu/degree-plus/applied-ai-and-innovation>
 
 Certificate: CE0072 Applied AI and Innovation
 
-- no issues
+- [page] STREAM WITHOUT A BLOCK: "Required Courses (4 Courses)" (MGMNT X490A, MGMNT X490B, MGMNT X490C, MGMNT X490D)
 
 ## Applied Business Essentials  <https://professional.ucsb.edu/degree-plus/applied-business-essentials>
 

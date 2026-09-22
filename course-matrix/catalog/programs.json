@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T19:28:56+00:00",
+ "generated_at": "2026-09-22T04:58:11+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -725,6 +725,18 @@
       "MGMNT X440",
       "MGMNT X441",
       "MGMNT X442"
+     ]
+    },
+    {
+     "name": "Required Courses (4 Courses)",
+     "required": 4,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "MGMNT X490A",
+      "MGMNT X490B",
+      "MGMNT X490C",
+      "MGMNT X490D"
      ]
     }
    ]

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T19:28:56+00:00",
- "today": "2026-09-21",
+ "generated_at": "2026-09-22T04:58:11+00:00",
+ "today": "2026-09-22",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -9,7 +9,7 @@
  },
  "rows": 156,
  "pages": 30,
- "cells_changed": 4,
+ "cells_changed": 1,
  "cells_total": 624,
  "diff_gate_tripped": false,
  "snapshot": null,
@@ -43,5 +43,5 @@
   "added from CRM stream (not in sheet): BUSAD X401.3 - Public Relations and Advertising -> foundationsDigitalMarketing#sub",
   "certificate-professional-accounting: 2 certificates share the page (CE0079, CP00); using CE0079"
  ],
- "tag_issues": 54
+ "tag_issues": 57
 }
