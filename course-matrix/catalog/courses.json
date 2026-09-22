@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T14:55:50+00:00",
+ "generated_at": "2026-09-22T18:55:59+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -444,7 +444,7 @@
   },
   {
    "code": "BUSAD X450.33",
-   "name": "Building and Leading High Performance Teams",
+   "name": "Building and Managing High Performance Teams",
    "destiny_course_id": "25561802",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25561802",
    "min_units": 2,
