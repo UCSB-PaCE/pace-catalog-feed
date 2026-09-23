@@ -2,11 +2,11 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-09-23T00:34:52+00:00",
+ "generated_at": "2026-09-23T05:59:39+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
-  "synced": "2026-09-21T00:03:06-07:00",
+  "synced": "2026-09-22T12:02:41-07:00",
   "all": [
    "CE0030"
   ]
@@ -93,7 +93,7 @@
          "units": 2,
          "destiny_section_id": "44333546",
          "crm_id": "5049549000086195061",
-         "last_sync": "2026-09-22T08:02:51-07:00"
+         "last_sync": "2026-09-22T12:02:55-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -162,7 +162,7 @@
          "units": 2,
          "destiny_section_id": "44333760",
          "crm_id": "5049549000086189048",
-         "last_sync": "2026-09-22T08:03:05-07:00"
+         "last_sync": "2026-09-22T14:02:39-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -232,7 +232,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-22T08:03:16-07:00"
+         "last_sync": "2026-09-22T14:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -350,7 +350,7 @@
          "units": 5,
          "destiny_section_id": "44560600",
          "crm_id": "5049549000090454015",
-         "last_sync": "2026-09-22T08:02:32-07:00"
+         "last_sync": "2026-09-22T12:02:41-07:00"
         },
         {
          "code": "535",
@@ -368,7 +368,7 @@
          "units": 5,
          "destiny_section_id": "44560516",
          "crm_id": "5049549000090486012",
-         "last_sync": "2026-09-22T08:02:33-07:00"
+         "last_sync": "2026-09-22T12:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -453,7 +453,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-22T08:03:16-07:00"
+         "last_sync": "2026-09-22T14:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
