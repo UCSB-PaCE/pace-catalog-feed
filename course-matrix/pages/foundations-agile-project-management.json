@@ -2,7 +2,7 @@
  "page": "foundations-agile-project-management",
  "page_url": "https://professional.ucsb.edu/degree-plus/foundations-agile-project-management",
  "page_title": "Foundations of Agile Project Management",
- "generated_at": "2026-09-23T20:23:19+00:00",
+ "generated_at": "2026-09-23T23:43:04+00:00",
  "certificate": {
   "code": "CE0080",
   "name": "Foundations of Agile Project Management",
@@ -76,13 +76,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 8,
+         "enrolled": 7,
          "crm_availability": "Available",
-         "seats_left": 32,
+         "seats_left": 33,
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-09-23T05:11:23-07:00"
+         "last_sync": "2026-09-23T07:36:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -219,7 +219,7 @@
          "units": 4,
          "destiny_section_id": "43389103",
          "crm_id": "5049549000068333288",
-         "last_sync": "2026-09-23T04:04:23-07:00"
+         "last_sync": "2026-09-23T08:03:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -382,7 +382,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-09-23T04:03:40-07:00"
+         "last_sync": "2026-09-23T08:02:46-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -411,7 +411,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-09-23T04:03:45-07:00"
+         "last_sync": "2026-09-23T08:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -494,7 +494,7 @@
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-09-23T03:52:51-07:00"
+         "last_sync": "2026-09-23T08:02:44-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -523,7 +523,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-09-23T04:03:39-07:00"
+         "last_sync": "2026-09-23T08:02:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -552,7 +552,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-09-23T04:03:50-07:00"
+         "last_sync": "2026-09-23T08:02:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -635,7 +635,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-09-23T04:04:18-07:00"
+         "last_sync": "2026-09-23T08:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -727,13 +727,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-06T16:59:00-07:00",
          "capacity": 28,
-         "enrolled": 21,
+         "enrolled": 23,
          "crm_availability": "Available",
-         "seats_left": 7,
+         "seats_left": 5,
          "units": 4,
          "destiny_section_id": "43372943",
          "crm_id": "5049549000068028123",
-         "last_sync": "2026-09-23T04:20:59-07:00"
+         "last_sync": "2026-09-23T08:46:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -762,7 +762,7 @@
          "units": 4,
          "destiny_section_id": "44161890",
          "crm_id": "5049549000081532005",
-         "last_sync": "2026-09-23T04:04:18-07:00"
+         "last_sync": "2026-09-23T08:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -856,7 +856,7 @@
          "units": 4,
          "destiny_section_id": "44157893",
          "crm_id": "5049549000081355003",
-         "last_sync": "2026-09-23T04:04:17-07:00"
+         "last_sync": "2026-09-23T08:03:15-07:00"
         }
        ],
        "hidden_sections": 0,

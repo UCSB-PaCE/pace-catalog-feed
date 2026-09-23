@@ -2,7 +2,7 @@
  "page": "certificate-sports-management",
  "page_url": "https://professional.ucsb.edu/certificate-sports-management",
  "page_title": "Sports Management",
- "generated_at": "2026-09-23T20:23:19+00:00",
+ "generated_at": "2026-09-23T23:43:04+00:00",
  "certificate": {
   "code": "CE0090",
   "name": "Sports Management",
@@ -71,13 +71,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 9,
+         "enrolled": 10,
          "crm_availability": "Available",
-         "seats_left": 15,
+         "seats_left": 14,
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-23T06:02:59-07:00"
+         "last_sync": "2026-09-23T09:10:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -106,7 +106,7 @@
          "units": 4,
          "destiny_section_id": "44151473",
          "crm_id": "5049549000081123013",
-         "last_sync": "2026-09-23T04:03:58-07:00"
+         "last_sync": "2026-09-23T08:02:58-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -200,13 +200,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 8,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 22,
+         "seats_left": 21,
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-23T06:03:00-07:00"
+         "last_sync": "2026-09-23T09:10:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -394,7 +394,7 @@
          "units": 4,
          "destiny_section_id": "44151809",
          "crm_id": "5049549000081204006",
-         "last_sync": "2026-09-23T04:04:01-07:00"
+         "last_sync": "2026-09-23T08:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -458,7 +458,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-23T04:04:20-07:00"
+         "last_sync": "2026-09-23T08:03:18-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -623,7 +623,7 @@
          "units": 4,
          "destiny_section_id": "44152111",
          "crm_id": "5049549000081202005",
-         "last_sync": "2026-09-23T04:03:59-07:00"
+         "last_sync": "2026-09-23T08:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
