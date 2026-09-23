@@ -2,7 +2,7 @@
  "page": "applied-ai-and-innovation",
  "page_url": "https://professional.ucsb.edu/degree-plus/applied-ai-and-innovation",
  "page_title": "Applied AI and Innovation, Degree+",
- "generated_at": "2026-09-23T17:01:18+00:00",
+ "generated_at": "2026-09-23T20:23:19+00:00",
  "certificate": {
   "code": "CE0072",
   "name": "Applied AI and Innovation",
@@ -79,13 +79,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-06T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 23,
+         "enrolled": 24,
          "crm_availability": "Waitlist",
-         "seats_left": 1,
+         "seats_left": 0,
          "units": 4,
          "destiny_section_id": "43371488",
          "crm_id": "5049549000068040093",
-         "last_sync": "2026-09-23T02:03:21-07:00"
+         "last_sync": "2026-09-23T03:38:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -114,7 +114,7 @@
          "units": 4,
          "destiny_section_id": "44156917",
          "crm_id": "5049549000081335001",
-         "last_sync": "2026-09-23T02:00:47-07:00"
+         "last_sync": "2026-09-23T06:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -143,7 +143,7 @@
          "units": 4,
          "destiny_section_id": "44264263",
          "crm_id": "5049549000084763006",
-         "last_sync": "2026-09-23T00:03:38-07:00"
+         "last_sync": "2026-09-23T06:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -172,7 +172,7 @@
          "units": 4,
          "destiny_section_id": "44324835",
          "crm_id": "5049549000085938018",
-         "last_sync": "2026-09-23T02:03:08-07:00"
+         "last_sync": "2026-09-23T06:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -221,7 +221,7 @@
          "units": 4,
          "destiny_section_id": "43371809",
          "crm_id": "5049549000068029268",
-         "last_sync": "2026-09-23T00:02:48-07:00"
+         "last_sync": "2026-09-23T04:04:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -250,7 +250,7 @@
          "units": 4,
          "destiny_section_id": "44157172",
          "crm_id": "5049549000081340001",
-         "last_sync": "2026-09-23T02:00:49-07:00"
+         "last_sync": "2026-09-23T06:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -279,7 +279,7 @@
          "units": 4,
          "destiny_section_id": "44265297",
          "crm_id": "5049549000084650012",
-         "last_sync": "2026-09-23T02:02:58-07:00"
+         "last_sync": "2026-09-23T06:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -308,7 +308,7 @@
          "units": 4,
          "destiny_section_id": "44328026",
          "crm_id": "5049549000086195001",
-         "last_sync": "2026-09-23T02:03:11-07:00"
+         "last_sync": "2026-09-23T06:03:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -351,13 +351,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-07T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 31,
+         "enrolled": 30,
          "crm_availability": "Available",
-         "seats_left": 9,
+         "seats_left": 10,
          "units": 4,
          "destiny_section_id": "43372277",
          "crm_id": "5049549000068045164",
-         "last_sync": "2026-09-23T00:02:49-07:00"
+         "last_sync": "2026-09-23T03:49:40-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -415,7 +415,7 @@
          "units": 4,
          "destiny_section_id": "44265972",
          "crm_id": "5049549000084763011",
-         "last_sync": "2026-09-23T02:00:52-07:00"
+         "last_sync": "2026-09-23T06:02:44-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -444,7 +444,7 @@
          "units": 4,
          "destiny_section_id": "44328417",
          "crm_id": "5049549000086151003",
-         "last_sync": "2026-09-23T02:03:11-07:00"
+         "last_sync": "2026-09-23T06:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
