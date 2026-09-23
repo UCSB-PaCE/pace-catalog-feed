@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-09-22T22:10:10+00:00",
+ "generated_at": "2026-09-23T00:34:52+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -131,7 +131,7 @@
          "units": 5,
          "destiny_section_id": "44163901",
          "crm_id": "5049549000081516005",
-         "last_sync": "2026-09-22T04:03:18-07:00"
+         "last_sync": "2026-09-22T10:02:34-07:00"
         },
         {
          "code": "016",
@@ -512,7 +512,7 @@
          "units": 1,
          "destiny_section_id": "44164216",
          "crm_id": "5049549000081513007",
-         "last_sync": "2026-09-22T04:03:17-07:00"
+         "last_sync": "2026-09-22T10:02:32-07:00"
         },
         {
          "code": "022",
@@ -530,7 +530,7 @@
          "units": 1,
          "destiny_section_id": "44164336",
          "crm_id": "5049549000081570007",
-         "last_sync": "2026-09-22T04:03:23-07:00"
+         "last_sync": "2026-09-22T10:02:42-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -601,7 +601,7 @@
          "units": 5,
          "destiny_section_id": "44164105",
          "crm_id": "5049549000081555006",
-         "last_sync": "2026-09-22T04:03:19-07:00"
+         "last_sync": "2026-09-22T10:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -665,7 +665,7 @@
          "units": 5,
          "destiny_section_id": "41893015",
          "crm_id": "5049549000066789318",
-         "last_sync": "2026-09-22T05:34:52-07:00"
+         "last_sync": "2026-09-22T10:02:49-07:00"
         },
         {
          "code": "015",
@@ -765,13 +765,13 @@
          "enroll_start": "2025-10-06T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 60,
-         "enrolled": 51,
+         "enrolled": 53,
          "crm_availability": "Available",
-         "seats_left": 9,
+         "seats_left": 7,
          "units": 5,
          "destiny_section_id": "41893211",
          "crm_id": "5049549000066772277",
-         "last_sync": "2026-09-22T08:02:37-07:00"
+         "last_sync": "2026-09-22T09:17:12-07:00"
         },
         {
          "code": "014",
@@ -899,7 +899,7 @@
          "units": 5,
          "destiny_section_id": "44164105",
          "crm_id": "5049549000081555006",
-         "last_sync": "2026-09-22T04:03:19-07:00"
+         "last_sync": "2026-09-22T10:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -939,13 +939,13 @@
          "enroll_start": "2026-01-25T16:00:00-08:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 5,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 4,
+         "seats_left": 3,
          "units": 0,
          "destiny_section_id": "42715249",
          "crm_id": "5049549000057329097",
-         "last_sync": "2026-09-22T08:02:37-07:00"
+         "last_sync": "2026-09-22T10:11:55-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1032,7 +1032,7 @@
          "units": 0,
          "destiny_section_id": "44164483",
          "crm_id": "5049549000081567010",
-         "last_sync": "2026-09-22T06:02:22-07:00"
+         "last_sync": "2026-09-22T10:02:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1165,7 +1165,7 @@
          "units": 0,
          "destiny_section_id": "44164580",
          "crm_id": "5049549000081546010",
-         "last_sync": "2026-09-22T04:03:23-07:00"
+         "last_sync": "2026-09-22T10:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
