@@ -2,7 +2,7 @@
  "page": "emergency-medical-technician",
  "page_url": "https://professional.ucsb.edu/emergency-medical-technician",
  "page_title": "Emergency Medical Technician",
- "generated_at": "2026-09-23T23:43:04+00:00",
+ "generated_at": "2026-09-24T04:53:21+00:00",
  "certificate": {
   "code": "CE0059",
   "name": "Emergency Medical Technician",
@@ -113,7 +113,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "waitlist",
+       "state": "enrollment_closed",
        "label": "Hybrid",
        "modalities": [
         "Hybrid"
@@ -123,7 +123,7 @@
          "code": "007",
          "modality": "Hybrid",
          "instruction_method": "Hybrid",
-         "state": "waitlist",
+         "state": "enrollment_closed",
          "start": "2026-09-24",
          "end": "2027-03-11",
          "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -135,7 +135,7 @@
          "units": 18,
          "destiny_section_id": "43331818",
          "crm_id": "5049549000067458155",
-         "last_sync": "2026-09-23T08:02:54-07:00"
+         "last_sync": "2026-09-23T12:02:58-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -164,7 +164,7 @@
          "units": null,
          "destiny_section_id": "44178719",
          "crm_id": "5049549000082218004",
-         "last_sync": "2026-09-23T08:03:07-07:00"
+         "last_sync": "2026-09-23T14:02:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -201,7 +201,7 @@
          "units": null,
          "destiny_section_id": "44341289",
          "crm_id": "5049549000086329028",
-         "last_sync": "2026-09-23T08:02:26-07:00"
+         "last_sync": "2026-09-23T12:02:38-07:00"
         },
         {
          "code": "010",
@@ -219,7 +219,7 @@
          "units": null,
          "destiny_section_id": "44342284",
          "crm_id": "5049549000086349016",
-         "last_sync": "2026-09-23T08:02:27-07:00"
+         "last_sync": "2026-09-23T12:02:39-07:00"
         }
        ],
        "hidden_sections": 0,
