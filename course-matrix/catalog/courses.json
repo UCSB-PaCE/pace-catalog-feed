@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T15:08:05+00:00",
+ "generated_at": "2026-09-24T19:11:28+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1154,10 +1154,28 @@
    "on_site": false
   },
   {
+   "code": "MATH XSB4B",
+   "name": "DIFF EQUATIONS",
+   "destiny_course_id": "26328962",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26328962",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "GEOG XSB4",
    "name": "LAND, WATER & LIFE",
    "destiny_course_id": "32401840",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32401840",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "PSY XSB105",
+   "name": "DEVELOPMENTAL PSYCH",
+   "destiny_course_id": "16576551",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576551",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
@@ -1232,6 +1250,24 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44392969",
    "min_units": 12,
    "max_units": 14,
+   "on_site": false
+  },
+  {
+   "code": "PSY XSB183",
+   "name": "PSYCHOPATHOLOGY",
+   "destiny_course_id": "44644996",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44644996",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ED X320OBM",
+   "name": "Intro to Organizational Behavior Management",
+   "destiny_course_id": "44708617",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44708617",
+   "min_units": 5,
+   "max_units": 5,
    "on_site": false
   }
  ]
