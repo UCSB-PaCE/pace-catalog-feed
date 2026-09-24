@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T19:11:28+00:00",
+ "generated_at": "2026-09-24T22:25:50+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -875,6 +875,15 @@
    "on_site": false
   },
   {
+   "code": "COMM XSB1",
+   "name": "INTRO COMMUNICATION",
+   "destiny_course_id": "16570772",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570772",
+   "min_units": 4,
+   "max_units": 5,
+   "on_site": false
+  },
+  {
    "code": "XLRN 809B",
    "name": "ABA Prep Program",
    "destiny_course_id": "34919015",
@@ -996,6 +1005,15 @@
    "name": "Introduction to Infrared Imaging Technology",
    "destiny_course_id": "35433653",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35433653",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "MATH XSB8",
+   "name": "TRANS HIGHER MATH",
+   "destiny_course_id": "16574979",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574979",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1172,6 +1190,15 @@
    "on_site": false
   },
   {
+   "code": "GEOG XSB176A",
+   "name": "INTRO GEOG INF SYS",
+   "destiny_course_id": "16573648",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573648",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "PSY XSB105",
    "name": "DEVELOPMENTAL PSYCH",
    "destiny_course_id": "16576551",
@@ -1268,6 +1295,24 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44708617",
    "min_units": 5,
    "max_units": 5,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB189A",
+   "name": "SR CMPTR PRJCT",
+   "destiny_course_id": "16571156",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571156",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "PSY XSB158",
+   "name": "POSITIVE PSYCHOLOGY",
+   "destiny_course_id": "28913622",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28913622",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   }
  ]
