@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-09-25T18:38:13+00:00",
+ "generated_at": "2026-09-25T22:22:22+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -232,7 +232,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-25T00:03:30-07:00"
+         "last_sync": "2026-09-25T06:02:28-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -350,7 +350,7 @@
          "units": 5,
          "destiny_section_id": "44560600",
          "crm_id": "5049549000090454015",
-         "last_sync": "2026-09-25T04:02:52-07:00"
+         "last_sync": "2026-09-25T08:03:14-07:00"
         },
         {
          "code": "535",
@@ -368,7 +368,7 @@
          "units": 5,
          "destiny_section_id": "44560516",
          "crm_id": "5049549000090486012",
-         "last_sync": "2026-09-25T04:02:53-07:00"
+         "last_sync": "2026-09-25T08:03:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -453,7 +453,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-25T00:03:30-07:00"
+         "last_sync": "2026-09-25T06:02:28-07:00"
         }
        ],
        "hidden_sections": 0,

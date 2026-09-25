@@ -2,11 +2,11 @@
  "page": "sports-management-studies",
  "page_url": "https://professional.ucsb.edu/sports-management-studies",
  "page_title": "Sports Management Studies",
- "generated_at": "2026-09-25T18:38:13+00:00",
+ "generated_at": "2026-09-25T22:22:22+00:00",
  "certificate": {
   "code": "CE0088",
   "name": "Sports Management Studies: Essentials",
-  "synced": "2026-09-23T18:02:58-07:00",
+  "synced": "2026-09-25T06:02:49-07:00",
   "all": [
    "CE0088",
    "CE0089"
@@ -93,13 +93,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 10,
+         "enrolled": 11,
          "crm_availability": "Available",
-         "seats_left": 14,
+         "seats_left": 13,
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-25T00:03:51-07:00"
+         "last_sync": "2026-09-25T06:45:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -157,7 +157,7 @@
          "units": 4,
          "destiny_section_id": "44260610",
          "crm_id": "5049549000084789001",
-         "last_sync": "2026-09-25T02:02:29-07:00"
+         "last_sync": "2026-09-25T08:02:26-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -230,13 +230,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 9,
+         "enrolled": 10,
          "crm_availability": "Available",
-         "seats_left": 21,
+         "seats_left": 20,
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-25T00:03:53-07:00"
+         "last_sync": "2026-09-25T06:44:47-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -273,7 +273,7 @@
          "units": 4,
          "destiny_section_id": "44260989",
          "crm_id": "5049549000084694007",
-         "last_sync": "2026-09-25T02:02:26-07:00"
+         "last_sync": "2026-09-25T06:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -337,7 +337,7 @@
          "units": 4,
          "destiny_section_id": "44161586",
          "crm_id": "5049549000081512004",
-         "last_sync": "2026-09-25T00:03:55-07:00"
+         "last_sync": "2026-09-25T06:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -496,7 +496,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-25T00:03:32-07:00"
+         "last_sync": "2026-09-25T06:02:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -584,7 +584,7 @@
          "units": 4,
          "destiny_section_id": "44261419",
          "crm_id": "5049549000084651008",
-         "last_sync": "2026-09-25T02:02:25-07:00"
+         "last_sync": "2026-09-25T06:03:13-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -650,13 +650,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 10,
+         "enrolled": 11,
          "crm_availability": "Available",
-         "seats_left": 14,
+         "seats_left": 13,
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-09-25T00:03:51-07:00"
+         "last_sync": "2026-09-25T06:45:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -714,7 +714,7 @@
          "units": 4,
          "destiny_section_id": "44260610",
          "crm_id": "5049549000084789001",
-         "last_sync": "2026-09-25T02:02:29-07:00"
+         "last_sync": "2026-09-25T08:02:26-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -780,13 +780,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 30,
-         "enrolled": 9,
+         "enrolled": 10,
          "crm_availability": "Available",
-         "seats_left": 21,
+         "seats_left": 20,
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-09-25T00:03:53-07:00"
+         "last_sync": "2026-09-25T06:44:47-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -823,7 +823,7 @@
          "units": 4,
          "destiny_section_id": "44260989",
          "crm_id": "5049549000084694007",
-         "last_sync": "2026-09-25T02:02:26-07:00"
+         "last_sync": "2026-09-25T06:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -887,7 +887,7 @@
          "units": 4,
          "destiny_section_id": "44161586",
          "crm_id": "5049549000081512004",
-         "last_sync": "2026-09-25T00:03:55-07:00"
+         "last_sync": "2026-09-25T06:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1039,7 +1039,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-09-25T00:03:32-07:00"
+         "last_sync": "2026-09-25T06:02:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1127,7 +1127,7 @@
          "units": 4,
          "destiny_section_id": "44261419",
          "crm_id": "5049549000084651008",
-         "last_sync": "2026-09-25T02:02:25-07:00"
+         "last_sync": "2026-09-25T06:03:13-07:00"
         }
        ],
        "hidden_sections": 0,

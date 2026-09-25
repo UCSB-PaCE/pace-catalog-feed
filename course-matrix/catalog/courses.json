@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T18:38:13+00:00",
+ "generated_at": "2026-09-25T22:22:22+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1239,6 +1239,24 @@
    "name": "DEVELOPMENTAL PSYCH",
    "destiny_course_id": "16576551",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576551",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MATH XSB201A",
+   "name": "REAL ANALYSIS",
+   "destiny_course_id": "16575068",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575068",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MATH XSB220A",
+   "name": "MODERN ALGEBRA",
+   "destiny_course_id": "16575079",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575079",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
