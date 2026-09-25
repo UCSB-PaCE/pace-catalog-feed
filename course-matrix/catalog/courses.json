@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T22:25:50+00:00",
+ "generated_at": "2026-09-25T01:31:54+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -902,6 +902,15 @@
    "on_site": false
   },
   {
+   "code": "CMPSC XSB291K",
+   "name": "SPEC TOPICS CS APPS",
+   "destiny_course_id": "28611247",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28611247",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "ASTRO XSB1",
    "name": "BASIC ASTRONOMY",
    "destiny_course_id": "16569338",
@@ -990,6 +999,24 @@
    "min_units": null,
    "max_units": null,
    "on_site": true
+  },
+  {
+   "code": "CMPSC XSB291A",
+   "name": "SPEC TOPIC APPS GEN",
+   "destiny_course_id": "29172523",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29172523",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "CMPSC XSB292F",
+   "name": "SPEC TOP FOUN GEN",
+   "destiny_course_id": "29482696",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29482696",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
   },
   {
    "code": "XLRN 809A",
@@ -1280,6 +1307,24 @@
    "on_site": false
   },
   {
+   "code": "PORT W XSB1",
+   "name": "OL ELEM PORT I",
+   "destiny_course_id": "44637583",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44637583",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "RG ST XSB111",
+   "name": "ME WOMEN POL & REL",
+   "destiny_course_id": "44648448",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44648448",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "PSY XSB183",
    "name": "PSYCHOPATHOLOGY",
    "destiny_course_id": "44644996",
@@ -1311,6 +1356,24 @@
    "name": "POSITIVE PSYCHOLOGY",
    "destiny_course_id": "28913622",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28913622",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "SOC XSB170J",
+   "name": "JUVENILE JUSTICE",
+   "destiny_course_id": "30688753",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=30688753",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "CMPSC XSB231",
+   "name": "TOP COMB ALGORITHMS",
+   "destiny_course_id": "25319274",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25319274",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
