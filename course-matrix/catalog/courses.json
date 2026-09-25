@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T13:49:13+00:00",
+ "generated_at": "2026-09-25T18:38:13+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1001,6 +1001,15 @@
    "on_site": true
   },
   {
+   "code": "MUS XSB11",
+   "name": "FUNDAMENTALS OF MUS",
+   "destiny_course_id": "16575797",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575797",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "CMPSC XSB291A",
    "name": "SPEC TOPIC APPS GEN",
    "destiny_course_id": "29172523",
@@ -1230,6 +1239,15 @@
    "name": "DEVELOPMENTAL PSYCH",
    "destiny_course_id": "16576551",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576551",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "GREEK XSB1",
+   "name": "ELEMENTARY GREEK",
+   "destiny_course_id": "16573892",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573892",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
