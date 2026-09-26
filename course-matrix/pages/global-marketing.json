@@ -2,11 +2,11 @@
  "page": "global-marketing",
  "page_url": "https://professional.ucsb.edu/global-marketing",
  "page_title": "Global Marketing",
- "generated_at": "2026-09-26T13:07:02+00:00",
+ "generated_at": "2026-09-26T17:11:59+00:00",
  "certificate": {
   "code": "CE0067",
   "name": "Global Marketing",
-  "synced": "2026-09-24T12:02:27-07:00",
+  "synced": "2026-09-26T00:02:23-07:00",
   "all": [
    "CE0067"
   ]
@@ -80,7 +80,7 @@
          "units": 4,
          "destiny_section_id": "43350217",
          "crm_id": "5049549000067789326",
-         "last_sync": "2026-09-25T20:03:06-07:00"
+         "last_sync": "2026-09-26T02:02:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -109,7 +109,7 @@
          "units": 4,
          "destiny_section_id": "44148492",
          "crm_id": "5049549000081136007",
-         "last_sync": "2026-09-25T22:03:06-07:00"
+         "last_sync": "2026-09-26T02:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -138,7 +138,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-09-25T20:03:04-07:00"
+         "last_sync": "2026-09-26T02:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -228,7 +228,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-09-25T20:03:01-07:00"
+         "last_sync": "2026-09-26T02:02:32-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -331,7 +331,7 @@
          "units": 4,
          "destiny_section_id": "43372582",
          "crm_id": "5049549000068074261",
-         "last_sync": "2026-09-25T20:02:38-07:00"
+         "last_sync": "2026-09-26T00:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -368,7 +368,7 @@
          "units": 4,
          "destiny_section_id": "44260257",
          "crm_id": "5049549000084757003",
-         "last_sync": "2026-09-25T18:03:22-07:00"
+         "last_sync": "2026-09-26T00:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -454,7 +454,7 @@
          "units": 4,
          "destiny_section_id": "44157340",
          "crm_id": "5049549000081341003",
-         "last_sync": "2026-09-25T18:03:22-07:00"
+         "last_sync": "2026-09-26T00:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -483,7 +483,7 @@
          "units": 4,
          "destiny_section_id": "44268528",
          "crm_id": "5049549000084874003",
-         "last_sync": "2026-09-25T18:03:04-07:00"
+         "last_sync": "2026-09-26T00:02:29-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -512,7 +512,7 @@
          "units": 4,
          "destiny_section_id": "44328688",
          "crm_id": "5049549000086207005",
-         "last_sync": "2026-09-25T18:03:13-07:00"
+         "last_sync": "2026-09-26T00:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -568,7 +568,7 @@
          "units": 4,
          "destiny_section_id": "44173772",
          "crm_id": "5049549000081799007",
-         "last_sync": "2026-09-25T20:03:17-07:00"
+         "last_sync": "2026-09-26T02:02:51-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -597,7 +597,7 @@
          "units": 4,
          "destiny_section_id": "44268838",
          "crm_id": "5049549000084934004",
-         "last_sync": "2026-09-25T18:03:10-07:00"
+         "last_sync": "2026-09-26T00:02:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -657,7 +657,7 @@
          "units": 4,
          "destiny_section_id": "43409270",
          "crm_id": "5049549000068749032",
-         "last_sync": "2026-09-25T20:02:44-07:00"
+         "last_sync": "2026-09-26T00:03:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -694,7 +694,7 @@
          "units": 4,
          "destiny_section_id": "44269318",
          "crm_id": "5049549000084874005",
-         "last_sync": "2026-09-25T20:03:17-07:00"
+         "last_sync": "2026-09-26T02:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
