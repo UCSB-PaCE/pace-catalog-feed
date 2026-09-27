@@ -216,8 +216,8 @@ Certificate: CE0097 Foundations of Digital Marketing
 
 Certificate: CE0023 Digital Marketing
 
-- [Elective Courses: At least 1 course (4 units)] MISSING TAG: BUSAD X401.3 is in stream "1-2 Elective Courses (Need 4 Units)" but not tagged `foundationsDigitalMarketing#sub` (added to the block)
-- [Elective Courses: At least 1 course (4 units)] MISSING TAG: MGMNT X481 is in stream "1-2 Elective Courses (Need 4 Units)" but not tagged `foundationsDigitalMarketing#sub` (added to the block)
+- [Elective Courses: At least 1 course (4 units)] MISSING TAG: BUSAD X401.3 is in stream "1-2 Elective Courses (Need 4 Units)" but not tagged `digitalMarketing#sub` (added to the block)
+- [Elective Courses: At least 1 course (4 units)] MISSING TAG: MGMNT X481 is in stream "1-2 Elective Courses (Need 4 Units)" but not tagged `digitalMarketing#sub` (added to the block)
 
 ## Professional Accounting  <https://professional.ucsb.edu/certificate-professional-accounting>
 
