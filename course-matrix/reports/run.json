@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T15:29:47+00:00",
+ "generated_at": "2026-09-28T22:02:22+00:00",
  "today": "2026-09-28",
  "window": {
   "Fall": "Fall 2026",
@@ -9,7 +9,7 @@
  },
  "rows": 156,
  "pages": 30,
- "cells_changed": 0,
+ "cells_changed": 1,
  "cells_total": 624,
  "diff_gate_tripped": false,
  "snapshot": null,

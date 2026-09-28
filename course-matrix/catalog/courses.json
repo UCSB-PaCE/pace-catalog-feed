@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T15:29:47+00:00",
+ "generated_at": "2026-09-28T22:02:22+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -758,6 +758,15 @@
    "on_site": true
   },
   {
+   "code": "PSY XSB1",
+   "name": "INTRO TO PSYCH",
+   "destiny_course_id": "16576539",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576539",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "LAW X423",
    "name": "Employment Law for Paralegals",
    "destiny_course_id": "28513702",
@@ -819,6 +828,15 @@
    "min_units": 4,
    "max_units": 4,
    "on_site": true
+  },
+  {
+   "code": "PSTAT XSB120A",
+   "name": "PROB & STATISTICS",
+   "destiny_course_id": "16576480",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576480",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
   },
   {
    "code": "XLRN 805.OU",
@@ -911,6 +929,15 @@
    "on_site": false
   },
   {
+   "code": "PSTAT XSB5A",
+   "name": "STATISTICS",
+   "destiny_course_id": "16576468",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576468",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": false
+  },
+  {
    "code": "ASTRO XSB1",
    "name": "BASIC ASTRONOMY",
    "destiny_course_id": "16569338",
@@ -936,6 +963,15 @@
    "min_units": 3,
    "max_units": 3,
    "on_site": true
+  },
+  {
+   "code": "MATH XSB108A",
+   "name": "INTRO TO LINEAR ALG",
+   "destiny_course_id": "16575020",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575020",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
   },
   {
    "code": "XLRN 831.01",
@@ -1028,6 +1064,15 @@
    "on_site": false
   },
   {
+   "code": "CH E XSB152A",
+   "name": "PROC DYN & CONTROL",
+   "destiny_course_id": "16570138",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570138",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "XLRN 809A",
    "name": "Supervision Hours for ABA Program 6th Edition",
    "destiny_course_id": "28945939",
@@ -1050,6 +1095,60 @@
    "name": "TRANS HIGHER MATH",
    "destiny_course_id": "16574979",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574979",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "MATRL XSB185",
+   "name": "MATERIALS IN ENGR.",
+   "destiny_course_id": "16575115",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575115",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ME XSB103",
+   "name": "DYNAMICAL SYSTEMS",
+   "destiny_course_id": "39558882",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=39558882",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ME XSB105",
+   "name": "MECH ENGR LAB",
+   "destiny_course_id": "16575298",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575298",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ME XSB107",
+   "name": "MACHINE LEARNING",
+   "destiny_course_id": "37119111",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=37119111",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ME XSB11",
+   "name": "INTRO CONCEPTS ME",
+   "destiny_course_id": "32419530",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32419530",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "PSTAT XSB120B",
+   "name": "PROB & STATISTICS",
+   "destiny_course_id": "16576481",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576481",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1217,6 +1316,15 @@
    "on_site": false
   },
   {
+   "code": "PSTAT XSB207A",
+   "name": "STATISTICAL THEORY",
+   "destiny_course_id": "16576507",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576507",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "GEOG XSB4",
    "name": "LAND, WATER & LIFE",
    "destiny_course_id": "32401840",
@@ -1241,6 +1349,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576551",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "CNCSP XSB102",
+   "name": "PRAC APPLIED PSYCH",
+   "destiny_course_id": "16570748",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570748",
+   "min_units": 2,
+   "max_units": 2,
    "on_site": false
   },
   {
@@ -1325,6 +1442,15 @@
    "on_site": false
   },
   {
+   "code": "COMM XSB125",
+   "name": "DIGITAL CONSUMER BX",
+   "destiny_course_id": "41628130",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41628130",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "ANTH X401",
    "name": "Introduction to CRM: Policy, Law, and Ethics",
    "destiny_course_id": "44142497",
@@ -1349,6 +1475,24 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44637583",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "PHYS XSB7C",
+   "name": "BASIC PHYSICS",
+   "destiny_course_id": "44630794",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44630794",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ME XSB125CV",
+   "name": "SP: LEARNING IN MPC",
+   "destiny_course_id": "44618333",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44618333",
+   "min_units": 3,
+   "max_units": 3,
    "on_site": false
   },
   {
@@ -1421,6 +1565,33 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32365487",
    "min_units": 5,
    "max_units": 5,
+   "on_site": false
+  },
+  {
+   "code": "ARTHI XSB113F",
+   "name": "BERNINI",
+   "destiny_course_id": "16568614",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16568614",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MATH XSB145",
+   "name": "INTRO TO TOPOLOGY",
+   "destiny_course_id": "16575055",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575055",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "CHIN XSB122A",
+   "name": "ADV MODERN CHINESE",
+   "destiny_course_id": "16570376",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570376",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   }
  ]
