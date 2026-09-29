@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T22:02:22+00:00",
+ "generated_at": "2026-09-29T01:58:47+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -929,6 +929,15 @@
    "on_site": false
   },
   {
+   "code": "GLOBL XSB2",
+   "name": "GLOBL SOC/ECON/POL",
+   "destiny_course_id": "16573863",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573863",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "PSTAT XSB5A",
    "name": "STATISTICS",
    "destiny_course_id": "16576468",
@@ -1145,6 +1154,15 @@
    "on_site": false
   },
   {
+   "code": "ME XSB152A",
+   "name": "FLUID MECHANICS",
+   "destiny_course_id": "16575335",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575335",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "PSTAT XSB120B",
    "name": "PROB & STATISTICS",
    "destiny_course_id": "16576481",
@@ -1343,6 +1361,15 @@
    "on_site": false
   },
   {
+   "code": "MATH XSB118A",
+   "name": "INTRO REAL ANALYSIS",
+   "destiny_course_id": "16575035",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575035",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "PSY XSB105",
    "name": "DEVELOPMENTAL PSYCH",
    "destiny_course_id": "16576551",
@@ -1511,6 +1538,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44644996",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ENGL XSB37",
+   "name": "LAW IN EVERYDAY",
+   "destiny_course_id": "44573008",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44573008",
+   "min_units": 5,
+   "max_units": 5,
    "on_site": false
   },
   {
