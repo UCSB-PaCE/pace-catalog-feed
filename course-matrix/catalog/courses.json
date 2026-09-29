@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T15:53:24+00:00",
+ "generated_at": "2026-09-29T20:48:29+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -839,6 +839,15 @@
    "on_site": false
   },
   {
+   "code": "CMPSC XSB165A",
+   "name": "ARTIF INTELLIGENCE",
+   "destiny_course_id": "16570690",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570690",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "XLRN 805.OU",
    "name": "Open University",
    "destiny_course_id": "33364019",
@@ -1008,6 +1017,15 @@
    "min_units": null,
    "max_units": null,
    "on_site": true
+  },
+  {
+   "code": "ME XSB17",
+   "name": "MATH OF ENGR",
+   "destiny_course_id": "16575291",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575291",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
   },
   {
    "code": "MGMNT X411.2",
@@ -1334,12 +1352,30 @@
    "on_site": false
   },
   {
+   "code": "MATH XSB6B",
+   "name": "VECTOR CALCULUS 2",
+   "destiny_course_id": "24084046",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=24084046",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "PSTAT XSB207A",
    "name": "STATISTICAL THEORY",
    "destiny_course_id": "16576507",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576507",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB145A",
+   "name": "COMM ELECTRONICS",
+   "destiny_course_id": "16571118",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571118",
+   "min_units": 5,
+   "max_units": 5,
    "on_site": false
   },
   {
@@ -1361,6 +1397,15 @@
    "on_site": false
   },
   {
+   "code": "ECE XSB139",
+   "name": "PROB & STAT",
+   "destiny_course_id": "16571111",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571111",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MATH XSB118A",
    "name": "INTRO REAL ANALYSIS",
    "destiny_course_id": "16575035",
@@ -1376,6 +1421,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576551",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB10A",
+   "name": "FOUNDTN CIRC & SYS",
+   "destiny_course_id": "41635429",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41635429",
+   "min_units": 3,
+   "max_units": 3,
    "on_site": false
   },
   {
@@ -1626,6 +1680,15 @@
    "name": "ADV MODERN CHINESE",
    "destiny_course_id": "16570376",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570376",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MATH XSB117",
+   "name": "METHODS OF ANALYSIS",
+   "destiny_course_id": "16575034",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575034",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
