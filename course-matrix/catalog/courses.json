@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T19:21:46+00:00",
+ "generated_at": "2026-09-30T23:51:46+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1091,6 +1091,15 @@
    "on_site": false
   },
   {
+   "code": "ECON XSB134A",
+   "name": "FIN MANAGEMENT",
+   "destiny_course_id": "16571424",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571424",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "ECON XSB137A",
    "name": "MANAGERIAL ACCTG",
    "destiny_course_id": "16571433",
@@ -1136,6 +1145,15 @@
    "on_site": false
   },
   {
+   "code": "WRIT XSB2",
+   "name": "ACADEMIC WRITING",
+   "destiny_course_id": "16577288",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16577288",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "XLRN 809A",
    "name": "Supervision Hours for ABA Program 6th Edition",
    "destiny_course_id": "28945939",
@@ -1143,6 +1161,15 @@
    "min_units": null,
    "max_units": null,
    "on_site": true
+  },
+  {
+   "code": "EARTH XSB10",
+   "name": "ANTARCTICA",
+   "destiny_course_id": "26578006",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26578006",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
   },
   {
    "code": "ECE X448",
@@ -1167,6 +1194,15 @@
    "name": "MATERIALS IN ENGR.",
    "destiny_course_id": "16575115",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575115",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "MCDB XSB184",
+   "name": "INTERNSHIP BIOLOGY",
+   "destiny_course_id": "16575240",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575240",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1217,10 +1253,28 @@
    "on_site": false
   },
   {
+   "code": "ENV S XSB163A",
+   "name": "WATER SUPPLY & DEMD",
+   "destiny_course_id": "35617257",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35617257",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "PSTAT XSB120B",
    "name": "PROB & STATISTICS",
    "destiny_course_id": "16576481",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576481",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "PSTAT XSB126",
+   "name": "REGRESSION ANALYSIS",
+   "destiny_course_id": "16576488",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576488",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1406,6 +1460,15 @@
    "on_site": false
   },
   {
+   "code": "ME XSB14",
+   "name": "STATICS",
+   "destiny_course_id": "16575288",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575288",
+   "min_units": 3,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "PSTAT XSB207A",
    "name": "STATISTICAL THEORY",
    "destiny_course_id": "16576507",
@@ -1478,6 +1541,15 @@
    "on_site": false
   },
   {
+   "code": "ECON XSB138A",
+   "name": "INCOME TAXATION",
+   "destiny_course_id": "16571437",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571437",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "PHYS XSB21",
    "name": "GEN PHYS",
    "destiny_course_id": "16576214",
@@ -1500,6 +1572,15 @@
    "name": "INTRO REAL ANALYSIS",
    "destiny_course_id": "16575035",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575035",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "TMP XSB191L",
+   "name": "LEADING IN TECH",
+   "destiny_course_id": "40166082",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40166082",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
@@ -1538,6 +1619,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27252870",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "CHEM XSB1C",
+   "name": "GEN CHEM",
+   "destiny_course_id": "16570224",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570224",
+   "min_units": 3,
+   "max_units": 3,
    "on_site": false
   },
   {
@@ -1667,6 +1757,15 @@
    "on_site": false
   },
   {
+   "code": "MATH XSB2A",
+   "name": "CALC W/ ALG & TRIG",
+   "destiny_course_id": "44603854",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44603854",
+   "min_units": 5,
+   "max_units": 5,
+   "on_site": false
+  },
+  {
    "code": "PORT W XSB1",
    "name": "OL ELEM PORT I",
    "destiny_course_id": "44637583",
@@ -1718,6 +1817,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44573008",
    "min_units": 5,
    "max_units": 5,
+   "on_site": false
+  },
+  {
+   "code": "ECON XSB95",
+   "name": "INTRO FINANCE",
+   "destiny_course_id": "44562159",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44562159",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -1826,6 +1934,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28292034",
    "min_units": 3,
    "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "CMPSC XSB209",
+   "name": "LOGIC IN CS",
+   "destiny_course_id": "25963620",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25963620",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   }
  ]

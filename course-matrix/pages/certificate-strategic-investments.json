@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-09-30T19:21:46+00:00",
+ "generated_at": "2026-09-30T23:51:46+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -93,7 +93,7 @@
          "units": 2,
          "destiny_section_id": "44333546",
          "crm_id": "5049549000086195061",
-         "last_sync": "2026-09-30T09:03:42-07:00"
+         "last_sync": "2026-09-30T15:03:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -162,7 +162,7 @@
          "units": 2,
          "destiny_section_id": "44333760",
          "crm_id": "5049549000086189048",
-         "last_sync": "2026-09-30T07:03:23-07:00"
+         "last_sync": "2026-09-30T13:03:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -232,7 +232,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-30T09:03:47-07:00"
+         "last_sync": "2026-09-30T15:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -350,7 +350,7 @@
          "units": 5,
          "destiny_section_id": "44560600",
          "crm_id": "5049549000090454015",
-         "last_sync": "2026-09-30T07:03:30-07:00"
+         "last_sync": "2026-09-30T13:03:11-07:00"
         },
         {
          "code": "535",
@@ -362,13 +362,13 @@
          "enroll_start": null,
          "enroll_end": null,
          "capacity": 100,
-         "enrolled": 13,
+         "enrolled": 14,
          "crm_availability": "No Longer Available",
-         "seats_left": 87,
+         "seats_left": 86,
          "units": 5,
          "destiny_section_id": "44560516",
          "crm_id": "5049549000090486012",
-         "last_sync": "2026-09-30T07:03:33-07:00"
+         "last_sync": "2026-09-30T13:56:57-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -453,7 +453,7 @@
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-09-30T09:03:47-07:00"
+         "last_sync": "2026-09-30T15:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
