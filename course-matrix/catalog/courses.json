@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T13:17:58+00:00",
+ "generated_at": "2026-10-01T19:32:31+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -857,6 +857,15 @@
    "on_site": false
   },
   {
+   "code": "PSTAT XSB231",
+   "name": "DATA MINING",
+   "destiny_course_id": "27244660",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27244660",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MGMNT X411.3",
    "name": "Sports Marketing",
    "destiny_course_id": "42692359",
@@ -866,6 +875,15 @@
    "on_site": true
   },
   {
+   "code": "ECE XSB271A",
+   "name": "NUM SEARCH METHOD I",
+   "destiny_course_id": "16571257",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571257",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MGMNT X411",
    "name": "Sports Management Foundations",
    "destiny_course_id": "42692099",
@@ -873,6 +891,15 @@
    "min_units": 0.5,
    "max_units": 4,
    "on_site": true
+  },
+  {
+   "code": "PSTAT XSB131",
+   "name": "DATA MINING",
+   "destiny_course_id": "16576490",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576490",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
   },
   {
    "code": "XLRN 831.02",
@@ -1109,6 +1136,15 @@
    "on_site": false
   },
   {
+   "code": "CMPSC XSB176A",
+   "name": "COMP COMM NETWORKS",
+   "destiny_course_id": "16570701",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570701",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "CMPSC XSB291A",
    "name": "SPEC TOPIC APPS GEN",
    "destiny_course_id": "29172523",
@@ -1122,6 +1158,24 @@
    "name": "SPEC TOP FOUN GEN",
    "destiny_course_id": "29482696",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29482696",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB181",
+   "name": "INTRO COMP VISION",
+   "destiny_course_id": "30636752",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=30636752",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "CH E XSB140B",
+   "name": "CHEM REACTION ENGR",
+   "destiny_course_id": "16570135",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570135",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1161,6 +1215,15 @@
    "min_units": null,
    "max_units": null,
    "on_site": true
+  },
+  {
+   "code": "COMM XSB150",
+   "name": "GRP COM MULT CONTXT",
+   "destiny_course_id": "16570811",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570811",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
   },
   {
    "code": "EARTH XSB10",
@@ -1433,6 +1496,15 @@
    "on_site": false
   },
   {
+   "code": "LING XSB3B",
+   "name": "AC ENGL",
+   "destiny_course_id": "35628999",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35628999",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "MATH XSB104A",
    "name": "INTRO NUM ANALYSIS",
    "destiny_course_id": "16575016",
@@ -1478,6 +1550,15 @@
    "on_site": false
   },
   {
+   "code": "PHYS XSB215A",
+   "name": "QUANTUM MECHANICS",
+   "destiny_course_id": "16576279",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576279",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "ECE XSB145A",
    "name": "COMM ELECTRONICS",
    "destiny_course_id": "16571118",
@@ -1505,6 +1586,15 @@
    "on_site": false
   },
   {
+   "code": "ECE XSB10C",
+   "name": "FOUNDTN CIRC & SYS",
+   "destiny_course_id": "29884022",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29884022",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
    "code": "CH E XSB132B",
    "name": "COMP METHODS IN CHE",
    "destiny_course_id": "16570130",
@@ -1527,6 +1617,15 @@
    "name": "INTRO TO ABSTR ALGB",
    "destiny_course_id": "16575026",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575026",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB218A",
+   "name": "COMM ELECTRONICS",
+   "destiny_course_id": "16571190",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571190",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
@@ -1637,6 +1736,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570748",
    "min_units": 2,
    "max_units": 2,
+   "on_site": false
+  },
+  {
+   "code": "ENGL XSB22",
+   "name": "LIT & ENVIRONMENT",
+   "destiny_course_id": "27821622",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27821622",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -1811,6 +1919,15 @@
    "on_site": false
   },
   {
+   "code": "RG ST XSB84",
+   "name": "INTRO ISLAMIC CIV",
+   "destiny_course_id": "44648268",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44648268",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "ENGL XSB37",
    "name": "LAW IN EVERYDAY",
    "destiny_course_id": "44573008",
@@ -1943,6 +2060,51 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25963620",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MUS A XSB134",
+   "name": "WIND ENSEMBLE",
+   "destiny_course_id": "16575964",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575964",
+   "min_units": 1,
+   "max_units": 1,
+   "on_site": false
+  },
+  {
+   "code": "CLASS XSB20B",
+   "name": "GREEK CURR ENGL",
+   "destiny_course_id": "16570398",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570398",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB243A",
+   "name": "DIGITAL COMM THEORY",
+   "destiny_course_id": "16571220",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571220",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "POL S XSB115",
+   "name": "LAW IN MODERN STATE",
+   "destiny_course_id": "16576336",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576336",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ME XSB167",
+   "name": "STRUCTURAL ANALYSIS",
+   "destiny_course_id": "16575358",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575358",
+   "min_units": 3,
+   "max_units": 3,
    "on_site": false
   }
  ]
