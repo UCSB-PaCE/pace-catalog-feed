@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T19:32:31+00:00",
+ "generated_at": "2026-10-01T23:53:35+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -299,6 +299,15 @@
    "on_site": false
   },
   {
+   "code": "TMP XSB120",
+   "name": "Business Strategy",
+   "destiny_course_id": "25377388",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25377388",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "ECON X427A",
    "name": "Income Taxes (Individual)",
    "destiny_course_id": "27961934",
@@ -423,6 +432,15 @@
    "min_units": null,
    "max_units": null,
    "on_site": true
+  },
+  {
+   "code": "TMP XSB122",
+   "name": "Entrepreneurship",
+   "destiny_course_id": "25377413",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25377413",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
   },
   {
    "code": "ECON XSB1",
@@ -668,6 +686,15 @@
    "on_site": true
   },
   {
+   "code": "TMP XSB127",
+   "name": "MANAGING TECH ORGS",
+   "destiny_course_id": "31715138",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31715138",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "ED X310F",
    "name": "Assessment of Children with Autism",
    "destiny_course_id": "40349284",
@@ -821,6 +848,15 @@
    "on_site": false
   },
   {
+   "code": "CMPSC XSB16",
+   "name": "PROBLEM SOLVING I",
+   "destiny_course_id": "25318575",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25318575",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MGMNT X411.1",
    "name": "Sports Law and Ethics",
    "destiny_course_id": "42695373",
@@ -828,6 +864,15 @@
    "min_units": 4,
    "max_units": 4,
    "on_site": true
+  },
+  {
+   "code": "TMP XSB191N",
+   "name": "NEGOTIATION",
+   "destiny_course_id": "40732129",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40732129",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
   },
   {
    "code": "PSTAT XSB120A",
@@ -891,6 +936,24 @@
    "min_units": 0.5,
    "max_units": 4,
    "on_site": true
+  },
+  {
+   "code": "CMPSC XSB177",
+   "name": "COMPUTER SECURITY",
+   "destiny_course_id": "16570704",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570704",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MCDB XSB111",
+   "name": "INTRO TO PHYSIOL",
+   "destiny_course_id": "16575207",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575207",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
   },
   {
    "code": "PSTAT XSB131",
@@ -1167,6 +1230,15 @@
    "name": "INTRO COMP VISION",
    "destiny_course_id": "30636752",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=30636752",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB221A",
+   "name": "DEV PHYS I",
+   "destiny_course_id": "16571196",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571196",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1532,6 +1604,15 @@
    "on_site": false
   },
   {
+   "code": "ECE XSB146A",
+   "name": "ANALOG COMMUNICATN",
+   "destiny_course_id": "16571121",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571121",
+   "min_units": 4,
+   "max_units": 5,
+   "on_site": false
+  },
+  {
    "code": "ME XSB14",
    "name": "STATICS",
    "destiny_course_id": "16575288",
@@ -1604,10 +1685,28 @@
    "on_site": false
   },
   {
+   "code": "GEOG XSB172",
+   "name": "INTER GEOG DATA",
+   "destiny_course_id": "16573644",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573644",
+   "min_units": 3,
+   "max_units": 5,
+   "on_site": false
+  },
+  {
    "code": "GEOG XSB176A",
    "name": "INTRO GEOG INF SYS",
    "destiny_course_id": "16573648",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573648",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB235",
+   "name": "STOCH PROC IN ENGR",
+   "destiny_course_id": "16571212",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571212",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
@@ -2063,12 +2162,30 @@
    "on_site": false
   },
   {
+   "code": "SPAN XSB1",
+   "name": "ELEMENTARY SPANISH",
+   "destiny_course_id": "16577117",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16577117",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MUS A XSB134",
    "name": "WIND ENSEMBLE",
    "destiny_course_id": "16575964",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575964",
    "min_units": 1,
    "max_units": 1,
+   "on_site": false
+  },
+  {
+   "code": "FAMST XSB115",
+   "name": "SOUND PRODUCTION",
+   "destiny_course_id": "35619787",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35619787",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -2096,6 +2213,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576336",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB10AL",
+   "name": "FOUNDTN CIRC LAB",
+   "destiny_course_id": "41635464",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41635464",
+   "min_units": 2,
+   "max_units": 2,
    "on_site": false
   },
   {
