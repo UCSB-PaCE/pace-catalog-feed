@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T23:53:35+00:00",
- "today": "2026-10-01",
+ "generated_at": "2026-10-02T05:39:22+00:00",
+ "today": "2026-10-02",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -43,5 +43,5 @@
   "added from CRM stream (not in sheet): BUSAD X401.3 - Public Relations and Advertising -> digitalMarketing#sub",
   "certificate-professional-accounting: 2 certificates share the page (CE0079, CP00); using CE0079"
  ],
- "tag_issues": 57
+ "tag_issues": 59
 }

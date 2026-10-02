@@ -1,8 +1,8 @@
-# Tag issues: Drupal placement tags vs CRM certificate streams (2026-10-01)
+# Tag issues: Drupal placement tags vs CRM certificate streams (2026-10-02)
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
-Total issues: 57
+Total issues: 59
 
 ## Business Leadership  <https://professional.ucsb.edu/certificate-business-leadership>
 
@@ -69,15 +69,17 @@ Certificate: CE0029 Applied Behavior Analysis
 
 Certificate: CE0037 Assistant Behavior Analyst
 
-- [Required Courses] MISSING TAG: ED X320S is in stream "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST" but not tagged `BCaBA#main` (added to the block)
 - [Required Courses] EXTRA TAG: ED X317B is tagged `BCaBA#main` but not in stream "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST" (removed from the block)
+- [page] STREAM WITHOUT A BLOCK: "Additional Required Course" (ED X320OBM, ED X320S)
 
 ## Qualified Autism Service Practitioner-Supervisor - QASP-S  <https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor>
 
 Certificate: CE0057 International Qualified Autism Specialist
 
 - [Required PaCE Courses (Total of 225 Hours)] EXTRA TAG: ED X319Q is tagged `QASPS#main` but not in stream "Required Courses" (removed from the block)
+- [Required PaCE Courses (Total of 225 Hours)] EXTRA TAG: ED X320S is tagged `QASPS#main` but not in stream "Required Courses" (removed from the block)
 - [page] STREAM WITHOUT A BLOCK: "Additional Required Course" (ED X319, ED X319Q)
+- [page] STREAM WITHOUT A BLOCK: "Additional Required Course 2" (ED X320OBM, ED X320S)
 
 ## Qualified Behavior Analyst - QBA  <https://professional.ucsb.edu/certificate-qualified-behavior-analyst>
 

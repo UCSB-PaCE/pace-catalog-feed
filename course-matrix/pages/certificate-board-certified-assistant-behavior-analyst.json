@@ -2,16 +2,23 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-10-01T23:53:35+00:00",
+ "generated_at": "2026-10-02T05:39:22+00:00",
  "certificate": {
   "code": "CE0037",
   "name": "Assistant Behavior Analyst",
-  "synced": "2026-09-30T07:02:57-07:00",
+  "synced": "2026-10-01T19:02:37-07:00",
   "all": [
    "CE0037"
   ]
  },
- "issues": [],
+ "issues": [
+  {
+   "kind": "unmatched_stream",
+   "stream": "Additional Required Course",
+   "courses": "ED X320OBM, ED X320S",
+   "cert": "CE0037"
+  }
+ ],
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -38,12 +45,6 @@
     "cert": "CE0037"
    },
    "issues": [
-    {
-     "kind": "missing_tag",
-     "course": "ED X320S",
-     "token": "BCaBA#main",
-     "stream": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST"
-    },
     {
      "kind": "extra_tag",
      "course": "ED X317B",
@@ -112,7 +113,7 @@
          "units": 5,
          "destiny_section_id": "44164675",
          "crm_id": "5049549000081581004",
-         "last_sync": "2026-10-01T11:03:20-07:00"
+         "last_sync": "2026-10-01T17:03:19-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -166,7 +167,7 @@
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-10-01T11:03:03-07:00"
+         "last_sync": "2026-10-01T17:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -244,7 +245,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-10-01T15:03:25-07:00"
+         "last_sync": "2026-10-01T21:03:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -298,7 +299,7 @@
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-10-01T13:02:50-07:00"
+         "last_sync": "2026-10-01T19:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -424,55 +425,6 @@
        "state": "manual"
       }
      }
-    },
-    {
-     "code": "ED X320S",
-     "title": "ED X320S - Personnel, Supervision, and Management",
-     "crm_name": "ED X 320S: Personnel, Supervision, and Management",
-     "units": "2",
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35199557",
-     "destiny_course_id": "35199557",
-     "crm_id": "5049549000066770513",
-     "tokens": [
-      "QASPS#main",
-      "BCaBA#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false,
-     "tag_issue": "missing_tag"
     }
    ]
   }

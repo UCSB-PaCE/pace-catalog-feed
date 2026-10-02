@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T23:53:35+00:00",
+ "generated_at": "2026-10-02T05:39:22+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -676,7 +676,16 @@
       "ED X315",
       "ED X316",
       "ED X317",
-      "ED X318",
+      "ED X318"
+     ]
+    },
+    {
+     "name": "Additional Required Course 2",
+     "required": 1,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "ED X320OBM",
       "ED X320S"
      ]
     }
@@ -1033,7 +1042,16 @@
       "ED X316",
       "ED X317",
       "ED X318",
-      "ED X319",
+      "ED X319"
+     ]
+    },
+    {
+     "name": "Additional Required Course",
+     "required": 1,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "ED X320OBM",
       "ED X320S"
      ]
     }
