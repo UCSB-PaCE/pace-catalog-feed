@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T18:25:35+00:00",
+ "generated_at": "2026-10-02T22:58:51+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1109,6 +1109,15 @@
    "on_site": false
   },
   {
+   "code": "XLRN 839.01",
+   "name": "Project Leadership in Academic Research",
+   "destiny_course_id": "40403246",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40403246",
+   "min_units": 2,
+   "max_units": 2,
+   "on_site": false
+  },
+  {
    "code": "XLRN 870B",
    "name": "Child Life Supervision Internship",
    "destiny_course_id": "36950020",
@@ -1221,6 +1230,15 @@
    "name": "SPEC TOP FOUN GEN",
    "destiny_course_id": "29482696",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29482696",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "FEMST XSB20",
+   "name": "INTRO GENDER POWER",
+   "destiny_course_id": "34542022",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34542022",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1392,6 +1410,24 @@
    "name": "WATER SUPPLY & DEMD",
    "destiny_course_id": "35617257",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35617257",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "PHYS XSB231A",
+   "name": "GENERAL RELATIVITY",
+   "destiny_course_id": "16576296",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576296",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "PHYS XSB250",
+   "name": "SPEC TOP IN PHYSICS",
+   "destiny_course_id": "25626914",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25626914",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1856,6 +1892,15 @@
    "on_site": false
   },
   {
+   "code": "TMP XSB191FM",
+   "name": "INVEST & FINL MGMT",
+   "destiny_course_id": "43256925",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43256925",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "THTR XSB142",
    "name": "I.V. LIVE",
    "destiny_course_id": "28310914",
@@ -1955,6 +2000,15 @@
    "on_site": false
   },
   {
+   "code": "INT XSB10",
+   "name": "TRANS ACADEMIC EXC",
+   "destiny_course_id": "44028919",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44028919",
+   "min_units": 2,
+   "max_units": 2,
+   "on_site": false
+  },
+  {
    "code": "COMM XSB125",
    "name": "DIGITAL CONSUMER BX",
    "destiny_course_id": "41628130",
@@ -2022,6 +2076,15 @@
    "name": "ME WOMEN POL & REL",
    "destiny_course_id": "44648448",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44648448",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "COMM XSB160NC",
+   "name": "NEUROSCI COMM",
+   "destiny_course_id": "44549405",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44549405",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
@@ -2256,6 +2319,15 @@
    "name": "FOUNDTN CIRC LAB",
    "destiny_course_id": "41635464",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41635464",
+   "min_units": 2,
+   "max_units": 2,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 839.04",
+   "name": "Entrepreneurship",
+   "destiny_course_id": "40403797",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40403797",
    "min_units": 2,
    "max_units": 2,
    "on_site": false

@@ -2,7 +2,7 @@
  "page": "behavior-supports-systems",
  "page_url": "https://professional.ucsb.edu/behavior-supports-systems",
  "page_title": "Behavior Supports and Systems",
- "generated_at": "2026-10-02T18:25:35+00:00",
+ "generated_at": "2026-10-02T22:58:51+00:00",
  "certificate": {
   "code": "CE0065",
   "name": "Naturalistic Developmental Behavioral Interventions",
@@ -145,13 +145,13 @@
          "enroll_start": null,
          "enroll_end": "2027-12-31T15:59:00-08:00",
          "capacity": 100,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 100,
+         "seats_left": 99,
          "units": 4,
          "destiny_section_id": "43567581",
          "crm_id": "5049549000073568016",
-         "last_sync": "2026-10-02T11:03:13-07:00"
+         "last_sync": "2026-10-02T15:54:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -381,7 +381,7 @@
          "units": 3,
          "destiny_section_id": "43579302",
          "crm_id": "5049549000073917015",
-         "last_sync": "2026-10-02T05:03:40-07:00"
+         "last_sync": "2026-10-02T13:02:24-07:00"
         }
        ],
        "hidden_sections": 0,
