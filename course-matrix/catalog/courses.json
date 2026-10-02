@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T12:37:20+00:00",
+ "generated_at": "2026-10-02T18:25:35+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1712,6 +1712,15 @@
    "on_site": false
   },
   {
+   "code": "PSY XSB155",
+   "name": "EVLUTION & CGNITION",
+   "destiny_course_id": "16576611",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576611",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MATH XSB111A",
    "name": "INTRO TO ABSTR ALGB",
    "destiny_course_id": "16575026",
@@ -1937,6 +1946,15 @@
    "on_site": false
   },
   {
+   "code": "FR XSB156A",
+   "name": "FRENCH CINEMA",
+   "destiny_course_id": "44025566",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44025566",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "COMM XSB125",
    "name": "DIGITAL CONSUMER BX",
    "destiny_course_id": "41628130",
@@ -2033,6 +2051,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44573008",
    "min_units": 5,
    "max_units": 5,
+   "on_site": false
+  },
+  {
+   "code": "TMP XSB273",
+   "name": "TECH STRATEGY",
+   "destiny_course_id": "44656660",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44656660",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -2162,6 +2189,15 @@
    "on_site": false
   },
   {
+   "code": "XLRN 805.01",
+   "name": "Q/A Automation",
+   "destiny_course_id": "44782268",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44782268",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "SPAN XSB1",
    "name": "ELEMENTARY SPANISH",
    "destiny_course_id": "16577117",
@@ -2222,6 +2258,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41635464",
    "min_units": 2,
    "max_units": 2,
+   "on_site": false
+  },
+  {
+   "code": "MAT XSB258",
+   "name": "AEROSPACE CULTURE",
+   "destiny_course_id": "16574928",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16574928",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
