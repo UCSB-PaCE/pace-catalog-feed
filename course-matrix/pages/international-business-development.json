@@ -2,7 +2,7 @@
  "page": "international-business-development",
  "page_url": "https://professional.ucsb.edu/international-business-development",
  "page_title": "International Business Development",
- "generated_at": "2026-10-02T22:58:51+00:00",
+ "generated_at": "2026-10-03T01:59:09+00:00",
  "certificate": {
   "code": "CE0066",
   "name": "International Business Development",
@@ -203,13 +203,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 31,
+         "enrolled": 30,
          "crm_availability": "Available",
-         "seats_left": 9,
+         "seats_left": 10,
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-10-02T15:07:05-07:00"
+         "last_sync": "2026-10-02T17:27:51-07:00"
         }
        ],
        "hidden_sections": 0,
