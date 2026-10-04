@@ -2,7 +2,7 @@
  "page": "certificate-human-resource-management",
  "page_url": "https://professional.ucsb.edu/certificate-human-resource-management",
  "page_title": "Human Resource Management",
- "generated_at": "2026-10-04T12:23:45+00:00",
+ "generated_at": "2026-10-04T17:35:51+00:00",
  "certificate": {
   "code": "CE0036",
   "name": "Human Resource Management Essentials",
@@ -93,7 +93,7 @@
          "units": 4,
          "destiny_section_id": "44227379",
          "crm_id": "5049549000083611007",
-         "last_sync": "2026-10-04T03:02:46-07:00"
+         "last_sync": "2026-10-04T09:03:17-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -184,7 +184,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-10-03T23:03:14-07:00"
+         "last_sync": "2026-10-04T09:02:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -272,7 +272,7 @@
          "units": 4,
          "destiny_section_id": "44306996",
          "crm_id": "5049549000085624005",
-         "last_sync": "2026-10-03T21:03:24-07:00"
+         "last_sync": "2026-10-04T07:02:44-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -377,7 +377,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-10-03T23:03:27-07:00"
+         "last_sync": "2026-10-04T09:02:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -406,7 +406,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-10-04T03:02:36-07:00"
+         "last_sync": "2026-10-04T09:03:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -435,7 +435,7 @@
          "units": 4,
          "destiny_section_id": "44306644",
          "crm_id": "5049549000085612001",
-         "last_sync": "2026-10-03T21:03:23-07:00"
+         "last_sync": "2026-10-04T07:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
