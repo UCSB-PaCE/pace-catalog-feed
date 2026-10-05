@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T16:01:52+00:00",
+ "generated_at": "2026-10-05T22:38:40+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -812,6 +812,15 @@
    "on_site": true
   },
   {
+   "code": "PHYS XSB128AL",
+   "name": "ADVANCED LAB",
+   "destiny_course_id": "16576257",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576257",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
    "code": "LAW X402.2",
    "name": "Ethics for the Paralegal",
    "destiny_course_id": "16574562",
@@ -1064,6 +1073,15 @@
    "on_site": false
   },
   {
+   "code": "ECON XSB140A",
+   "name": "INTRO ECONOMETRICS",
+   "destiny_course_id": "16571442",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571442",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "ECON XSB171",
    "name": "INTRO GAME THEORY",
    "destiny_course_id": "16571453",
@@ -1208,6 +1226,15 @@
    "on_site": false
   },
   {
+   "code": "ECON XSB189",
+   "name": "LAW AND ETHICS",
+   "destiny_course_id": "16571468",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571468",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "CMPSC XSB176A",
    "name": "COMP COMM NETWORKS",
    "destiny_course_id": "16570701",
@@ -1230,6 +1257,15 @@
    "name": "SPEC TOP FOUN GEN",
    "destiny_course_id": "29482696",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=29482696",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "CMPSC XSB32",
+   "name": "OBJ ORIENT DESIGN",
+   "destiny_course_id": "16570662",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570662",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1289,6 +1325,15 @@
    "on_site": false
   },
   {
+   "code": "TMP XSB191VC",
+   "name": "VENTURE CAPITAL/PE",
+   "destiny_course_id": "40732202",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=40732202",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "WRIT XSB2",
    "name": "ACADEMIC WRITING",
    "destiny_course_id": "16577288",
@@ -1329,6 +1374,15 @@
    "name": "Introduction to Infrared Imaging Technology",
    "destiny_course_id": "35433653",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35433653",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB132",
+   "name": "INTRO ELEC DEVICE",
+   "destiny_course_id": "16571105",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571105",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1446,6 +1500,15 @@
    "name": "REGRESSION ANALYSIS",
    "destiny_course_id": "16576488",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576488",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "PSTAT XSB171",
+   "name": "MATH COMPOUND INT",
+   "destiny_course_id": "16576498",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576498",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1775,6 +1838,15 @@
    "on_site": false
   },
   {
+   "code": "MATH XSB113",
+   "name": "NON-EUCLIDEAN GEOM",
+   "destiny_course_id": "16575029",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575029",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "ECE XSB139",
    "name": "PROB & STAT",
    "destiny_course_id": "16571111",
@@ -1811,6 +1883,15 @@
    "on_site": false
   },
   {
+   "code": "PHYS XSB137",
+   "name": "PLANETS",
+   "destiny_course_id": "37722227",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=37722227",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "MATH XSB118A",
    "name": "INTRO REAL ANALYSIS",
    "destiny_course_id": "16575035",
@@ -1844,6 +1925,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41635429",
    "min_units": 3,
    "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "DANCE XSB45",
+   "name": "HIST & APPREC DANCE",
+   "destiny_course_id": "16570970",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570970",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -1988,6 +2078,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43952935",
    "min_units": null,
    "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "WRIT XSB105R",
+   "name": "RHETORIC AND WRIT",
+   "destiny_course_id": "43951623",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43951623",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -2261,10 +2360,28 @@
    "on_site": false
   },
   {
+   "code": "ENV S XSB187",
+   "name": "IDEA OF NATURE",
+   "destiny_course_id": "16573198",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573198",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "SPAN XSB1",
    "name": "ELEMENTARY SPANISH",
    "destiny_course_id": "16577117",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16577117",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MATH XSB119A",
+   "name": "ORD DIFF EQUATIONS",
+   "destiny_course_id": "16575038",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575038",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
