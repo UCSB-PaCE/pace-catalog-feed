@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T21:27:14+00:00",
+ "generated_at": "2026-10-05T00:56:45+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -23,7 +23,7 @@
    "units": 0,
    "destiny_section_id": "42715249",
    "crm_id": "5049549000057329097",
-   "last_sync": "2026-10-04T07:02:59-07:00",
+   "last_sync": "2026-10-04T17:02:45-07:00",
    "course_number": "XLRN 809A",
    "term": "Fall 2026",
    "course_destiny_id": "28945939"
@@ -44,7 +44,7 @@
    "units": 0,
    "destiny_section_id": "42715455",
    "crm_id": "5049549000057329109",
-   "last_sync": "2026-10-04T09:02:46-07:00",
+   "last_sync": "2026-10-04T17:03:18-07:00",
    "course_number": "XLRN 809B",
    "term": "Fall 2026",
    "course_destiny_id": "34919015"
@@ -149,7 +149,7 @@
    "units": 4,
    "destiny_section_id": "42716128",
    "crm_id": "5049549000066774021",
-   "last_sync": "2026-10-04T09:02:36-07:00",
+   "last_sync": "2026-10-04T17:03:12-07:00",
    "course_number": "ED X370.4",
    "term": "Fall 2026",
    "course_destiny_id": "26120331"
@@ -212,7 +212,7 @@
    "units": 1,
    "destiny_section_id": "42715100",
    "crm_id": "5049549000066782225",
-   "last_sync": "2026-10-04T09:02:45-07:00",
+   "last_sync": "2026-10-04T17:03:17-07:00",
    "course_number": "ED X309D.5",
    "term": "Fall 2026",
    "course_destiny_id": "35871937"
@@ -233,7 +233,7 @@
    "units": 4,
    "destiny_section_id": "42714708",
    "crm_id": "5049549000066784036",
-   "last_sync": "2026-10-04T09:02:48-07:00",
+   "last_sync": "2026-10-04T17:03:19-07:00",
    "course_number": "ED X370.11",
    "term": "Fall 2026",
    "course_destiny_id": "27406321"
@@ -254,7 +254,7 @@
    "units": 4,
    "destiny_section_id": "42716351",
    "crm_id": "5049549000066789042",
-   "last_sync": "2026-10-04T07:03:11-07:00",
+   "last_sync": "2026-10-04T17:02:58-07:00",
    "course_number": "ED X370.12",
    "term": "Fall 2026",
    "course_destiny_id": "28010698"
@@ -368,7 +368,7 @@
    "code": "031",
    "modality": "UCSB",
    "instruction_method": "In Class",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-12-07",
    "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -389,7 +389,7 @@
    "code": "033",
    "modality": "UCSB",
    "instruction_method": "In Class",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-12-07",
    "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -422,7 +422,7 @@
    "units": 4,
    "destiny_section_id": "43360032",
    "crm_id": "5049549000067815408",
-   "last_sync": "2026-10-04T09:02:38-07:00",
+   "last_sync": "2026-10-04T17:03:13-07:00",
    "course_number": "ECON X418",
    "term": "Fall 2026",
    "course_destiny_id": "27961817"
@@ -464,7 +464,7 @@
    "units": 4,
    "destiny_section_id": "43359634",
    "crm_id": "5049549000067881524",
-   "last_sync": "2026-10-04T09:02:42-07:00",
+   "last_sync": "2026-10-04T17:03:15-07:00",
    "course_number": "ECON X400",
    "term": "Fall 2026",
    "course_destiny_id": "16571310"
@@ -506,7 +506,7 @@
    "units": 4,
    "destiny_section_id": "43371809",
    "crm_id": "5049549000068029268",
-   "last_sync": "2026-10-04T09:02:32-07:00",
+   "last_sync": "2026-10-04T17:03:09-07:00",
    "course_number": "MGMNT X441",
    "term": "Fall 2026",
    "course_destiny_id": "41908559"
@@ -683,7 +683,7 @@
    "code": "033",
    "modality": "UCSB",
    "instruction_method": "In Class",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-12-07",
    "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -695,7 +695,7 @@
    "units": 4,
    "destiny_section_id": "43389590",
    "crm_id": "5049549000068306106",
-   "last_sync": "2026-10-04T09:02:32-07:00",
+   "last_sync": "2026-10-04T17:03:09-07:00",
    "course_number": "ECON X455.1",
    "term": "Fall 2026",
    "course_destiny_id": "23165102"
@@ -716,7 +716,7 @@
    "units": 3,
    "destiny_section_id": "43389731",
    "crm_id": "5049549000068306123",
-   "last_sync": "2026-10-04T09:02:44-07:00",
+   "last_sync": "2026-10-04T17:03:17-07:00",
    "course_number": "LAW X455.6",
    "term": "Fall 2026",
    "course_destiny_id": "16574587"
@@ -737,7 +737,7 @@
    "units": 4,
    "destiny_section_id": "43390953",
    "crm_id": "5049549000068317255",
-   "last_sync": "2026-10-04T07:03:12-07:00",
+   "last_sync": "2026-10-04T17:02:59-07:00",
    "course_number": "MGMNT X499",
    "term": "Fall 2026",
    "course_destiny_id": "42044956"
@@ -746,7 +746,7 @@
    "code": "031",
    "modality": "UCSB",
    "instruction_method": "In Class",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-12-07",
    "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -779,7 +779,7 @@
    "units": 4,
    "destiny_section_id": "43389103",
    "crm_id": "5049549000068333288",
-   "last_sync": "2026-10-04T07:02:48-07:00",
+   "last_sync": "2026-10-04T17:02:30-07:00",
    "course_number": "TMP X454",
    "term": "Fall 2026",
    "course_destiny_id": "33293213"
@@ -830,7 +830,7 @@
    "code": "011",
    "modality": "Hybrid",
    "instruction_method": "Hybrid",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-12-07",
    "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -863,7 +863,7 @@
    "units": 4,
    "destiny_section_id": "43434409",
    "crm_id": "5049549000069455006",
-   "last_sync": "2026-10-04T07:03:05-07:00",
+   "last_sync": "2026-10-04T17:02:52-07:00",
    "course_number": "LAW X417.4",
    "term": "Fall 2026",
    "course_destiny_id": "28768298"
@@ -914,7 +914,7 @@
    "code": "027",
    "modality": "Online (blended)",
    "instruction_method": "Online Blended",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-12-07",
    "enroll_start": null,
@@ -947,7 +947,7 @@
    "units": 4,
    "destiny_section_id": "43476511",
    "crm_id": "5049549000071850012",
-   "last_sync": "2026-10-04T07:02:48-07:00",
+   "last_sync": "2026-10-04T17:02:31-07:00",
    "course_number": "BUSAD X408L",
    "term": "Fall 2026",
    "course_destiny_id": "31249800"
@@ -968,7 +968,7 @@
    "units": 4,
    "destiny_section_id": "43477427",
    "crm_id": "5049549000071850017",
-   "last_sync": "2026-10-04T09:02:44-07:00",
+   "last_sync": "2026-10-04T17:03:17-07:00",
    "course_number": "ECON X422A",
    "term": "Fall 2026",
    "course_destiny_id": "35508271"
@@ -989,7 +989,7 @@
    "units": 4,
    "destiny_section_id": "43477856",
    "crm_id": "5049549000071893015",
-   "last_sync": "2026-10-04T07:03:08-07:00",
+   "last_sync": "2026-10-04T17:02:55-07:00",
    "course_number": "MGMNT X477",
    "term": "Fall 2026",
    "course_destiny_id": "31113414"
@@ -1010,7 +1010,7 @@
    "units": 4,
    "destiny_section_id": "43485610",
    "crm_id": "5049549000072305081",
-   "last_sync": "2026-10-04T07:03:09-07:00",
+   "last_sync": "2026-10-04T17:02:56-07:00",
    "course_number": "XLRN 801.CR",
    "term": "Fall 2026",
    "course_destiny_id": "35433569"
@@ -1031,7 +1031,7 @@
    "units": 4,
    "destiny_section_id": "43567455",
    "crm_id": "5049549000073515026",
-   "last_sync": "2026-10-04T07:03:04-07:00",
+   "last_sync": "2026-10-04T17:02:50-07:00",
    "course_number": "ED X310A",
    "term": "Winter 2027",
    "course_destiny_id": "36102812"
@@ -1073,7 +1073,7 @@
    "units": 5,
    "destiny_section_id": "43566990",
    "crm_id": "5049549000073522023",
-   "last_sync": "2026-10-04T09:02:46-07:00",
+   "last_sync": "2026-10-04T17:03:18-07:00",
    "course_number": "ED X309A.5",
    "term": "Winter 2027",
    "course_destiny_id": "32267252"
@@ -1136,7 +1136,7 @@
    "units": 3,
    "destiny_section_id": "43567867",
    "crm_id": "5049549000073544023",
-   "last_sync": "2026-10-04T07:03:12-07:00",
+   "last_sync": "2026-10-04T17:02:59-07:00",
    "course_number": "ED X310D",
    "term": "Winter 2027",
    "course_destiny_id": "39154984"
@@ -1241,7 +1241,7 @@
    "units": 4,
    "destiny_section_id": "43566587",
    "crm_id": "5049549000073575017",
-   "last_sync": "2026-10-04T07:03:13-07:00",
+   "last_sync": "2026-10-04T17:03:00-07:00",
    "course_number": "ED X370.3",
    "term": "Winter 2027",
    "course_destiny_id": "26120019"
@@ -1283,7 +1283,7 @@
    "units": 5,
    "destiny_section_id": "43567252",
    "crm_id": "5049549000073581012",
-   "last_sync": "2026-10-04T07:02:52-07:00",
+   "last_sync": "2026-10-04T17:02:36-07:00",
    "course_number": "ED X309A.5",
    "term": "Winter 2027",
    "course_destiny_id": "32267252"
@@ -1304,7 +1304,7 @@
    "units": 0,
    "destiny_section_id": "43568145",
    "crm_id": "5049549000073612013",
-   "last_sync": "2026-10-04T09:02:22-07:00",
+   "last_sync": "2026-10-04T17:03:04-07:00",
    "course_number": "XLRN 809A",
    "term": "Winter 2027",
    "course_destiny_id": "28945939"
@@ -1325,7 +1325,7 @@
    "units": 3,
    "destiny_section_id": "43567649",
    "crm_id": "5049549000073626027",
-   "last_sync": "2026-10-04T09:02:48-07:00",
+   "last_sync": "2026-10-04T17:03:20-07:00",
    "course_number": "ED X310C",
    "term": "Winter 2027",
    "course_destiny_id": "39154767"
@@ -1409,7 +1409,7 @@
    "units": 0,
    "destiny_section_id": "43581644",
    "crm_id": "5049549000073833022",
-   "last_sync": "2026-10-04T09:02:23-07:00",
+   "last_sync": "2026-10-04T17:03:04-07:00",
    "course_number": "XLRN 809B",
    "term": "Spring 2027",
    "course_destiny_id": "34919015"
@@ -1493,7 +1493,7 @@
    "units": 0,
    "destiny_section_id": "43581523",
    "crm_id": "5049549000073850017",
-   "last_sync": "2026-10-04T09:02:25-07:00",
+   "last_sync": "2026-10-04T17:03:05-07:00",
    "course_number": "XLRN 809A",
    "term": "Spring 2027",
    "course_destiny_id": "28945939"
@@ -1619,7 +1619,7 @@
    "units": 3,
    "destiny_section_id": "43579424",
    "crm_id": "5049549000073925010",
-   "last_sync": "2026-10-04T09:02:27-07:00",
+   "last_sync": "2026-10-04T17:03:06-07:00",
    "course_number": "ED X310F",
    "term": "Spring 2027",
    "course_destiny_id": "40349284"
@@ -1733,7 +1733,7 @@
    "code": "006",
    "modality": "UCSB",
    "instruction_method": "In Class",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-11-30",
    "enroll_start": null,
@@ -1808,7 +1808,7 @@
    "units": null,
    "destiny_section_id": "43632409",
    "crm_id": "5049549000075153004",
-   "last_sync": "2026-10-04T07:03:10-07:00",
+   "last_sync": "2026-10-04T17:02:57-07:00",
    "course_number": "XLRN 801.CR",
    "term": "Summer 2027",
    "course_destiny_id": "35433569"
@@ -1829,7 +1829,7 @@
    "units": 4,
    "destiny_section_id": "43631960",
    "crm_id": "5049549000075212003",
-   "last_sync": "2026-10-04T07:03:14-07:00",
+   "last_sync": "2026-10-04T17:03:01-07:00",
    "course_number": "XLRN 801.CR",
    "term": "Winter 2027",
    "course_destiny_id": "35433569"
@@ -1850,7 +1850,7 @@
    "units": null,
    "destiny_section_id": "43632243",
    "crm_id": "5049549000075216002",
-   "last_sync": "2026-10-04T07:03:14-07:00",
+   "last_sync": "2026-10-04T17:03:02-07:00",
    "course_number": "XLRN 801.CR",
    "term": "Spring 2027",
    "course_destiny_id": "35433569"
@@ -1997,7 +1997,7 @@
    "units": 5,
    "destiny_section_id": "44000191",
    "crm_id": "5049549000079387003",
-   "last_sync": "2026-10-04T07:02:49-07:00",
+   "last_sync": "2026-10-04T17:02:32-07:00",
    "course_number": "ED X365.5",
    "term": "Fall 2026",
    "course_destiny_id": "32356738"
@@ -2165,7 +2165,7 @@
    "units": 4,
    "destiny_section_id": "44150598",
    "crm_id": "5049549000081186005",
-   "last_sync": "2026-10-04T09:02:36-07:00",
+   "last_sync": "2026-10-04T17:03:12-07:00",
    "course_number": "BUSAD X450.33",
    "term": "Winter 2027",
    "course_destiny_id": "25561802"
@@ -2270,7 +2270,7 @@
    "units": 4,
    "destiny_section_id": "44156917",
    "crm_id": "5049549000081335001",
-   "last_sync": "2026-10-04T07:02:49-07:00",
+   "last_sync": "2026-10-04T17:02:32-07:00",
    "course_number": "MGMNT X440",
    "term": "Winter 2027",
    "course_destiny_id": "41907568"
@@ -2312,7 +2312,7 @@
    "units": 4,
    "destiny_section_id": "44157340",
    "crm_id": "5049549000081341003",
-   "last_sync": "2026-10-04T09:02:45-07:00",
+   "last_sync": "2026-10-04T17:03:18-07:00",
    "course_number": "MGMNT X477",
    "term": "Winter 2027",
    "course_destiny_id": "31113414"
@@ -2753,7 +2753,7 @@
    "units": 4,
    "destiny_section_id": "44163020",
    "crm_id": "5049549000081589003",
-   "last_sync": "2026-10-04T07:02:50-07:00",
+   "last_sync": "2026-10-04T17:02:33-07:00",
    "course_number": "TMP X454",
    "term": "Winter 2027",
    "course_destiny_id": "33293213"
@@ -2795,7 +2795,7 @@
    "units": 4,
    "destiny_section_id": "44169441",
    "crm_id": "5049549000081761006",
-   "last_sync": "2026-10-04T07:03:15-07:00",
+   "last_sync": "2026-10-04T17:03:03-07:00",
    "course_number": "TMP X450",
    "term": "Winter 2027",
    "course_destiny_id": "31148667"
@@ -3047,7 +3047,7 @@
    "units": 4,
    "destiny_section_id": "44186919",
    "crm_id": "5049549000082453004",
-   "last_sync": "2026-10-04T09:02:39-07:00",
+   "last_sync": "2026-10-04T17:03:14-07:00",
    "course_number": "ECON X427B",
    "term": "Winter 2027",
    "course_destiny_id": "27962322"
@@ -3509,7 +3509,7 @@
    "units": 4,
    "destiny_section_id": "44265297",
    "crm_id": "5049549000084650012",
-   "last_sync": "2026-10-04T09:02:25-07:00",
+   "last_sync": "2026-10-04T17:03:05-07:00",
    "course_number": "MGMNT X441",
    "term": "Spring 2027",
    "course_destiny_id": "41908559"
@@ -3698,7 +3698,7 @@
    "units": 4,
    "destiny_section_id": "44268528",
    "crm_id": "5049549000084874003",
-   "last_sync": "2026-10-04T07:02:50-07:00",
+   "last_sync": "2026-10-04T17:02:34-07:00",
    "course_number": "MGMNT X477",
    "term": "Spring 2027",
    "course_destiny_id": "31113414"
@@ -3824,7 +3824,7 @@
    "units": 4,
    "destiny_section_id": "44268838",
    "crm_id": "5049549000084934004",
-   "last_sync": "2026-10-04T07:02:52-07:00",
+   "last_sync": "2026-10-04T17:02:36-07:00",
    "course_number": "MGMNT X477.1",
    "term": "Spring 2027",
    "course_destiny_id": "33120735"
@@ -3980,7 +3980,7 @@
    "code": "005",
    "modality": "Online (self-paced)",
    "instruction_method": "Online Asynchronous",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-10-05",
    "end": "2026-12-11",
    "enroll_start": null,
@@ -4022,7 +4022,7 @@
    "code": "005",
    "modality": "Online (self-paced)",
    "instruction_method": "Online Asynchronous",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-10-05",
    "end": "2026-12-11",
    "enroll_start": null,
@@ -4043,7 +4043,7 @@
    "code": "002",
    "modality": "Online (self-paced)",
    "instruction_method": "Online Asynchronous",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-09-28",
    "end": "2026-11-30",
    "enroll_start": null,
@@ -4064,7 +4064,7 @@
    "code": "003",
    "modality": "Online (self-paced)",
    "instruction_method": "Online Asynchronous",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-10-05",
    "end": "2026-12-11",
    "enroll_start": null,
@@ -4181,7 +4181,7 @@
    "units": 4,
    "destiny_section_id": "44306644",
    "crm_id": "5049549000085612001",
-   "last_sync": "2026-10-04T07:02:43-07:00",
+   "last_sync": "2026-10-04T17:02:24-07:00",
    "course_number": "BUSAD X435",
    "term": "Summer 2027",
    "course_destiny_id": "27403327"
@@ -4202,7 +4202,7 @@
    "units": 4,
    "destiny_section_id": "44306996",
    "crm_id": "5049549000085624005",
-   "last_sync": "2026-10-04T07:02:44-07:00",
+   "last_sync": "2026-10-04T17:02:25-07:00",
    "course_number": "BUSAD X450.40",
    "term": "Summer 2027",
    "course_destiny_id": "16570034"
@@ -4223,7 +4223,7 @@
    "units": 4,
    "destiny_section_id": "44306432",
    "crm_id": "5049549000085665002",
-   "last_sync": "2026-10-04T07:02:44-07:00",
+   "last_sync": "2026-10-04T17:02:26-07:00",
    "course_number": "BUSAD X432",
    "term": "Summer 2027",
    "course_destiny_id": "27420581"
@@ -4265,7 +4265,7 @@
    "units": 3,
    "destiny_section_id": "44311286",
    "crm_id": "5049549000085728002",
-   "last_sync": "2026-10-04T07:02:44-07:00",
+   "last_sync": "2026-10-04T17:02:26-07:00",
    "course_number": "LAW X412",
    "term": "Summer 2027",
    "course_destiny_id": "16574571"
@@ -4286,7 +4286,7 @@
    "units": 3,
    "destiny_section_id": "44312746",
    "crm_id": "5049549000085748008",
-   "last_sync": "2026-10-04T07:02:45-07:00",
+   "last_sync": "2026-10-04T17:02:28-07:00",
    "course_number": "LAW X455.7",
    "term": "Summer 2027",
    "course_destiny_id": "23161736"
@@ -4307,7 +4307,7 @@
    "units": 3,
    "destiny_section_id": "44312322",
    "crm_id": "5049549000085758008",
-   "last_sync": "2026-10-04T07:02:51-07:00",
+   "last_sync": "2026-10-04T17:02:35-07:00",
    "course_number": "LAW X424",
    "term": "Summer 2027",
    "course_destiny_id": "29745522"
@@ -4328,7 +4328,7 @@
    "units": 4,
    "destiny_section_id": "44311545",
    "crm_id": "5049549000085803006",
-   "last_sync": "2026-10-04T07:02:46-07:00",
+   "last_sync": "2026-10-04T17:02:29-07:00",
    "course_number": "LAW X417.3",
    "term": "Summer 2027",
    "course_destiny_id": "28767570"
@@ -4349,7 +4349,7 @@
    "units": 2,
    "destiny_section_id": "44310703",
    "crm_id": "5049549000085808008",
-   "last_sync": "2026-10-04T07:02:46-07:00",
+   "last_sync": "2026-10-04T17:02:29-07:00",
    "course_number": "LAW X403",
    "term": "Summer 2027",
    "course_destiny_id": "16574563"
@@ -4370,7 +4370,7 @@
    "units": 3,
    "destiny_section_id": "44312583",
    "crm_id": "5049549000085838003",
-   "last_sync": "2026-10-04T07:02:53-07:00",
+   "last_sync": "2026-10-04T17:02:37-07:00",
    "course_number": "LAW X455.3",
    "term": "Summer 2027",
    "course_destiny_id": "16574584"
@@ -4391,7 +4391,7 @@
    "units": 4,
    "destiny_section_id": "44311066",
    "crm_id": "5049549000085845003",
-   "last_sync": "2026-10-04T07:02:47-07:00",
+   "last_sync": "2026-10-04T17:02:30-07:00",
    "course_number": "LAW X408",
    "term": "Summer 2027",
    "course_destiny_id": "16574570"
@@ -4412,7 +4412,7 @@
    "units": 4,
    "destiny_section_id": "44324835",
    "crm_id": "5049549000085938018",
-   "last_sync": "2026-10-04T07:02:53-07:00",
+   "last_sync": "2026-10-04T17:02:38-07:00",
    "course_number": "MGMNT X440",
    "term": "Summer 2027",
    "course_destiny_id": "41907568"
@@ -4433,7 +4433,7 @@
    "units": 1,
    "destiny_section_id": "44324178",
    "crm_id": "5049549000085997001",
-   "last_sync": "2026-10-04T07:02:56-07:00",
+   "last_sync": "2026-10-04T17:02:42-07:00",
    "course_number": "LAW X455.9",
    "term": "Summer 2027",
    "course_destiny_id": "31081699"
@@ -4454,7 +4454,7 @@
    "units": 4,
    "destiny_section_id": "44329106",
    "crm_id": "5049549000086081004",
-   "last_sync": "2026-10-04T07:03:06-07:00",
+   "last_sync": "2026-10-04T17:02:53-07:00",
    "course_number": "TMP X451",
    "term": "Summer 2027",
    "course_destiny_id": "31148761"
@@ -4475,7 +4475,7 @@
    "units": 4,
    "destiny_section_id": "44328868",
    "crm_id": "5049549000086146003",
-   "last_sync": "2026-10-04T07:02:56-07:00",
+   "last_sync": "2026-10-04T17:02:42-07:00",
    "course_number": "TMP X450",
    "term": "Summer 2027",
    "course_destiny_id": "31148667"
@@ -4601,7 +4601,7 @@
    "units": 4,
    "destiny_section_id": "44328688",
    "crm_id": "5049549000086207005",
-   "last_sync": "2026-10-04T07:03:02-07:00",
+   "last_sync": "2026-10-04T17:02:48-07:00",
    "course_number": "MGMNT X477",
    "term": "Summer 2027",
    "course_destiny_id": "31113414"
@@ -4622,7 +4622,7 @@
    "units": null,
    "destiny_section_id": "44341289",
    "crm_id": "5049549000086329028",
-   "last_sync": "2026-10-04T07:03:06-07:00",
+   "last_sync": "2026-10-04T17:02:53-07:00",
    "course_number": "XLRN 821.EMT",
    "term": "Summer 2027",
    "course_destiny_id": "40479255"
@@ -4643,7 +4643,7 @@
    "units": null,
    "destiny_section_id": "44342284",
    "crm_id": "5049549000086349016",
-   "last_sync": "2026-10-04T07:03:08-07:00",
+   "last_sync": "2026-10-04T17:02:56-07:00",
    "course_number": "XLRN 821.EMT",
    "term": "Summer 2027",
    "course_destiny_id": "40479255"
@@ -4664,7 +4664,7 @@
    "units": 2,
    "destiny_section_id": "44410629",
    "crm_id": "5049549000088066037",
-   "last_sync": "2026-10-04T07:03:15-07:00",
+   "last_sync": "2026-10-04T17:03:03-07:00",
    "course_number": "TMP X101",
    "term": "Winter 2027",
    "course_destiny_id": "40884108"
@@ -4727,7 +4727,7 @@
    "units": 3,
    "destiny_section_id": "44480689",
    "crm_id": "5049549000089339025",
-   "last_sync": "2026-10-04T07:02:53-07:00",
+   "last_sync": "2026-10-04T17:02:38-07:00",
    "course_number": "LAW X406",
    "term": "Fall 2026",
    "course_destiny_id": "16574566"
@@ -4748,7 +4748,7 @@
    "units": 3,
    "destiny_section_id": "44517426",
    "crm_id": "5049549000089957004",
-   "last_sync": "2026-10-04T07:02:54-07:00",
+   "last_sync": "2026-10-04T17:02:39-07:00",
    "course_number": "LAW X406",
    "term": "Winter 2027",
    "course_destiny_id": "16574566"
@@ -4769,7 +4769,7 @@
    "units": 5,
    "destiny_section_id": "44560600",
    "crm_id": "5049549000090454015",
-   "last_sync": "2026-10-04T09:02:24-07:00",
+   "last_sync": "2026-10-04T17:03:04-07:00",
    "course_number": "ECON XSB1",
    "term": "Fall 2026",
    "course_destiny_id": "16571370"
@@ -4895,7 +4895,7 @@
    "units": 4,
    "destiny_section_id": "44645001",
    "crm_id": "5049549000090699213",
-   "last_sync": "2026-10-04T09:02:40-07:00",
+   "last_sync": "2026-10-04T17:03:14-07:00",
    "course_number": "PSY XSB183",
    "term": "Fall 2026",
    "course_destiny_id": "44644996"
@@ -4916,7 +4916,7 @@
    "units": 4,
    "destiny_section_id": "44544930",
    "crm_id": "5049549000090699242",
-   "last_sync": "2026-10-04T09:02:27-07:00",
+   "last_sync": "2026-10-04T17:03:06-07:00",
    "course_number": "CMPSC XSB231",
    "term": "Fall 2026",
    "course_destiny_id": "25319274"
@@ -5000,7 +5000,7 @@
    "units": 4,
    "destiny_section_id": "44724529",
    "crm_id": "5049549000090715208",
-   "last_sync": "2026-10-04T07:03:09-07:00",
+   "last_sync": "2026-10-04T17:02:56-07:00",
    "course_number": "PSY XSB158",
    "term": "Fall 2026",
    "course_destiny_id": "28913622"
@@ -5042,7 +5042,7 @@
    "units": 4,
    "destiny_section_id": "44558283",
    "crm_id": "5049549000090723193",
-   "last_sync": "2026-10-04T07:03:10-07:00",
+   "last_sync": "2026-10-04T17:02:58-07:00",
    "course_number": "ECE XSB189A",
    "term": "Fall 2026",
    "course_destiny_id": "16571156"
@@ -5084,7 +5084,7 @@
    "units": 5,
    "destiny_section_id": "44527146",
    "crm_id": "5049549000090729013",
-   "last_sync": "2026-10-04T09:02:28-07:00",
+   "last_sync": "2026-10-04T17:03:06-07:00",
    "course_number": "ASTRO XSB1",
    "term": "Fall 2026",
    "course_destiny_id": "16569338"
@@ -5105,7 +5105,7 @@
    "units": 4,
    "destiny_section_id": "44605912",
    "crm_id": "5049549000090729171",
-   "last_sync": "2026-10-04T09:02:42-07:00",
+   "last_sync": "2026-10-04T17:03:15-07:00",
    "course_number": "MATH XSB4B",
    "term": "Fall 2026",
    "course_destiny_id": "26328962"
@@ -5252,7 +5252,7 @@
    "units": 5,
    "destiny_section_id": "44730676",
    "crm_id": "5049549000091143005",
-   "last_sync": "2026-10-04T07:02:54-07:00",
+   "last_sync": "2026-10-04T17:02:40-07:00",
    "course_number": "MUS XSB11",
    "term": "Fall 2026",
    "course_destiny_id": "16575797"
@@ -5294,7 +5294,7 @@
    "units": 5,
    "destiny_section_id": "44589401",
    "crm_id": "5049549000091210001",
-   "last_sync": "2026-10-04T07:02:55-07:00",
+   "last_sync": "2026-10-04T17:02:41-07:00",
    "course_number": "GREEK XSB1",
    "term": "Fall 2026",
    "course_destiny_id": "16573892"
@@ -5315,7 +5315,7 @@
    "units": 5,
    "destiny_section_id": "44735735",
    "crm_id": "5049549000091222012",
-   "last_sync": "2026-10-04T09:02:43-07:00",
+   "last_sync": "2026-10-04T17:03:16-07:00",
    "course_number": "ART XSB1A",
    "term": "Fall 2026",
    "course_destiny_id": "32365487"
@@ -5399,7 +5399,7 @@
    "units": 4,
    "destiny_section_id": "44608992",
    "crm_id": "5049549000091404033",
-   "last_sync": "2026-10-04T07:02:57-07:00",
+   "last_sync": "2026-10-04T17:02:43-07:00",
    "course_number": "MATH XSB145",
    "term": "Fall 2026",
    "course_destiny_id": "16575055"
@@ -5441,7 +5441,7 @@
    "units": 4,
    "destiny_section_id": "44641393",
    "crm_id": "5049549000091413036",
-   "last_sync": "2026-10-04T07:02:58-07:00",
+   "last_sync": "2026-10-04T17:02:44-07:00",
    "course_number": "PSTAT XSB207A",
    "term": "Fall 2026",
    "course_destiny_id": "16576507"
@@ -5462,7 +5462,7 @@
    "units": 4,
    "destiny_section_id": "44546610",
    "crm_id": "5049549000091414026",
-   "last_sync": "2026-10-04T07:02:59-07:00",
+   "last_sync": "2026-10-04T17:02:45-07:00",
    "course_number": "CNCSP XSB102",
    "term": "Fall 2026",
    "course_destiny_id": "16570748"
@@ -5525,7 +5525,7 @@
    "units": 5,
    "destiny_section_id": "44588384",
    "crm_id": "5049549000091430055",
-   "last_sync": "2026-10-04T09:02:31-07:00",
+   "last_sync": "2026-10-04T17:03:08-07:00",
    "course_number": "GLOBL XSB2",
    "term": "Fall 2026",
    "course_destiny_id": "16573863"
@@ -5546,7 +5546,7 @@
    "units": 5,
    "destiny_section_id": "44637809",
    "crm_id": "5049549000091431035",
-   "last_sync": "2026-10-04T07:02:59-07:00",
+   "last_sync": "2026-10-04T17:02:46-07:00",
    "course_number": "PSTAT XSB5A",
    "term": "Fall 2026",
    "course_destiny_id": "16576468"
@@ -5588,7 +5588,7 @@
    "units": 4,
    "destiny_section_id": "44638923",
    "crm_id": "5049549000091434052",
-   "last_sync": "2026-10-04T09:02:46-07:00",
+   "last_sync": "2026-10-04T17:03:18-07:00",
    "course_number": "PSTAT XSB120A",
    "term": "Fall 2026",
    "course_destiny_id": "16576480"
@@ -5609,7 +5609,7 @@
    "units": 5,
    "destiny_section_id": "44573154",
    "crm_id": "5049549000091436046",
-   "last_sync": "2026-10-04T09:02:32-07:00",
+   "last_sync": "2026-10-04T17:03:10-07:00",
    "course_number": "ENGL XSB37",
    "term": "Fall 2026",
    "course_destiny_id": "44573008"
@@ -5651,7 +5651,7 @@
    "units": 4,
    "destiny_section_id": "44608635",
    "crm_id": "5049549000091440036",
-   "last_sync": "2026-10-04T07:03:01-07:00",
+   "last_sync": "2026-10-04T17:02:48-07:00",
    "course_number": "MATH XSB108A",
    "term": "Fall 2026",
    "course_destiny_id": "16575020"
@@ -5735,7 +5735,7 @@
    "units": 4,
    "destiny_section_id": "44530893",
    "crm_id": "5049549000091443027",
-   "last_sync": "2026-10-04T07:03:02-07:00",
+   "last_sync": "2026-10-04T17:02:49-07:00",
    "course_number": "CH E XSB152A",
    "term": "Fall 2026",
    "course_destiny_id": "16570138"
@@ -5756,7 +5756,7 @@
    "units": 4,
    "destiny_section_id": "44608887",
    "crm_id": "5049549000091443049",
-   "last_sync": "2026-10-04T09:02:33-07:00",
+   "last_sync": "2026-10-04T17:03:10-07:00",
    "course_number": "MATH XSB118A",
    "term": "Fall 2026",
    "course_destiny_id": "16575035"
@@ -5798,7 +5798,7 @@
    "units": 4,
    "destiny_section_id": "44618529",
    "crm_id": "5049549000091447041",
-   "last_sync": "2026-10-04T09:02:35-07:00",
+   "last_sync": "2026-10-04T17:03:11-07:00",
    "course_number": "ME XSB152A",
    "term": "Fall 2026",
    "course_destiny_id": "16575335"
@@ -5987,7 +5987,7 @@
    "units": 4,
    "destiny_section_id": "44549218",
    "crm_id": "5049549000091627063",
-   "last_sync": "2026-10-04T09:02:26-07:00",
+   "last_sync": "2026-10-04T17:03:05-07:00",
    "course_number": "COMM XSB145",
    "term": "Fall 2026",
    "course_destiny_id": "16570810"
@@ -6113,7 +6113,7 @@
    "units": 4,
    "destiny_section_id": "44538009",
    "crm_id": "5049549000091642049",
-   "last_sync": "2026-10-04T09:02:31-07:00",
+   "last_sync": "2026-10-04T17:03:08-07:00",
    "course_number": "CHEM XSB113A",
    "term": "Fall 2026",
    "course_destiny_id": "16570257"
@@ -6197,7 +6197,7 @@
    "units": 5,
    "destiny_section_id": "44658060",
    "crm_id": "5049549000091758052",
-   "last_sync": "2026-10-04T09:02:47-07:00",
+   "last_sync": "2026-10-04T17:03:19-07:00",
    "course_number": "WRIT XSB2",
    "term": "Fall 2026",
    "course_destiny_id": "16577288"
@@ -6239,7 +6239,7 @@
    "units": 5,
    "destiny_section_id": "44604036",
    "crm_id": "5049549000091764045",
-   "last_sync": "2026-10-04T07:03:07-07:00",
+   "last_sync": "2026-10-04T17:02:54-07:00",
    "course_number": "MATH XSB2A",
    "term": "Fall 2026",
    "course_destiny_id": "44603854"
@@ -6470,7 +6470,7 @@
    "units": 4,
    "destiny_section_id": "44563701",
    "crm_id": "5049549000091794021",
-   "last_sync": "2026-10-04T09:02:43-07:00",
+   "last_sync": "2026-10-04T17:03:16-07:00",
    "course_number": "ECON XSB171",
    "term": "Fall 2026",
    "course_destiny_id": "16571453"
@@ -6533,7 +6533,7 @@
    "units": 4,
    "destiny_section_id": "44656444",
    "crm_id": "5049549000091802037",
-   "last_sync": "2026-10-04T07:03:03-07:00",
+   "last_sync": "2026-10-04T17:02:50-07:00",
    "course_number": "TMP XSB191L",
    "term": "Fall 2026",
    "course_destiny_id": "40166082"
@@ -6617,7 +6617,7 @@
    "units": 5,
    "destiny_section_id": "44643101",
    "crm_id": "5049549000091805061",
-   "last_sync": "2026-10-04T07:03:04-07:00",
+   "last_sync": "2026-10-04T17:02:51-07:00",
    "course_number": "PSY XSB1",
    "term": "Fall 2026",
    "course_destiny_id": "16576539"
@@ -6680,7 +6680,7 @@
    "units": 4,
    "destiny_section_id": "44656404",
    "crm_id": "5049549000091935027",
-   "last_sync": "2026-10-04T07:03:04-07:00",
+   "last_sync": "2026-10-04T17:02:51-07:00",
    "course_number": "TMP XSB127",
    "term": "Fall 2026",
    "course_destiny_id": "31715138"
@@ -6722,7 +6722,7 @@
    "units": 4,
    "destiny_section_id": "44603397",
    "crm_id": "5049549000091936084",
-   "last_sync": "2026-10-04T07:02:50-07:00",
+   "last_sync": "2026-10-04T17:02:34-07:00",
    "course_number": "MAT XSB258",
    "term": "Fall 2026",
    "course_destiny_id": "16574928"
@@ -6764,7 +6764,7 @@
    "units": 4,
    "destiny_section_id": "44656204",
    "crm_id": "5049549000091938016",
-   "last_sync": "2026-10-04T07:03:05-07:00",
+   "last_sync": "2026-10-04T17:02:52-07:00",
    "course_number": "TMP XSB120",
    "term": "Fall 2026",
    "course_destiny_id": "25377388"
@@ -6953,7 +6953,7 @@
    "units": 4,
    "destiny_section_id": "44544388",
    "crm_id": "5049549000091986022",
-   "last_sync": "2026-10-04T07:03:06-07:00",
+   "last_sync": "2026-10-04T17:02:54-07:00",
    "course_number": "CMPSC XSB177",
    "term": "Fall 2026",
    "course_destiny_id": "16570704"
@@ -7100,7 +7100,7 @@
    "units": 4,
    "destiny_section_id": "44656665",
    "crm_id": "5049549000091997085",
-   "last_sync": "2026-10-04T07:02:52-07:00",
+   "last_sync": "2026-10-04T17:02:37-07:00",
    "course_number": "TMP XSB273",
    "term": "Fall 2026",
    "course_destiny_id": "44656660"
@@ -7352,7 +7352,7 @@
    "units": 4,
    "destiny_section_id": "44614377",
    "crm_id": "5049549000092008027",
-   "last_sync": "2026-10-04T07:03:09-07:00",
+   "last_sync": "2026-10-04T17:02:57-07:00",
    "course_number": "MCDB XSB111",
    "term": "Fall 2026",
    "course_destiny_id": "16575207"
@@ -7478,7 +7478,7 @@
    "units": 4,
    "destiny_section_id": "44543186",
    "crm_id": "5049549000092013019",
-   "last_sync": "2026-10-04T07:03:07-07:00",
+   "last_sync": "2026-10-04T17:02:55-07:00",
    "course_number": "CMPSC XSB16",
    "term": "Fall 2026",
    "course_destiny_id": "25318575"
@@ -7499,7 +7499,7 @@
    "units": 4,
    "destiny_section_id": "44656504",
    "crm_id": "5049549000092013021",
-   "last_sync": "2026-10-04T07:03:11-07:00",
+   "last_sync": "2026-10-04T17:02:59-07:00",
    "course_number": "TMP XSB191N",
    "term": "Fall 2026",
    "course_destiny_id": "40732129"
