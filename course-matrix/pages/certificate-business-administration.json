@@ -2,11 +2,11 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-10-05T07:04:13+00:00",
+ "generated_at": "2026-10-05T16:01:52+00:00",
  "certificate": {
   "code": "CE0055",
   "name": "Business Administration and Management",
-  "synced": "2026-10-03T13:02:33-07:00",
+  "synced": "2026-10-05T01:02:50-07:00",
   "all": [
    "CE0055"
   ]
@@ -80,7 +80,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-10-04T19:02:10-07:00"
+         "last_sync": "2026-10-05T01:03:25-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -109,7 +109,7 @@
          "units": 4,
          "destiny_section_id": "44148728",
          "crm_id": "5049549000081136009",
-         "last_sync": "2026-10-04T21:03:33-07:00"
+         "last_sync": "2026-10-05T05:03:45-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -138,7 +138,7 @@
          "units": 4,
          "destiny_section_id": "44226537",
          "crm_id": "5049549000083608005",
-         "last_sync": "2026-10-04T19:02:46-07:00"
+         "last_sync": "2026-10-05T03:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -199,7 +199,7 @@
          "units": 4,
          "destiny_section_id": "43372943",
          "crm_id": "5049549000068028123",
-         "last_sync": "2026-10-04T21:02:58-07:00"
+         "last_sync": "2026-10-05T03:03:31-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -228,7 +228,7 @@
          "units": 4,
          "destiny_section_id": "44161890",
          "crm_id": "5049549000081532005",
-         "last_sync": "2026-10-04T21:03:34-07:00"
+         "last_sync": "2026-10-05T05:03:46-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -257,7 +257,7 @@
          "units": 4,
          "destiny_section_id": "44268182",
          "crm_id": "5049549000084874001",
-         "last_sync": "2026-10-04T19:02:45-07:00"
+         "last_sync": "2026-10-05T03:03:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -329,7 +329,7 @@
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-10-04T17:03:15-07:00"
+         "last_sync": "2026-10-05T01:03:17-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -366,7 +366,7 @@
          "units": 4,
          "destiny_section_id": "44227732",
          "crm_id": "5049549000083611009",
-         "last_sync": "2026-10-04T21:03:38-07:00"
+         "last_sync": "2026-10-05T05:03:51-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -439,7 +439,7 @@
          "units": 4,
          "destiny_section_id": "44228058",
          "crm_id": "5049549000083626008",
-         "last_sync": "2026-10-04T23:02:56-07:00"
+         "last_sync": "2026-10-05T05:03:57-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -525,7 +525,7 @@
          "units": 4,
          "destiny_section_id": "43476511",
          "crm_id": "5049549000071850012",
-         "last_sync": "2026-10-04T23:03:31-07:00"
+         "last_sync": "2026-10-05T07:03:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -562,7 +562,7 @@
          "units": 4,
          "destiny_section_id": "44226038",
          "crm_id": "5049549000083622006",
-         "last_sync": "2026-10-04T23:02:50-07:00"
+         "last_sync": "2026-10-05T05:03:54-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -752,7 +752,7 @@
          "units": 4,
          "destiny_section_id": "44227379",
          "crm_id": "5049549000083611007",
-         "last_sync": "2026-10-04T19:02:40-07:00"
+         "last_sync": "2026-10-05T03:02:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -809,12 +809,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 10,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 20,
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-04T21:03:01-07:00"
+         "last_sync": "2026-10-05T03:03:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -843,7 +843,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-10-04T17:03:12-07:00"
+         "last_sync": "2026-10-05T01:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -931,7 +931,7 @@
          "units": 4,
          "destiny_section_id": "44306996",
          "crm_id": "5049549000085624005",
-         "last_sync": "2026-10-04T23:03:27-07:00"
+         "last_sync": "2026-10-05T07:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1109,7 +1109,7 @@
          "units": 4,
          "destiny_section_id": "43373213",
          "crm_id": "5049549000068041128",
-         "last_sync": "2026-10-04T21:03:02-07:00"
+         "last_sync": "2026-10-05T03:03:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1138,7 +1138,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-10-04T19:02:39-07:00"
+         "last_sync": "2026-10-05T03:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1167,7 +1167,7 @@
          "units": 4,
          "destiny_section_id": "44270816",
          "crm_id": "5049549000084890004",
-         "last_sync": "2026-10-04T23:03:08-07:00"
+         "last_sync": "2026-10-05T05:04:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1271,12 +1271,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 24,
          "enrolled": 5,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 19,
          "units": 4,
          "destiny_section_id": "43409270",
          "crm_id": "5049549000068749032",
-         "last_sync": "2026-10-04T19:02:54-07:00"
+         "last_sync": "2026-10-05T03:03:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1313,7 +1313,7 @@
          "units": 4,
          "destiny_section_id": "44269318",
          "crm_id": "5049549000084874005",
-         "last_sync": "2026-10-04T19:03:00-07:00"
+         "last_sync": "2026-10-05T03:03:17-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1384,7 +1384,7 @@
          "units": 4,
          "destiny_section_id": "43360032",
          "crm_id": "5049549000067815408",
-         "last_sync": "2026-10-04T17:03:13-07:00"
+         "last_sync": "2026-10-05T01:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1456,7 +1456,7 @@
          "units": 4,
          "destiny_section_id": "43367197",
          "crm_id": "5049549000068040078",
-         "last_sync": "2026-10-04T23:03:08-07:00"
+         "last_sync": "2026-10-05T05:04:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1543,12 +1543,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 28,
          "enrolled": 14,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 14,
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-10-04T21:03:01-07:00"
+         "last_sync": "2026-10-05T03:03:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1577,7 +1577,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-10-04T19:02:16-07:00"
+         "last_sync": "2026-10-05T01:03:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1606,7 +1606,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-10-04T19:02:44-07:00"
+         "last_sync": "2026-10-05T03:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1635,7 +1635,7 @@
          "units": 4,
          "destiny_section_id": "44306432",
          "crm_id": "5049549000085665002",
-         "last_sync": "2026-10-04T23:03:27-07:00"
+         "last_sync": "2026-10-05T07:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1684,12 +1684,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 24,
          "enrolled": 23,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 1,
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-10-04T21:03:31-07:00"
+         "last_sync": "2026-10-05T05:03:42-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1718,7 +1718,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-10-04T19:02:15-07:00"
+         "last_sync": "2026-10-05T01:03:29-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1747,7 +1747,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-10-04T19:02:32-07:00"
+         "last_sync": "2026-10-05T03:02:42-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1776,7 +1776,7 @@
          "units": 4,
          "destiny_section_id": "44306644",
          "crm_id": "5049549000085612001",
-         "last_sync": "2026-10-04T23:03:27-07:00"
+         "last_sync": "2026-10-05T07:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1825,12 +1825,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 10,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 20,
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-04T21:03:01-07:00"
+         "last_sync": "2026-10-05T03:03:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1859,7 +1859,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-10-04T17:03:12-07:00"
+         "last_sync": "2026-10-05T01:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1928,7 +1928,7 @@
          "units": 4,
          "destiny_section_id": "43373213",
          "crm_id": "5049549000068041128",
-         "last_sync": "2026-10-04T21:03:02-07:00"
+         "last_sync": "2026-10-05T03:03:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1957,7 +1957,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-10-04T19:02:39-07:00"
+         "last_sync": "2026-10-05T03:02:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1986,7 +1986,7 @@
          "units": 4,
          "destiny_section_id": "44270816",
          "crm_id": "5049549000084890004",
-         "last_sync": "2026-10-04T23:03:08-07:00"
+         "last_sync": "2026-10-05T05:04:05-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2042,12 +2042,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 15,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 25,
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-10-04T19:02:42-07:00"
+         "last_sync": "2026-10-05T03:02:55-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2076,7 +2076,7 @@
          "units": 4,
          "destiny_section_id": "44169441",
          "crm_id": "5049549000081761006",
-         "last_sync": "2026-10-04T17:03:03-07:00"
+         "last_sync": "2026-10-05T07:03:42-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2105,7 +2105,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-10-04T19:02:47-07:00"
+         "last_sync": "2026-10-05T03:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2134,7 +2134,7 @@
          "units": 4,
          "destiny_section_id": "44328868",
          "crm_id": "5049549000086146003",
-         "last_sync": "2026-10-04T23:03:40-07:00"
+         "last_sync": "2026-10-05T07:03:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2213,7 +2213,7 @@
          "units": 4,
          "destiny_section_id": "43350217",
          "crm_id": "5049549000067789326",
-         "last_sync": "2026-10-04T19:02:32-07:00"
+         "last_sync": "2026-10-05T03:02:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2242,7 +2242,7 @@
          "units": 4,
          "destiny_section_id": "44148492",
          "crm_id": "5049549000081136007",
-         "last_sync": "2026-10-04T19:02:57-07:00"
+         "last_sync": "2026-10-05T03:03:13-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2271,7 +2271,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-10-04T19:02:47-07:00"
+         "last_sync": "2026-10-05T03:03:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2372,12 +2372,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 30,
-         "crm_availability": "Available",
+         "crm_availability": "Enrollment Closed",
          "seats_left": 10,
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-10-04T17:03:09-07:00"
+         "last_sync": "2026-10-05T07:03:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2406,7 +2406,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-10-04T19:02:38-07:00"
+         "last_sync": "2026-10-05T03:02:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2435,7 +2435,7 @@
          "units": 4,
          "destiny_section_id": "44231579",
          "crm_id": "5049549000083578015",
-         "last_sync": "2026-10-04T21:03:23-07:00"
+         "last_sync": "2026-10-05T05:03:34-07:00"
         }
        ],
        "hidden_sections": 0,
