@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T22:38:40+00:00",
+ "generated_at": "2026-10-06T02:59:41+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -2184,6 +2184,15 @@
    "name": "NEUROSCI COMM",
    "destiny_course_id": "44549405",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44549405",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "SOC XSB130SR",
+   "name": "SOC REV",
+   "destiny_course_id": "44651364",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44651364",
    "min_units": 4,
    "max_units": 4,
    "on_site": false

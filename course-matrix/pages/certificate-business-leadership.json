@@ -2,7 +2,7 @@
  "page": "certificate-business-leadership",
  "page_url": "https://professional.ucsb.edu/certificate-business-leadership",
  "page_title": "Business Leadership",
- "generated_at": "2026-10-05T22:38:40+00:00",
+ "generated_at": "2026-10-06T02:59:41+00:00",
  "certificate": {
   "code": "CE0007",
   "name": "Business Leadership",
@@ -83,7 +83,7 @@
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-10-05T13:02:32-07:00"
+         "last_sync": "2026-10-05T19:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -141,7 +141,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-10-05T09:03:32-07:00"
+         "last_sync": "2026-10-05T17:02:43-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -224,7 +224,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-05T11:03:13-07:00"
+         "last_sync": "2026-10-05T19:02:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -300,7 +300,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "enrollment_closed",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -310,7 +310,7 @@
          "code": "025",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "open",
+         "state": "enrollment_closed",
          "start": "2026-09-29",
          "end": "2026-12-08",
          "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -322,7 +322,7 @@
          "units": 4,
          "destiny_section_id": "43373213",
          "crm_id": "5049549000068041128",
-         "last_sync": "2026-10-05T11:03:14-07:00"
+         "last_sync": "2026-10-05T19:02:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -351,7 +351,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-10-05T09:03:39-07:00"
+         "last_sync": "2026-10-05T17:02:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -463,7 +463,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-10-05T11:03:12-07:00"
+         "last_sync": "2026-10-05T17:03:29-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -521,7 +521,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-10-05T09:03:45-07:00"
+         "last_sync": "2026-10-05T17:02:57-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -644,13 +644,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 24,
-         "enrolled": 5,
+         "enrolled": 4,
          "crm_availability": "Enrollment Closed",
-         "seats_left": 19,
+         "seats_left": 20,
          "units": 4,
          "destiny_section_id": "43409270",
          "crm_id": "5049549000068749032",
-         "last_sync": "2026-10-05T11:02:45-07:00"
+         "last_sync": "2026-10-05T15:53:52-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -687,7 +687,7 @@
          "units": 4,
          "destiny_section_id": "44269318",
          "crm_id": "5049549000084874005",
-         "last_sync": "2026-10-05T11:02:54-07:00"
+         "last_sync": "2026-10-05T17:03:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -748,7 +748,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-10-05T09:03:42-07:00"
+         "last_sync": "2026-10-05T17:02:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -806,7 +806,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-10-05T09:03:50-07:00"
+         "last_sync": "2026-10-05T17:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
