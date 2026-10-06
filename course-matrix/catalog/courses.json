@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T17:12:14+00:00",
+ "generated_at": "2026-10-06T21:38:29+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -668,6 +668,15 @@
    "on_site": true
   },
   {
+   "code": "TMP XSB124",
+   "name": "Principles of Marketing",
+   "destiny_course_id": "31231748",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=31231748",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "ED X310E",
    "name": "Development and Needs of Children with Autism",
    "destiny_course_id": "40349090",
@@ -1064,6 +1073,15 @@
    "on_site": false
   },
   {
+   "code": "CMPSC XSB111",
+   "name": "INT COMPUTAT SCI",
+   "destiny_course_id": "16570676",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570676",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "XLRN 833.02",
    "name": "Professional Postgraduate Program",
    "destiny_course_id": "38582970",
@@ -1097,6 +1115,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571372",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "PSTAT XSB8",
+   "name": "TRANS DS PROB STAT",
+   "destiny_course_id": "35186289",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35186289",
+   "min_units": 5,
+   "max_units": 5,
    "on_site": false
   },
   {
@@ -1338,6 +1365,15 @@
    "name": "ACADEMIC WRITING",
    "destiny_course_id": "16577288",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16577288",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "XLRN 802.CR",
+   "name": "Cleanroom Technician",
+   "destiny_course_id": "35433606",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35433606",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1685,6 +1721,15 @@
    "on_site": false
   },
   {
+   "code": "MATH XSB4A",
+   "name": "LIN ALG W/APPS",
+   "destiny_course_id": "25997050",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25997050",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "MATH XSB4B",
    "name": "DIFF EQUATIONS",
    "destiny_course_id": "26328962",
@@ -1700,6 +1745,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=24084046",
    "min_units": null,
    "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB162A",
+   "name": "QUANTUM ELEC MATRLS",
+   "destiny_course_id": "16571147",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571147",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
@@ -1763,6 +1817,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32401840",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "MATRL XSB222A",
+   "name": "COLLOIDS & INTRF I",
+   "destiny_course_id": "16575145",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575145",
+   "min_units": 3,
+   "max_units": 3,
    "on_site": false
   },
   {
@@ -1878,6 +1941,15 @@
    "name": "CHEM SYN BIO MOL",
    "destiny_course_id": "36291255",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36291255",
+   "min_units": 3,
+   "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "MATRL XSB100A",
+   "name": "STRUCT. & PROP. I",
+   "destiny_course_id": "16575109",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575109",
    "min_units": 3,
    "max_units": 3,
    "on_site": false
@@ -2202,6 +2274,15 @@
    "name": "PSYCHOPATHOLOGY",
    "destiny_course_id": "44644996",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44644996",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "TMP XSB191SI",
+   "name": "SOCIAL INNOVATION",
+   "destiny_course_id": "44656524",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44656524",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
