@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-10-06T21:38:29+00:00",
+ "generated_at": "2026-10-07T01:33:36+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -71,7 +71,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "enrollment_closed",
        "label": "Hybrid",
        "modalities": [
         "Hybrid"
@@ -81,19 +81,19 @@
          "code": "019",
          "modality": "Hybrid",
          "instruction_method": "Hybrid",
-         "state": "open",
+         "state": "enrollment_closed",
          "start": "2026-10-06",
          "end": "2026-10-27",
          "enroll_start": null,
          "enroll_end": "2026-10-06T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 26,
+         "enrolled": 27,
          "crm_availability": "Enrollment Closed",
-         "seats_left": 24,
+         "seats_left": 23,
          "units": 2,
          "destiny_section_id": "44333546",
          "crm_id": "5049549000086195061",
-         "last_sync": "2026-10-06T13:00:51-07:00"
+         "last_sync": "2026-10-06T15:32:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -156,13 +156,13 @@
          "enroll_start": null,
          "enroll_end": "2026-10-26T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 17,
+         "enrolled": 18,
          "crm_availability": "Available",
-         "seats_left": 33,
+         "seats_left": 32,
          "units": 2,
          "destiny_section_id": "44333760",
          "crm_id": "5049549000086189048",
-         "last_sync": "2026-10-06T13:00:48-07:00"
+         "last_sync": "2026-10-06T15:32:22-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -386,7 +386,7 @@
          "units": 5,
          "destiny_section_id": "44560537",
          "crm_id": "5049549000092004011",
-         "last_sync": "2026-10-06T11:02:46-07:00"
+         "last_sync": "2026-10-06T17:03:28-07:00"
         }
        ],
        "hidden_sections": 0,
