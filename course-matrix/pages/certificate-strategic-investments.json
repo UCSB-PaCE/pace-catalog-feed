@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-10-07T01:33:36+00:00",
+ "generated_at": "2026-10-07T08:40:48+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -93,7 +93,7 @@
          "units": 2,
          "destiny_section_id": "44333546",
          "crm_id": "5049549000086195061",
-         "last_sync": "2026-10-06T15:32:20-07:00"
+         "last_sync": "2026-10-06T23:03:51-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -156,13 +156,13 @@
          "enroll_start": null,
          "enroll_end": "2026-10-26T16:59:00-07:00",
          "capacity": 50,
-         "enrolled": 18,
+         "enrolled": 19,
          "crm_availability": "Available",
-         "seats_left": 32,
+         "seats_left": 31,
          "units": 2,
          "destiny_section_id": "44333760",
          "crm_id": "5049549000086189048",
-         "last_sync": "2026-10-06T15:32:22-07:00"
+         "last_sync": "2026-10-06T21:50:03-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -226,13 +226,13 @@
          "enroll_start": null,
          "enroll_end": "2026-10-13T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 3,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 22,
+         "seats_left": 21,
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-10-06T13:03:00-07:00"
+         "last_sync": "2026-10-06T20:38:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -350,7 +350,7 @@
          "units": 5,
          "destiny_section_id": "44560600",
          "crm_id": "5049549000090454015",
-         "last_sync": "2026-10-06T13:03:05-07:00"
+         "last_sync": "2026-10-06T21:03:09-07:00"
         },
         {
          "code": "535",
@@ -368,7 +368,7 @@
          "units": 5,
          "destiny_section_id": "44560516",
          "crm_id": "5049549000090486012",
-         "last_sync": "2026-10-06T13:03:29-07:00"
+         "last_sync": "2026-10-06T21:03:41-07:00"
         },
         {
          "code": "536",
@@ -386,7 +386,7 @@
          "units": 5,
          "destiny_section_id": "44560537",
          "crm_id": "5049549000092004011",
-         "last_sync": "2026-10-06T17:03:28-07:00"
+         "last_sync": "2026-10-07T01:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -465,13 +465,13 @@
          "enroll_start": null,
          "enroll_end": "2026-10-13T16:59:00-07:00",
          "capacity": 25,
-         "enrolled": 3,
+         "enrolled": 4,
          "crm_availability": "Available",
-         "seats_left": 22,
+         "seats_left": 21,
          "units": 1,
          "destiny_section_id": "44334053",
          "crm_id": "5049549000086177057",
-         "last_sync": "2026-10-06T13:03:00-07:00"
+         "last_sync": "2026-10-06T20:38:48-07:00"
         }
        ],
        "hidden_sections": 0,
