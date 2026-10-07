@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:30:09+00:00",
+ "generated_at": "2026-10-07T21:59:39+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1271,6 +1271,15 @@
    "on_site": false
   },
   {
+   "code": "CMPSC XSB279",
+   "name": "TOPICS IN SECURITY",
+   "destiny_course_id": "16570732",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570732",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "CMPSC XSB291A",
    "name": "SPEC TOPIC APPS GEN",
    "destiny_course_id": "29172523",
@@ -1410,6 +1419,15 @@
    "name": "Introduction to Infrared Imaging Technology",
    "destiny_course_id": "35433653",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35433653",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ECE XSB122A",
+   "name": "VLSI PRINCIPLES",
+   "destiny_course_id": "26579198",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26579198",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -2555,6 +2573,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575358",
    "min_units": 3,
    "max_units": 3,
+   "on_site": false
+  },
+  {
+   "code": "MUS A XSB34",
+   "name": "WIND ENSEMBLE",
+   "destiny_course_id": "16575944",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575944",
+   "min_units": 1,
+   "max_units": 1,
    "on_site": false
   }
  ]
