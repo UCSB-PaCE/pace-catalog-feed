@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T16:30:00+00:00",
+ "generated_at": "2026-10-08T22:05:15+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1541,6 +1541,15 @@
    "on_site": false
   },
   {
+   "code": "PSTAT XSB100",
+   "name": "DS_CONC&ANLS",
+   "destiny_course_id": "34784684",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=34784684",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
    "code": "PSTAT XSB120B",
    "name": "PROB & STATISTICS",
    "destiny_course_id": "16576481",
@@ -1766,6 +1775,15 @@
    "on_site": false
   },
   {
+   "code": "ECE XSB147A",
+   "name": "CONTROL SYSTEMS",
+   "destiny_course_id": "16571123",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571123",
+   "min_units": 4,
+   "max_units": 5,
+   "on_site": false
+  },
+  {
    "code": "ECE XSB162A",
    "name": "QUANTUM ELEC MATRLS",
    "destiny_course_id": "16571147",
@@ -1941,6 +1959,15 @@
    "name": "INCOME TAXATION",
    "destiny_course_id": "16571437",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16571437",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ENV S XSB60",
+   "name": "APPLIED ECOLOGY",
+   "destiny_course_id": "35071959",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35071959",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
