@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T08:59:47+00:00",
+ "generated_at": "2026-10-08T16:30:00+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -3299,6 +3299,23 @@
      "ip_stream": false,
      "courses": [
       "XLRN 849.04"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE0099",
+   "name": "Q/A Automation",
+   "landing_url": null,
+   "category": null,
+   "streams": [
+    {
+     "name": "Required Course",
+     "required": 1,
+     "elective": false,
+     "ip_stream": false,
+     "courses": [
+      "XLRN 805.01"
      ]
     }
    ]
