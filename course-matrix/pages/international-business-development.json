@@ -2,7 +2,7 @@
  "page": "international-business-development",
  "page_url": "https://professional.ucsb.edu/international-business-development",
  "page_title": "International Business Development",
- "generated_at": "2026-10-07T21:59:39+00:00",
+ "generated_at": "2026-10-08T01:57:05+00:00",
  "certificate": {
   "code": "CE0066",
   "name": "International Business Development",
@@ -72,7 +72,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "enrollment_closed",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -82,7 +82,7 @@
          "code": "032",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "open",
+         "state": "enrollment_closed",
          "start": "2026-10-01",
          "end": "2026-12-10",
          "enroll_start": "2026-04-19T17:00:00-07:00",
@@ -123,7 +123,7 @@
          "units": 4,
          "destiny_section_id": "44148492",
          "crm_id": "5049549000081136007",
-         "last_sync": "2026-10-07T07:03:21-07:00"
+         "last_sync": "2026-10-07T15:02:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -152,7 +152,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-10-07T07:03:05-07:00"
+         "last_sync": "2026-10-07T15:02:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -267,7 +267,7 @@
          "units": 4,
          "destiny_section_id": "44231579",
          "crm_id": "5049549000083578015",
-         "last_sync": "2026-10-07T09:03:03-07:00"
+         "last_sync": "2026-10-07T17:02:35-07:00"
         }
        ],
        "hidden_sections": 0,

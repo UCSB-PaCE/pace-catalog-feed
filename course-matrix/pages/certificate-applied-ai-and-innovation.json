@@ -2,7 +2,7 @@
  "page": "certificate-applied-ai-and-innovation",
  "page_url": "https://professional.ucsb.edu/certificate-applied-ai-and-innovation",
  "page_title": "Applied AI and Innovation, Professional",
- "generated_at": "2026-10-07T21:59:39+00:00",
+ "generated_at": "2026-10-08T01:57:05+00:00",
  "certificate": {
   "code": "CE0072",
   "name": "Applied AI and Innovation",
@@ -250,7 +250,7 @@
          "units": 4,
          "destiny_section_id": "44157172",
          "crm_id": "5049549000081340001",
-         "last_sync": "2026-10-07T07:03:45-07:00"
+         "last_sync": "2026-10-07T15:03:17-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -308,7 +308,7 @@
          "units": 4,
          "destiny_section_id": "44328026",
          "crm_id": "5049549000086195001",
-         "last_sync": "2026-10-07T07:03:36-07:00"
+         "last_sync": "2026-10-07T15:03:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -335,7 +335,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "enrollment_closed",
        "label": "UCSB",
        "modalities": [
         "UCSB"
@@ -345,19 +345,19 @@
          "code": "003",
          "modality": "UCSB",
          "instruction_method": "In Class",
-         "state": "open",
+         "state": "enrollment_closed",
          "start": "2026-10-01",
          "end": "2026-12-10",
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-07T16:59:00-07:00",
          "capacity": 40,
-         "enrolled": 34,
+         "enrolled": 35,
          "crm_availability": "Available",
-         "seats_left": 6,
+         "seats_left": 5,
          "units": 4,
          "destiny_section_id": "43372277",
          "crm_id": "5049549000068045164",
-         "last_sync": "2026-10-07T13:41:39-07:00"
+         "last_sync": "2026-10-07T15:43:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -444,7 +444,7 @@
          "units": 4,
          "destiny_section_id": "44328417",
          "crm_id": "5049549000086151003",
-         "last_sync": "2026-10-07T07:03:24-07:00"
+         "last_sync": "2026-10-07T15:02:55-07:00"
         }
        ],
        "hidden_sections": 0,
