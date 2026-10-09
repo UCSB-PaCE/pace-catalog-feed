@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T22:05:15+00:00",
+ "generated_at": "2026-10-09T02:11:28+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1392,6 +1392,15 @@
    "name": "Supervision Hours for ABA Program 6th Edition",
    "destiny_course_id": "28945939",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=28945939",
+   "min_units": null,
+   "max_units": null,
+   "on_site": true
+  },
+  {
+   "code": "XLRN 822.EMT",
+   "name": "Intensive EMT Refresher Course",
+   "destiny_course_id": "41116860",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41116860",
    "min_units": null,
    "max_units": null,
    "on_site": true
