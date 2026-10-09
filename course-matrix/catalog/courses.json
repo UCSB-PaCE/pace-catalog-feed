@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T16:14:07+00:00",
+ "generated_at": "2026-10-09T20:57:11+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -866,6 +866,15 @@
    "on_site": false
   },
   {
+   "code": "PHYS XSB115C",
+   "name": "QUANTUM MECHANICS",
+   "destiny_course_id": "16576239",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16576239",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
    "code": "CMPSC XSB16",
    "name": "PROBLEM SOLVING I",
    "destiny_course_id": "25318575",
@@ -1124,6 +1133,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35186289",
    "min_units": 5,
    "max_units": 5,
+   "on_site": false
+  },
+  {
+   "code": "ART XSB1C",
+   "name": "INTRO CONTEMP ART",
+   "destiny_course_id": "25950954",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=25950954",
+   "min_units": 2,
+   "max_units": 2,
    "on_site": false
   },
   {
@@ -1518,6 +1536,15 @@
    "name": "FLUID MECHANICS",
    "destiny_course_id": "16575335",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575335",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ENV S XSB1",
+   "name": "INTRO ENVIR STUDIES",
+   "destiny_course_id": "16573116",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16573116",
    "min_units": null,
    "max_units": null,
    "on_site": false
@@ -1979,6 +2006,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=35071959",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "ENV S XSB95",
+   "name": "RESTORATION SKILLS",
+   "destiny_course_id": "26589892",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=26589892",
+   "min_units": 1,
+   "max_units": 1,
    "on_site": false
   },
   {
@@ -2618,6 +2654,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575944",
    "min_units": 1,
    "max_units": 1,
+   "on_site": false
+  },
+  {
+   "code": "ARTHI XSB5B",
+   "name": "INTRO MUSEUM STUDY",
+   "destiny_course_id": "27182102",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27182102",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   }
  ]
