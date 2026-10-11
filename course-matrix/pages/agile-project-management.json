@@ -2,7 +2,7 @@
  "page": "agile-project-management",
  "page_url": "https://professional.ucsb.edu/agile-project-management",
  "page_title": "Agile Project Management",
- "generated_at": "2026-10-11T01:55:06+00:00",
+ "generated_at": "2026-10-11T08:53:20+00:00",
  "certificate": {
   "code": "CE0075",
   "name": "Agile Project Management",
@@ -82,7 +82,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-10-10T11:03:05-07:00"
+         "last_sync": "2026-10-10T19:02:57-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -103,7 +103,7 @@
          "start": "2027-01-04",
          "end": "2027-03-19",
          "enroll_start": null,
-         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 40,
          "enrolled": 12,
          "crm_availability": "Available",
@@ -111,7 +111,7 @@
          "units": 4,
          "destiny_section_id": "44169441",
          "crm_id": "5049549000081761006",
-         "last_sync": "2026-10-10T17:02:38-07:00"
+         "last_sync": "2026-10-11T01:02:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -132,7 +132,7 @@
          "start": "2027-03-29",
          "end": "2027-06-07",
          "enroll_start": null,
-         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "enroll_end": "2027-04-04T23:59:00-07:00",
          "capacity": 40,
          "enrolled": 1,
          "crm_availability": "Available",
@@ -140,7 +140,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-10-10T13:02:44-07:00"
+         "last_sync": "2026-10-10T21:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -161,7 +161,7 @@
          "start": "2027-06-21",
          "end": "2027-09-13",
          "enroll_start": null,
-         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "enroll_end": "2027-06-27T23:59:00-07:00",
          "capacity": 40,
          "enrolled": 0,
          "crm_availability": "Available",
@@ -169,7 +169,7 @@
          "units": 4,
          "destiny_section_id": "44328868",
          "crm_id": "5049549000086146003",
-         "last_sync": "2026-10-10T17:03:13-07:00"
+         "last_sync": "2026-10-11T01:03:22-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -218,7 +218,7 @@
          "start": "2027-01-05",
          "end": "2027-03-16",
          "enroll_start": null,
-         "enroll_end": "2027-01-11T15:59:00-08:00",
+         "enroll_end": "2027-01-11T23:59:00-08:00",
          "capacity": 24,
          "enrolled": 1,
          "crm_availability": "Available",
@@ -226,7 +226,7 @@
          "units": 4,
          "destiny_section_id": "44157893",
          "crm_id": "5049549000081355003",
-         "last_sync": "2026-10-10T11:03:04-07:00"
+         "last_sync": "2026-10-10T19:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -255,7 +255,7 @@
          "start": "2027-06-22",
          "end": "2027-09-07",
          "enroll_start": null,
-         "enroll_end": "2027-06-28T16:59:00-07:00",
+         "enroll_end": "2027-06-28T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 1,
          "crm_availability": "Available",
@@ -263,7 +263,7 @@
          "units": 4,
          "destiny_section_id": "44329106",
          "crm_id": "5049549000086081004",
-         "last_sync": "2026-10-10T11:02:23-07:00"
+         "last_sync": "2026-10-10T19:02:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -313,7 +313,7 @@
          "units": 4,
          "destiny_section_id": "43389103",
          "crm_id": "5049549000068333288",
-         "last_sync": "2026-10-10T17:03:18-07:00"
+         "last_sync": "2026-10-11T01:03:26-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -334,7 +334,7 @@
          "start": "2027-01-07",
          "end": "2027-03-18",
          "enroll_start": null,
-         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 24,
          "enrolled": 12,
          "crm_availability": "Available",
@@ -342,7 +342,7 @@
          "units": 4,
          "destiny_section_id": "44163020",
          "crm_id": "5049549000081589003",
-         "last_sync": "2026-10-10T09:03:28-07:00"
+         "last_sync": "2026-10-10T19:02:11-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -363,7 +363,7 @@
          "start": "2027-04-01",
          "end": "2027-06-10",
          "enroll_start": null,
-         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 7,
          "crm_availability": "Available",
@@ -371,7 +371,7 @@
          "units": 4,
          "destiny_section_id": "44271321",
          "crm_id": "5049549000084891009",
-         "last_sync": "2026-10-10T13:02:42-07:00"
+         "last_sync": "2026-10-10T21:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -447,7 +447,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-10-10T13:03:06-07:00"
+         "last_sync": "2026-10-10T21:03:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -468,7 +468,7 @@
          "start": "2027-01-04",
          "end": "2027-03-15",
          "enroll_start": null,
-         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
          "enrolled": 1,
          "crm_availability": "Available",
@@ -476,7 +476,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-10-10T11:03:03-07:00"
+         "last_sync": "2026-10-10T19:02:54-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -497,7 +497,7 @@
          "start": "2027-03-29",
          "end": "2027-06-07",
          "enroll_start": null,
-         "enroll_end": "2027-04-04T16:59:00-07:00",
+         "enroll_end": "2027-04-04T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 6,
          "crm_availability": "Available",
@@ -505,7 +505,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-10-10T13:02:39-07:00"
+         "last_sync": "2026-10-10T21:03:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -526,7 +526,7 @@
          "start": "2027-06-21",
          "end": "2027-08-30",
          "enroll_start": null,
-         "enroll_end": "2027-06-27T16:59:00-07:00",
+         "enroll_end": "2027-06-27T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
          "crm_availability": "Available",
@@ -534,7 +534,7 @@
          "units": 4,
          "destiny_section_id": "44306432",
          "crm_id": "5049549000085665002",
-         "last_sync": "2026-10-10T17:02:55-07:00"
+         "last_sync": "2026-10-11T01:03:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -588,7 +588,7 @@
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-10-10T15:02:18-07:00"
+         "last_sync": "2026-10-10T23:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -609,7 +609,7 @@
          "start": "2027-01-04",
          "end": "2027-03-15",
          "enroll_start": null,
-         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
          "enrolled": 2,
          "crm_availability": "Available",
@@ -617,7 +617,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-10-10T13:02:56-07:00"
+         "last_sync": "2026-10-10T21:03:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -638,7 +638,7 @@
          "start": "2027-03-31",
          "end": "2027-06-09",
          "enroll_start": null,
-         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "enroll_end": "2027-04-06T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 2,
          "crm_availability": "Available",
@@ -646,7 +646,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-10-10T13:02:27-07:00"
+         "last_sync": "2026-10-10T21:02:58-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -667,7 +667,7 @@
          "start": "2027-06-23",
          "end": "2027-09-08",
          "enroll_start": null,
-         "enroll_end": "2027-06-29T16:59:00-07:00",
+         "enroll_end": "2027-06-29T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 0,
          "crm_availability": "Available",
@@ -675,7 +675,7 @@
          "units": 4,
          "destiny_section_id": "44306644",
          "crm_id": "5049549000085612001",
-         "last_sync": "2026-10-10T17:02:53-07:00"
+         "last_sync": "2026-10-11T01:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -729,7 +729,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-10T17:03:19-07:00"
+         "last_sync": "2026-10-11T01:03:27-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -750,7 +750,7 @@
          "start": "2027-01-06",
          "end": "2027-03-17",
          "enroll_start": null,
-         "enroll_end": "2027-01-12T15:59:00-08:00",
+         "enroll_end": "2027-01-12T23:59:00-08:00",
          "capacity": 30,
          "enrolled": 4,
          "crm_availability": "Available",
@@ -827,7 +827,7 @@
          "units": 4,
          "destiny_section_id": "43372943",
          "crm_id": "5049549000068028123",
-         "last_sync": "2026-10-10T15:02:38-07:00"
+         "last_sync": "2026-10-10T23:03:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -848,7 +848,7 @@
          "start": "2027-01-04",
          "end": "2027-03-19",
          "enroll_start": null,
-         "enroll_end": "2027-01-10T15:59:00-08:00",
+         "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
          "enrolled": 13,
          "crm_availability": "Available",
@@ -856,7 +856,7 @@
          "units": 4,
          "destiny_section_id": "44161890",
          "crm_id": "5049549000081532005",
-         "last_sync": "2026-10-10T15:03:06-07:00"
+         "last_sync": "2026-10-10T23:03:40-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -877,7 +877,7 @@
          "start": "2027-03-31",
          "end": "2027-06-09",
          "enroll_start": null,
-         "enroll_end": "2027-04-06T16:59:00-07:00",
+         "enroll_end": "2027-04-06T23:59:00-07:00",
          "capacity": 28,
          "enrolled": 2,
          "crm_availability": "Available",
@@ -885,7 +885,7 @@
          "units": 4,
          "destiny_section_id": "44268182",
          "crm_id": "5049549000084874001",
-         "last_sync": "2026-10-10T13:02:40-07:00"
+         "last_sync": "2026-10-10T21:03:11-07:00"
         }
        ],
        "hidden_sections": 0,

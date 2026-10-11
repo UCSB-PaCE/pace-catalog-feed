@@ -2,11 +2,11 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-10-11T01:55:06+00:00",
+ "generated_at": "2026-10-11T08:53:20+00:00",
  "certificate": {
   "code": "CE0037",
   "name": "Assistant Behavior Analyst",
-  "synced": "2026-10-09T07:02:50-07:00",
+  "synced": "2026-10-10T19:02:22-07:00",
   "all": [
    "CE0037"
   ]
@@ -105,7 +105,7 @@
          "start": "2027-06-23",
          "end": "2027-09-10",
          "enroll_start": null,
-         "enroll_end": "2027-06-30T16:59:00-07:00",
+         "enroll_end": "2027-06-30T23:59:00-07:00",
          "capacity": 40,
          "enrolled": 0,
          "crm_availability": "Available",
@@ -113,7 +113,7 @@
          "units": 5,
          "destiny_section_id": "44164675",
          "crm_id": "5049549000081581004",
-         "last_sync": "2026-10-10T15:02:35-07:00"
+         "last_sync": "2026-10-10T23:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -159,7 +159,7 @@
          "start": "2027-01-06",
          "end": "2027-03-12",
          "enroll_start": null,
-         "enroll_end": "2027-01-13T15:59:00-08:00",
+         "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
          "enrolled": 4,
          "crm_availability": "Available",
@@ -167,7 +167,7 @@
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-10-10T13:03:00-07:00"
+         "last_sync": "2026-10-10T21:03:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -237,7 +237,7 @@
          "start": "2027-03-31",
          "end": "2027-06-04",
          "enroll_start": null,
-         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 40,
          "enrolled": 0,
          "crm_availability": "Available",
@@ -245,7 +245,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-10-10T11:03:01-07:00"
+         "last_sync": "2026-10-10T19:02:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -299,7 +299,7 @@
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-10-10T15:02:53-07:00"
+         "last_sync": "2026-10-10T23:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -376,7 +376,7 @@
          "start": "2027-03-31",
          "end": "2027-06-04",
          "enroll_start": null,
-         "enroll_end": "2027-04-07T16:59:00-07:00",
+         "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 40,
          "enrolled": 0,
          "crm_availability": "Available",
@@ -384,7 +384,7 @@
          "units": 5,
          "destiny_section_id": "43579625",
          "crm_id": "5049549000073932016",
-         "last_sync": "2026-10-10T13:02:23-07:00"
+         "last_sync": "2026-10-10T21:02:54-07:00"
         }
        ],
        "hidden_sections": 0,
