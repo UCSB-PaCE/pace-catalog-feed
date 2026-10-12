@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T20:17:18+00:00",
+ "generated_at": "2026-10-12T21:17:21+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1536,6 +1536,24 @@
    "name": "FLUID MECHANICS",
    "destiny_course_id": "16575335",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575335",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "EEMB XSB40",
+   "name": "ECOL OF DISEASE",
+   "destiny_course_id": "23236150",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=23236150",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
+  },
+  {
+   "code": "ENGR XSB101",
+   "name": "ETHICS IN ENGR",
+   "destiny_course_id": "16572956",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16572956",
    "min_units": null,
    "max_units": null,
    "on_site": false

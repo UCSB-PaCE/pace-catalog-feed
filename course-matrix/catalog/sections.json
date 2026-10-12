@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T20:17:18+00:00",
+ "generated_at": "2026-10-12T21:17:21+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -8660,6 +8660,27 @@
    "course_destiny_id": "16576239"
   },
   {
+   "code": "040",
+   "modality": "TBD",
+   "instruction_method": null,
+   "state": "open",
+   "start": "2026-09-24",
+   "end": "2026-12-11",
+   "enroll_start": null,
+   "enroll_end": null,
+   "capacity": 100,
+   "enrolled": 1,
+   "crm_availability": "No Longer Available",
+   "seats_left": 99,
+   "units": 3,
+   "destiny_section_id": "44575443",
+   "crm_id": "5049549000093032229",
+   "last_sync": "2026-10-12T14:02:09-07:00",
+   "course_number": "ENGR XSB101",
+   "term": "Fall 2026",
+   "course_destiny_id": "16572956"
+  },
+  {
    "code": "034",
    "modality": "TBD",
    "instruction_method": null,
@@ -8679,6 +8700,27 @@
    "course_number": "PHYS XSB21",
    "term": "Fall 2026",
    "course_destiny_id": "16576214"
+  },
+  {
+   "code": "025",
+   "modality": "TBD",
+   "instruction_method": null,
+   "state": "open",
+   "start": "2026-09-24",
+   "end": "2026-12-11",
+   "enroll_start": null,
+   "enroll_end": null,
+   "capacity": 100,
+   "enrolled": 1,
+   "crm_availability": "No Longer Available",
+   "seats_left": 99,
+   "units": 4,
+   "destiny_section_id": "44569191",
+   "crm_id": "5049549000093034206",
+   "last_sync": "2026-10-12T13:46:35-07:00",
+   "course_number": "EEMB XSB40",
+   "term": "Fall 2026",
+   "course_destiny_id": "23236150"
   },
   {
    "code": "031",
