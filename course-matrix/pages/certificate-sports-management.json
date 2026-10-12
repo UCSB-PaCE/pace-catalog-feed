@@ -2,11 +2,11 @@
  "page": "certificate-sports-management",
  "page_url": "https://professional.ucsb.edu/certificate-sports-management",
  "page_title": "Sports Management",
- "generated_at": "2026-10-12T13:17:25+00:00",
+ "generated_at": "2026-10-12T14:17:24+00:00",
  "certificate": {
   "code": "CE0090",
   "name": "Sports Management",
-  "synced": "2026-10-10T19:02:44-07:00",
+  "synced": "2026-10-12T07:03:41-07:00",
   "all": [
    "CE0090"
   ]
@@ -206,7 +206,7 @@
          "units": 4,
          "destiny_section_id": "43385660",
          "crm_id": "5049549000068367016",
-         "last_sync": "2026-10-11T23:03:27-07:00"
+         "last_sync": "2026-10-12T07:03:27-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -307,7 +307,7 @@
          "units": 4,
          "destiny_section_id": "44161586",
          "crm_id": "5049549000081512004",
-         "last_sync": "2026-10-11T23:03:36-07:00"
+         "last_sync": "2026-10-12T07:03:37-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -458,7 +458,7 @@
          "units": 4,
          "destiny_section_id": "43370537",
          "crm_id": "5049549000068037149",
-         "last_sync": "2026-10-11T23:03:31-07:00"
+         "last_sync": "2026-10-12T07:03:32-07:00"
         }
        ],
        "hidden_sections": 0,
