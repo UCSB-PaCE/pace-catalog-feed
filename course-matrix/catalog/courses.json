@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T19:17:22+00:00",
+ "generated_at": "2026-10-12T20:17:18+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -2654,6 +2654,24 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575944",
    "min_units": 1,
    "max_units": 1,
+   "on_site": false
+  },
+  {
+   "code": "WRIT XSB107B",
+   "name": "BUS ADMIN WRIT",
+   "destiny_course_id": "23004358",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=23004358",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "WRIT XSB109F",
+   "name": "WRIT ABOUT FILM",
+   "destiny_course_id": "16577296",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16577296",
+   "min_units": 4,
+   "max_units": 4,
    "on_site": false
   },
   {
