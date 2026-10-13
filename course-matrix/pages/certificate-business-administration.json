@@ -2,7 +2,7 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-10-13T09:17:19+00:00",
+ "generated_at": "2026-10-13T10:17:19+00:00",
  "certificate": {
   "code": "CE0055",
   "name": "Business Administration and Management",
@@ -324,12 +324,12 @@
          "enroll_end": "2026-09-30T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 9,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 31,
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-10-12T19:02:55-07:00"
+         "last_sync": "2026-10-13T03:03:25-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -809,12 +809,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 9,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 21,
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-12T19:02:20-07:00"
+         "last_sync": "2026-10-13T03:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -843,7 +843,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-10-12T19:02:22-07:00"
+         "last_sync": "2026-10-13T03:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1577,7 +1577,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-10-12T19:03:06-07:00"
+         "last_sync": "2026-10-13T03:03:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1825,12 +1825,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 9,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 21,
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-12T19:02:20-07:00"
+         "last_sync": "2026-10-13T03:02:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1859,7 +1859,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-10-12T19:02:22-07:00"
+         "last_sync": "2026-10-13T03:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2042,12 +2042,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 14,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 26,
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-10-12T19:03:09-07:00"
+         "last_sync": "2026-10-13T03:03:41-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2134,7 +2134,7 @@
          "units": 4,
          "destiny_section_id": "44328868",
          "crm_id": "5049549000086146003",
-         "last_sync": "2026-10-12T17:03:29-07:00"
+         "last_sync": "2026-10-13T03:02:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2372,12 +2372,12 @@
          "enroll_end": "2026-10-04T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 31,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 9,
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-10-12T19:03:07-07:00"
+         "last_sync": "2026-10-13T03:03:38-07:00"
         }
        ],
        "hidden_sections": 0,
