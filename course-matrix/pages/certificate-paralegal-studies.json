@@ -2,7 +2,7 @@
  "page": "certificate-paralegal-studies",
  "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
  "page_title": "Paralegal Studies",
- "generated_at": "2026-10-13T11:17:21+00:00",
+ "generated_at": "2026-10-13T12:17:16+00:00",
  "certificate": {
   "code": "LA00",
   "name": "Paralegal Studies",
@@ -679,12 +679,12 @@
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 40,
          "enrolled": 6,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 34,
          "units": 1,
          "destiny_section_id": "43390113",
          "crm_id": "5049549000068390197",
-         "last_sync": "2026-10-12T21:03:25-07:00"
+         "last_sync": "2026-10-13T05:03:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1059,7 +1059,7 @@
          "units": 3,
          "destiny_section_id": "44480689",
          "crm_id": "5049549000089339025",
-         "last_sync": "2026-10-12T21:03:20-07:00"
+         "last_sync": "2026-10-13T05:03:46-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1813,12 +1813,12 @@
          "enroll_end": "2026-09-27T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 22,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 8,
          "units": 3,
          "destiny_section_id": "43435377",
          "crm_id": "5049549000069522012",
-         "last_sync": "2026-10-12T21:03:34-07:00"
+         "last_sync": "2026-10-13T05:03:57-07:00"
         }
        ],
        "hidden_sections": 0,
