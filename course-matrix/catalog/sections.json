@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T06:17:22+00:00",
+ "generated_at": "2026-10-13T07:17:19+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -725,7 +725,7 @@
    "code": "003",
    "modality": "UCSB",
    "instruction_method": "In Class",
-   "state": "open",
+   "state": "enrollment_closed",
    "start": "2026-10-13",
    "end": "2026-12-01",
    "enroll_start": "2026-04-19T17:00:00-07:00",
