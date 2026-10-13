@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T21:17:15+00:00",
+ "generated_at": "2026-10-13T22:17:19+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -978,6 +978,15 @@
    "name": "INTRO TO PHYSIOL",
    "destiny_course_id": "16575207",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16575207",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "EARTH XSB7",
+   "name": "DINOSAURS",
+   "destiny_course_id": "22951378",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=22951378",
    "min_units": 4,
    "max_units": 4,
    "on_site": false
