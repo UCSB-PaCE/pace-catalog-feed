@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T18:17:24+00:00",
+ "generated_at": "2026-10-13T19:17:22+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -5876,13 +5876,13 @@
    "enroll_start": null,
    "enroll_end": null,
    "capacity": 100,
-   "enrolled": 1,
+   "enrolled": 0,
    "crm_availability": "No Longer Available",
-   "seats_left": 99,
+   "seats_left": 100,
    "units": 4,
    "destiny_section_id": "44606857",
    "crm_id": "5049549000091620035",
-   "last_sync": "2026-10-13T05:03:48-07:00",
+   "last_sync": "2026-10-13T11:23:50-07:00",
    "course_number": "MATH XSB6B",
    "term": "Fall 2026",
    "course_destiny_id": "24084046"
@@ -8847,6 +8847,27 @@
    "course_number": "WRIT XSB107B",
    "term": "Fall 2026",
    "course_destiny_id": "23004358"
+  },
+  {
+   "code": "054",
+   "modality": "TBD",
+   "instruction_method": null,
+   "state": "open",
+   "start": "2026-09-24",
+   "end": "2026-12-11",
+   "enroll_start": null,
+   "enroll_end": null,
+   "capacity": 100,
+   "enrolled": 1,
+   "crm_availability": "No Longer Available",
+   "seats_left": 99,
+   "units": 4,
+   "destiny_section_id": "44606878",
+   "crm_id": "5049549000093265008",
+   "last_sync": "2026-10-13T11:23:47-07:00",
+   "course_number": "MATH XSB6B",
+   "term": "Fall 2026",
+   "course_destiny_id": "24084046"
   }
  ]
 }
