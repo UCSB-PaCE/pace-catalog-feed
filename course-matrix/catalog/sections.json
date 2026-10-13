@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T14:17:18+00:00",
+ "generated_at": "2026-10-13T15:17:21+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1067,13 +1067,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-13T23:59:00-08:00",
    "capacity": 50,
-   "enrolled": 12,
+   "enrolled": 13,
    "crm_availability": "Available",
-   "seats_left": 38,
+   "seats_left": 37,
    "units": 5,
    "destiny_section_id": "43566990",
    "crm_id": "5049549000073522023",
-   "last_sync": "2026-10-13T07:03:05-07:00",
+   "last_sync": "2026-10-13T07:45:46-07:00",
    "course_number": "ED X309A.5",
    "term": "Winter 2027",
    "course_destiny_id": "32267252"
