@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T19:17:18+00:00",
+ "generated_at": "2026-10-14T20:17:19+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -2717,6 +2717,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=27182102",
    "min_units": 4,
    "max_units": 4,
+   "on_site": false
+  },
+  {
+   "code": "CHIN XSB1",
+   "name": "ELEM MODRN CHINESE",
+   "destiny_course_id": "16570348",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=16570348",
+   "min_units": 5,
+   "max_units": 5,
    "on_site": false
   }
  ]
