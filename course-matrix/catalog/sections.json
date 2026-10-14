@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T20:17:19+00:00",
+ "generated_at": "2026-10-14T21:17:19+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -8450,6 +8450,27 @@
    "course_destiny_id": "26579198"
   },
   {
+   "code": "002",
+   "modality": "Hybrid",
+   "instruction_method": "Hybrid",
+   "state": "open",
+   "start": "2027-03-29",
+   "end": "2027-05-30",
+   "enroll_start": null,
+   "enroll_end": "2027-05-16T23:59:00-07:00",
+   "capacity": 40,
+   "enrolled": 0,
+   "crm_availability": "Available",
+   "seats_left": 40,
+   "units": null,
+   "destiny_section_id": "44845078",
+   "crm_id": "5049549000092651099",
+   "last_sync": "2026-10-14T14:03:08-07:00",
+   "course_number": "XLRN 822.EMT",
+   "term": "Spring 2027",
+   "course_destiny_id": "41116860"
+  },
+  {
    "code": "011",
    "modality": "TBD",
    "instruction_method": null,
@@ -8816,13 +8837,13 @@
    "enroll_start": null,
    "enroll_end": null,
    "capacity": 100,
-   "enrolled": 2,
+   "enrolled": 3,
    "crm_availability": "No Longer Available",
-   "seats_left": 98,
+   "seats_left": 97,
    "units": 4,
    "destiny_section_id": "44608908",
    "crm_id": "5049549000093043228",
-   "last_sync": "2026-10-14T09:03:28-07:00",
+   "last_sync": "2026-10-14T14:09:34-07:00",
    "course_number": "MATH XSB119A",
    "term": "Fall 2026",
    "course_destiny_id": "16575038"
