@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T21:17:20+00:00",
+ "generated_at": "2026-10-15T22:17:18+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -1194,7 +1194,7 @@
    "name": "Child Life Supervision Internship",
    "destiny_course_id": "36950020",
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=36950020",
-   "min_units": 4,
+   "min_units": 2,
    "max_units": 4,
    "on_site": true
   },
