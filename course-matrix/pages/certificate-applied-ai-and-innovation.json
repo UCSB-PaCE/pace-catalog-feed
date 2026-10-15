@@ -2,7 +2,7 @@
  "page": "certificate-applied-ai-and-innovation",
  "page_url": "https://professional.ucsb.edu/certificate-applied-ai-and-innovation",
  "page_title": "Applied AI and Innovation, Professional",
- "generated_at": "2026-10-15T17:17:20+00:00",
+ "generated_at": "2026-10-15T18:17:20+00:00",
  "certificate": {
   "code": "CE0072",
   "name": "Applied AI and Innovation",
@@ -108,13 +108,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-11T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 11,
+         "enrolled": 12,
          "crm_availability": "Available",
-         "seats_left": 29,
+         "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44156917",
          "crm_id": "5049549000081335001",
-         "last_sync": "2026-10-15T03:03:26-07:00"
+         "last_sync": "2026-10-15T10:41:17-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -221,7 +221,7 @@
          "units": 4,
          "destiny_section_id": "43371809",
          "crm_id": "5049549000068029268",
-         "last_sync": "2026-10-15T03:03:24-07:00"
+         "last_sync": "2026-10-15T11:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -244,13 +244,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-12T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 14,
+         "enrolled": 15,
          "crm_availability": "Available",
-         "seats_left": 26,
+         "seats_left": 25,
          "units": 4,
          "destiny_section_id": "44157172",
          "crm_id": "5049549000081340001",
-         "last_sync": "2026-10-15T09:03:20-07:00"
+         "last_sync": "2026-10-15T10:41:20-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -380,13 +380,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 11,
+         "enrolled": 12,
          "crm_availability": "Available",
-         "seats_left": 29,
+         "seats_left": 28,
          "units": 4,
          "destiny_section_id": "44178537",
          "crm_id": "5049549000082214002",
-         "last_sync": "2026-10-15T05:03:19-07:00"
+         "last_sync": "2026-10-15T10:41:22-07:00"
         }
        ],
        "hidden_sections": 0,
