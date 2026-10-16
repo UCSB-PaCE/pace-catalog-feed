@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-10-16T13:17:21+00:00",
+ "generated_at": "2026-10-16T14:17:24+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -149,7 +149,7 @@
          "units": 5,
          "destiny_section_id": "44163745",
          "crm_id": "5049549000081567006",
-         "last_sync": "2026-10-15T23:03:06-07:00"
+         "last_sync": "2026-10-16T07:03:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -317,7 +317,7 @@
          "units": 5,
          "destiny_section_id": "43577415",
          "crm_id": "5049549000073838010",
-         "last_sync": "2026-10-15T23:03:32-07:00"
+         "last_sync": "2026-10-16T07:03:35-07:00"
         },
         {
          "code": "016",
@@ -335,7 +335,7 @@
          "units": 5,
          "destiny_section_id": "43576599",
          "crm_id": "5049549000073839008",
-         "last_sync": "2026-10-15T23:03:00-07:00"
+         "last_sync": "2026-10-16T07:03:10-07:00"
         },
         {
          "code": "017",
@@ -407,7 +407,7 @@
          "units": 1,
          "destiny_section_id": "42715100",
          "crm_id": "5049549000066782225",
-         "last_sync": "2026-10-15T21:03:50-07:00"
+         "last_sync": "2026-10-16T07:02:56-07:00"
         },
         {
          "code": "023",
@@ -1078,7 +1078,7 @@
          "units": 0,
          "destiny_section_id": "42715455",
          "crm_id": "5049549000057329109",
-         "last_sync": "2026-10-15T21:03:46-07:00"
+         "last_sync": "2026-10-16T07:02:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1107,7 +1107,7 @@
          "units": 0,
          "destiny_section_id": "43568333",
          "crm_id": "5049549000073531015",
-         "last_sync": "2026-10-15T21:03:58-07:00"
+         "last_sync": "2026-10-16T07:03:07-07:00"
         }
        ],
        "hidden_sections": 0,
