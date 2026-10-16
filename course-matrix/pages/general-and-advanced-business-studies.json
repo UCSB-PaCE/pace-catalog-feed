@@ -2,7 +2,7 @@
  "page": "general-and-advanced-business-studies",
  "page_url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
  "page_title": "General and Advanced Business Studies",
- "generated_at": "2026-10-16T16:17:23+00:00",
+ "generated_at": "2026-10-16T17:17:19+00:00",
  "certificate": {
   "code": "CE0076",
   "name": "General Business Studies",
@@ -526,13 +526,13 @@
          "enroll_start": "2026-04-19T17:00:00-07:00",
          "enroll_end": "2026-10-06T23:59:00-07:00",
          "capacity": 28,
-         "enrolled": 23,
+         "enrolled": 22,
          "crm_availability": "No Longer Available",
-         "seats_left": 5,
+         "seats_left": 6,
          "units": 4,
          "destiny_section_id": "43371488",
          "crm_id": "5049549000068040093",
-         "last_sync": "2026-10-16T01:03:36-07:00"
+         "last_sync": "2026-10-16T09:17:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -660,15 +660,15 @@
          "start": "2026-09-29",
          "end": "2026-12-08",
          "enroll_start": "2026-04-19T17:00:00-07:00",
-         "enroll_end": "2026-10-05T16:59:00-07:00",
+         "enroll_end": "2026-10-05T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 40,
+         "enrolled": 39,
          "crm_availability": "No Longer Available",
-         "seats_left": 0,
+         "seats_left": 1,
          "units": 4,
          "destiny_section_id": "43371809",
          "crm_id": "5049549000068029268",
-         "last_sync": "2026-10-16T05:03:32-07:00"
+         "last_sync": "2026-10-16T09:17:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -796,15 +796,15 @@
          "start": "2026-10-01",
          "end": "2026-12-10",
          "enroll_start": "2026-04-19T17:00:00-07:00",
-         "enroll_end": "2026-10-07T16:59:00-07:00",
+         "enroll_end": "2026-10-07T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 35,
+         "enrolled": 34,
          "crm_availability": "No Longer Available",
-         "seats_left": 5,
+         "seats_left": 6,
          "units": 4,
          "destiny_section_id": "43372277",
          "crm_id": "5049549000068045164",
-         "last_sync": "2026-10-16T03:02:48-07:00"
+         "last_sync": "2026-10-16T09:17:35-07:00"
         }
        ],
        "hidden_sections": 0,
