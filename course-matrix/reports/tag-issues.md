@@ -2,7 +2,7 @@
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
-Total issues: 59
+Total issues: 54
 
 ## Business Leadership  <https://professional.ucsb.edu/certificate-business-leadership>
 
@@ -59,9 +59,8 @@ Certificate: CE0030 Strategic Investments
 Certificate: CE0029 Applied Behavior Analysis
 
 - [Required Courses] MISSING TAG: ED X312.1.5 is in stream "Applied Behavior Analysis 6th Edition" but not tagged `BCBA#main` (added to the block)
-- [Required Courses] EXTRA TAG: ED X309C.5 is tagged `BCBA#main` but not in stream "Applied Behavior Analysis 6th Edition" (removed from the block)
-- [Required Courses] EXTRA TAG: ED X310A.5 is tagged `BCBA#main` but not in stream "Applied Behavior Analysis 6th Edition" (removed from the block)
 - [Required Courses] EXTRA TAG: ED X365.5B is tagged `BCBA#main` but not in stream "Applied Behavior Analysis 6th Edition" (removed from the block)
+- [Required Courses] SIBLING STREAM: ED X310A.5 is tagged `BCBA#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
 - [Optional] NO MATCHING STREAM for this block (tagged: ED X312.1.5, XLRN 809A, XLRN 809B); streams: Applied Behavior Analysis 6th Edition [ED X301D.5, ED X309A.5, ED X309B.5, ED X309D.5, ED X312.1.5, ED X365.5, ED X391.5]; Required (choose 1) [ED X309C.5, ED X310A.5]
 - [page] STREAM WITHOUT A BLOCK: "Required (choose 1)" (ED X309C.5, ED X310A.5)
 
@@ -70,14 +69,15 @@ Certificate: CE0029 Applied Behavior Analysis
 Certificate: CE0037 Assistant Behavior Analyst
 
 - [Required Courses] EXTRA TAG: ED X317B is tagged `BCaBA#main` but not in stream "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST" (removed from the block)
+- [Required Courses] SIBLING STREAM: ED X320OBM is tagged `BCaBA#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
 - [page] STREAM WITHOUT A BLOCK: "Additional Required Course" (ED X320OBM, ED X320S)
 
 ## Qualified Autism Service Practitioner-Supervisor - QASP-S  <https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor>
 
 Certificate: CE0057 International Qualified Autism Specialist
 
-- [Required PaCE Courses (Total of 225 Hours)] EXTRA TAG: ED X319Q is tagged `QASPS#main` but not in stream "Required Courses" (removed from the block)
-- [Required PaCE Courses (Total of 225 Hours)] EXTRA TAG: ED X320S is tagged `QASPS#main` but not in stream "Required Courses" (removed from the block)
+- [Required PaCE Courses (Total of 225 Hours)] SIBLING STREAM: ED X319Q is tagged `QASPS#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
+- [Required PaCE Courses (Total of 225 Hours)] SIBLING STREAM: ED X320OBM is tagged `QASPS#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
 - [page] STREAM WITHOUT A BLOCK: "Additional Required Course" (ED X319, ED X319Q)
 - [page] STREAM WITHOUT A BLOCK: "Additional Required Course 2" (ED X320OBM, ED X320S)
 
@@ -138,7 +138,7 @@ Certificate: CE0073 Leadership
 
 Certificate: CE0066 International Business Development
 
-- [Required Courses] EXTRA TAG: BUSAD X428 is tagged `internationalBusinessDevelopment#main` but not in stream "Required Courses (3 Courses)" (removed from the block)
+- [Required Courses] SIBLING STREAM: BUSAD X428 is tagged `internationalBusinessDevelopment#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
 - [page] STREAM WITHOUT A BLOCK: "Required Course (Choose 1)" (BUSAD X411.1, BUSAD X428)
 
 ## General and Advanced Business Studies  <https://professional.ucsb.edu/general-and-advanced-business-studies>

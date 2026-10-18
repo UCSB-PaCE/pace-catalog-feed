@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-10-18T00:17:17+00:00",
+ "generated_at": "2026-10-18T01:17:19+00:00",
  "certificate": {
   "code": "CE0037",
   "name": "Assistant Behavior Analyst",
@@ -48,6 +48,12 @@
     {
      "kind": "extra_tag",
      "course": "ED X317B",
+     "token": "BCaBA#main",
+     "stream": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST"
+    },
+    {
+     "kind": "sibling_stream",
+     "course": "ED X320OBM",
      "token": "BCaBA#main",
      "stream": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST"
     }
@@ -403,28 +409,74 @@
      "tag_issue": null
     },
     {
-     "title": "ED X320BM - Introduction to Organizational Behavior Management",
-     "units": "5",
-     "url": "#",
-     "manual": true,
+     "code": "ED X320OBM",
+     "title": "ED X320OBM - Intro to Organization Behavior Management",
+     "crm_name": "Intro to Organizational Behavior Management",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44708617",
+     "destiny_course_id": "44708617",
+     "crm_id": "5049549000090640121",
+     "tokens": [
+      "BCaBA#main",
+      "QASPS#main"
+     ],
      "terms": {
       "Fall": {
+       "state": "not_scheduled",
        "label": "N/A",
-       "state": "manual"
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 1,
+       "term": "Fall 2026"
       },
       "Winter": {
-       "label": "Online",
-       "state": "manual"
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T23:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 5,
+         "destiny_section_id": "44722367",
+         "crm_id": "5049549000090709177",
+         "last_sync": "2026-10-17T13:03:07-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
       },
       "Spring": {
+       "state": "not_scheduled",
        "label": "N/A",
-       "state": "manual"
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
       },
       "Summer": {
+       "state": "not_scheduled",
        "label": "N/A",
-       "state": "manual"
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
       }
-     }
+     },
+     "manual": false,
+     "tag_issue": null
     }
    ]
   }

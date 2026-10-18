@@ -2,7 +2,7 @@
  "page": "international-business-development",
  "page_url": "https://professional.ucsb.edu/international-business-development",
  "page_title": "International Business Development",
- "generated_at": "2026-10-18T00:17:17+00:00",
+ "generated_at": "2026-10-18T01:17:19+00:00",
  "certificate": {
   "code": "CE0066",
   "name": "International Business Development",
@@ -46,7 +46,7 @@
    },
    "issues": [
     {
-     "kind": "extra_tag",
+     "kind": "sibling_stream",
      "course": "BUSAD X428",
      "token": "internationalBusinessDevelopment#main",
      "stream": "Required Courses (3 Courses)"
@@ -153,6 +153,119 @@
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
          "last_sync": "2026-10-17T17:03:09-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "BUSAD X428",
+     "title": "BUSAD X428 - Entrepreneurial Strategies and Planning",
+     "crm_name": "Entrepreneurial Strategies and Planning",
+     "units": 4,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42160025",
+     "destiny_course_id": "42160025",
+     "crm_id": "5049549000066798866",
+     "tokens": [
+      "General-Advanced-Business#marketing",
+      "internationalBusinessDevelopment#main",
+      "entrepreneurship#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "UCSB",
+       "modalities": [
+        "UCSB"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "UCSB",
+         "instruction_method": "In Class",
+         "state": "enrollment_closed",
+         "start": "2026-10-01",
+         "end": "2026-12-10",
+         "enroll_start": "2026-04-19T17:00:00-07:00",
+         "enroll_end": "2026-10-07T16:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 10,
+         "crm_availability": "No Longer Available",
+         "seats_left": 14,
+         "units": 4,
+         "destiny_section_id": "43357192",
+         "crm_id": "5049549000067873292",
+         "last_sync": "2026-10-17T17:02:42-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "004",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-01-07",
+         "end": "2027-03-18",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T23:59:00-08:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44148791",
+         "crm_id": "5049549000081103004",
+         "last_sync": "2026-10-17T11:03:09-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "005",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-04-01",
+         "end": "2027-06-10",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T23:59:00-07:00",
+         "capacity": 24,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 24,
+         "units": 4,
+         "destiny_section_id": "44226723",
+         "crm_id": "5049549000083562005",
+         "last_sync": "2026-10-17T11:02:45-07:00"
         }
        ],
        "hidden_sections": 0,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T00:17:17+00:00",
+ "generated_at": "2026-10-18T01:17:19+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -72,9 +72,9 @@
    "url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
    "title": "Board Certified Behavior Analyst - BCBA",
    "blocks": 2,
-   "courses": 10,
+   "courses": 11,
    "certificate": "CE0029",
-   "tag_issues": 6
+   "tag_issues": 4
   },
   {
    "page": "certificate-board-certified-assistant-behavior-analyst",
@@ -90,9 +90,9 @@
    "url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
    "title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
    "blocks": 1,
-   "courses": 4,
+   "courses": 6,
    "certificate": "CE0057",
-   "tag_issues": 4
+   "tag_issues": 2
   },
   {
    "page": "certificate-qualified-behavior-analyst",
@@ -162,9 +162,9 @@
    "url": "https://professional.ucsb.edu/international-business-development",
    "title": "International Business Development",
    "blocks": 1,
-   "courses": 2,
+   "courses": 3,
    "certificate": "CE0066",
-   "tag_issues": 2
+   "tag_issues": 1
   },
   {
    "page": "general-and-advanced-business-studies",

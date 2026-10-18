@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-10-18T00:17:17+00:00",
+ "generated_at": "2026-10-18T01:17:19+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -53,19 +53,13 @@
     },
     {
      "kind": "extra_tag",
-     "course": "ED X309C.5",
-     "token": "BCBA#main",
-     "stream": "Applied Behavior Analysis 6th Edition"
-    },
-    {
-     "kind": "extra_tag",
-     "course": "ED X310A.5",
-     "token": "BCBA#main",
-     "stream": "Applied Behavior Analysis 6th Edition"
-    },
-    {
-     "kind": "extra_tag",
      "course": "ED X365.5B",
+     "token": "BCBA#main",
+     "stream": "Applied Behavior Analysis 6th Edition"
+    },
+    {
+     "kind": "sibling_stream",
+     "course": "ED X310A.5",
      "token": "BCBA#main",
      "stream": "Applied Behavior Analysis 6th Edition"
     }
@@ -533,6 +527,75 @@
          "last_sync": "2026-10-17T13:02:35-07:00"
         }
        ],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
+     "code": "ED X310A.5",
+     "title": "ED X310A.5 - Organizational Behavior Management in Applied Settings",
+     "crm_name": "Organizational Behavior Management in Applied Settings",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=42197013",
+     "destiny_course_id": "42197013",
+     "crm_id": "5049549000066782170",
+     "tokens": [
+      "BCBA#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "003",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-03-31",
+         "end": "2027-06-04",
+         "enroll_start": null,
+         "enroll_end": "2027-04-07T23:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 4,
+         "crm_availability": "Available",
+         "seats_left": 36,
+         "units": 5,
+         "destiny_section_id": "43579121",
+         "crm_id": "5049549000073873018",
+         "last_sync": "2026-10-17T09:03:16-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
        "hidden_sections": 0,
        "term": "Summer 2027"
       }

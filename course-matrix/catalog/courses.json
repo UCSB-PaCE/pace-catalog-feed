@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T00:17:17+00:00",
+ "generated_at": "2026-10-18T01:17:19+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -2465,7 +2465,7 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=44708617",
    "min_units": 5,
    "max_units": 5,
-   "on_site": false
+   "on_site": true
   },
   {
    "code": "ECE XSB189A",

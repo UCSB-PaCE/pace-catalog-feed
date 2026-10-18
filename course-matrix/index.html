@@ -101,6 +101,7 @@
   function issueText(i){
     switch(i.kind){
       case 'missing_tag': return i.course+' is in the CRM stream but not tagged '+(i.token||'')+' (added to this block; add the tag in Drupal / the sheet)';
+      case 'sibling_stream': return i.course+' is tagged '+(i.token||'')+' and is in another stream of the same certificate that has no block of its own (kept on this block)';
       case 'extra_tag': return i.course+' is tagged '+(i.token||'')+' but is NOT in the CRM stream "'+(i.stream||'')+'" (removed from this block; drop the tag or fix the stream in Destiny/CRM)';
       case 'no_stream': return 'No CRM stream matches this block\'s tagged courses ('+(i.tagged||'')+'); membership left as tagged. Streams on this certificate: '+(i.streams||'none');
       case 'no_certificate': return 'No CRM certificate maps to this page (by landing URL or name); membership left as tagged';
