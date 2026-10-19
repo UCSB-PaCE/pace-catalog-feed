@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T16:17:19+00:00",
+ "generated_at": "2026-10-19T17:17:22+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -2228,7 +2228,7 @@
    "units": 4,
    "destiny_section_id": "44151809",
    "crm_id": "5049549000081204006",
-   "last_sync": "2026-10-19T05:04:08-07:00",
+   "last_sync": "2026-10-19T09:29:28-07:00",
    "course_number": "MGMNT X411.3",
    "term": "Winter 2027",
    "course_destiny_id": "42692359"
@@ -4391,7 +4391,7 @@
    "units": 4,
    "destiny_section_id": "44324835",
    "crm_id": "5049549000085938018",
-   "last_sync": "2026-10-19T03:03:08-07:00",
+   "last_sync": "2026-10-19T09:46:18-07:00",
    "course_number": "MGMNT X440",
    "term": "Summer 2027",
    "course_destiny_id": "41907568"
@@ -4517,7 +4517,7 @@
    "units": 4,
    "destiny_section_id": "44328026",
    "crm_id": "5049549000086195001",
-   "last_sync": "2026-10-19T07:03:40-07:00",
+   "last_sync": "2026-10-19T10:16:59-07:00",
    "course_number": "MGMNT X441",
    "term": "Summer 2027",
    "course_destiny_id": "41908559"
