@@ -2,7 +2,7 @@
  "page": "certificate-sports-management",
  "page_url": "https://professional.ucsb.edu/certificate-sports-management",
  "page_title": "Sports Management",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0090",
   "name": "Sports Management",
@@ -29,6 +29,7 @@
   {
    "key": "prereq",
    "token": "sportsManagement#prereq",
+   "token_status": "confirmed",
    "title": "Prerequisite (Required)",
    "stream": {
     "id": "5049549000089805002",
@@ -77,7 +78,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-10-18T21:03:05-07:00"
+         "last_sync": "2026-10-19T05:04:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -106,7 +107,7 @@
          "units": 4,
          "destiny_section_id": "44151473",
          "crm_id": "5049549000081123013",
-         "last_sync": "2026-10-18T21:03:16-07:00"
+         "last_sync": "2026-10-19T05:04:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -158,6 +159,7 @@
   {
    "key": "core1",
    "token": "sportsManagement#core1",
+   "token_status": "confirmed",
    "title": "Core Requirements (Complete 2 Courses)",
    "stream": {
     "id": "5049549000089776004",
@@ -243,7 +245,7 @@
          "units": 4,
          "destiny_section_id": "44260989",
          "crm_id": "5049549000084694007",
-         "last_sync": "2026-10-18T19:03:07-07:00"
+         "last_sync": "2026-10-19T05:03:44-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -338,6 +340,7 @@
   {
    "key": "core2",
    "token": "sportsManagement#core2",
+   "token_status": "confirmed",
    "title": "Core Elective (Select One)",
    "stream": {
     "id": "5049549000089781005",
@@ -394,7 +397,7 @@
          "units": 4,
          "destiny_section_id": "44151809",
          "crm_id": "5049549000081204006",
-         "last_sync": "2026-10-18T21:03:18-07:00"
+         "last_sync": "2026-10-19T05:04:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -569,6 +572,7 @@
   {
    "key": "final",
    "token": "sportsManagement#final",
+   "token_status": "confirmed",
    "title": "Final Practicum (Select One)",
    "stream": {
     "id": "5049549000089782006",
@@ -623,7 +627,7 @@
          "units": 4,
          "destiny_section_id": "44152111",
          "crm_id": "5049549000081202005",
-         "last_sync": "2026-10-18T21:03:18-07:00"
+         "last_sync": "2026-10-19T05:04:08-07:00"
         }
        ],
        "hidden_sections": 0,

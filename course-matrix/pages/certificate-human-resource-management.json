@@ -2,7 +2,7 @@
  "page": "certificate-human-resource-management",
  "page_url": "https://professional.ucsb.edu/certificate-human-resource-management",
  "page_title": "Human Resource Management",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0036",
   "name": "Human Resource Management Essentials",
@@ -29,6 +29,7 @@
   {
    "key": "main",
    "token": "humanResourceManagement#main",
+   "token_status": "confirmed",
    "title": "Certificate Required: Complete 3 courses (12 units)",
    "stream": {
     "id": "5049549000066797392",
@@ -93,7 +94,7 @@
          "units": 4,
          "destiny_section_id": "44227379",
          "crm_id": "5049549000083611007",
-         "last_sync": "2026-10-18T21:03:19-07:00"
+         "last_sync": "2026-10-19T05:04:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -287,6 +288,7 @@
   {
    "key": "sub",
    "token": "humanResourceManagement#sub",
+   "token_status": "confirmed",
    "title": "Certificate Required: Complete 1 Course (4 units)",
    "stream": {
     "id": "5049549000066773548",

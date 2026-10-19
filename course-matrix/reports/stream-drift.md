@@ -2,7 +2,7 @@
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
-Total issues: 54
+Total issues: 56
 
 ## Business Leadership  <https://professional.ucsb.edu/certificate-business-leadership>
 
@@ -68,8 +68,10 @@ Certificate: CE0029 Applied Behavior Analysis
 
 Certificate: CE0037 Assistant Behavior Analyst
 
+- [Required Courses] MISSING TAG: ED X318 is in stream "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST" but not tagged `BCaBA#main` (added to the block)
 - [Required Courses] EXTRA TAG: ED X317B is tagged `BCaBA#main` but not in stream "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST" (removed from the block)
 - [Required Courses] SIBLING STREAM: ED X320OBM is tagged `BCaBA#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
+- [Optional] NO MATCHING STREAM for this block (tagged: ED X318); streams: BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST [ED X315, ED X316, ED X317, ED X318, ED X319]; Additional Required Course [ED X320OBM, ED X320S]
 - [page] STREAM WITHOUT A BLOCK: "Additional Required Course" (ED X320OBM, ED X320S)
 
 ## Qualified Autism Service Practitioner-Supervisor - QASP-S  <https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor>
@@ -86,6 +88,7 @@ Certificate: CE0057 International Qualified Autism Specialist
 Certificate: none mapped
 
 - [Required Courses] NO CRM CERTIFICATE maps to this page (membership left as tagged)
+- [Optional] NO CRM CERTIFICATE maps to this page (membership left as tagged)
 
 ## Paralegal Studies  <https://professional.ucsb.edu/certificate-paralegal-studies>
 

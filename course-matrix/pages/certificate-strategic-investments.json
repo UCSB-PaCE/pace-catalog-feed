@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -29,6 +29,7 @@
   {
    "key": "main",
    "token": "strategicInvestments#main",
+   "token_status": "confirmed",
    "title": "Required Core Courses: (2 Courses)",
    "stream": {
     "id": "5049549000066796301",
@@ -347,7 +348,7 @@
          "units": 5,
          "destiny_section_id": "44560516",
          "crm_id": "5049549000090486012",
-         "last_sync": "2026-10-18T19:03:08-07:00"
+         "last_sync": "2026-10-19T05:03:45-07:00"
         },
         {
          "code": "536",
@@ -422,6 +423,7 @@
   {
    "key": "sub1",
    "token": "strategicInvestments#sub1",
+   "token_status": "confirmed",
    "title": "Required Ethics Course",
    "stream": null,
    "issues": [
@@ -486,6 +488,7 @@
   {
    "key": "sub2",
    "token": "strategicInvestments#sub2",
+   "token_status": "confirmed",
    "title": "Additional Required Course: Prerequisites: Econ X499.1 and X499.2",
    "stream": null,
    "issues": [
@@ -550,6 +553,7 @@
   {
    "key": "sub3",
    "token": "strategicInvestments#sub3",
+   "token_status": "confirmed",
    "title": "Elective Courses (Minimum of 3 units Required) Prerequisite: ECON X499.4",
    "stream": {
     "id": "5049549000066789266",

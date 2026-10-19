@@ -2,7 +2,7 @@
  "page": "certificate-paralegal-studies",
  "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
  "page_title": "Paralegal Studies",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "LA00",
   "name": "Paralegal Studies",
@@ -29,6 +29,7 @@
   {
    "key": "main",
    "token": "Paralegal#main",
+   "token_status": "confirmed",
    "title": "Required Courses (21 Units)",
    "stream": {
     "id": "5049549000069832229",
@@ -684,7 +685,7 @@
          "units": 1,
          "destiny_section_id": "43390113",
          "crm_id": "5049549000068390197",
-         "last_sync": "2026-10-18T21:03:19-07:00"
+         "last_sync": "2026-10-19T05:04:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -786,6 +787,7 @@
   {
    "key": "sub",
    "token": "Paralegal#sub",
+   "token_status": "confirmed",
    "title": "Electives (15 Units)*",
    "stream": {
     "id": "5049549000069717395",
@@ -1054,12 +1056,12 @@
          "enroll_end": "2026-10-05T16:59:00-07:00",
          "capacity": 30,
          "enrolled": 0,
-         "crm_availability": "Enrollment Closed",
+         "crm_availability": "No Longer Available",
          "seats_left": 30,
          "units": 3,
          "destiny_section_id": "44480689",
          "crm_id": "5049549000089339025",
-         "last_sync": "2026-10-18T21:03:22-07:00"
+         "last_sync": "2026-10-19T05:04:12-07:00"
         }
        ],
        "hidden_sections": 0,

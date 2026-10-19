@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0037",
   "name": "Assistant Behavior Analyst",
@@ -36,6 +36,7 @@
   {
    "key": "main",
    "token": "BCaBA#main",
+   "token_status": "confirmed",
    "title": "Required Courses",
    "stream": {
     "id": "5049549000066765618",
@@ -45,6 +46,12 @@
     "cert": "CE0037"
    },
    "issues": [
+    {
+     "kind": "missing_tag",
+     "course": "ED X318",
+     "token": "BCaBA#main",
+     "stream": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST"
+    },
     {
      "kind": "extra_tag",
      "course": "ED X317B",
@@ -251,7 +258,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-10-18T19:02:58-07:00"
+         "last_sync": "2026-10-19T05:03:31-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -278,8 +285,9 @@
      "destiny_course_id": "33449554",
      "crm_id": "5049549000066801412",
      "tokens": [
-      "BCaBA#main",
-      "QASPS#main"
+      "QASPS#main",
+      "BCaBA#optional",
+      "BCaBA#main"
      ],
      "terms": {
       "Fall": {
@@ -337,7 +345,7 @@
       }
      },
      "manual": false,
-     "tag_issue": null
+     "tag_issue": "missing_tag"
     },
     {
      "code": "ED X319",
@@ -390,7 +398,7 @@
          "units": 5,
          "destiny_section_id": "43579625",
          "crm_id": "5049549000073932016",
-         "last_sync": "2026-10-18T21:03:11-07:00"
+         "last_sync": "2026-10-19T05:04:04-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -455,6 +463,93 @@
          "last_sync": "2026-10-19T01:03:21-07:00"
         }
        ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    }
+   ]
+  },
+  {
+   "key": "sub",
+   "token": "BCaBA#optional",
+   "token_status": "confirmed",
+   "title": "Optional",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_stream",
+     "tagged": "ED X318",
+     "streams": "BCaBA BOARD CERTIFIED ASSISTANT BEHAVIOR ANALYST [ED X315, ED X316, ED X317, ED X318, ED X319]; Additional Required Course [ED X320OBM, ED X320S]"
+    }
+   ],
+   "courses": [
+    {
+     "code": "ED X318",
+     "title": "ED X318 - Behavior-Change Procedures",
+     "crm_name": "Behavior-Change Procedures",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=33449554",
+     "destiny_course_id": "33449554",
+     "crm_id": "5049549000066801412",
+     "tokens": [
+      "QASPS#main",
+      "BCaBA#optional",
+      "BCaBA#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "enrollment_closed",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "010",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "enrollment_closed",
+         "start": "2026-09-23",
+         "end": "2026-12-04",
+         "enroll_start": null,
+         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 12,
+         "crm_availability": "No Longer Available",
+         "seats_left": 28,
+         "units": 5,
+         "destiny_section_id": "44000031",
+         "crm_id": "5049549000079374005",
+         "last_sync": "2026-10-19T03:03:06-07:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
        "hidden_sections": 0,
        "term": "Winter 2027"
       },

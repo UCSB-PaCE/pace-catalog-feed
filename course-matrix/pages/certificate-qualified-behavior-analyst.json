@@ -2,7 +2,7 @@
  "page": "certificate-qualified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
  "page_title": "Qualified Behavior Analyst - QBA",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": null,
  "issues": [],
  "window": {
@@ -22,6 +22,7 @@
   {
    "key": "main",
    "token": "QBA#main",
+   "token_status": "confirmed",
    "title": "Required Courses",
    "stream": null,
    "issues": [
@@ -108,7 +109,7 @@
          "units": 5,
          "destiny_section_id": "44163745",
          "crm_id": "5049549000081567006",
-         "last_sync": "2026-10-18T19:03:02-07:00"
+         "last_sync": "2026-10-19T05:03:37-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -180,7 +181,7 @@
          "units": 5,
          "destiny_section_id": "43567159",
          "crm_id": "5049549000073530017",
-         "last_sync": "2026-10-18T21:03:22-07:00"
+         "last_sync": "2026-10-19T05:04:11-07:00"
         },
         {
          "code": "018",
@@ -276,7 +277,7 @@
          "units": 5,
          "destiny_section_id": "43577415",
          "crm_id": "5049549000073838010",
-         "last_sync": "2026-10-18T21:03:03-07:00"
+         "last_sync": "2026-10-19T05:03:57-07:00"
         },
         {
          "code": "016",
@@ -294,7 +295,7 @@
          "units": 5,
          "destiny_section_id": "43576599",
          "crm_id": "5049549000073839008",
-         "last_sync": "2026-10-18T19:02:59-07:00"
+         "last_sync": "2026-10-19T05:03:32-07:00"
         },
         {
          "code": "017",
@@ -312,7 +313,7 @@
          "units": 5,
          "destiny_section_id": "43576750",
          "crm_id": "5049549000073840018",
-         "last_sync": "2026-10-18T21:03:25-07:00"
+         "last_sync": "2026-10-19T05:04:14-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -381,7 +382,7 @@
          "units": 5,
          "destiny_section_id": "43577572",
          "crm_id": "5049549000073873016",
-         "last_sync": "2026-10-18T21:03:09-07:00"
+         "last_sync": "2026-10-19T05:04:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -850,7 +851,21 @@
      },
      "manual": false,
      "tag_issue": null
-    },
+    }
+   ]
+  },
+  {
+   "key": "sub",
+   "token": "QBA#sub",
+   "token_status": "confirmed",
+   "title": "Optional",
+   "stream": null,
+   "issues": [
+    {
+     "kind": "no_certificate"
+    }
+   ],
+   "courses": [
     {
      "code": "XLRN 809A",
      "title": "XLRN 809A - Supervision",
@@ -860,8 +875,8 @@
      "destiny_course_id": "28945939",
      "crm_id": "5049549000069590236",
      "tokens": [
-      "QBA#main",
-      "BCBA#sub"
+      "BCBA#sub",
+      "QBA#sub"
      ],
      "terms": {
       "Fall": {
@@ -993,8 +1008,8 @@
      "destiny_course_id": "34919015",
      "crm_id": "5049549000068217006",
      "tokens": [
-      "QBA#main",
-      "BCBA#sub"
+      "BCBA#sub",
+      "QBA#sub"
      ],
      "terms": {
       "Fall": {
@@ -1049,7 +1064,7 @@
          "units": 0,
          "destiny_section_id": "43568333",
          "crm_id": "5049549000073531015",
-         "last_sync": "2026-10-18T19:02:57-07:00"
+         "last_sync": "2026-10-19T05:03:29-07:00"
         }
        ],
        "hidden_sections": 0,

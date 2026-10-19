@@ -2,7 +2,7 @@
  "page": "behavior-supports-systems",
  "page_url": "https://professional.ucsb.edu/behavior-supports-systems",
  "page_title": "Behavior Supports and Systems",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0065",
   "name": "Naturalistic Developmental Behavioral Interventions",
@@ -29,6 +29,7 @@
   {
    "key": "main",
    "token": "BSS#main",
+   "token_status": "confirmed",
    "title": "Individual Behavior Supports and Systems Courses",
    "stream": null,
    "issues": [
@@ -182,6 +183,7 @@
   {
    "key": "sub",
    "token": "BSS#sub",
+   "token_status": "confirmed",
    "title": "Naturalistic Developmental Behavioral Intervention (NDBI)",
    "stream": {
     "id": "5049549000066789931",
@@ -235,7 +237,7 @@
          "units": 3,
          "destiny_section_id": "43567649",
          "crm_id": "5049549000073626027",
-         "last_sync": "2026-10-18T19:02:57-07:00"
+         "last_sync": "2026-10-19T05:03:30-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -381,7 +383,7 @@
          "units": 3,
          "destiny_section_id": "43579302",
          "crm_id": "5049549000073917015",
-         "last_sync": "2026-10-18T21:03:10-07:00"
+         "last_sync": "2026-10-19T05:04:03-07:00"
         }
        ],
        "hidden_sections": 0,

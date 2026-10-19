@@ -74,7 +74,7 @@
     document.getElementById('meta').innerHTML = 'Live page: <a href="'+pg.page_url+'" target="_blank" rel="noopener">'+pg.page_url+'</a> · JSON: <a href="pages/'+slug+'.json">pages/'+slug+'.json</a>';
     const cols = pg.columns, host = document.getElementById('blocks'); host.innerHTML='';
     const cert = pg.certificate; const pIssues = pg.issues || [];
-    const isNote = i => i.kind==='split_stream'||i.kind==='pool_page';
+    const isNote = i => i.kind==='split_stream'||i.kind==='pool_page'||i.kind==='provisional_filter';
     const nBlockIssues = pg.blocks.reduce((n,b)=>n+((b.issues||[]).filter(i=>i.kind!=='ok'&&!isNote(i)).length),0);
     let head = '<p class="certline">Source of truth: ' + (cert ? 'CRM certificate <b>'+esc(cert.code)+' '+esc(cert.name)+'</b> (streams synced '+esc((cert.synced||'').slice(0,10))+')' : '<b>no CRM certificate mapped</b>, block membership comes from the Drupal tags only') + '.'
       + (nBlockIssues + pReal.length ? ' <span class="chip-red">' + (nBlockIssues + pReal.length) + ' tag issue' + ((nBlockIssues + pReal.length)===1?'':'s') + '</span>' : ' <span class="chip-ok">tags match CRM streams</span>') + '</p>';
@@ -103,6 +103,7 @@
       case 'missing_tag': return i.course+' is in the CRM stream but not tagged '+(i.token||'')+' (added to this block; add the tag in Drupal / the sheet)';
       case 'sibling_stream': return i.course+' is tagged '+(i.token||'')+' and is in another stream of the same certificate that has no block of its own (kept on this block)';
       case 'extra_tag': return i.course+' is tagged '+(i.token||'')+' but is NOT in the CRM stream "'+(i.stream||'')+'" (removed from this block; drop the tag or fix the stream in Destiny/CRM)';
+      case 'provisional_filter': return 'The View filter token '+(i.token||'')+' for '+(i.view||'')+' '+(i.display||'')+' was inferred, not read from the Views UI; confirm it before the CSV cutover';
       case 'no_stream': return 'No CRM stream matches this block\'s tagged courses ('+(i.tagged||'')+'); membership left as tagged. Streams on this certificate: '+(i.streams||'none');
       case 'no_certificate': return 'No CRM certificate maps to this page (by landing URL or name); membership left as tagged';
       case 'unmatched_stream': return 'CRM stream "'+(i.stream||'')+'" ('+(i.courses||'')+') has no block on this page';

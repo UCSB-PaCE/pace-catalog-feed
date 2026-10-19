@@ -2,7 +2,7 @@
  "page": "general-and-advanced-business-studies",
  "page_url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
  "page_title": "General and Advanced Business Studies",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0076",
   "name": "General Business Studies",
@@ -47,6 +47,7 @@
   {
    "key": "marketing",
    "token": "General-Advanced-Business#marketing",
+   "token_status": "confirmed",
    "title": "Marketing, Communications, & Business Development",
    "stream": null,
    "issues": [],
@@ -92,7 +93,7 @@
          "units": 4,
          "destiny_section_id": "43350217",
          "crm_id": "5049549000067789326",
-         "last_sync": "2026-10-18T21:03:08-07:00"
+         "last_sync": "2026-10-19T05:04:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -150,7 +151,7 @@
          "units": 4,
          "destiny_section_id": "44226302",
          "crm_id": "5049549000083636005",
-         "last_sync": "2026-10-18T19:03:04-07:00"
+         "last_sync": "2026-10-19T05:03:40-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -209,7 +210,7 @@
          "units": 4,
          "destiny_section_id": "43356717",
          "crm_id": "5049549000067780443",
-         "last_sync": "2026-10-18T21:03:04-07:00"
+         "last_sync": "2026-10-19T05:03:59-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -238,7 +239,7 @@
          "units": 4,
          "destiny_section_id": "44148728",
          "crm_id": "5049549000081136009",
-         "last_sync": "2026-10-18T21:02:56-07:00"
+         "last_sync": "2026-10-19T05:03:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -267,7 +268,7 @@
          "units": 4,
          "destiny_section_id": "44226537",
          "crm_id": "5049549000083608005",
-         "last_sync": "2026-10-18T19:03:02-07:00"
+         "last_sync": "2026-10-19T05:03:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -591,7 +592,7 @@
          "units": 4,
          "destiny_section_id": "44264263",
          "crm_id": "5049549000084763006",
-         "last_sync": "2026-10-18T21:03:20-07:00"
+         "last_sync": "2026-10-19T05:04:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1324,7 +1325,7 @@
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-10-18T21:03:19-07:00"
+         "last_sync": "2026-10-19T05:04:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1413,7 +1414,7 @@
          "units": 4,
          "destiny_section_id": "43409270",
          "crm_id": "5049549000068749032",
-         "last_sync": "2026-10-18T21:02:53-07:00"
+         "last_sync": "2026-10-19T05:03:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1473,6 +1474,7 @@
   {
    "key": "leadership",
    "token": "General-Advanced-Business#leadership",
+   "token_status": "confirmed",
    "title": "Leadership, Human Resources, & Organizational Management",
    "stream": null,
    "issues": [],
@@ -1644,7 +1646,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-10-18T19:03:00-07:00"
+         "last_sync": "2026-10-19T05:03:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1907,7 +1909,7 @@
          "units": 4,
          "destiny_section_id": "44227379",
          "crm_id": "5049549000083611007",
-         "last_sync": "2026-10-18T21:03:19-07:00"
+         "last_sync": "2026-10-19T05:04:10-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2101,6 +2103,7 @@
   {
    "key": "finance",
    "token": "General-Advanced-Business#finance",
+   "token_status": "confirmed",
    "title": "Finance, Accounting, & Economics",
    "stream": null,
    "issues": [],
@@ -2308,7 +2311,7 @@
          "units": 4,
          "destiny_section_id": "43477427",
          "crm_id": "5049549000071850017",
-         "last_sync": "2026-10-18T19:02:54-07:00"
+         "last_sync": "2026-10-19T05:03:24-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2526,7 +2529,7 @@
          "units": 4,
          "destiny_section_id": "44186919",
          "crm_id": "5049549000082453004",
-         "last_sync": "2026-10-18T19:03:01-07:00"
+         "last_sync": "2026-10-19T05:03:36-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2950,7 +2953,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-10-18T19:02:57-07:00"
+         "last_sync": "2026-10-19T05:03:29-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -2979,7 +2982,7 @@
          "units": 4,
          "destiny_section_id": "44158236",
          "crm_id": "5049549000081345003",
-         "last_sync": "2026-10-18T21:03:18-07:00"
+         "last_sync": "2026-10-19T05:04:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -3031,6 +3034,7 @@
   {
    "key": "project",
    "token": "General-Advanced-Business#project",
+   "token_status": "confirmed",
    "title": "Project Management",
    "stream": null,
    "issues": [],
@@ -3078,7 +3082,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-10-18T19:03:00-07:00"
+         "last_sync": "2026-10-19T05:03:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -3222,7 +3226,7 @@
          "units": 4,
          "destiny_section_id": "44157893",
          "crm_id": "5049549000081355003",
-         "last_sync": "2026-10-18T19:03:01-07:00"
+         "last_sync": "2026-10-19T05:03:35-07:00"
         }
        ],
        "hidden_sections": 0,

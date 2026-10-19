@@ -2,7 +2,7 @@
  "page": "sports-management-studies",
  "page_url": "https://professional.ucsb.edu/sports-management-studies",
  "page_title": "Sports Management Studies",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0088",
   "name": "Sports Management Studies: Essentials",
@@ -43,6 +43,7 @@
   {
    "key": "main",
    "token": "core1#main",
+   "token_status": "confirmed",
    "title": "Core Course (Required)",
    "stream": {
     "id": "5049549000070544207",
@@ -99,7 +100,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-10-18T21:03:05-07:00"
+         "last_sync": "2026-10-19T05:04:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -128,7 +129,7 @@
          "units": 4,
          "destiny_section_id": "44151473",
          "crm_id": "5049549000081123013",
-         "last_sync": "2026-10-18T21:03:16-07:00"
+         "last_sync": "2026-10-19T05:04:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -180,6 +181,7 @@
   {
    "key": "gov",
    "token": "core1#gov",
+   "token_status": "confirmed",
    "title": "Governance and Financial Principles (Choose One)",
    "stream": {
     "id": "5049549000070527545",
@@ -273,7 +275,7 @@
          "units": 4,
          "destiny_section_id": "44260989",
          "crm_id": "5049549000084694007",
-         "last_sync": "2026-10-18T19:03:07-07:00"
+         "last_sync": "2026-10-19T05:03:44-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -368,6 +370,7 @@
   {
    "key": "applied",
    "token": "core1#applied",
+   "token_status": "confirmed",
    "title": "Applied Sport Operations and Systems (Choose One)",
    "stream": {
     "id": "5049549000070528670",
@@ -432,7 +435,7 @@
          "units": 4,
          "destiny_section_id": "44151809",
          "crm_id": "5049549000081204006",
-         "last_sync": "2026-10-18T21:03:18-07:00"
+         "last_sync": "2026-10-19T05:04:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -607,6 +610,7 @@
   {
    "key": "main",
    "token": "core2#main",
+   "token_status": "confirmed",
    "title": "Core Course (Required)",
    "stream": {
     "id": "5049549000070544207",
@@ -656,7 +660,7 @@
          "units": 4,
          "destiny_section_id": "43368913",
          "crm_id": "5049549000068038103",
-         "last_sync": "2026-10-18T21:03:05-07:00"
+         "last_sync": "2026-10-19T05:04:00-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -685,7 +689,7 @@
          "units": 4,
          "destiny_section_id": "44151473",
          "crm_id": "5049549000081123013",
-         "last_sync": "2026-10-18T21:03:16-07:00"
+         "last_sync": "2026-10-19T05:04:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -737,6 +741,7 @@
   {
    "key": "gov",
    "token": "core2#gov",
+   "token_status": "confirmed",
    "title": "Governance and Financial Principles",
    "stream": {
     "id": "5049549000070527545",
@@ -823,7 +828,7 @@
          "units": 4,
          "destiny_section_id": "44260989",
          "crm_id": "5049549000084694007",
-         "last_sync": "2026-10-18T19:03:07-07:00"
+         "last_sync": "2026-10-19T05:03:44-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -918,6 +923,7 @@
   {
    "key": "applied",
    "token": "core2#applied",
+   "token_status": "confirmed",
    "title": "Applied Sport Operations and Systems",
    "stream": {
     "id": "5049549000070528670",
@@ -975,7 +981,7 @@
          "units": 4,
          "destiny_section_id": "44151809",
          "crm_id": "5049549000081204006",
-         "last_sync": "2026-10-18T21:03:18-07:00"
+         "last_sync": "2026-10-19T05:04:08-07:00"
         }
        ],
        "hidden_sections": 0,

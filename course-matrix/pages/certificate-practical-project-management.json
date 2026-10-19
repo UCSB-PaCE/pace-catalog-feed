@@ -2,7 +2,7 @@
  "page": "certificate-practical-project-management",
  "page_url": "https://professional.ucsb.edu/certificate-practical-project-management",
  "page_title": "Project Management",
- "generated_at": "2026-10-19T11:17:19+00:00",
+ "generated_at": "2026-10-19T12:17:20+00:00",
  "certificate": {
   "code": "CE0035",
   "name": "Project Management",
@@ -29,6 +29,7 @@
   {
    "key": "main",
    "token": "projectManagementCertificate#main",
+   "token_status": "confirmed",
    "title": "Required Courses (16 units)",
    "stream": {
     "id": "5049549000066797387",
@@ -223,7 +224,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-10-18T19:03:00-07:00"
+         "last_sync": "2026-10-19T05:03:33-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -367,7 +368,7 @@
          "units": 4,
          "destiny_section_id": "44157893",
          "crm_id": "5049549000081355003",
-         "last_sync": "2026-10-18T19:03:01-07:00"
+         "last_sync": "2026-10-19T05:03:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -489,6 +490,7 @@
   {
    "key": "sub",
    "token": "projectManagementCertificate#sub",
+   "token_status": "confirmed",
    "title": "Required Electives (Choose One - 4 units)",
    "stream": {
     "id": "5049549000066777451",
