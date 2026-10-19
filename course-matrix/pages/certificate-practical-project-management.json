@@ -2,7 +2,7 @@
  "page": "certificate-practical-project-management",
  "page_url": "https://professional.ucsb.edu/certificate-practical-project-management",
  "page_title": "Project Management",
- "generated_at": "2026-10-19T21:17:14+00:00",
+ "generated_at": "2026-10-19T22:17:17+00:00",
  "certificate": {
   "code": "CE0035",
   "name": "Project Management",
@@ -113,7 +113,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-10-19T07:03:13-07:00"
+         "last_sync": "2026-10-19T15:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -171,7 +171,7 @@
          "units": 4,
          "destiny_section_id": "44306644",
          "crm_id": "5049549000085612001",
-         "last_sync": "2026-10-19T07:03:18-07:00"
+         "last_sync": "2026-10-19T15:03:22-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -282,7 +282,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-10-19T07:03:00-07:00"
+         "last_sync": "2026-10-19T15:03:06-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -665,10 +665,31 @@
        "term": "Spring 2027"
       },
       "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "016",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-06",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T23:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44897336",
+         "crm_id": "5049549000094666013",
+         "last_sync": "2026-10-19T14:36:16-07:00"
+        }
+       ],
        "hidden_sections": 0,
        "term": "Summer 2027"
       }
@@ -774,17 +795,38 @@
          "units": 4,
          "destiny_section_id": "44271321",
          "crm_id": "5049549000084891009",
-         "last_sync": "2026-10-19T07:02:58-07:00"
+         "last_sync": "2026-10-19T14:53:20-07:00"
         }
        ],
        "hidden_sections": 0,
        "term": "Spring 2027"
       },
       "Summer": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "019",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-06-21",
+         "end": "2027-09-06",
+         "enroll_start": null,
+         "enroll_end": "2027-06-27T23:59:00-07:00",
+         "capacity": 40,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 40,
+         "units": 4,
+         "destiny_section_id": "44897796",
+         "crm_id": "5049549000094697011",
+         "last_sync": "2026-10-19T15:05:19-07:00"
+        }
+       ],
        "hidden_sections": 0,
        "term": "Summer 2027"
       }
