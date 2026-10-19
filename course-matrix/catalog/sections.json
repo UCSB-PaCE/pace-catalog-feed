@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T20:17:18+00:00",
+ "generated_at": "2026-10-19T21:17:14+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -2978,13 +2978,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-04T23:59:00-08:00",
    "capacity": 40,
-   "enrolled": 35,
+   "enrolled": 36,
    "crm_availability": "Available",
-   "seats_left": 5,
+   "seats_left": 4,
    "units": null,
    "destiny_section_id": "44178719",
    "crm_id": "5049549000082218004",
-   "last_sync": "2026-10-19T11:29:16-07:00",
+   "last_sync": "2026-10-19T14:08:55-07:00",
    "course_number": "XLRN 821.EMT",
    "term": "Winter 2027",
    "course_destiny_id": "40479255"
@@ -4616,13 +4616,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-11T23:59:00-08:00",
    "capacity": 188,
-   "enrolled": 2,
+   "enrolled": 3,
    "crm_availability": "Available",
-   "seats_left": 186,
+   "seats_left": 185,
    "units": 2,
    "destiny_section_id": "44410629",
    "crm_id": "5049549000088066037",
-   "last_sync": "2026-10-19T11:42:46-07:00",
+   "last_sync": "2026-10-19T14:07:55-07:00",
    "course_number": "TMP X101",
    "term": "Winter 2027",
    "course_destiny_id": "40884108"
@@ -9120,6 +9120,27 @@
    "course_number": "EARTH XSB7",
    "term": "Fall 2026",
    "course_destiny_id": "22951378"
+  },
+  {
+   "code": "042",
+   "modality": "Hybrid",
+   "instruction_method": "Hybrid",
+   "state": "open",
+   "start": "2027-06-24",
+   "end": "2027-09-09",
+   "enroll_start": null,
+   "enroll_end": "2027-06-30T23:59:00-07:00",
+   "capacity": 24,
+   "enrolled": 0,
+   "crm_availability": "Available",
+   "seats_left": 24,
+   "units": 4,
+   "destiny_section_id": "44896428",
+   "crm_id": "5049549000094667007",
+   "last_sync": "2026-10-19T13:57:38-07:00",
+   "course_number": "BUSAD X409.65",
+   "term": "Summer 2027",
+   "course_destiny_id": "16569939"
   }
  ]
 }
