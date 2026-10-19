@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T10:17:19+00:00",
+ "generated_at": "2026-10-19T11:17:19+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -4616,13 +4616,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-11T23:59:00-08:00",
    "capacity": 188,
-   "enrolled": 0,
+   "enrolled": 1,
    "crm_availability": "Available",
-   "seats_left": 188,
+   "seats_left": 187,
    "units": 2,
    "destiny_section_id": "44410629",
    "crm_id": "5049549000088066037",
-   "last_sync": "2026-10-19T03:02:57-07:00",
+   "last_sync": "2026-10-19T03:41:59-07:00",
    "course_number": "TMP X101",
    "term": "Winter 2027",
    "course_destiny_id": "40884108"
