@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-10-19T19:17:22+00:00",
+ "generated_at": "2026-10-19T20:17:18+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -330,7 +330,7 @@
          "units": 5,
          "destiny_section_id": "44560600",
          "crm_id": "5049549000090454015",
-         "last_sync": "2026-10-19T03:03:44-07:00"
+         "last_sync": "2026-10-19T13:02:49-07:00"
         },
         {
          "code": "535",
@@ -348,7 +348,7 @@
          "units": 5,
          "destiny_section_id": "44560516",
          "crm_id": "5049549000090486012",
-         "last_sync": "2026-10-19T05:03:45-07:00"
+         "last_sync": "2026-10-19T13:03:18-07:00"
         },
         {
          "code": "536",
