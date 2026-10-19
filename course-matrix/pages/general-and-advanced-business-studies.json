@@ -2,7 +2,7 @@
  "page": "general-and-advanced-business-studies",
  "page_url": "https://professional.ucsb.edu/general-and-advanced-business-studies",
  "page_title": "General and Advanced Business Studies",
- "generated_at": "2026-10-19T06:17:19+00:00",
+ "generated_at": "2026-10-19T07:17:24+00:00",
  "certificate": {
   "code": "CE0076",
   "name": "General Business Studies",
@@ -3287,7 +3287,7 @@
        "label": "N/A",
        "modalities": [],
        "sections": [],
-       "hidden_sections": 2,
+       "hidden_sections": 1,
        "term": "Fall 2026"
       },
       "Winter": {
