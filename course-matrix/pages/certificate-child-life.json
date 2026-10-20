@@ -2,7 +2,7 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-10-20T13:17:19+00:00",
+ "generated_at": "2026-10-20T14:17:17+00:00",
  "certificate": {
   "code": "CE0006",
   "name": "Child Life",
@@ -357,7 +357,7 @@
          "units": 4,
          "destiny_section_id": "43566107",
          "crm_id": "5049549000073572023",
-         "last_sync": "2026-10-19T23:02:58-07:00"
+         "last_sync": "2026-10-20T07:03:23-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -673,7 +673,7 @@
          "units": 4,
          "destiny_section_id": "42716715",
          "crm_id": "5049549000066779030",
-         "last_sync": "2026-10-19T23:03:14-07:00"
+         "last_sync": "2026-10-20T07:03:35-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1384,7 +1384,7 @@
          "units": 4,
          "destiny_section_id": "42715807",
          "crm_id": "5049549000066789054",
-         "last_sync": "2026-10-19T23:03:16-07:00"
+         "last_sync": "2026-10-20T07:03:36-07:00"
         }
        ],
        "hidden_sections": 0,
