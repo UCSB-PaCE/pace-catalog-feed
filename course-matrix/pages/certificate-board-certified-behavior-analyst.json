@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-10-20T16:17:23+00:00",
+ "generated_at": "2026-10-20T17:17:21+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -703,7 +703,7 @@
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": "2025-10-06T17:00:00-07:00",
-         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "enroll_end": "2026-09-30T23:59:00-07:00",
          "capacity": 60,
          "enrolled": 60,
          "crm_availability": "No Longer Available",
@@ -711,7 +711,7 @@
          "units": 5,
          "destiny_section_id": "41892916",
          "crm_id": "5049549000066766274",
-         "last_sync": "2026-10-20T09:03:23-07:00"
+         "last_sync": "2026-10-20T09:40:01-07:00"
         },
         {
          "code": "014",
@@ -809,7 +809,7 @@
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": "2025-10-06T17:00:00-07:00",
-         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "enroll_end": "2026-09-30T23:59:00-07:00",
          "capacity": 50,
          "enrolled": 50,
          "crm_availability": "No Longer Available",
@@ -817,7 +817,7 @@
          "units": 5,
          "destiny_section_id": "41893112",
          "crm_id": "5049549000066770277",
-         "last_sync": "2026-10-20T09:03:27-07:00"
+         "last_sync": "2026-10-20T09:40:04-07:00"
         },
         {
          "code": "013",
