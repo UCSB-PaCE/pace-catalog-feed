@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T22:17:17+00:00",
+ "generated_at": "2026-10-20T23:17:16+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -2501,7 +2501,7 @@
    "units": 0,
    "destiny_section_id": "44164580",
    "crm_id": "5049549000081546010",
-   "last_sync": "2026-10-20T11:03:01-07:00",
+   "last_sync": "2026-10-20T15:54:27-07:00",
    "course_number": "XLRN 809B",
    "term": "Summer 2027",
    "course_destiny_id": "34919015"
@@ -2627,7 +2627,7 @@
    "units": 0,
    "destiny_section_id": "44164483",
    "crm_id": "5049549000081567010",
-   "last_sync": "2026-10-20T11:03:04-07:00",
+   "last_sync": "2026-10-20T15:26:07-07:00",
    "course_number": "XLRN 809A",
    "term": "Summer 2027",
    "course_destiny_id": "28945939"
