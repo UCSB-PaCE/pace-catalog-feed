@@ -2,7 +2,7 @@
  "page": "certificate-qualified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
  "page_title": "Qualified Behavior Analyst - QBA",
- "generated_at": "2026-10-21T07:17:17+00:00",
+ "generated_at": "2026-10-21T08:17:19+00:00",
  "certificate": null,
  "issues": [],
  "window": {
@@ -109,7 +109,7 @@
          "units": 5,
          "destiny_section_id": "44163745",
          "crm_id": "5049549000081567006",
-         "last_sync": "2026-10-20T15:03:35-07:00"
+         "last_sync": "2026-10-21T01:03:15-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -277,7 +277,7 @@
          "units": 5,
          "destiny_section_id": "43577415",
          "crm_id": "5049549000073838010",
-         "last_sync": "2026-10-20T17:02:57-07:00"
+         "last_sync": "2026-10-21T01:03:46-07:00"
         },
         {
          "code": "016",
@@ -295,7 +295,7 @@
          "units": 5,
          "destiny_section_id": "43576599",
          "crm_id": "5049549000073839008",
-         "last_sync": "2026-10-20T15:03:31-07:00"
+         "last_sync": "2026-10-21T01:03:11-07:00"
         },
         {
          "code": "017",
@@ -382,7 +382,7 @@
          "units": 5,
          "destiny_section_id": "43577572",
          "crm_id": "5049549000073873016",
-         "last_sync": "2026-10-20T17:03:09-07:00"
+         "last_sync": "2026-10-21T01:03:53-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -436,7 +436,7 @@
          "units": 1,
          "destiny_section_id": "42715100",
          "crm_id": "5049549000066782225",
-         "last_sync": "2026-10-20T15:03:19-07:00"
+         "last_sync": "2026-10-21T01:02:57-07:00"
         },
         {
          "code": "023",
@@ -989,7 +989,7 @@
          "units": 0,
          "destiny_section_id": "44164483",
          "crm_id": "5049549000081567010",
-         "last_sync": "2026-10-20T15:26:07-07:00"
+         "last_sync": "2026-10-21T01:03:24-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1064,7 +1064,7 @@
          "units": 0,
          "destiny_section_id": "43568333",
          "crm_id": "5049549000073531015",
-         "last_sync": "2026-10-20T15:03:28-07:00"
+         "last_sync": "2026-10-21T01:03:09-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1122,7 +1122,7 @@
          "units": 0,
          "destiny_section_id": "44164580",
          "crm_id": "5049549000081546010",
-         "last_sync": "2026-10-20T15:54:27-07:00"
+         "last_sync": "2026-10-21T01:03:25-07:00"
         }
        ],
        "hidden_sections": 0,
