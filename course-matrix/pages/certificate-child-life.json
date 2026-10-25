@@ -2,7 +2,7 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-10-25T00:17:17+00:00",
+ "generated_at": "2026-10-25T01:17:16+00:00",
  "certificate": {
   "code": "CE0006",
   "name": "Child Life",
@@ -765,13 +765,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 33,
+         "enrolled": 34,
          "crm_availability": "Available",
-         "seats_left": 17,
+         "seats_left": 16,
          "units": 4,
          "destiny_section_id": "43565815",
          "crm_id": "5049549000073516015",
-         "last_sync": "2026-10-24T13:39:58-07:00"
+         "last_sync": "2026-10-24T18:15:27-07:00"
         },
         {
          "code": "105",
