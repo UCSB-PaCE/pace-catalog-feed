@@ -2,7 +2,7 @@
  "page": "emergency-medical-technician",
  "page_url": "https://professional.ucsb.edu/emergency-medical-technician",
  "page_title": "Emergency Medical Technician",
- "generated_at": "2026-10-25T09:17:16+00:00",
+ "generated_at": "2026-10-25T10:17:24+00:00",
  "certificate": {
   "code": "CE0059",
   "name": "Emergency Medical Technician",
@@ -136,7 +136,7 @@
          "units": 18,
          "destiny_section_id": "43331818",
          "crm_id": "5049549000067458155",
-         "last_sync": "2026-10-24T17:03:11-07:00"
+         "last_sync": "2026-10-25T03:03:01-07:00"
         }
        ],
        "hidden_sections": 0,
