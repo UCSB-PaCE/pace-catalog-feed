@@ -2,7 +2,7 @@
  "page": "certificate-qualified-autism-service-practitioner-supervisor",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-autism-service-practitioner-supervisor",
  "page_title": "Qualified Autism Service Practitioner-Supervisor - QASP-S",
- "generated_at": "2026-10-27T00:17:49+00:00",
+ "generated_at": "2026-10-27T01:18:00+00:00",
  "certificate": {
   "code": "CE0057",
   "name": "International Qualified Autism Specialist",
@@ -174,13 +174,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 5,
+         "enrolled": 6,
          "crm_availability": "Available",
-         "seats_left": 35,
+         "seats_left": 34,
          "units": 5,
          "destiny_section_id": "43566738",
          "crm_id": "5049549000073580014",
-         "last_sync": "2026-10-26T13:03:04-07:00"
+         "last_sync": "2026-10-26T17:42:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -252,13 +252,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-10-26T09:03:55-07:00"
+         "last_sync": "2026-10-26T17:42:19-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -433,13 +433,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 38,
          "units": 5,
          "destiny_section_id": "44722367",
          "crm_id": "5049549000090709177",
-         "last_sync": "2026-10-26T13:03:08-07:00"
+         "last_sync": "2026-10-26T17:42:14-07:00"
         }
        ],
        "hidden_sections": 0,
