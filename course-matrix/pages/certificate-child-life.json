@@ -2,7 +2,7 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-10-27T19:17:17+00:00",
+ "generated_at": "2026-10-27T20:17:19+00:00",
  "certificate": {
   "code": "CE0006",
   "name": "Child Life",
@@ -172,7 +172,7 @@
          "units": 4,
          "destiny_section_id": "42714708",
          "crm_id": "5049549000066784036",
-         "last_sync": "2026-10-27T03:03:31-07:00"
+         "last_sync": "2026-10-27T13:02:47-07:00"
         },
         {
          "code": "016",
@@ -259,7 +259,7 @@
          "units": 4,
          "destiny_section_id": "42716351",
          "crm_id": "5049549000066789042",
-         "last_sync": "2026-10-27T03:03:19-07:00"
+         "last_sync": "2026-10-27T13:02:34-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -296,7 +296,7 @@
          "units": 4,
          "destiny_section_id": "43579797",
          "crm_id": "5049549000073828007",
-         "last_sync": "2026-10-27T03:03:23-07:00"
+         "last_sync": "2026-10-27T13:02:38-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -418,7 +418,7 @@
          "units": 4,
          "destiny_section_id": "42716512",
          "crm_id": "5049549000066766035",
-         "last_sync": "2026-10-27T05:03:28-07:00"
+         "last_sync": "2026-10-27T13:03:24-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1077,13 +1077,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 39,
+         "seats_left": 38,
          "units": 4,
          "destiny_section_id": "43566587",
          "crm_id": "5049549000073575017",
-         "last_sync": "2026-10-27T09:03:06-07:00"
+         "last_sync": "2026-10-27T12:52:19-07:00"
         },
         {
          "code": "049",
@@ -1384,7 +1384,7 @@
          "units": 4,
          "destiny_section_id": "42715807",
          "crm_id": "5049549000066789054",
-         "last_sync": "2026-10-27T03:03:33-07:00"
+         "last_sync": "2026-10-27T13:02:48-07:00"
         }
        ],
        "hidden_sections": 0,
