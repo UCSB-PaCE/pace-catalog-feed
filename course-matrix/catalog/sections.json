@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:17:20+00:00",
+ "generated_at": "2026-10-27T19:17:17+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -2984,7 +2984,7 @@
    "units": null,
    "destiny_section_id": "44178719",
    "crm_id": "5049549000082218004",
-   "last_sync": "2026-10-27T09:04:09-07:00",
+   "last_sync": "2026-10-27T11:54:04-07:00",
    "course_number": "XLRN 821.EMT",
    "term": "Winter 2027",
    "course_destiny_id": "40479255"
@@ -4616,13 +4616,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-11T23:59:00-08:00",
    "capacity": 188,
-   "enrolled": 9,
+   "enrolled": 10,
    "crm_availability": "Available",
-   "seats_left": 179,
+   "seats_left": 178,
    "units": 2,
    "destiny_section_id": "44410629",
    "crm_id": "5049549000088066037",
-   "last_sync": "2026-10-27T09:06:18-07:00",
+   "last_sync": "2026-10-27T11:34:22-07:00",
    "course_number": "TMP X101",
    "term": "Winter 2027",
    "course_destiny_id": "40884108"
