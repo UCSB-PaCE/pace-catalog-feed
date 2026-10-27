@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-10-27T06:17:18+00:00",
+ "generated_at": "2026-10-27T07:17:19+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -141,7 +141,7 @@
      ],
      "terms": {
       "Fall": {
-       "state": "open",
+       "state": "enrollment_closed",
        "label": "Hybrid",
        "modalities": [
         "Hybrid"
@@ -151,7 +151,7 @@
          "code": "019",
          "modality": "Hybrid",
          "instruction_method": "Hybrid",
-         "state": "open",
+         "state": "enrollment_closed",
          "start": "2026-10-26",
          "end": "2026-11-16",
          "enroll_start": null,
