@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T04:17:16+00:00",
+ "generated_at": "2026-10-28T05:17:21+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1886,13 +1886,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-13T23:59:00-08:00",
    "capacity": 40,
-   "enrolled": 21,
+   "enrolled": 22,
    "crm_availability": "Available",
-   "seats_left": 19,
+   "seats_left": 18,
    "units": 5,
    "destiny_section_id": "43653299",
    "crm_id": "5049549000075478013",
-   "last_sync": "2026-10-27T21:03:14-07:00",
+   "last_sync": "2026-10-27T21:36:57-07:00",
    "course_number": "ED X365.5B",
    "term": "Winter 2027",
    "course_destiny_id": "43652324"
@@ -2984,7 +2984,7 @@
    "units": null,
    "destiny_section_id": "44178719",
    "crm_id": "5049549000082218004",
-   "last_sync": "2026-10-27T17:48:37-07:00",
+   "last_sync": "2026-10-27T21:21:54-07:00",
    "course_number": "XLRN 821.EMT",
    "term": "Winter 2027",
    "course_destiny_id": "40479255"
