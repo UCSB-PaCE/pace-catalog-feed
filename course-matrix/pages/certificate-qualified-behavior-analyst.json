@@ -2,7 +2,7 @@
  "page": "certificate-qualified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
  "page_title": "Qualified Behavior Analyst - QBA",
- "generated_at": "2026-10-28T11:17:23+00:00",
+ "generated_at": "2026-10-28T12:17:18+00:00",
  "certificate": null,
  "issues": [],
  "window": {
@@ -163,7 +163,7 @@
          "units": 5,
          "destiny_section_id": "43566990",
          "crm_id": "5049549000073522023",
-         "last_sync": "2026-10-27T20:10:02-07:00"
+         "last_sync": "2026-10-28T05:03:59-07:00"
         },
         {
          "code": "017",
@@ -199,7 +199,7 @@
          "units": 5,
          "destiny_section_id": "43567252",
          "crm_id": "5049549000073581012",
-         "last_sync": "2026-10-27T19:02:49-07:00"
+         "last_sync": "2026-10-28T05:03:16-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -483,7 +483,7 @@
          "units": 1,
          "destiny_section_id": "43567361",
          "crm_id": "5049549000073569029",
-         "last_sync": "2026-10-27T19:03:26-07:00"
+         "last_sync": "2026-10-28T05:03:42-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -512,7 +512,7 @@
          "units": 1,
          "destiny_section_id": "43579014",
          "crm_id": "5049549000073940012",
-         "last_sync": "2026-10-27T19:03:28-07:00"
+         "last_sync": "2026-10-28T05:03:44-07:00"
         }
        ],
        "hidden_sections": 0,
