@@ -2,7 +2,7 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-10-28T22:17:17+00:00",
+ "generated_at": "2026-10-28T23:17:16+00:00",
  "certificate": {
   "code": "CE0006",
   "name": "Child Life",
@@ -351,13 +351,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 9,
+         "enrolled": 10,
          "crm_availability": "Available",
-         "seats_left": 41,
+         "seats_left": 40,
          "units": 4,
          "destiny_section_id": "43566107",
          "crm_id": "5049549000073572023",
-         "last_sync": "2026-10-28T13:03:14-07:00"
+         "last_sync": "2026-10-28T15:41:08-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -510,13 +510,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 14,
+         "enrolled": 15,
          "crm_availability": "Available",
-         "seats_left": 36,
+         "seats_left": 35,
          "units": 4,
          "destiny_section_id": "43566253",
          "crm_id": "5049549000073637013",
-         "last_sync": "2026-10-28T13:47:21-07:00"
+         "last_sync": "2026-10-28T15:41:13-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -765,13 +765,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 37,
+         "enrolled": 38,
          "crm_availability": "Available",
-         "seats_left": 13,
+         "seats_left": 12,
          "units": 4,
          "destiny_section_id": "43565815",
          "crm_id": "5049549000073516015",
-         "last_sync": "2026-10-28T09:03:48-07:00"
+         "last_sync": "2026-10-28T15:41:11-07:00"
         },
         {
          "code": "105",
