@@ -2,7 +2,7 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-10-29T18:17:19+00:00",
+ "generated_at": "2026-10-29T19:17:18+00:00",
  "certificate": {
   "code": "CE0055",
   "name": "Business Administration and Management",
@@ -104,13 +104,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 24,
-         "enrolled": 7,
+         "enrolled": 8,
          "crm_availability": "Available",
-         "seats_left": 17,
+         "seats_left": 16,
          "units": 4,
          "destiny_section_id": "44148728",
          "crm_id": "5049549000081136009",
-         "last_sync": "2026-10-29T03:03:48-07:00"
+         "last_sync": "2026-10-29T11:26:43-07:00"
         }
        ],
        "hidden_sections": 0,
