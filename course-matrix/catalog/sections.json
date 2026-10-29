@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:17:18+00:00",
+ "generated_at": "2026-10-29T01:17:17+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -4574,13 +4574,13 @@
    "enroll_start": null,
    "enroll_end": "2027-06-18T23:59:00-07:00",
    "capacity": 40,
-   "enrolled": 1,
+   "enrolled": 2,
    "crm_availability": "Available",
-   "seats_left": 39,
+   "seats_left": 38,
    "units": null,
    "destiny_section_id": "44341289",
    "crm_id": "5049549000086329028",
-   "last_sync": "2026-10-28T11:03:05-07:00",
+   "last_sync": "2026-10-28T17:39:50-07:00",
    "course_number": "XLRN 821.EMT",
    "term": "Summer 2027",
    "course_destiny_id": "40479255"
