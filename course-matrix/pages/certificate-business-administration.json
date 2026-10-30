@@ -2,7 +2,7 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-10-30T21:17:21+00:00",
+ "generated_at": "2026-10-30T22:17:18+00:00",
  "certificate": {
   "code": "CE0055",
   "name": "Business Administration and Management",
@@ -373,7 +373,7 @@
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-10-30T07:03:03-07:00"
+         "last_sync": "2026-10-30T15:03:31-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -607,7 +607,7 @@
          "units": 4,
          "destiny_section_id": "44226038",
          "crm_id": "5049549000083622006",
-         "last_sync": "2026-10-30T05:03:47-07:00"
+         "last_sync": "2026-10-30T15:02:56-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -860,7 +860,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-30T05:03:58-07:00"
+         "last_sync": "2026-10-30T15:03:07-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -977,7 +977,7 @@
          "units": 4,
          "destiny_section_id": "44306996",
          "crm_id": "5049549000085624005",
-         "last_sync": "2026-10-30T05:03:43-07:00"
+         "last_sync": "2026-10-30T15:02:49-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -1879,7 +1879,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-10-30T05:03:58-07:00"
+         "last_sync": "2026-10-30T15:03:07-07:00"
         }
        ],
        "hidden_sections": 0,
