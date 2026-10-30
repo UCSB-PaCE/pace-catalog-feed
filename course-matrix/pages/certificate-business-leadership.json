@@ -2,7 +2,7 @@
  "page": "certificate-business-leadership",
  "page_url": "https://professional.ucsb.edu/certificate-business-leadership",
  "page_title": "Business Leadership",
- "generated_at": "2026-10-30T19:17:17+00:00",
+ "generated_at": "2026-10-30T20:17:17+00:00",
  "certificate": {
   "code": "CE0007",
   "name": "Business Leadership",
@@ -142,7 +142,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-10-30T05:03:30-07:00"
+         "last_sync": "2026-10-30T13:03:29-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -808,7 +808,7 @@
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-10-30T03:03:27-07:00"
+         "last_sync": "2026-10-30T13:02:55-07:00"
         }
        ],
        "hidden_sections": 0,
