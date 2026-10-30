@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-10-30T07:17:21+00:00",
+ "generated_at": "2026-10-30T08:17:17+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -420,7 +420,7 @@
          "units": 1,
          "destiny_section_id": "44278500",
          "crm_id": "5049549000084889018",
-         "last_sync": "2026-10-29T17:02:55-07:00"
+         "last_sync": "2026-10-30T01:03:50-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -711,7 +711,7 @@
          "units": 5,
          "destiny_section_id": "41892916",
          "crm_id": "5049549000066766274",
-         "last_sync": "2026-10-29T15:03:27-07:00"
+         "last_sync": "2026-10-30T01:03:23-07:00"
         },
         {
          "code": "014",
@@ -747,7 +747,7 @@
          "units": 5,
          "destiny_section_id": "44000191",
          "crm_id": "5049549000079387003",
-         "last_sync": "2026-10-29T15:03:08-07:00"
+         "last_sync": "2026-10-30T01:03:02-07:00"
         }
        ],
        "hidden_sections": 0,
@@ -817,7 +817,7 @@
          "units": 5,
          "destiny_section_id": "41893112",
          "crm_id": "5049549000066770277",
-         "last_sync": "2026-10-29T15:03:28-07:00"
+         "last_sync": "2026-10-30T01:03:24-07:00"
         },
         {
          "code": "013",
