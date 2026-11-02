@@ -2,7 +2,7 @@
  "page": "certificate-qualified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
  "page_title": "Qualified Behavior Analyst - QBA",
- "generated_at": "2026-11-02T17:17:16+00:00",
+ "generated_at": "2026-11-02T18:17:19+00:00",
  "certificate": null,
  "issues": [],
  "window": {
@@ -109,7 +109,7 @@
          "units": 5,
          "destiny_section_id": "44163745",
          "crm_id": "5049549000081567006",
-         "last_sync": "2026-11-02T00:03:42-08:00"
+         "last_sync": "2026-11-02T10:02:58-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -277,7 +277,7 @@
          "units": 5,
          "destiny_section_id": "43577415",
          "crm_id": "5049549000073838010",
-         "last_sync": "2026-11-02T00:03:58-08:00"
+         "last_sync": "2026-11-02T10:03:17-08:00"
         },
         {
          "code": "016",
@@ -295,7 +295,7 @@
          "units": 5,
          "destiny_section_id": "43576599",
          "crm_id": "5049549000073839008",
-         "last_sync": "2026-11-02T00:03:39-08:00"
+         "last_sync": "2026-11-02T10:02:54-08:00"
         },
         {
          "code": "017",
@@ -382,7 +382,7 @@
          "units": 5,
          "destiny_section_id": "43577572",
          "crm_id": "5049549000073873016",
-         "last_sync": "2026-11-02T02:03:10-08:00"
+         "last_sync": "2026-11-02T10:03:25-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -704,7 +704,7 @@
          "start": "2026-09-23",
          "end": "2026-12-04",
          "enroll_start": null,
-         "enroll_end": "2026-09-30T16:59:00-07:00",
+         "enroll_end": "2026-09-30T23:59:00-07:00",
          "capacity": 50,
          "enrolled": 49,
          "crm_availability": "No Longer Available",
@@ -712,7 +712,7 @@
          "units": 5,
          "destiny_section_id": "44000191",
          "crm_id": "5049549000079387003",
-         "last_sync": "2026-11-02T02:03:43-08:00"
+         "last_sync": "2026-11-02T09:39:31-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -989,7 +989,7 @@
          "units": 0,
          "destiny_section_id": "44164483",
          "crm_id": "5049549000081567010",
-         "last_sync": "2026-11-02T00:03:46-08:00"
+         "last_sync": "2026-11-02T10:03:03-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1064,7 +1064,7 @@
          "units": 0,
          "destiny_section_id": "43568333",
          "crm_id": "5049549000073531015",
-         "last_sync": "2026-11-02T00:03:38-08:00"
+         "last_sync": "2026-11-02T10:02:51-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1122,7 +1122,7 @@
          "units": 0,
          "destiny_section_id": "44164580",
          "crm_id": "5049549000081546010",
-         "last_sync": "2026-11-02T00:03:46-08:00"
+         "last_sync": "2026-11-02T10:03:02-08:00"
         }
        ],
        "hidden_sections": 0,
