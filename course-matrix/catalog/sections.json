@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T00:17:18+00:00",
+ "generated_at": "2026-11-03T01:17:20+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -3971,7 +3971,7 @@
    "units": 3,
    "destiny_section_id": "44293218",
    "crm_id": "5049549000085122008",
-   "last_sync": "2026-11-02T16:03:00-08:00",
+   "last_sync": "2026-11-02T16:42:01-08:00",
    "course_number": "CMPSC X402.CODE",
    "term": "Fall 2026",
    "course_destiny_id": "41362336"
@@ -4616,13 +4616,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-11T23:59:00-08:00",
    "capacity": 188,
-   "enrolled": 25,
+   "enrolled": 26,
    "crm_availability": "Available",
-   "seats_left": 163,
+   "seats_left": 162,
    "units": 2,
    "destiny_section_id": "44410629",
    "crm_id": "5049549000088066037",
-   "last_sync": "2026-11-02T15:42:17-08:00",
+   "last_sync": "2026-11-02T17:06:01-08:00",
    "course_number": "TMP X101",
    "term": "Winter 2027",
    "course_destiny_id": "40884108"
@@ -9393,6 +9393,27 @@
    "course_number": "ANTH X402",
    "term": "Winter 2027",
    "course_destiny_id": "44163226"
+  },
+  {
+   "code": "001",
+   "modality": "Online (self-paced)",
+   "instruction_method": "Online Asynchronous",
+   "state": "open",
+   "start": "2027-04-05",
+   "end": "2027-06-11",
+   "enroll_start": null,
+   "enroll_end": "2027-04-11T23:59:00-07:00",
+   "capacity": 40,
+   "enrolled": 0,
+   "crm_availability": "Available",
+   "seats_left": 40,
+   "units": 4,
+   "destiny_section_id": "44964235",
+   "crm_id": "5049549000096791032",
+   "last_sync": "2026-11-02T16:27:55-08:00",
+   "course_number": "ANTH X403",
+   "term": "Spring 2027",
+   "course_destiny_id": "44163257"
   }
  ]
 }
