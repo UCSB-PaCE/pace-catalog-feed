@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:17:19+00:00",
+ "generated_at": "2026-11-03T17:17:23+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1745,7 +1745,7 @@
    "units": 2,
    "destiny_section_id": "43584645",
    "crm_id": "5049549000074045003",
-   "last_sync": "2026-11-03T06:03:54-08:00",
+   "last_sync": "2026-11-03T08:59:19-08:00",
    "course_number": "TMP X101",
    "term": "Fall 2026",
    "course_destiny_id": "40884108"
@@ -9297,7 +9297,7 @@
    "start": "2027-01-05",
    "end": "2027-02-06",
    "enroll_start": null,
-   "enroll_end": "2027-01-04T23:59:00-08:00",
+   "enroll_end": "2027-01-03T23:59:00-08:00",
    "capacity": 20,
    "enrolled": 0,
    "crm_availability": "Available",
@@ -9305,7 +9305,7 @@
    "units": 3,
    "destiny_section_id": "44931242",
    "crm_id": "5049549000095763015",
-   "last_sync": "2026-11-03T02:03:01-08:00",
+   "last_sync": "2026-11-03T09:13:40-08:00",
    "course_number": "CMPSC X401.CODE",
    "term": "Winter 2027",
    "course_destiny_id": "41362218"
@@ -9318,7 +9318,7 @@
    "start": "2027-01-12",
    "end": "2027-03-13",
    "enroll_start": null,
-   "enroll_end": "2027-01-11T23:59:00-08:00",
+   "enroll_end": "2027-01-07T23:59:00-08:00",
    "capacity": 20,
    "enrolled": 0,
    "crm_availability": "Available",
@@ -9326,7 +9326,7 @@
    "units": 3,
    "destiny_section_id": "44931492",
    "crm_id": "5049549000095767018",
-   "last_sync": "2026-11-03T02:03:02-08:00",
+   "last_sync": "2026-11-03T09:14:31-08:00",
    "course_number": "CMPSC X401.CODE",
    "term": "Winter 2027",
    "course_destiny_id": "41362218"
@@ -9360,7 +9360,7 @@
    "start": "2027-01-12",
    "end": "2027-03-13",
    "enroll_start": null,
-   "enroll_end": "2027-01-11T23:59:00-08:00",
+   "enroll_end": "2027-01-07T23:59:00-08:00",
    "capacity": 20,
    "enrolled": 0,
    "crm_availability": "Available",
@@ -9368,7 +9368,7 @@
    "units": 3,
    "destiny_section_id": "44931653",
    "crm_id": "5049549000095816024",
-   "last_sync": "2026-11-03T02:03:03-08:00",
+   "last_sync": "2026-11-03T09:16:13-08:00",
    "course_number": "CMPSC X402.CODE",
    "term": "Winter 2027",
    "course_destiny_id": "41362336"
