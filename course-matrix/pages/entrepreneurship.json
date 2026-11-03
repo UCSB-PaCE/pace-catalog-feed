@@ -2,7 +2,7 @@
  "page": "entrepreneurship",
  "page_url": "https://professional.ucsb.edu/entrepreneurship",
  "page_title": "Entrepreneurship",
- "generated_at": "2026-11-03T03:17:19+00:00",
+ "generated_at": "2026-11-03T04:17:18+00:00",
  "certificate": {
   "code": "CE0082",
   "name": "Entrepreneurship",
@@ -135,7 +135,7 @@
          "units": 4,
          "destiny_section_id": "44226723",
          "crm_id": "5049549000083562005",
-         "last_sync": "2026-11-02T10:02:59-08:00"
+         "last_sync": "2026-11-02T20:02:44-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -270,7 +270,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-11-02T12:02:48-08:00"
+         "last_sync": "2026-11-02T20:03:29-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -416,7 +416,7 @@
          "units": 4,
          "destiny_section_id": "44896958",
          "crm_id": "5049549000094760005",
-         "last_sync": "2026-11-02T12:02:38-08:00"
+         "last_sync": "2026-11-02T20:03:23-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -646,13 +646,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
-         "enrolled": 2,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 26,
+         "seats_left": 25,
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-11-02T12:03:03-08:00"
+         "last_sync": "2026-11-02T19:57:15-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -891,7 +891,7 @@
          "units": 4,
          "destiny_section_id": "44271321",
          "crm_id": "5049549000084891009",
-         "last_sync": "2026-11-02T10:03:22-08:00"
+         "last_sync": "2026-11-02T20:03:10-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -920,7 +920,7 @@
          "units": 4,
          "destiny_section_id": "44897796",
          "crm_id": "5049549000094697011",
-         "last_sync": "2026-11-02T10:03:15-08:00"
+         "last_sync": "2026-11-02T20:03:03-08:00"
         }
        ],
        "hidden_sections": 0,
