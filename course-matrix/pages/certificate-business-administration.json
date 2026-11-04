@@ -2,7 +2,7 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-11-04T05:17:23+00:00",
+ "generated_at": "2026-11-04T06:17:23+00:00",
  "certificate": {
   "code": "CE0055",
   "name": "Business Administration and Management",
@@ -373,7 +373,7 @@
          "units": 4,
          "destiny_section_id": "43359634",
          "crm_id": "5049549000067881524",
-         "last_sync": "2026-11-03T12:03:21-08:00"
+         "last_sync": "2026-11-03T22:03:40-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -860,7 +860,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-11-03T12:03:02-08:00"
+         "last_sync": "2026-11-03T22:03:14-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1626,7 +1626,7 @@
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-11-03T14:02:58-08:00"
+         "last_sync": "2026-11-03T22:04:03-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1738,7 +1738,7 @@
          "units": 4,
          "destiny_section_id": "43358418",
          "crm_id": "5049549000067797451",
-         "last_sync": "2026-11-03T14:02:54-08:00"
+         "last_sync": "2026-11-03T22:03:59-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1767,7 +1767,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-11-03T14:03:01-08:00"
+         "last_sync": "2026-11-03T22:04:05-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1879,7 +1879,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-11-03T12:03:02-08:00"
+         "last_sync": "2026-11-03T22:03:14-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -2096,7 +2096,7 @@
          "units": 4,
          "destiny_section_id": "43388572",
          "crm_id": "5049549000068322080",
-         "last_sync": "2026-11-03T14:02:54-08:00"
+         "last_sync": "2026-11-03T22:04:00-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -2427,7 +2427,7 @@
          "units": 4,
          "destiny_section_id": "43389590",
          "crm_id": "5049549000068306106",
-         "last_sync": "2026-11-03T14:02:48-08:00"
+         "last_sync": "2026-11-03T22:03:54-08:00"
         }
        ],
        "hidden_sections": 0,
