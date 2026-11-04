@@ -2,7 +2,7 @@
  "page": "applied-business-essentials",
  "page_url": "https://professional.ucsb.edu/degree-plus/applied-business-essentials",
  "page_title": "Applied Business Essentials",
- "generated_at": "2026-11-04T19:17:21+00:00",
+ "generated_at": "2026-11-04T20:17:26+00:00",
  "certificate": {
   "code": "CE0081",
   "name": "Applied Business Essentials",
@@ -81,7 +81,7 @@
          "units": 4,
          "destiny_section_id": "43372582",
          "crm_id": "5049549000068074261",
-         "last_sync": "2026-11-04T02:03:50-08:00"
+         "last_sync": "2026-11-04T12:03:15-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -200,7 +200,7 @@
          "units": 4,
          "destiny_section_id": "43372943",
          "crm_id": "5049549000068028123",
-         "last_sync": "2026-11-04T02:03:51-08:00"
+         "last_sync": "2026-11-04T12:03:15-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -695,7 +695,7 @@
          "units": 4,
          "destiny_section_id": "44328688",
          "crm_id": "5049549000086207005",
-         "last_sync": "2026-11-04T02:03:30-08:00"
+         "last_sync": "2026-11-04T12:02:54-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -921,7 +921,7 @@
          "units": 4,
          "destiny_section_id": "44270816",
          "crm_id": "5049549000084890004",
-         "last_sync": "2026-11-04T02:03:35-08:00"
+         "last_sync": "2026-11-04T12:03:00-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1018,7 +1018,7 @@
          "units": 4,
          "destiny_section_id": "44269318",
          "crm_id": "5049549000084874005",
-         "last_sync": "2026-11-04T02:03:18-08:00"
+         "last_sync": "2026-11-04T12:02:38-08:00"
         }
        ],
        "hidden_sections": 0,
