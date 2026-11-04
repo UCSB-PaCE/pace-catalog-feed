@@ -2,11 +2,11 @@
  "page": "leadership",
  "page_url": "https://professional.ucsb.edu/leadership",
  "page_title": "Leadership",
- "generated_at": "2026-11-04T07:17:20+00:00",
+ "generated_at": "2026-11-04T08:17:17+00:00",
  "certificate": {
   "code": "CE0073",
   "name": "Leadership",
-  "synced": "2026-11-02T12:03:10-08:00",
+  "synced": "2026-11-04T00:03:45-08:00",
   "all": [
    "CE0073"
   ]
@@ -278,7 +278,7 @@
          "units": 4,
          "destiny_section_id": "44231579",
          "crm_id": "5049549000083578015",
-         "last_sync": "2026-11-03T14:03:03-08:00"
+         "last_sync": "2026-11-04T00:03:16-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -413,7 +413,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-11-03T16:02:57-08:00"
+         "last_sync": "2026-11-04T00:04:04-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -681,7 +681,7 @@
          "units": 4,
          "destiny_section_id": "44328868",
          "crm_id": "5049549000086146003",
-         "last_sync": "2026-11-03T14:03:09-08:00"
+         "last_sync": "2026-11-04T00:03:23-08:00"
         }
        ],
        "hidden_sections": 0,
