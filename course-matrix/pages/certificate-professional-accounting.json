@@ -2,7 +2,7 @@
  "page": "certificate-professional-accounting",
  "page_url": "https://professional.ucsb.edu/certificate-professional-accounting",
  "page_title": "Professional Accounting",
- "generated_at": "2026-11-07T13:17:21+00:00",
+ "generated_at": "2026-11-07T14:17:20+00:00",
  "certificate": {
   "code": "CE0079",
   "name": "Professional Accounting",
@@ -116,7 +116,7 @@
          "units": 4,
          "destiny_section_id": "44227732",
          "crm_id": "5049549000083611009",
-         "last_sync": "2026-11-06T20:03:25-08:00"
+         "last_sync": "2026-11-07T06:03:11-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -172,7 +172,7 @@
          "units": 4,
          "destiny_section_id": "43360032",
          "crm_id": "5049549000067815408",
-         "last_sync": "2026-11-06T20:03:15-08:00"
+         "last_sync": "2026-11-07T06:03:01-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -330,7 +330,7 @@
          "units": 4,
          "destiny_section_id": "44230776",
          "crm_id": "5049549000083577013",
-         "last_sync": "2026-11-06T22:03:16-08:00"
+         "last_sync": "2026-11-07T06:03:37-08:00"
         }
        ],
        "hidden_sections": 0,
