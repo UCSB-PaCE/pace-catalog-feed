@@ -1,4 +1,4 @@
-# Tag issues: Drupal placement tags vs CRM certificate streams (2026-11-07)
+# Tag issues: Drupal placement tags vs CRM certificate streams (2026-11-08)
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
