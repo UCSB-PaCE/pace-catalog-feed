@@ -2,7 +2,7 @@
  "page": "agile-project-management",
  "page_url": "https://professional.ucsb.edu/agile-project-management",
  "page_title": "Agile Project Management",
- "generated_at": "2026-11-09T22:17:18+00:00",
+ "generated_at": "2026-11-09T23:17:17+00:00",
  "certificate": {
   "code": "CE0075",
   "name": "Agile Project Management",
@@ -337,13 +337,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 24,
-         "enrolled": 13,
+         "enrolled": 12,
          "crm_availability": "Available",
-         "seats_left": 11,
+         "seats_left": 12,
          "units": 4,
          "destiny_section_id": "44163020",
          "crm_id": "5049549000081589003",
-         "last_sync": "2026-11-09T06:03:59-08:00"
+         "last_sync": "2026-11-09T14:25:00-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -366,13 +366,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 28,
-         "enrolled": 8,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 20,
+         "seats_left": 19,
          "units": 4,
          "destiny_section_id": "44271321",
          "crm_id": "5049549000084891009",
-         "last_sync": "2026-11-09T14:03:06-08:00"
+         "last_sync": "2026-11-09T14:25:04-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -873,13 +873,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
-         "enrolled": 16,
+         "enrolled": 17,
          "crm_availability": "Available",
-         "seats_left": 12,
+         "seats_left": 11,
          "units": 4,
          "destiny_section_id": "44161890",
          "crm_id": "5049549000081532005",
-         "last_sync": "2026-11-09T12:03:21-08:00"
+         "last_sync": "2026-11-09T14:25:02-08:00"
         }
        ],
        "hidden_sections": 0,
