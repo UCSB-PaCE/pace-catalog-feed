@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:17:20+00:00",
+ "generated_at": "2026-11-09T19:17:19+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1073,7 +1073,7 @@
    "units": 5,
    "destiny_section_id": "43566990",
    "crm_id": "5049549000073522023",
-   "last_sync": "2026-11-09T08:03:13-08:00",
+   "last_sync": "2026-11-09T11:03:19-08:00",
    "course_number": "ED X309A.5",
    "term": "Winter 2027",
    "course_destiny_id": "32267252"
@@ -2417,7 +2417,7 @@
    "units": 4,
    "destiny_section_id": "44161586",
    "crm_id": "5049549000081512004",
-   "last_sync": "2026-11-09T06:04:02-08:00",
+   "last_sync": "2026-11-09T10:52:17-08:00",
    "course_number": "MGMNT X411.2",
    "term": "Winter 2027",
    "course_destiny_id": "42693962"
@@ -3551,7 +3551,7 @@
    "units": 4,
    "destiny_section_id": "44260989",
    "crm_id": "5049549000084694007",
-   "last_sync": "2026-11-09T08:03:45-08:00",
+   "last_sync": "2026-11-09T11:01:12-08:00",
    "course_number": "MGMNT X411.1",
    "term": "Spring 2027",
    "course_destiny_id": "42695373"
@@ -4616,13 +4616,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-11T23:59:00-08:00",
    "capacity": 188,
-   "enrolled": 45,
+   "enrolled": 47,
    "crm_availability": "Available",
-   "seats_left": 143,
+   "seats_left": 141,
    "units": 2,
    "destiny_section_id": "44410629",
    "crm_id": "5049549000088066037",
-   "last_sync": "2026-11-09T02:03:35-08:00",
+   "last_sync": "2026-11-09T10:38:52-08:00",
    "course_number": "TMP X101",
    "term": "Winter 2027",
    "course_destiny_id": "40884108"
