@@ -2,7 +2,7 @@
  "page": "certificate-business-administration",
  "page_url": "https://professional.ucsb.edu/certificate-business-administration",
  "page_title": "Business Administration and Management",
- "generated_at": "2026-11-09T20:17:19+00:00",
+ "generated_at": "2026-11-09T21:17:20+00:00",
  "certificate": {
   "code": "CE0055",
   "name": "Business Administration and Management",
@@ -1179,13 +1179,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-11T23:59:00-08:00",
          "capacity": 24,
-         "enrolled": 2,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 22,
+         "seats_left": 21,
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-11-09T04:03:44-08:00"
+         "last_sync": "2026-11-09T12:32:51-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -2000,13 +2000,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-11T23:59:00-08:00",
          "capacity": 24,
-         "enrolled": 2,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 22,
+         "seats_left": 21,
          "units": 4,
          "destiny_section_id": "44157718",
          "crm_id": "5049549000081361001",
-         "last_sync": "2026-11-09T04:03:44-08:00"
+         "last_sync": "2026-11-09T12:32:51-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -2286,13 +2286,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 24,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 23,
+         "seats_left": 22,
          "units": 4,
          "destiny_section_id": "44148492",
          "crm_id": "5049549000081136007",
-         "last_sync": "2026-11-09T04:03:49-08:00"
+         "last_sync": "2026-11-09T12:32:57-08:00"
         }
        ],
        "hidden_sections": 0,
