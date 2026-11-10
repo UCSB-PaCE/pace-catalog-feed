@@ -2,11 +2,11 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-11-10T01:17:18+00:00",
+ "generated_at": "2026-11-10T02:17:18+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
-  "synced": "2026-11-08T06:02:57-08:00",
+  "synced": "2026-11-09T18:02:52-08:00",
   "all": [
    "CE0029"
   ]
@@ -16,6 +16,12 @@
    "kind": "unmatched_stream",
    "stream": "Required (choose 1)",
    "courses": "ED X309C.5, ED X310A.5",
+   "cert": "CE0029"
+  },
+  {
+   "kind": "unmatched_stream",
+   "stream": "Required (choose 1)",
+   "courses": "ED X312.1.5, ED X365.5B",
    "cert": "CE0029"
   }
  ],
@@ -47,20 +53,14 @@
    },
    "issues": [
     {
-     "kind": "missing_tag",
-     "course": "ED X312.1.5",
-     "token": "BCBA#main",
-     "stream": "Applied Behavior Analysis 6th Edition"
-    },
-    {
-     "kind": "extra_tag",
-     "course": "ED X365.5B",
+     "kind": "sibling_stream",
+     "course": "ED X310A.5",
      "token": "BCBA#main",
      "stream": "Applied Behavior Analysis 6th Edition"
     },
     {
      "kind": "sibling_stream",
-     "course": "ED X310A.5",
+     "course": "ED X365.5B",
      "token": "BCBA#main",
      "stream": "Applied Behavior Analysis 6th Edition"
     }
@@ -420,7 +420,7 @@
          "units": 1,
          "destiny_section_id": "44278500",
          "crm_id": "5049549000084889018",
-         "last_sync": "2026-11-09T09:46:10-08:00"
+         "last_sync": "2026-11-09T18:03:11-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -507,7 +507,7 @@
          "units": 1,
          "destiny_section_id": "44164216",
          "crm_id": "5049549000081513007",
-         "last_sync": "2026-11-09T10:02:57-08:00"
+         "last_sync": "2026-11-09T18:03:23-08:00"
         },
         {
          "code": "022",
@@ -525,7 +525,7 @@
          "units": 1,
          "destiny_section_id": "44164336",
          "crm_id": "5049549000081570007",
-         "last_sync": "2026-11-09T10:03:00-08:00"
+         "last_sync": "2026-11-09T18:03:24-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -603,77 +603,6 @@
      },
      "manual": false,
      "tag_issue": null
-    },
-    {
-     "code": "ED X312.1.5",
-     "title": "ED X312.1.5 - Cognitive Development in Autism & Other Severe Disabilities",
-     "crm_name": "Cognitive Development in Autism & Other Severe Disabilities",
-     "units": 5,
-     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32356936",
-     "destiny_course_id": "32356936",
-     "crm_id": "5049549000066796236",
-     "tokens": [
-      "QBA#main",
-      "BCBA#sub",
-      "BCBA#main"
-     ],
-     "terms": {
-      "Fall": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Fall 2026"
-      },
-      "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Winter 2027"
-      },
-      "Spring": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
-       "hidden_sections": 0,
-       "term": "Spring 2027"
-      },
-      "Summer": {
-       "state": "open",
-       "label": "Online (self-paced)",
-       "modalities": [
-        "Online (self-paced)"
-       ],
-       "sections": [
-        {
-         "code": "016",
-         "modality": "Online (self-paced)",
-         "instruction_method": "Online Asynchronous",
-         "state": "open",
-         "start": "2027-06-23",
-         "end": "2027-09-10",
-         "enroll_start": null,
-         "enroll_end": "2027-06-30T23:59:00-07:00",
-         "capacity": 50,
-         "enrolled": 0,
-         "crm_availability": "Available",
-         "seats_left": 50,
-         "units": 5,
-         "destiny_section_id": "44164105",
-         "crm_id": "5049549000081555006",
-         "last_sync": "2026-11-09T16:02:50-08:00"
-        }
-       ],
-       "hidden_sections": 0,
-       "term": "Summer 2027"
-      }
-     },
-     "manual": false,
-     "tag_issue": "missing_tag"
     },
     {
      "code": "ED X365.5",
@@ -782,6 +711,93 @@
      "tag_issue": null
     },
     {
+     "code": "ED X365.5B",
+     "title": "ED X365.5B Behavior Assessment & Intervention for Children & Adolescents Part II",
+     "crm_name": "Behavior Assessment and Intervention Part II",
+     "units": 5,
+     "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=43652324",
+     "destiny_course_id": "43652324",
+     "crm_id": "5049549000075390009",
+     "tokens": [
+      "BCBA#main"
+     ],
+     "terms": {
+      "Fall": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Fall 2026"
+      },
+      "Winter": {
+       "state": "open",
+       "label": "Online (self-paced)",
+       "modalities": [
+        "Online (self-paced)"
+       ],
+       "sections": [
+        {
+         "code": "002",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T23:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 3,
+         "crm_availability": "Available",
+         "seats_left": 37,
+         "units": 5,
+         "destiny_section_id": "43653512",
+         "crm_id": "5049549000075472009",
+         "last_sync": "2026-11-09T18:02:55-08:00"
+        },
+        {
+         "code": "001",
+         "modality": "Online (self-paced)",
+         "instruction_method": "Online Asynchronous",
+         "state": "open",
+         "start": "2027-01-06",
+         "end": "2027-03-12",
+         "enroll_start": null,
+         "enroll_end": "2027-01-13T23:59:00-08:00",
+         "capacity": 40,
+         "enrolled": 35,
+         "crm_availability": "Available",
+         "seats_left": 5,
+         "units": 5,
+         "destiny_section_id": "43653299",
+         "crm_id": "5049549000075478013",
+         "last_sync": "2026-11-09T17:53:35-08:00"
+        }
+       ],
+       "hidden_sections": 0,
+       "term": "Winter 2027"
+      },
+      "Spring": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Spring 2027"
+      },
+      "Summer": {
+       "state": "not_scheduled",
+       "label": "N/A",
+       "modalities": [],
+       "sections": [],
+       "hidden_sections": 0,
+       "term": "Summer 2027"
+      }
+     },
+     "manual": false,
+     "tag_issue": null
+    },
+    {
      "code": "ED X391.5",
      "title": "ED X391.5 - Professional Issues in Developmental Disabilities",
      "crm_name": "Professional Issues in Developmental Disabilities",
@@ -853,7 +869,7 @@
          "units": 5,
          "destiny_section_id": "42714854",
          "crm_id": "5049549000066777240",
-         "last_sync": "2026-11-09T10:02:45-08:00"
+         "last_sync": "2026-11-09T18:03:16-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -899,7 +915,7 @@
     {
      "kind": "no_stream",
      "tagged": "ED X312.1.5, XLRN 809A, XLRN 809B",
-     "streams": "Applied Behavior Analysis 6th Edition [ED X301D.5, ED X309A.5, ED X309B.5, ED X309D.5, ED X312.1.5, ED X365.5, ED X391.5]; Required (choose 1) [ED X309C.5, ED X310A.5]"
+     "streams": "Applied Behavior Analysis 6th Edition [ED X301D.5, ED X309A.5, ED X309B.5, ED X309D.5, ED X365.5, ED X391.5]; Required (choose 1) [ED X309C.5, ED X310A.5]; Required (choose 1) [ED X312.1.5, ED X365.5B]"
     }
    ],
    "courses": [
@@ -913,8 +929,7 @@
      "crm_id": "5049549000066796236",
      "tokens": [
       "QBA#main",
-      "BCBA#sub",
-      "BCBA#main"
+      "BCBA#sub"
      ],
      "terms": {
       "Fall": {
@@ -1010,7 +1025,7 @@
          "units": 0,
          "destiny_section_id": "42715249",
          "crm_id": "5049549000057329097",
-         "last_sync": "2026-11-09T08:03:54-08:00"
+         "last_sync": "2026-11-09T18:03:04-08:00"
         }
        ],
        "hidden_sections": 0,

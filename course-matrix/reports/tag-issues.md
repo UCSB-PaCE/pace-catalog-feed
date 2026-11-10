@@ -2,7 +2,7 @@
 
 CRM streams are the source of truth for block membership. A block's courses come from the matched stream; the tags (Drupal `field_program` / sheet `Program`) are checked against it.
 
-Total issues: 56
+Total issues: 55
 
 ## Business Leadership  <https://professional.ucsb.edu/certificate-business-leadership>
 
@@ -58,11 +58,11 @@ Certificate: CE0030 Strategic Investments
 
 Certificate: CE0029 Applied Behavior Analysis
 
-- [Required Courses] MISSING TAG: ED X312.1.5 is in stream "Applied Behavior Analysis 6th Edition" but not tagged `BCBA#main` (added to the block)
-- [Required Courses] EXTRA TAG: ED X365.5B is tagged `BCBA#main` but not in stream "Applied Behavior Analysis 6th Edition" (removed from the block)
 - [Required Courses] SIBLING STREAM: ED X310A.5 is tagged `BCBA#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
-- [Optional] NO MATCHING STREAM for this block (tagged: ED X312.1.5, XLRN 809A, XLRN 809B); streams: Applied Behavior Analysis 6th Edition [ED X301D.5, ED X309A.5, ED X309B.5, ED X309D.5, ED X312.1.5, ED X365.5, ED X391.5]; Required (choose 1) [ED X309C.5, ED X310A.5]
+- [Required Courses] SIBLING STREAM: ED X365.5B is tagged `BCBA#main` and is in another stream of the same certificate that has no block of its own (kept on the block; not a tag issue)
+- [Optional] NO MATCHING STREAM for this block (tagged: ED X312.1.5, XLRN 809A, XLRN 809B); streams: Applied Behavior Analysis 6th Edition [ED X301D.5, ED X309A.5, ED X309B.5, ED X309D.5, ED X365.5, ED X391.5]; Required (choose 1) [ED X309C.5, ED X310A.5]; Required (choose 1) [ED X312.1.5, ED X365.5B]
 - [page] STREAM WITHOUT A BLOCK: "Required (choose 1)" (ED X309C.5, ED X310A.5)
+- [page] STREAM WITHOUT A BLOCK: "Required (choose 1)" (ED X312.1.5, ED X365.5B)
 
 ## Board Certified assistant Behavior Analyst - BCaBA  <https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst>
 

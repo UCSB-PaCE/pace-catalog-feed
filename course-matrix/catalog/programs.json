@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:17:18+00:00",
+ "generated_at": "2026-11-10T02:17:18+00:00",
  "programs": [
   {
    "code": "CE0079",
@@ -593,7 +593,6 @@
       "ED X309A.5",
       "ED X309B.5",
       "ED X309D.5",
-      "ED X312.1.5",
       "ED X365.5",
       "ED X391.5"
      ]
@@ -606,6 +605,16 @@
      "courses": [
       "ED X309C.5",
       "ED X310A.5"
+     ]
+    },
+    {
+     "name": "Required (choose 1)",
+     "required": 1,
+     "elective": true,
+     "ip_stream": false,
+     "courses": [
+      "ED X312.1.5",
+      "ED X365.5B"
      ]
     }
    ]

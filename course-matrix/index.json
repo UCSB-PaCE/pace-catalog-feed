@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:17:18+00:00",
+ "generated_at": "2026-11-10T02:17:18+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -74,7 +74,7 @@
    "blocks": 2,
    "courses": 11,
    "certificate": "CE0029",
-   "tag_issues": 4
+   "tag_issues": 3
   },
   {
    "page": "certificate-board-certified-assistant-behavior-analyst",
