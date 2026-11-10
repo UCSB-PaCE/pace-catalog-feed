@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:17:18+00:00",
+ "generated_at": "2026-11-10T01:17:18+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1073,7 +1073,7 @@
    "units": 5,
    "destiny_section_id": "43566990",
    "crm_id": "5049549000073522023",
-   "last_sync": "2026-11-09T11:03:19-08:00",
+   "last_sync": "2026-11-09T16:42:37-08:00",
    "course_number": "ED X309A.5",
    "term": "Winter 2027",
    "course_destiny_id": "32267252"
@@ -1241,7 +1241,7 @@
    "units": 4,
    "destiny_section_id": "43566587",
    "crm_id": "5049549000073575017",
-   "last_sync": "2026-11-09T14:03:30-08:00",
+   "last_sync": "2026-11-09T16:42:22-08:00",
    "course_number": "ED X370.3",
    "term": "Winter 2027",
    "course_destiny_id": "26120019"
@@ -1346,7 +1346,7 @@
    "units": 4,
    "destiny_section_id": "43566253",
    "crm_id": "5049549000073637013",
-   "last_sync": "2026-11-09T10:03:10-08:00",
+   "last_sync": "2026-11-09T16:42:20-08:00",
    "course_number": "ED X370.15",
    "term": "Winter 2027",
    "course_destiny_id": "28876718"
@@ -1571,13 +1571,13 @@
    "enroll_start": null,
    "enroll_end": "2027-04-07T23:59:00-07:00",
    "capacity": 40,
-   "enrolled": 4,
+   "enrolled": 5,
    "crm_availability": "Available",
-   "seats_left": 36,
+   "seats_left": 35,
    "units": 5,
    "destiny_section_id": "43579121",
    "crm_id": "5049549000073873018",
-   "last_sync": "2026-11-09T12:03:02-08:00",
+   "last_sync": "2026-11-09T17:17:01-08:00",
    "course_number": "ED X310A.5",
    "term": "Spring 2027",
    "course_destiny_id": "42197013"
@@ -1766,7 +1766,7 @@
    "units": 4,
    "destiny_section_id": "43566361",
    "crm_id": "5049549000074170007",
-   "last_sync": "2026-11-09T16:03:24-08:00",
+   "last_sync": "2026-11-09T16:42:25-08:00",
    "course_number": "ED X370.21",
    "term": "Winter 2027",
    "course_destiny_id": "32098816"
@@ -8927,7 +8927,7 @@
    "units": 4,
    "destiny_section_id": "44605723",
    "crm_id": "5049549000093191042",
-   "last_sync": "2026-11-09T10:03:26-08:00",
+   "last_sync": "2026-11-09T16:42:08-08:00",
    "course_number": "MATH XSB4A",
    "term": "Fall 2026",
    "course_destiny_id": "25997050"
