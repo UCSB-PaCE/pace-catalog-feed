@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-11-10T22:17:19+00:00",
+ "generated_at": "2026-11-10T23:17:21+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -765,13 +765,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 36,
+         "enrolled": 35,
          "crm_availability": "Available",
-         "seats_left": 4,
+         "seats_left": 5,
          "units": 5,
          "destiny_section_id": "43653299",
          "crm_id": "5049549000075478013",
-         "last_sync": "2026-11-10T10:24:56-08:00"
+         "last_sync": "2026-11-10T15:10:09-08:00"
         }
        ],
        "hidden_sections": 0,
