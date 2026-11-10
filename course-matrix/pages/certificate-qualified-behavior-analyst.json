@@ -2,7 +2,7 @@
  "page": "certificate-qualified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-qualified-behavior-analyst",
  "page_title": "Qualified Behavior Analyst - QBA",
- "generated_at": "2026-11-10T20:17:19+00:00",
+ "generated_at": "2026-11-10T21:17:19+00:00",
  "certificate": null,
  "issues": [],
  "window": {
@@ -193,13 +193,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 12,
+         "enrolled": 13,
          "crm_availability": "Available",
-         "seats_left": 38,
+         "seats_left": 37,
          "units": 5,
          "destiny_section_id": "43567252",
          "crm_id": "5049549000073581012",
-         "last_sync": "2026-11-10T12:11:12-08:00"
+         "last_sync": "2026-11-10T12:21:28-08:00"
         }
        ],
        "hidden_sections": 0,

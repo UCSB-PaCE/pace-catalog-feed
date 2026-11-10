@@ -2,7 +2,7 @@
  "page": "certificate-child-life",
  "page_url": "https://professional.ucsb.edu/certificate-child-life",
  "page_title": "Child Life",
- "generated_at": "2026-11-10T20:17:19+00:00",
+ "generated_at": "2026-11-10T21:17:19+00:00",
  "certificate": {
   "code": "CE0006",
   "name": "Child Life",
@@ -290,13 +290,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 50,
-         "enrolled": 10,
+         "enrolled": 9,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 41,
          "units": 4,
          "destiny_section_id": "43579797",
          "crm_id": "5049549000073828007",
-         "last_sync": "2026-11-10T06:04:27-08:00"
+         "last_sync": "2026-11-10T12:51:23-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -418,7 +418,7 @@
          "units": 4,
          "destiny_section_id": "42716512",
          "crm_id": "5049549000066766035",
-         "last_sync": "2026-11-10T04:04:01-08:00"
+         "last_sync": "2026-11-10T12:56:33-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -765,13 +765,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 46,
+         "enrolled": 45,
          "crm_availability": "Available",
-         "seats_left": 4,
+         "seats_left": 5,
          "units": 4,
          "destiny_section_id": "43565815",
          "crm_id": "5049549000073516015",
-         "last_sync": "2026-11-10T12:02:38-08:00"
+         "last_sync": "2026-11-10T12:52:21-08:00"
         },
         {
          "code": "105",
@@ -939,13 +939,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 50,
-         "enrolled": 17,
+         "enrolled": 16,
          "crm_availability": "Available",
-         "seats_left": 33,
+         "seats_left": 34,
          "units": 4,
          "destiny_section_id": "43566361",
          "crm_id": "5049549000074170007",
-         "last_sync": "2026-11-10T12:03:02-08:00"
+         "last_sync": "2026-11-10T12:51:41-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1095,13 +1095,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 28,
+         "enrolled": 27,
          "crm_availability": "Available",
-         "seats_left": 12,
+         "seats_left": 13,
          "units": 4,
          "destiny_section_id": "43566467",
          "crm_id": "5049549000074179007",
-         "last_sync": "2026-11-10T10:50:27-08:00"
+         "last_sync": "2026-11-10T12:52:00-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -1286,13 +1286,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-07T23:59:00-07:00",
          "capacity": 25,
-         "enrolled": 9,
+         "enrolled": 8,
          "crm_availability": "Available",
-         "seats_left": 16,
+         "seats_left": 17,
          "units": 4,
          "destiny_section_id": "43580132",
          "crm_id": "5049549000073870019",
-         "last_sync": "2026-11-10T06:04:42-08:00"
+         "last_sync": "2026-11-10T12:53:03-08:00"
         },
         {
          "code": "061",
