@@ -2,11 +2,11 @@
  "page": "certificate-paralegal-studies",
  "page_url": "https://professional.ucsb.edu/certificate-paralegal-studies",
  "page_title": "Paralegal Studies",
- "generated_at": "2026-11-11T07:17:22+00:00",
+ "generated_at": "2026-11-11T08:17:21+00:00",
  "certificate": {
   "code": "LA00",
   "name": "Paralegal Studies",
-  "synced": "2026-11-09T12:02:38-08:00",
+  "synced": "2026-11-11T00:03:11-08:00",
   "all": [
    "LA00"
   ]
@@ -772,7 +772,7 @@
          "units": 1,
          "destiny_section_id": "44324178",
          "crm_id": "5049549000085997001",
-         "last_sync": "2026-11-10T14:03:07-08:00"
+         "last_sync": "2026-11-11T00:03:16-08:00"
         }
        ],
        "hidden_sections": 0,
