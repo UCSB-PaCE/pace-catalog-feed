@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T21:17:18+00:00",
+ "generated_at": "2026-11-12T23:17:23+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -711,6 +711,15 @@
    "min_units": 3,
    "max_units": 3,
    "on_site": true
+  },
+  {
+   "code": "CMPSC X425.2WD",
+   "name": "Introduction to Javascript",
+   "destiny_course_id": "41362949",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41362949",
+   "min_units": null,
+   "max_units": null,
+   "on_site": false
   },
   {
    "code": "CMPSC X425.6WD",
