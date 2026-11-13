@@ -2,11 +2,11 @@
  "page": "certificate-human-resource-management",
  "page_url": "https://professional.ucsb.edu/certificate-human-resource-management",
  "page_title": "Human Resource Management",
- "generated_at": "2026-11-13T07:17:15+00:00",
+ "generated_at": "2026-11-13T08:17:20+00:00",
  "certificate": {
   "code": "CE0036",
   "name": "Human Resource Management Essentials",
-  "synced": "2026-11-11T06:03:07-08:00",
+  "synced": "2026-11-13T00:03:12-08:00",
   "all": [
    "CE0036"
   ]
@@ -379,7 +379,7 @@
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-11-12T14:03:19-08:00"
+         "last_sync": "2026-11-13T00:03:33-08:00"
         }
        ],
        "hidden_sections": 0,
