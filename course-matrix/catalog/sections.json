@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:17:23+00:00",
+ "generated_at": "2026-11-13T19:17:22+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1052,7 +1052,7 @@
    "units": 4,
    "destiny_section_id": "43565815",
    "crm_id": "5049549000073516015",
-   "last_sync": "2026-11-13T06:04:04-08:00",
+   "last_sync": "2026-11-13T10:58:03-08:00",
    "course_number": "ED X370.2",
    "term": "Winter 2027",
    "course_destiny_id": "24996820"
@@ -1367,7 +1367,7 @@
    "units": 4,
    "destiny_section_id": "43579797",
    "crm_id": "5049549000073828007",
-   "last_sync": "2026-11-13T06:05:00-08:00",
+   "last_sync": "2026-11-13T10:57:38-08:00",
    "course_number": "ED X370.12",
    "term": "Spring 2027",
    "course_destiny_id": "28010698"
@@ -1535,7 +1535,7 @@
    "units": 4,
    "destiny_section_id": "43580132",
    "crm_id": "5049549000073870019",
-   "last_sync": "2026-11-13T08:03:05-08:00",
+   "last_sync": "2026-11-13T10:58:12-08:00",
    "course_number": "ED X370.4",
    "term": "Spring 2027",
    "course_destiny_id": "26120331"
@@ -1766,7 +1766,7 @@
    "units": 4,
    "destiny_section_id": "43566361",
    "crm_id": "5049549000074170007",
-   "last_sync": "2026-11-13T06:05:02-08:00",
+   "last_sync": "2026-11-13T10:57:46-08:00",
    "course_number": "ED X370.21",
    "term": "Winter 2027",
    "course_destiny_id": "32098816"
@@ -1787,7 +1787,7 @@
    "units": 4,
    "destiny_section_id": "43566467",
    "crm_id": "5049549000074179007",
-   "last_sync": "2026-11-13T10:03:01-08:00",
+   "last_sync": "2026-11-13T10:57:54-08:00",
    "course_number": "ED X370.3",
    "term": "Winter 2027",
    "course_destiny_id": "26120019"
@@ -1892,7 +1892,7 @@
    "units": 5,
    "destiny_section_id": "43653299",
    "crm_id": "5049549000075478013",
-   "last_sync": "2026-11-13T08:04:20-08:00",
+   "last_sync": "2026-11-13T10:58:28-08:00",
    "course_number": "ED X365.5B",
    "term": "Winter 2027",
    "course_destiny_id": "43652324"
@@ -2690,7 +2690,7 @@
    "units": 5,
    "destiny_section_id": "44164675",
    "crm_id": "5049549000081581004",
-   "last_sync": "2026-11-13T04:03:54-08:00",
+   "last_sync": "2026-11-13T10:58:51-08:00",
    "course_number": "ED X315",
    "term": "Summer 2027",
    "course_destiny_id": "33441837"
@@ -2984,7 +2984,7 @@
    "units": null,
    "destiny_section_id": "44178719",
    "crm_id": "5049549000082218004",
-   "last_sync": "2026-11-13T09:56:32-08:00",
+   "last_sync": "2026-11-13T10:58:19-08:00",
    "course_number": "XLRN 821.EMT",
    "term": "Winter 2027",
    "course_destiny_id": "40479255"
@@ -4895,7 +4895,7 @@
    "units": 5,
    "destiny_section_id": "44722367",
    "crm_id": "5049549000090709177",
-   "last_sync": "2026-11-13T04:03:53-08:00",
+   "last_sync": "2026-11-13T10:58:49-08:00",
    "course_number": "ED X320OBM",
    "term": "Winter 2027",
    "course_destiny_id": "44708617"
