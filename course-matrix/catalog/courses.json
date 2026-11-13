@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:17:20+00:00",
+ "generated_at": "2026-11-13T02:17:22+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -864,6 +864,15 @@
    "min_units": 3,
    "max_units": 4,
    "on_site": true
+  },
+  {
+   "code": "LING X464.2B",
+   "name": "Pronunciation for Clear Speaking II",
+   "destiny_course_id": "41510201",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=41510201",
+   "min_units": 4,
+   "max_units": 4,
+   "on_site": false
   },
   {
    "code": "MGMNT X499",
