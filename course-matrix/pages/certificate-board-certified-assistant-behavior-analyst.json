@@ -2,11 +2,11 @@
  "page": "certificate-board-certified-assistant-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-assistant-behavior-analyst",
  "page_title": "Board Certified assistant Behavior Analyst - BCaBA",
- "generated_at": "2026-11-14T19:17:35+00:00",
+ "generated_at": "2026-11-14T20:17:34+00:00",
  "certificate": {
   "code": "CE0037",
   "name": "Assistant Behavior Analyst",
-  "synced": "2026-11-13T00:03:37-08:00",
+  "synced": "2026-11-14T12:02:42-08:00",
   "all": [
    "CE0037"
   ]
@@ -258,7 +258,7 @@
          "units": 5,
          "destiny_section_id": "43579505",
          "crm_id": "5049549000073830013",
-         "last_sync": "2026-11-14T02:03:45-08:00"
+         "last_sync": "2026-11-14T12:03:05-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -313,7 +313,7 @@
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-11-14T02:03:13-08:00"
+         "last_sync": "2026-11-14T12:02:39-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -398,7 +398,7 @@
          "units": 5,
          "destiny_section_id": "43579625",
          "crm_id": "5049549000073932016",
-         "last_sync": "2026-11-14T04:03:22-08:00"
+         "last_sync": "2026-11-14T12:03:13-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -539,7 +539,7 @@
          "units": 5,
          "destiny_section_id": "44000031",
          "crm_id": "5049549000079374005",
-         "last_sync": "2026-11-14T02:03:13-08:00"
+         "last_sync": "2026-11-14T12:02:39-08:00"
         }
        ],
        "hidden_sections": 0,
