@@ -2,7 +2,7 @@
  "page": "certificate-board-certified-behavior-analyst",
  "page_url": "https://professional.ucsb.edu/certificate-board-certified-behavior-analyst",
  "page_title": "Board Certified Behavior Analyst - BCBA",
- "generated_at": "2026-11-15T09:17:31+00:00",
+ "generated_at": "2026-11-15T10:17:33+00:00",
  "certificate": {
   "code": "CE0029",
   "name": "Applied Behavior Analysis",
@@ -144,7 +144,7 @@
          "units": 5,
          "destiny_section_id": "44163745",
          "crm_id": "5049549000081567006",
-         "last_sync": "2026-11-14T16:03:31-08:00"
+         "last_sync": "2026-11-15T02:03:42-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -198,7 +198,7 @@
          "units": 5,
          "destiny_section_id": "43566990",
          "crm_id": "5049549000073522023",
-         "last_sync": "2026-11-14T16:03:25-08:00"
+         "last_sync": "2026-11-15T02:03:35-08:00"
         },
         {
          "code": "017",
@@ -330,7 +330,7 @@
          "units": 5,
          "destiny_section_id": "43576599",
          "crm_id": "5049549000073839008",
-         "last_sync": "2026-11-14T16:03:26-08:00"
+         "last_sync": "2026-11-15T02:03:36-08:00"
         },
         {
          "code": "017",
@@ -640,7 +640,7 @@
          "units": 5,
          "destiny_section_id": "41892916",
          "crm_id": "5049549000066766274",
-         "last_sync": "2026-11-14T16:03:21-08:00"
+         "last_sync": "2026-11-15T02:03:30-08:00"
         },
         {
          "code": "014",
@@ -753,7 +753,7 @@
          "units": 5,
          "destiny_section_id": "43653512",
          "crm_id": "5049549000075472009",
-         "last_sync": "2026-11-14T16:03:25-08:00"
+         "last_sync": "2026-11-15T02:03:35-08:00"
         },
         {
          "code": "001",
@@ -851,7 +851,7 @@
          "units": 5,
          "destiny_section_id": "41893112",
          "crm_id": "5049549000066770277",
-         "last_sync": "2026-11-14T16:03:22-08:00"
+         "last_sync": "2026-11-15T02:03:31-08:00"
         },
         {
          "code": "013",
