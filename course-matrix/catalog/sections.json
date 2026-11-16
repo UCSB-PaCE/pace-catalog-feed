@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:17:21+00:00",
+ "generated_at": "2026-11-16T19:17:21+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1199,7 +1199,7 @@
    "units": 1,
    "destiny_section_id": "43567361",
    "crm_id": "5049549000073569029",
-   "last_sync": "2026-11-16T04:04:48-08:00",
+   "last_sync": "2026-11-16T10:20:44-08:00",
    "course_number": "ED X309D.5",
    "term": "Winter 2027",
    "course_destiny_id": "35871937"
@@ -2600,13 +2600,13 @@
    "enroll_start": null,
    "enroll_end": "2027-06-30T23:59:00-07:00",
    "capacity": 50,
-   "enrolled": 2,
+   "enrolled": 3,
    "crm_availability": "Available",
-   "seats_left": 48,
+   "seats_left": 47,
    "units": 5,
    "destiny_section_id": "44163745",
    "crm_id": "5049549000081567006",
-   "last_sync": "2026-11-16T08:03:08-08:00",
+   "last_sync": "2026-11-16T10:17:39-08:00",
    "course_number": "ED X301D.5",
    "term": "Summer 2027",
    "course_destiny_id": "32267092"
@@ -9519,6 +9519,27 @@
    "course_number": "CMPSC X425.6WD",
    "term": "Winter 2027",
    "course_destiny_id": "41363032"
+  },
+  {
+   "code": "026",
+   "modality": "Online (live)",
+   "instruction_method": "Online Live",
+   "state": "open",
+   "start": "2027-01-06",
+   "end": "2027-03-12",
+   "enroll_start": null,
+   "enroll_end": "2027-01-13T23:59:00-08:00",
+   "capacity": 40,
+   "enrolled": 0,
+   "crm_availability": "Available",
+   "seats_left": 40,
+   "units": 1,
+   "destiny_section_id": "45030175",
+   "crm_id": "5049549000098636022",
+   "last_sync": "2026-11-16T10:33:16-08:00",
+   "course_number": "ED X309D.5",
+   "term": "Winter 2027",
+   "course_destiny_id": "35871937"
   }
  ]
 }
