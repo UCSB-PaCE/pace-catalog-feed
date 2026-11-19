@@ -2,7 +2,7 @@
  "page": "leadership",
  "page_url": "https://professional.ucsb.edu/leadership",
  "page_title": "Leadership",
- "generated_at": "2026-11-19T17:17:21+00:00",
+ "generated_at": "2026-11-19T18:17:16+00:00",
  "certificate": {
   "code": "CE0073",
   "name": "Leadership",
@@ -107,13 +107,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
-         "enrolled": 4,
+         "enrolled": 5,
          "crm_availability": "Available",
-         "seats_left": 24,
+         "seats_left": 23,
          "units": 4,
          "destiny_section_id": "44150178",
          "crm_id": "5049549000081117007",
-         "last_sync": "2026-11-19T02:03:41-08:00"
+         "last_sync": "2026-11-19T09:54:45-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -142,7 +142,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-11-19T00:03:34-08:00"
+         "last_sync": "2026-11-19T10:02:51-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -378,13 +378,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 28,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 27,
+         "seats_left": 26,
          "units": 4,
          "destiny_section_id": "44150014",
          "crm_id": "5049549000081198003",
-         "last_sync": "2026-11-19T02:03:45-08:00"
+         "last_sync": "2026-11-19T09:54:49-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -496,7 +496,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-11-19T00:03:53-08:00"
+         "last_sync": "2026-11-19T10:03:16-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -525,7 +525,7 @@
          "units": 4,
          "destiny_section_id": "44150598",
          "crm_id": "5049549000081186005",
-         "last_sync": "2026-11-19T02:03:11-08:00"
+         "last_sync": "2026-11-19T10:03:37-08:00"
         }
        ],
        "hidden_sections": 0,
