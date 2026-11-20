@@ -2,7 +2,7 @@
  "page": "certificate-business-leadership",
  "page_url": "https://professional.ucsb.edu/certificate-business-leadership",
  "page_title": "Business Leadership",
- "generated_at": "2026-11-20T21:17:20+00:00",
+ "generated_at": "2026-11-20T22:17:16+00:00",
  "certificate": {
   "code": "CE0007",
   "name": "Business Leadership",
@@ -142,7 +142,7 @@
          "units": 4,
          "destiny_section_id": "44227133",
          "crm_id": "5049549000083687010",
-         "last_sync": "2026-11-20T04:04:33-08:00"
+         "last_sync": "2026-11-20T14:03:11-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -225,7 +225,7 @@
          "units": 4,
          "destiny_section_id": "43448220",
          "crm_id": "5049549000071010208",
-         "last_sync": "2026-11-20T04:04:54-08:00"
+         "last_sync": "2026-11-20T14:03:37-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -802,13 +802,13 @@
          "enroll_start": null,
          "enroll_end": "2027-04-04T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 2,
+         "enrolled": 3,
          "crm_availability": "Available",
-         "seats_left": 38,
+         "seats_left": 37,
          "units": 4,
          "destiny_section_id": "44270134",
          "crm_id": "5049549000084963006",
-         "last_sync": "2026-11-20T12:03:22-08:00"
+         "last_sync": "2026-11-20T13:39:52-08:00"
         }
        ],
        "hidden_sections": 0,
