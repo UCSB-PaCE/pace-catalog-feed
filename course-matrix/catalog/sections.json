@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:17:19+00:00",
+ "generated_at": "2026-11-20T05:17:18+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1865,13 +1865,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-13T23:59:00-08:00",
    "capacity": 40,
-   "enrolled": 8,
+   "enrolled": 10,
    "crm_availability": "Available",
-   "seats_left": 32,
+   "seats_left": 30,
    "units": 5,
    "destiny_section_id": "43653512",
    "crm_id": "5049549000075472009",
-   "last_sync": "2026-11-19T19:25:23-08:00",
+   "last_sync": "2026-11-19T20:36:18-08:00",
    "course_number": "ED X365.5B",
    "term": "Winter 2027",
    "course_destiny_id": "43652324"
