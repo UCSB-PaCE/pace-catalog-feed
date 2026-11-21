@@ -2,11 +2,11 @@
  "page": "strategy-decision-making",
  "page_url": "https://professional.ucsb.edu/strategy-decision-making",
  "page_title": "Strategy and Decision Making",
- "generated_at": "2026-11-21T01:17:20+00:00",
+ "generated_at": "2026-11-21T02:17:20+00:00",
  "certificate": {
   "code": "CE0074",
   "name": "Strategy and Decision Making",
-  "synced": "2026-11-19T06:03:28-08:00",
+  "synced": "2026-11-20T18:02:55-08:00",
   "all": [
    "CE0074"
   ]
@@ -141,7 +141,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-11-20T10:03:01-08:00"
+         "last_sync": "2026-11-20T18:03:27-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -310,7 +310,7 @@
          "units": 4,
          "destiny_section_id": "44897336",
          "crm_id": "5049549000094666013",
-         "last_sync": "2026-11-20T08:04:07-08:00"
+         "last_sync": "2026-11-20T18:03:17-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -566,7 +566,7 @@
          "units": 4,
          "destiny_section_id": "44896428",
          "crm_id": "5049549000094667007",
-         "last_sync": "2026-11-20T08:04:07-08:00"
+         "last_sync": "2026-11-20T18:03:18-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -850,7 +850,7 @@
          "units": 4,
          "destiny_section_id": "44896958",
          "crm_id": "5049549000094760005",
-         "last_sync": "2026-11-20T10:02:49-08:00"
+         "last_sync": "2026-11-20T18:03:20-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -939,7 +939,7 @@
          "units": 4,
          "destiny_section_id": "44269318",
          "crm_id": "5049549000084874005",
-         "last_sync": "2026-11-20T10:03:02-08:00"
+         "last_sync": "2026-11-20T18:03:27-08:00"
         }
        ],
        "hidden_sections": 0,
