@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:17:39+00:00",
+ "generated_at": "2026-11-21T21:17:30+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -6317,13 +6317,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-25T23:59:00-08:00",
    "capacity": 16,
-   "enrolled": 9,
+   "enrolled": 10,
    "crm_availability": "Available",
-   "seats_left": 7,
+   "seats_left": 6,
    "units": 0,
    "destiny_section_id": "44783346",
    "crm_id": "5049549000091788046",
-   "last_sync": "2026-11-21T08:03:37-08:00",
+   "last_sync": "2026-11-21T12:46:59-08:00",
    "course_number": "XLRN 870A",
    "term": "Winter 2027",
    "course_destiny_id": "34924438"
