@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:17:21+00:00",
+ "generated_at": "2026-11-23T20:17:20+00:00",
  "courses": [
   {
    "code": "ECON X422A",
@@ -107,6 +107,15 @@
    "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32464686",
    "min_units": 2,
    "max_units": 2,
+   "on_site": true
+  },
+  {
+   "code": "ECON X499.4",
+   "name": "Portfolio Management",
+   "destiny_course_id": "32501511",
+   "url": "https://enroll.professional.ucsb.edu/search/publicCourseSearchDetails.do?method=load&courseId=32501511",
+   "min_units": null,
+   "max_units": null,
    "on_site": true
   },
   {
