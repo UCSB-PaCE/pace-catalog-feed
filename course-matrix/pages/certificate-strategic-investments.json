@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-11-23T18:17:25+00:00",
+ "generated_at": "2026-11-23T19:17:21+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -123,7 +123,7 @@
          "units": 2,
          "destiny_section_id": "45062480",
          "crm_id": "5049549000100388015",
-         "last_sync": "2026-11-23T10:15:54-08:00"
+         "last_sync": "2026-11-23T10:30:54-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -240,10 +240,31 @@
        "term": "Fall 2026"
       },
       "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "020",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-01-18",
+         "end": "2027-01-22",
+         "enroll_start": null,
+         "enroll_end": "2027-01-20T23:59:00-08:00",
+         "capacity": 70,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 70,
+         "units": 1,
+         "destiny_section_id": "45062781",
+         "crm_id": "5049549000100429019",
+         "last_sync": "2026-11-23T11:10:15-08:00"
+        }
+       ],
        "hidden_sections": 0,
        "term": "Winter 2027"
       },
@@ -477,10 +498,31 @@
        "term": "Fall 2026"
       },
       "Winter": {
-       "state": "not_scheduled",
-       "label": "N/A",
-       "modalities": [],
-       "sections": [],
+       "state": "open",
+       "label": "Hybrid",
+       "modalities": [
+        "Hybrid"
+       ],
+       "sections": [
+        {
+         "code": "020",
+         "modality": "Hybrid",
+         "instruction_method": "Hybrid",
+         "state": "open",
+         "start": "2027-01-18",
+         "end": "2027-01-22",
+         "enroll_start": null,
+         "enroll_end": "2027-01-20T23:59:00-08:00",
+         "capacity": 70,
+         "enrolled": 0,
+         "crm_availability": "Available",
+         "seats_left": 70,
+         "units": 1,
+         "destiny_section_id": "45062781",
+         "crm_id": "5049549000100429019",
+         "last_sync": "2026-11-23T11:10:15-08:00"
+        }
+       ],
        "hidden_sections": 0,
        "term": "Winter 2027"
       },

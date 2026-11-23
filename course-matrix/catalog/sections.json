@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:17:25+00:00",
+ "generated_at": "2026-11-23T19:17:21+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -1094,7 +1094,7 @@
    "units": 5,
    "destiny_section_id": "43567159",
    "crm_id": "5049549000073530017",
-   "last_sync": "2026-11-23T10:04:48-08:00",
+   "last_sync": "2026-11-23T10:17:47-08:00",
    "course_number": "ED X309A.5",
    "term": "Winter 2027",
    "course_destiny_id": "32267252"
@@ -9446,13 +9446,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-13T23:59:00-08:00",
    "capacity": 40,
-   "enrolled": 7,
+   "enrolled": 8,
    "crm_availability": "Available",
-   "seats_left": 33,
+   "seats_left": 32,
    "units": 5,
    "destiny_section_id": "45020813",
    "crm_id": "5049549000098372064",
-   "last_sync": "2026-11-23T06:09:41-08:00",
+   "last_sync": "2026-11-23T10:17:51-08:00",
    "course_number": "ED X365.5B",
    "term": "Winter 2027",
    "course_destiny_id": "43652324"
@@ -9557,10 +9557,31 @@
    "units": 2,
    "destiny_section_id": "45062480",
    "crm_id": "5049549000100388015",
-   "last_sync": "2026-11-23T10:15:54-08:00",
+   "last_sync": "2026-11-23T10:30:54-08:00",
    "course_number": "ECON X499.1",
    "term": "Winter 2027",
    "course_destiny_id": "32464658"
+  },
+  {
+   "code": "020",
+   "modality": "Hybrid",
+   "instruction_method": "Hybrid",
+   "state": "open",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "enroll_start": null,
+   "enroll_end": "2027-01-20T23:59:00-08:00",
+   "capacity": 70,
+   "enrolled": 0,
+   "crm_availability": "Available",
+   "seats_left": 70,
+   "units": 1,
+   "destiny_section_id": "45062781",
+   "crm_id": "5049549000100429019",
+   "last_sync": "2026-11-23T11:10:15-08:00",
+   "course_number": "ECON X499.3",
+   "term": "Winter 2027",
+   "course_destiny_id": "32485927"
   }
  ]
 }
