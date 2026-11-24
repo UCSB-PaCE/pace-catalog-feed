@@ -2,7 +2,7 @@
  "page": "entrepreneurship",
  "page_url": "https://professional.ucsb.edu/entrepreneurship",
  "page_title": "Entrepreneurship",
- "generated_at": "2026-11-24T21:17:18+00:00",
+ "generated_at": "2026-11-24T22:17:20+00:00",
  "certificate": {
   "code": "CE0082",
   "name": "Entrepreneurship",
@@ -106,7 +106,7 @@
          "units": 4,
          "destiny_section_id": "44148791",
          "crm_id": "5049549000081103004",
-         "last_sync": "2026-11-24T06:03:36-08:00"
+         "last_sync": "2026-11-24T14:03:45-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -212,7 +212,7 @@
          "units": 4,
          "destiny_section_id": "43357949",
          "crm_id": "5049549000067807726",
-         "last_sync": "2026-11-24T04:04:22-08:00"
+         "last_sync": "2026-11-24T14:03:33-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -270,7 +270,7 @@
          "units": 4,
          "destiny_section_id": "44226970",
          "crm_id": "5049549000083666005",
-         "last_sync": "2026-11-24T04:04:12-08:00"
+         "last_sync": "2026-11-24T14:03:21-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -299,7 +299,7 @@
          "units": 4,
          "destiny_section_id": "44306432",
          "crm_id": "5049549000085665002",
-         "last_sync": "2026-11-24T04:04:25-08:00"
+         "last_sync": "2026-11-24T14:03:35-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -416,7 +416,7 @@
          "units": 4,
          "destiny_section_id": "44896958",
          "crm_id": "5049549000094760005",
-         "last_sync": "2026-11-24T04:04:07-08:00"
+         "last_sync": "2026-11-24T14:03:17-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -553,7 +553,7 @@
          "units": 4,
          "destiny_section_id": "44328688",
          "crm_id": "5049549000086207005",
-         "last_sync": "2026-11-24T06:03:24-08:00"
+         "last_sync": "2026-11-24T14:03:38-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -710,7 +710,7 @@
          "units": 4,
          "destiny_section_id": "44306644",
          "crm_id": "5049549000085612001",
-         "last_sync": "2026-11-24T04:04:25-08:00"
+         "last_sync": "2026-11-24T14:03:35-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -914,13 +914,13 @@
          "enroll_start": null,
          "enroll_end": "2027-06-27T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 4,
          "destiny_section_id": "44897796",
          "crm_id": "5049549000094697011",
-         "last_sync": "2026-11-24T12:03:34-08:00"
+         "last_sync": "2026-11-24T13:24:49-08:00"
         }
        ],
        "hidden_sections": 0,

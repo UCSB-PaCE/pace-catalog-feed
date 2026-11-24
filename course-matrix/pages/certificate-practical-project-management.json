@@ -2,7 +2,7 @@
  "page": "certificate-practical-project-management",
  "page_url": "https://professional.ucsb.edu/certificate-practical-project-management",
  "page_title": "Project Management",
- "generated_at": "2026-11-24T21:17:18+00:00",
+ "generated_at": "2026-11-24T22:17:20+00:00",
  "certificate": {
   "code": "CE0035",
   "name": "Project Management",
@@ -171,7 +171,7 @@
          "units": 4,
          "destiny_section_id": "44306644",
          "crm_id": "5049549000085612001",
-         "last_sync": "2026-11-24T04:04:25-08:00"
+         "last_sync": "2026-11-24T14:03:35-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -247,13 +247,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-10T23:59:00-08:00",
          "capacity": 40,
-         "enrolled": 15,
+         "enrolled": 16,
          "crm_availability": "Available",
-         "seats_left": 25,
+         "seats_left": 24,
          "units": 4,
          "destiny_section_id": "44169441",
          "crm_id": "5049549000081761006",
-         "last_sync": "2026-11-24T04:04:11-08:00"
+         "last_sync": "2026-11-24T13:24:47-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -629,7 +629,7 @@
          "units": 4,
          "destiny_section_id": "44161890",
          "crm_id": "5049549000081532005",
-         "last_sync": "2026-11-24T04:04:21-08:00"
+         "last_sync": "2026-11-24T14:03:32-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -681,13 +681,13 @@
          "enroll_start": null,
          "enroll_end": "2027-06-27T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 4,
          "destiny_section_id": "44897336",
          "crm_id": "5049549000094666013",
-         "last_sync": "2026-11-24T04:04:03-08:00"
+         "last_sync": "2026-11-24T13:24:45-08:00"
         }
        ],
        "hidden_sections": 0,
@@ -818,13 +818,13 @@
          "enroll_start": null,
          "enroll_end": "2027-06-27T23:59:00-07:00",
          "capacity": 40,
-         "enrolled": 0,
+         "enrolled": 1,
          "crm_availability": "Available",
-         "seats_left": 40,
+         "seats_left": 39,
          "units": 4,
          "destiny_section_id": "44897796",
          "crm_id": "5049549000094697011",
-         "last_sync": "2026-11-24T12:03:34-08:00"
+         "last_sync": "2026-11-24T13:24:49-08:00"
         }
        ],
        "hidden_sections": 0,
