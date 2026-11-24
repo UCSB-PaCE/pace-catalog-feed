@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:17:19+00:00",
+ "generated_at": "2026-11-24T21:17:18+00:00",
  "window": {
   "Fall": "Fall 2026",
   "Winter": "Winter 2027",
@@ -9551,13 +9551,13 @@
    "enroll_start": null,
    "enroll_end": "2027-01-13T23:59:00-08:00",
    "capacity": 70,
-   "enrolled": 0,
+   "enrolled": 1,
    "crm_availability": "Available",
-   "seats_left": 70,
+   "seats_left": 69,
    "units": 2,
    "destiny_section_id": "45062480",
    "crm_id": "5049549000100388015",
-   "last_sync": "2026-11-24T08:03:39-08:00",
+   "last_sync": "2026-11-24T12:31:46-08:00",
    "course_number": "ECON X499.1",
    "term": "Winter 2027",
    "course_destiny_id": "32464658"
