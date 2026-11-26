@@ -2,7 +2,7 @@
  "page": "certificate-strategic-investments",
  "page_url": "https://professional.ucsb.edu/certificate-strategic-investments",
  "page_title": "Strategic Investments",
- "generated_at": "2026-11-26T12:17:22+00:00",
+ "generated_at": "2026-11-26T13:17:17+00:00",
  "certificate": {
   "code": "CE0030",
   "name": "Strategic Investments",
@@ -117,13 +117,13 @@
          "enroll_start": null,
          "enroll_end": "2027-01-13T23:59:00-08:00",
          "capacity": 70,
-         "enrolled": 1,
+         "enrolled": 2,
          "crm_availability": "Available",
-         "seats_left": 69,
+         "seats_left": 68,
          "units": 2,
          "destiny_section_id": "45062480",
          "crm_id": "5049549000100388015",
-         "last_sync": "2026-11-26T04:03:47-08:00"
+         "last_sync": "2026-11-26T04:38:47-08:00"
         }
        ],
        "hidden_sections": 0,
